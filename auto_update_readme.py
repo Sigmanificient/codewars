@@ -42,4 +42,4 @@ with open("readme.md", "w") as f:
                     for ext in challenges[filename]
                 )
 
-                f.write(f'<table><tr><td vlign="center">{filename} - {icons}</td></tr></table>\n')
+                f.write(f"- {filename} | {icons}\n")
