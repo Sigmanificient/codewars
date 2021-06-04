@@ -38,7 +38,7 @@ with open("readme.md", "w") as f:
         for filename in filenames:
             for ext in challenges[filename]:
                 icons = ' '.join(
-                    f'<img style="vertical-align: center;" src="{IMG_BASE_LINK}{ext}.png" height="24px">'
+                    f'<img valign="center" src="{IMG_BASE_LINK}{ext}.png" height="100%">'
                     for ext in challenges[filename]
                 )
 
