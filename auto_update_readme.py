@@ -38,8 +38,8 @@ with open("readme.md", "w") as f:
         for filename in filenames:
             for ext in challenges[filename]:
                 icons = ' '.join(
-                    f'<img valign="center" src="{IMG_BASE_LINK}{ext}.png" height="21px">'
+                    f'<img src="{IMG_BASE_LINK}{ext}.png" height="24px">'
                     for ext in challenges[filename]
                 )
 
-                f.write(f"- {filename} | {icons}\n")
+                f.write(f'<table><tr><td vlign="center">{filename} - {icons}</td></tr></table>\n')
