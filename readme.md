@@ -1,17 +1,9 @@
 # Codewars [![CodeFactor](https://www.codefactor.io/repository/github/sigmanificient/codewars/badge)](https://www.codefactor.io/repository/github/sigmanificient/codewars)
 
-## 1 kyu
+```c
+7kyu : 1
+```
 
-## 2 kyu
+## 7Kyu :
 
-## 3 kyu
-
-## 4 kyu
-
-## 5 kyu
-
-## 6 kyu
-
-## 7 kyu
-
-## 8 kyu
+- disemvowel_trolls | <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="24px">
