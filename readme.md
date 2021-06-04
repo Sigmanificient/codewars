@@ -6,4 +6,4 @@
 
 ## 7Kyu :
 
-- disemvowel_trolls | <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="24px">
+- `disemvowel_trolls` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="24px">
