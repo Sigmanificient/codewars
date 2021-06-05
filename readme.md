@@ -3,6 +3,7 @@
 ```c
 6kyu : 1
 7kyu : 3
+8kyu : 1
 ```
 
 ## 6Kyu :
@@ -13,3 +14,6 @@
 - `Beginner series #3 sum of numbers` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Disemvowel trolls` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Printer errors` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
+## 8Kyu :
+
+- `Remore first and last charater` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
