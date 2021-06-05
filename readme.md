@@ -2,7 +2,7 @@
 
 ```c
 6kyu : 1
-7kyu : 2
+7kyu : 3
 ```
 
 ## 6Kyu :
@@ -12,3 +12,4 @@
 
 - `Beginner series #3 sum of numbers` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Disemvowel trolls` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
+- `Printer errors` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
