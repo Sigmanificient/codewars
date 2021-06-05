@@ -42,4 +42,4 @@ with open("readme.md", "w") as f:
                     for ext in challenges[filename]
                 )
 
-                f.write(f"- `{filename}` | {icons}\n")
+                f.write(f"- `{filename.replace('_', ' ').capitalize()}` | {icons}\n")
