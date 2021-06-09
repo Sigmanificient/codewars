@@ -4,10 +4,8 @@ SHIELD = 'https://img.shields.io'
 REPO_NAME = 'Sigmanificient/codewars'
 
 IMG_BASE_LINK = 'https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/'
-CODE_FACTOR = 'https://www.codefactor.io/repository/github/sigmanificient/codewars'
 
 buttons = '\n'.join((
-    f'[![CodeFactor]({CODE_FACTOR}/badge)]({CODE_FACTOR})',
     f'![GitHub code size in bytes]({SHIELD}/github/languages/code-size/{REPO_NAME})',
     f'![GitHub repo size]({SHIELD}/github/repo-size/{REPO_NAME})',
     f'![Lines of code]({SHIELD}/tokei/lines/github/{REPO_NAME})',
