@@ -8,7 +8,7 @@
 5kyu : 1
 6kyu : 4
 7kyu : 5
-8kyu : 1
+8kyu : 2
 ```
 
 ## 5Kyu :
@@ -29,4 +29,5 @@
 - `Printer errors` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 ## 8Kyu :
 
+- `Greet` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Remore first and last charater` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
