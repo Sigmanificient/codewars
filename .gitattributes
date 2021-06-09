@@ -1,16 +1,1 @@
-*.* text=auto
-
-*.js linguist-detectable=true
-*.js linguist-language=js
-
-*.php linguist-detectable=true
 *.php linguist-language=php
-
-*.py linguist-detectable=true
-*.py linguist-language=py
-
-*.cs linguist-detectable=true
-*.cs linguist-language=cs
-
-*.sql linguist-detectable=true
-*.sql linguist-language=sql
