@@ -8,7 +8,7 @@
 5kyu : 1
 6kyu : 4
 7kyu : 5
-8kyu : 2
+8kyu : 3
 ```
 
 ## 5Kyu :
@@ -31,3 +31,4 @@
 
 - `Greet` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Remore first and last charater` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
+- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
