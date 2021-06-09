@@ -24,11 +24,11 @@ for directory_language in os.listdir('.'):
 
         for file in os.listdir(f'{directory_language}/{kyu}'):
             filename, ext = file.split(".")
-            difficulties[kyu_level].append(filename)
 
             if filename in challenges:
                 challenges[filename].append(ext)
             else:
+                difficulties[kyu_level].append(filename)
                 challenges[filename] = [ext]
 
 stats = '\n'.join(f"{k}kyu : {length}" for k, v in difficulties.items() if (length := len(v)))
@@ -42,11 +42,9 @@ with open("readme.md", "w") as f:
 
         f.write(f"## {difficulty}Kyu :\n\n")
 
-        for filename in filenames:
-            for ext in challenges[filename]:
-                icons = ' '.join(
-                    f'<img src="{IMG_BASE_LINK}{ext}.png" height="20px">'
-                    for ext in challenges[filename]
-                )
+        for filename in sorted(filenames):
+            icons = ' '.join(
+                f'<img src="{IMG_BASE_LINK}{ext}.png" height="20px">'  for ext in challenges[filename]
+            )
 
-                f.write(f"- `{filename.replace('_', ' ').capitalize()}` | {icons}\n")
+            f.write(f"- `{filename.replace('_', ' ').capitalize()}` | {icons}\n")

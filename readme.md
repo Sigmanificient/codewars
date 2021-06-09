@@ -8,7 +8,7 @@
 5kyu : 1
 6kyu : 4
 7kyu : 5
-8kyu : 5
+8kyu : 3
 ```
 
 ## 5Kyu :
@@ -22,21 +22,13 @@
 - `Playing with digits` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 ## 7Kyu :
 
-- `Credit card max` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px">
 - `Beginner series #3 sum of numbers` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
+- `Credit card max` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px">
 - `Disemvowel trolls` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Jaden casing strings` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Printer errors` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 ## 8Kyu :
 
-- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
-- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
-- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
-- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
-- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
-- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Greet` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Remore first and last charater` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
-- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
-- `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
