@@ -1,5 +1,10 @@
-# Codewars [![CodeFactor](https://www.codefactor.io/repository/github/sigmanificient/codewars/badge)](https://www.codefactor.io/repository/github/sigmanificient/codewars)
+# Codewars
 
+[![CodeFactor](https://www.codefactor.io/repository/github/sigmanificient/codewars/badge)](https://www.codefactor.io/repository/github/sigmanificient/codewars)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sigmanificient/codewars)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sigmanificient/codewars)
+![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/codewars)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/codewars)
 ```c
 6kyu : 2
 7kyu : 4

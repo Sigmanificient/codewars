@@ -1,8 +1,18 @@
 import os
 
+SHIELD = 'https://img.shields.io'
+REPO_NAME = 'Sigmanificient/codewars'
+
 IMG_BASE_LINK = 'https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/'
 CODE_FACTOR = 'https://www.codefactor.io/repository/github/sigmanificient/codewars'
-CODE_FACTOR_BTN = f'[![CodeFactor]({CODE_FACTOR}/badge)]({CODE_FACTOR})'
+
+buttons = '\n'.join((
+    f'[![CodeFactor]({CODE_FACTOR}/badge)]({CODE_FACTOR})',
+    f'![GitHub code size in bytes]({SHIELD}/github/languages/code-size/{REPO_NAME})',
+    f'![GitHub repo size]({SHIELD}/github/repo-size/{REPO_NAME})',
+    f'![Lines of code]({SHIELD}/tokei/lines/github/{REPO_NAME})',
+    f'![GitHub last commit]({SHIELD}/github/last-commit/{REPO_NAME})'
+))
 
 challenges: dict[str:list[str]] = {}
 difficulties: dict[str:int] = {i: [] for i in range(1, 9)}
@@ -26,8 +36,7 @@ for directory_language in os.listdir('.'):
 stats = '\n'.join(f"{k}kyu : {length}" for k, v in difficulties.items() if (length := len(v)))
 
 with open("readme.md", "w") as f:
-    f.write(f"# Codewars {CODE_FACTOR_BTN}\n\n")
-    f.write(f"```c\n{stats}\n```\n\n")
+    f.write(f"# Codewars\n\n{buttons}\n```c\n{stats}\n```\n\n")
 
     for difficulty, filenames in sorted(difficulties.items()):
         if not filenames:
