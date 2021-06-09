@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/codewars)
 ```c
 6kyu : 2
-7kyu : 4
+7kyu : 5
 8kyu : 1
 ```
 
@@ -17,6 +17,7 @@
 - `Playing with digits` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 ## 7Kyu :
 
+- `Credit card max` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px">
 - `Beginner series #3 sum of numbers` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Disemvowel trolls` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Jaden casing strings` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
