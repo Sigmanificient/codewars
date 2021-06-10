@@ -3,6 +3,10 @@ import os
 SHIELD = 'https://img.shields.io'
 REPO_NAME = 'Sigmanificient/codewars'
 
+CODACY = "[![Codacy Badge](https://app.codacy.com/project/badge/Grade/569dfe5fc5c84deaba902a4151cab5c5)](" \
+         "https://www.codacy.com/gh/Sigmanificient/codewars/dashboard?utm_source=github.com&amp;utm_medium=referral" \
+         "&amp;utm_content=Sigmanificient/codewars&amp;utm_campaign=Badge_Grade) "
+
 IMG_BASE_LINK = 'https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/'
 
 buttons = '\n'.join((
@@ -34,7 +38,7 @@ for directory_language in os.listdir('.'):
 stats = '\n'.join(f"{k}kyu : {length}" for k, v in difficulties.items() if (length := len(v)))
 
 with open("readme.md", "w") as f:
-    f.write(f"# Codewars\n\n{buttons}\n```c\n{stats}\n```\n\n")
+    f.write(f"# Codewars\n\n{CODACY}\n{buttons}\n```c\n{stats}\n```\n\n")
 
     for difficulty, filenames in sorted(difficulties.items()):
         if not filenames:
