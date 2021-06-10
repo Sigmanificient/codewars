@@ -8,7 +8,7 @@
 5kyu : 2
 6kyu : 5
 7kyu : 6
-8kyu : 10
+8kyu : 11
 ```
 
 ## 5Kyu :
@@ -32,6 +32,7 @@
 - `Sum of the first nth term of series` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 ## 8Kyu :
 
+- `Calculate bmi` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Gravity flip` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Greet` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Multiply` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/sql.png" height="20px">
