@@ -13,84 +13,84 @@
 
 ## 5Kyu
 
--  `Scramble` |
+-  `Scramble` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Whats a perfect power anyway` |
+-  `Whats a perfect power anyway` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
 ## 6Kyu
 
--  `Are they the same` |
+-  `Are they the same` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Find the odd int` |
+-  `Find the odd int` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Iq test` |
+-  `Iq test` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Playing with digits` |
+-  `Playing with digits` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Tribonacci sequence` |
+-  `Tribonacci sequence` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
 ## 7Kyu
 
--  `Beginner series #3 sum of numbers` |
+-  `Beginner series #3 sum of numbers` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Credit card mask` |
+-  `Credit card mask` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Disemvowel trolls` |
+-  `Disemvowel trolls` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Im everywhere` |
+-  `Im everywhere` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Jaden casing strings` |
+-  `Jaden casing strings` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Printer errors` |
+-  `Printer errors` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Sum of the first nth term of series` |
+-  `Sum of the first nth term of series` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
 ## 8Kyu
 
--  `Calculate bmi` |
+-  `Calculate bmi` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Gravity flip` |
+-  `Gravity flip` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Greet` |
+-  `Greet` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Multiply` |
+-  `Multiply` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/sql.png" height="20px">
 
--  `Remore first and last charater` |
+-  `Remore first and last charater` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Return negative` |
+-  `Return negative` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Returning strings` |
+-  `Returning strings` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/sql.png" height="20px">
 
--  `String repeat` |
+-  `String repeat` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Sum the strings` |
+-  `Sum the strings` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Thinkful dictionary drills order filler` |
+-  `Thinkful dictionary drills order filler` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
--  `Thinkful logic drills traffic light` |
+-  `Thinkful logic drills traffic light` | 
   <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 
