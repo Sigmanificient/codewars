@@ -2,7 +2,9 @@ from typing import Optional, List
 
 
 def isPP(n: int) -> Optional[List[int]]:
-    """ A perfect power is a classification of positive integers:
+    """ https://www.codewars.com/kata/54d4c8b08776e4ad92000835
+
+    A perfect power is a classification of positive integers:
 
     In mathematics, a perfect power is a positive integer that can be expressed as an integer power of another positive
     integer. More formally, n is a perfect power if there exist natural numbers m > 1, and k > 1 such that mk = n.

@@ -2,8 +2,9 @@ from typing import List
 
 
 def flip(d: str, a: List[int]) -> List[int]:
-    """ If you've completed this kata already and want a bigger challenge, here's the 3D version
+    """ https://www.codewars.com/kata/5f70c883e10f9e0001c89673
 
+    If you've completed this kata already and want a bigger challenge, here's the 3D version
     Bob is bored during his physics lessons so he's built himself a toy box to help pass the time. The box is special
     because it has the ability to change gravity.
 
