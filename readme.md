@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/codewars)
 ```c
 5kyu : 1
-6kyu : 4
+6kyu : 5
 7kyu : 6
 8kyu : 3
 ```
@@ -20,6 +20,7 @@
 - `Find the odd int` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Iq test` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Playing with digits` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
+- `Tribonacci sequence` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 ## 7Kyu :
 
 - `Beginner series #3 sum of numbers` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
