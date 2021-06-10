@@ -40,11 +40,11 @@ with open("readme.md", "w") as f:
         if not filenames:
             continue
 
-        f.write(f"## {difficulty}Kyu :\n\n")
+        f.write(f"## {difficulty}Kyu\n\n")
 
         for filename in sorted(filenames):
             icons = ' '.join(
-                f'<img src="{IMG_BASE_LINK}{ext}.png" height="20px">'  for ext in challenges[filename]
+                f'<img src="{IMG_BASE_LINK}{ext}.png" height="20px">' for ext in challenges[filename]
             )
 
-            f.write(f"- `{filename.replace('_', ' ').capitalize()}` | {icons}\n")
+            f.write(f"  - `{filename.replace('_', ' ').capitalize()}` | {icons}\n")
