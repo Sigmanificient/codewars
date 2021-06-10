@@ -8,7 +8,7 @@
 5kyu : 2
 6kyu : 5
 7kyu : 6
-8kyu : 3
+8kyu : 4
 ```
 
 ## 5Kyu :
@@ -33,5 +33,6 @@
 ## 8Kyu :
 
 - `Greet` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
+- `Multiply` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/sql.png" height="20px">
 - `Remore first and last charater` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Return negative` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
