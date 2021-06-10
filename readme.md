@@ -7,7 +7,7 @@
 ```c
 5kyu : 2
 6kyu : 5
-7kyu : 6
+7kyu : 7
 8kyu : 11
 ```
 
@@ -27,6 +27,7 @@
 - `Beginner series #3 sum of numbers` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Credit card mask` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Disemvowel trolls` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
+- `Im everywhere` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Jaden casing strings` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Printer errors` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Sum of the first nth term of series` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
