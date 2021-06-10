@@ -1,5 +1,7 @@
 # Codewars
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6a32f4ac25ce49d494a17f974c0d4da6)](https://app.codacy.com/gh/Sigmanificient/codewars?utm_source=github.com&utm_medium=referral&utm_content=Sigmanificient/codewars&utm_campaign=Badge_Grade_Settings)
+
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sigmanificient/codewars)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sigmanificient/codewars)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/codewars)
