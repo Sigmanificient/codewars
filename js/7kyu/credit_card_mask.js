@@ -12,5 +12,5 @@ function maskify(cc) {
     return cc;
   }
 
-  return '#'.repeat(len - 4) + cc.substring(len - 4);
+  return "#".repeat(len - 4) + cc.substring(len - 4);
 }

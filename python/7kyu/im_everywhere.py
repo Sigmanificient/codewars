@@ -1,6 +1,5 @@
 def i(word):
-    """
-    https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98
+    """ https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98
 
     Your task is to make a function that takes the value of word and returns it with an "i" at the beginning of the
     word. For example we get the word "Phone", so we must return "iPhone". But we have a few rules:
@@ -10,8 +9,7 @@ def i(word):
     ("y" is considered a consonant)
 
     The first letter should not be lowercase, for example road.
-    If the word does not meet the rules, we return "Invalid word".
-    """
+    If the word does not meet the rules, we return "Invalid word". """
     if not word:
         return 'Invalid word'
 
