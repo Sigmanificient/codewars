@@ -2,8 +2,7 @@ from typing import List
 
 
 def tribonacci(signature: List[int], n: int) -> List[int]:
-    """
-    https://www.codewars.com/kata/556deca17c58da83c00002db
+    """ https://www.codewars.com/kata/556deca17c58da83c00002db
 
     Well met with Fibonacci bigger brother, AKA Tribonacci.
 
@@ -29,8 +28,7 @@ def tribonacci(signature: List[int], n: int) -> List[int]:
     If you enjoyed this kata more advanced and generalized version of it can be found in the Xbonacci kata
 
     [Personal thanks to Professor Jim Fowler on Coursera for his awesome classes that I really recommend to any math
-    enthusiast and for showing me this mathematical curiosity too with his usual contagious passion :)]
-    """
+    enthusiast and for showing me this mathematical curiosity too with his usual contagious passion :)] """
     if n == 0:
         return []
 

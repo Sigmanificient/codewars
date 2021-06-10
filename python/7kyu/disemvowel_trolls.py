@@ -1,6 +1,5 @@
 def disemvowel(string):
-    """
-    Trolls are attacking your comment section!
+    """ Trolls are attacking your comment section!
 
     A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
 
@@ -8,6 +7,5 @@ def disemvowel(string):
 
     For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
 
-    Note: for this kata y isn't considered a vowel.
-    """
+    Note: for this kata y isn't considered a vowel. """
     return ''.join(char for char in string if char.lower() not in 'aeiou')
