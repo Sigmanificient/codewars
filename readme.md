@@ -5,7 +5,7 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/codewars)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/codewars)
 ```c
-5kyu : 1
+5kyu : 2
 6kyu : 5
 7kyu : 6
 8kyu : 3
@@ -13,6 +13,7 @@
 
 ## 5Kyu :
 
+- `Scramble` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 - `Whats a perfect power anyway` | <img src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="20px">
 ## 6Kyu :
 
