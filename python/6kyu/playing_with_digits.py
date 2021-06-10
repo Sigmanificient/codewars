@@ -14,7 +14,8 @@ def dig_pow(n: int, p: int) -> int:
     Is there an integer k such as : (a ^ p + b ^ (p+1) + c ^(p+2) + d ^ (p+3) + ...) = n * k
     If it is the case we will return k, if not return -1.
 
-    Note: n and p will always be given as strictly positive integers. """
+    Note: n and p will always be given as strictly positive integers.
+    """
     r = 0
     for digit in str(n):
         r += int(digit) ** p

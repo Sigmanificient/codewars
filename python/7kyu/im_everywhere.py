@@ -9,7 +9,8 @@ def i(word):
     ("y" is considered a consonant)
 
     The first letter should not be lowercase, for example road.
-    If the word does not meet the rules, we return "Invalid word". """
+    If the word does not meet the rules, we return "Invalid word".
+    """
     if not word:
         return 'Invalid word'
 

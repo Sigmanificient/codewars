@@ -7,6 +7,7 @@ def iq_test(numbers: str) -> int:
     return a position of this number.
 
     ! Keep in mind that your task is to help Bob solve a real IQ test, which means indexes of the elements start from 1
-    (not 0) """
+    (not 0)
+    """
     oddness = [x % 2 for x in map(int, numbers.split())]
     return oddness.index(sum(oddness) == 1) + 1

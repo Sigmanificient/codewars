@@ -13,5 +13,6 @@ def fillable(stock: Dict[str, int], merch: str, n: int):
     representing the number of units of merch they would like to buy. Your function should return True if you have the
     merchandise in stock to complete the sale, otherwise it should return False.
 
-    Valid data will always be passed in and n will always be >= 1. """
+    Valid data will always be passed in and n will always be >= 1.
+    """
     return stock.get(merch, False) >= n

@@ -8,5 +8,6 @@ def series_sum(n: int) -> str:
     Rules:
     - You need to round the answer to 2 decimal places and return it as String.
     - If the given value is 0 then it should return 0.00
-    - You will only be given Natural Numbers as arguments. """
+    - You will only be given Natural Numbers as arguments.
+    """
     return f"{sum(1/(1 + 3 * x) for x in range(n)):.2f}"

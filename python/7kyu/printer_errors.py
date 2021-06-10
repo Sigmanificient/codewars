@@ -15,5 +15,6 @@ def printer_errors(s):
     string representing a rational whose numerator is the number of errors and the denominator the length of the control
      string. Don't reduce this fraction to a simpler expression.
 
-    The string has a length greater or equal to one and contains only letters from ato z."""
+    The string has a length greater or equal to one and contains only letters from ato z.
+    """
     return f'{sum(1 for c in s if c not in "abcdefghijklm")}/{len(s)}'
