@@ -1,5 +1,5 @@
 def iq_test(numbers: str) -> int:
-    """ https://www.codewars.com/kata/552c028c030765286c00007d/
+    """https://www.codewars.com/kata/552c028c030765286c00007d/
 
     Bob is preparing to pass IQ test. The most frequent task in this test is to find out which one of the given numbers
     differs from the others. Bob observed that one number usually differs from the others in evenness. Help Bob — to

@@ -1,5 +1,5 @@
 def bmi(weight, height):
-    """ https://www.codewars.com/kata/57a429e253ba3381850000fb
+    """https://www.codewars.com/kata/57a429e253ba3381850000fb
 
     Write function bmi that calculates body mass index (bmi = weight / height2).
 

@@ -2,7 +2,7 @@ from typing import Dict
 
 
 def fillable(stock: Dict[str, int], merch: str, n: int):
-    """ https://www.codewars.com/kata/586ee462d0982081bf001f07
+    """https://www.codewars.com/kata/586ee462d0982081bf001f07
 
     You're running an online business and a big part of your day is fulfilling orders. As your volume picks up
     that's been taking more of your time, and unfortunately lately you've been running into situations where you take an

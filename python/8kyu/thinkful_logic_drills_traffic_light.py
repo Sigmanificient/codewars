@@ -2,7 +2,7 @@ lights = ['green', 'yellow', 'red']
 
 
 def update_light(current: str) -> str:
-    """ https://www.codewars.com/kata/58649884a1659ed6cb000072
+    """https://www.codewars.com/kata/58649884a1659ed6cb000072
 
     You're writing code to control your town's traffic lights. You need a function to handle each change from green,
     to yellow, to red, and then to green again.

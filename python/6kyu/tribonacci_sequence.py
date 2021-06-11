@@ -2,7 +2,7 @@ from typing import List
 
 
 def tribonacci(signature: List[int], n: int) -> List[int]:
-    """ https://www.codewars.com/kata/556deca17c58da83c00002db
+    """https://www.codewars.com/kata/556deca17c58da83c00002db
 
     Well met with Fibonacci bigger brother, AKA Tribonacci.
 
