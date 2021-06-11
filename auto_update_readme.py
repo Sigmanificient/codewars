@@ -7,7 +7,7 @@ CODACY = "[![Codacy Badge](https://app.codacy.com/project/badge/Grade/569dfe5fc5
          "https://www.codacy.com/gh/Sigmanificient/codewars/dashboard?utm_source=github.com&amp;utm_medium=referral" \
          "&amp;utm_content=Sigmanificient/codewars&amp;utm_campaign=Badge_Grade) "
 
-IMG_BASE_LINK = 'https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/'
+IMG_BASE_LINK = 'https://github.com/Sigmanificient/codewars/tree/master/assets/'
 
 buttons = '\n'.join((
     f'![GitHub code size in bytes]({SHIELD}/github/languages/code-size/{REPO_NAME})',
@@ -20,6 +20,9 @@ challenges: dict[str:list[str]] = {}
 difficulties: dict[str:int] = {i: [] for i in range(1, 9)}
 
 for directory_language in os.listdir('.'):
+    if directory_language == 'assets':
+        continue
+
     if '.' in directory_language:
         continue
 
