@@ -74,24 +74,19 @@
 *  `Multiply` |
    <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/sql.png" height="20px">
 
-*  `Remore first and last charater` |
+*    `Remore first and last charater` |
    <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
 
 *  `Return negative` |
-   <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/js.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/php.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
+     <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/js.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/php.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
 
-*  `Returning strings` |
-   <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/sql.png" height="20px">
+*    `Returning strings`   |   <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/sql.png" height="20px">
 
-*  `String repeat` |
-   <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
+*  `String repeat`  |  <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
 
-*  `Sum the strings` |
-   <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
+*  `Sum the strings` | <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
 
-*  `Thinkful dictionary drills order filler` |
-   <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
+* `Thinkful dictionary drills order filler`|<img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
 
-*  `Thinkful logic drills traffic light` |
-   <img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
+*`Thinkful logic drills traffic light`|<img src="https://github.com/Sigmanificient/codewars/tree/master/assets/py.png" height="20px">
 
