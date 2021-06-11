@@ -3,7 +3,6 @@ from typing import Optional, List
 
 def isPP(n: int) -> Optional[List[int]]:
     """Kata url: https://www.codewars.com/kata/54d4c8b08776e4ad92000835."""
-
     possibles = [i for i in range(2, min(n - 1, 1001)) if (n / i).is_integer()]
 
     if not possibles:

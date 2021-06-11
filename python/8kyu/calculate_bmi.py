@@ -1,6 +1,5 @@
 def bmi(weight, height):
     """Kata url: https://www.codewars.com/kata/57a429e253ba3381850000fb."""
-
     bmi = (weight / height ** 2)
 
     if bmi <= 18.5:
