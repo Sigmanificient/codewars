@@ -7,7 +7,7 @@ CODACY = "[![Codacy Badge](https://app.codacy.com/project/badge/Grade/569dfe5fc5
          "https://www.codacy.com/gh/Sigmanificient/codewars/dashboard?utm_source=github.com&amp;utm_medium=referral" \
          "&amp;utm_content=Sigmanificient/codewars&amp;utm_campaign=Badge_Grade) "
 
-IMG_BASE_LINK = 'https://github.com/Sigmanificient/codewars/tree/master/assets/'
+IMG_BASE_LINK = 'https://github.com/Sigmanificient/codewars/blob/master/assets/'
 
 buttons = '\n'.join((
     f'![GitHub code size in bytes]({SHIELD}/github/languages/code-size/{REPO_NAME})',
@@ -54,4 +54,4 @@ with open("readme.md", "w") as f:
                 f'<img src="{IMG_BASE_LINK}{ext}.png" height="20px">' for ext in challenges[filename]
             )
 
-            f.write(f"* `{filename.replace('_', ' ').capitalize()}` : {icons}\n")
+            f.write(f"  * `{filename.replace('_', ' ').capitalize()}` : {icons}\n")
