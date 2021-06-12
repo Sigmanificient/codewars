@@ -54,4 +54,4 @@ with open("readme.md", "w") as f:
                 f'<img src="{IMG_BASE_LINK}{ext}.png" height="20px">' for ext in challenges[filename]
             )
 
-            f.write(f"*    `{filename.replace('_', ' ').capitalize()}`:  {icons}\n")
+            f.write(f"`{filename.replace('_', ' ').capitalize()}`:  {icons}\n\n")
