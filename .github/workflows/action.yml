@@ -11,7 +11,19 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-python@v2
+
       with:
         python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
         architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
-    - run: python auto_update_readme.py
+
+    - name: running script
+      run: python auto_update_readme.py
+
+    - name: commit changes
+      run: git commit -m "Auto updating readme.dm"
+
+    - name: fetch from master
+      run: git fetch origin master
+
+    - name: push code to master
+      run: git push origin HEAD:master
