@@ -1,4 +1,5 @@
 def evaporator(content: int, evap_per_day: int, threshold: int) -> int:
+    """Kata url: https://www.codewars.com/kata/5506b230a11c0aeab3000c1f."""
     c = 0
     mn = content * (threshold / 100)
 
