@@ -2,28 +2,32 @@ name: update-readme
 
 on:
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: { branches: [ "master", "main" ] }
 
 jobs:
   reamde-update:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-python@v2
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
 
-      with:
-        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
-        architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          python-version: '3.x'
+          architecture: 'x64'
 
-    - name: running script
-      run: python auto_update_readme.py
+      - name: running script
+        run: python auto_update_readme.py
 
-    - name: commit changes
-      run: git commit -m "Auto updating readme.dm"
-
-    - name: fetch from master
-      run: git fetch origin master
-
-    - name: push code to master
-      run: git push origin HEAD:master
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Add changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
