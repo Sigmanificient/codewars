@@ -18,6 +18,8 @@ buttons = '\n'.join((
 
 challenges: dict[str:list[str]] = {}
 difficulties: dict[str:int] = {i: [] for i in range(1, 9)}
+counts: dict[str:int] = {}
+total: int = 0
 
 for directory_language in os.listdir('.'):
     if directory_language == 'assets':
@@ -32,16 +34,22 @@ for directory_language in os.listdir('.'):
         for file in os.listdir(f'{directory_language}/{kyu}'):
             filename, ext = file.split(".")
 
+            if kyu_level not in counts:
+                counts[kyu_level] = 0
+
             if filename in challenges:
                 challenges[filename].append(ext)
             else:
                 difficulties[kyu_level].append(filename)
                 challenges[filename] = [ext]
 
-stats = '\n'.join(f"{k}kyu : {length}" for k, v in difficulties.items() if (length := len(v)))
+            counts[kyu_level] += 1
+            total += 1
+
+stats = '\n'.join(f"{k}kyu : {v}" for k, v in sorted(counts.items()) if v)
 
 with open("readme.md", "w") as f:
-    f.write(f"# Codewars\n\n{CODACY}\n{buttons}\n```c\n{stats}\n```\n\n")
+    f.write(f"# Codewars\n\n{CODACY}\n{buttons}\n\n*{sum(counts.values())} solved katas !*\n\n```c\n{stats}\n```\n\n")
 
     for difficulty, filenames in sorted(difficulties.items()):
         if not filenames:
