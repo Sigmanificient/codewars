@@ -5,11 +5,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sigmanificient/codewars)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/codewars)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/codewars)
+
+*51 solved katas !*
+
 ```c
 5kyu : 3
 6kyu : 6
-7kyu : 12
-8kyu : 26
+7kyu : 13
+8kyu : 29
 ```
 
 ## 5Kyu
