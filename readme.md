@@ -6,13 +6,13 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/codewars)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/codewars)
 
-*66 solved katas !*
+*67 solved katas !*
 
 ```c
 5kyu : 3
 6kyu : 6
 7kyu : 13
-8kyu : 44
+8kyu : 45
 ```
 
 ## 5Kyu
@@ -70,6 +70,8 @@
 `Century from year`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Convert a string to number`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Convert boolean to a string`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Convert boolean values to string yes and no`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
