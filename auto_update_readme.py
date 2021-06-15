@@ -1,4 +1,5 @@
 import os
+from typing import Dict, List
 
 SHIELD = 'https://img.shields.io'
 REPO_NAME = 'Sigmanificient/codewars'
@@ -16,9 +17,9 @@ buttons = '\n'.join((
     f'![GitHub last commit]({SHIELD}/github/last-commit/{REPO_NAME})'
 ))
 
-challenges: dict[str:list[str]] = {}
-difficulties: dict[str:int] = {i: [] for i in range(1, 9)}
-counts: dict[str:int] = {}
+challenges: Dict[str, List[str]] = {}
+difficulties: Dict[int, List[int]] = {i: [] for i in range(1, 9)}
+counts: Dict[int, int] = {}
 total: int = 0
 
 for directory_language in os.listdir('.'):
@@ -49,17 +50,17 @@ for directory_language in os.listdir('.'):
 stats = '\n'.join(f"{k}kyu : {v}" for k, v in sorted(counts.items()) if v)
 
 with open("readme.md", "w") as f:
-    f.write(f"# Codewars\n\n{CODACY}\n{buttons}\n\n*{sum(counts.values())} solved katas !*\n\n```c\n{stats}\n```\n\n")
+    f.write(f"# Codewars\n\n{CODACY}\n{buttons}\n\n*{sum(counts.values())} solved katas !*\n\n```c\n{stats}\n```\n")
 
     for difficulty, filenames in sorted(difficulties.items()):
         if not filenames:
             continue
 
-        f.write(f"## {difficulty}Kyu\n\n")
+        f.write(f"\n## {difficulty}Kyu\n")
 
         for filename in sorted(filenames):
             icons = ' '.join(
                 f'<img src="{IMG_BASE_LINK}{ext}.png" height="20px">' for ext in challenges[filename]
             )
 
-            f.write(f"`{filename.replace('_', ' ').capitalize()}`:  {icons}\n\n")
+            f.write(f"\n`{filename.replace('_', ' ').capitalize()}`:  {icons}\n")
