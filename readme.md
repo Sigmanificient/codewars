@@ -6,6 +6,10 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/codewars)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/codewars)
 
+<br>
+
+![Codewars](https://www.codewars.com/users/Sigmanficient.com/badges/large)
+
 *86 solved katas !*
 
 ```c
