@@ -9,6 +9,7 @@ CODACY = "[![Codacy Badge](https://app.codacy.com/project/badge/Grade/569dfe5fc5
          "&amp;utm_content=Sigmanificient/codewars&amp;utm_campaign=Badge_Grade) "
 
 IMG_BASE_LINK = 'https://github.com/Sigmanificient/codewars/blob/master/assets/'
+PROFILE = '![Codewars](https://www.codewars.com/users/Sigmanficient.com/badges/large)'
 
 buttons = '\n'.join((
     f'![GitHub code size in bytes]({SHIELD}/github/languages/code-size/{REPO_NAME})',
@@ -50,7 +51,8 @@ for directory_language in os.listdir('.'):
 stats = '\n'.join(f"{k}kyu : {v}" for k, v in sorted(counts.items()) if v)
 
 with open("readme.md", "w") as f:
-    f.write(f"# Codewars\n\n{CODACY}\n{buttons}\n\n*{sum(counts.values())} solved katas !*\n\n```c\n{stats}\n```\n")
+    f.write(f"# Codewars\n\n{CODACY}\n{buttons}\n\n<br>\n\n{PROFILE}")
+    f.write(f"\n\n*{sum(counts.values())} solved katas !*\n\n```c\n{stats}\n```\n")
 
     for difficulty, filenames in sorted(difficulties.items()):
         if not filenames:
