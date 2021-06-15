@@ -6,13 +6,13 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/codewars)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/codewars)
 
-*67 solved katas !*
+*86 solved katas !*
 
 ```c
 5kyu : 3
 6kyu : 6
-7kyu : 13
-8kyu : 45
+7kyu : 18
+8kyu : 59
 ```
 
 ## 5Kyu
@@ -45,6 +45,8 @@
 
 `Credit card mask`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/js.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Descending order`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Disemvowel trolls`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Elevator distance`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -59,11 +61,29 @@
 
 `Jaden casing strings`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`List filtering`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Mumbling`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Printer errors`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Shorter word`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Sum of the first nth term of series`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Youre a square`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 ## 8Kyu
+
+`A needle in the haystack`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Abbreviate a two word name`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Basic mathematical operations`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Beginner lost without a map`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Calculate average`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Calculate bmi`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -77,6 +97,12 @@
 
 `Convert number to a string`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Convert number to reversed array of digits`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Count of monkeys`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Count of positive sum of negative`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Couting sheep`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Difference of volume of cuboids`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -84,6 +110,8 @@
 `Do i get a bonus`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Even or odd`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Fake binary`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Find the first non-consecutive number`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -109,7 +137,13 @@
 
 `Incorrect division method`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Invert values`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Is divisible by x and y`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Is he gonna survive`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Johny secret message`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Keep hydrated`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -141,6 +175,8 @@
 
 `String repeat`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Sum array`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Sum of positive`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Sum the strings`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -148,3 +184,5 @@
 `Thinkful dictionary drills order filler`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Thinkful logic drills traffic light`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`You cant code under pressure 1`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
