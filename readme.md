@@ -148,4 +148,3 @@
 `Thinkful dictionary drills order filler`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Thinkful logic drills traffic light`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
-
