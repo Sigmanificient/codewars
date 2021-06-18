@@ -1,6 +1,6 @@
 from typing import Dict, Union, Callable
 
-ops: Dict[str: Callable[[int, int], Union[int, float]]] = {
+ops: Dict[str, Callable[[int, int], Union[int, float]]] = {
     '+': lambda x, y: x + y,
     '-': lambda x, y: x - y,
     '*': lambda x, y: x * y,
