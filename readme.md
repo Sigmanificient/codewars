@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanficient.com/badges/large)
 
-*130 solved katas !*
+*150 solved katas !*
 
 ```c
 5kyu : 3
 6kyu : 6
 7kyu : 18
-8kyu : 103
+8kyu : 123
 ```
 
 ## 5Kyu
@@ -79,9 +79,15 @@
 
 ## 8Kyu
 
+`Expressions matter`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Parse nice int from char problem`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `A needle in the haystack`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Abbreviate a two word name`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Alternate case`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Are you playing banjo`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -97,11 +103,15 @@
 
 `Beginner serie #1 school paperwork`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Beginner series #2 clock`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Beginner series #4 cockroack`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Calculate average`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Calculate bmi`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Can we divide it`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Century from year`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -119,6 +129,8 @@
 
 `Count by x`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Count odd numbers below n`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Count of monkeys`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Count of positive sum of negative`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -133,6 +145,8 @@
 
 `Do you speak english`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Double char`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Enumerable magic #25 take the first n elements`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Even or odd`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -143,6 +157,8 @@
 
 `Find maximum and minimum valus of a list`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Find numbers which are divisible by given number`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Find the first non-consecutive number`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Find the smallest integer in the array`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -150,6 +166,8 @@
 `Fixme replace all dots`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Function 1 hello world`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Function 2 squaring an argument`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Function 3 multiplying two numbers`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -162,6 +180,8 @@
 `Grader`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Grasshopper if else syntax debug`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Grasshopper messi goals`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Grasshopper personalized message`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -189,6 +209,8 @@
 
 `Is he gonna survive`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Is the string upper`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Is your period late`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Johny secret message`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -209,6 +231,10 @@
 
 `My head is at the wrong end`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`N-th power`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Number to string`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Opposite number`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Opposites attracks`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -225,6 +251,8 @@
 
 `Remove string spaces`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Removing elements`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Return negative`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/php.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/js.png" height="20px">
 
 `Returning strings`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/sql.png" height="20px">
@@ -239,11 +267,15 @@
 
 `Short long short`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Simple multplication`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Square n sum`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Squash the bugs`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `String repeat`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Stringy strings`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Sum array`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -263,15 +295,23 @@
 
 `Thinkful logic drills traffic light`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Third angle of a triangle`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Total amount of points`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Transportation on vacation`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Twice as old`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Unfinished loop bug fixing #1`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Volume of a cuboid`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Welcome`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `What the real floor`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Will there be enough space`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Will you make it`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
