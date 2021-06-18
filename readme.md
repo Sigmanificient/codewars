@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanficient.com/badges/large)
 
-*150 solved katas !*
+*151 solved katas !*
 
 ```c
 5kyu : 3
 6kyu : 6
 7kyu : 18
-8kyu : 123
+8kyu : 124
 ```
 
 ## 5Kyu
@@ -208,6 +208,8 @@
 `Is divisible by x and y`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Is he gonna survive`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Is it event`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Is the string upper`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
