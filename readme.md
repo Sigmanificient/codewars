@@ -8,7 +8,7 @@
 
 <br>
 
-![Codewars](https://www.codewars.com/users/Sigmanficient.com/badges/large)
+![Codewars](https://www.codewars.com/users/Sigmanficient/badges/large)
 
 *154 solved katas !*
 
