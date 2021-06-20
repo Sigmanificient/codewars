@@ -8,15 +8,15 @@
 
 <br>
 
-![Codewars](https://www.codewars.com/users/Sigmanficient.com/badges/large)
+![Codewars](https://www.codewars.com/users/Sigmanficient/badges/large)
 
-*151 solved katas !*
+*154 solved katas !*
 
 ```c
 5kyu : 3
 6kyu : 6
 7kyu : 18
-8kyu : 124
+8kyu : 127
 ```
 
 ## 5Kyu
@@ -241,9 +241,13 @@
 
 `Opposites attracks`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Pick a set of first elements`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Powers of 2`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Pre fizzbuzz workout #1`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Price of mangoes`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Quarter of the year`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -270,6 +274,8 @@
 `Short long short`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Simple multplication`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Sort and star`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Square n sum`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
