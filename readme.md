@@ -10,12 +10,12 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanficient/badges/large)
 
-*154 solved katas !*
+*155 solved katas !*
 
 ```c
 5kyu : 3
 6kyu : 6
-7kyu : 18
+7kyu : 19
 8kyu : 127
 ```
 
@@ -48,6 +48,8 @@
 `Beginner series #3 sum of numbers`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Credit card mask`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/js.png" height="20px">
+
+`Decimal reverser`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Descending order`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
