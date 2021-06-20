@@ -81,12 +81,6 @@
 
 ## 8Kyu
 
-`Expressions matter`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
-
-`I love you a little a lot passionately not at all`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
-
-`Parse nice int from char problem`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
-
 `A needle in the haystack`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Abbreviate a two word name`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -167,6 +161,8 @@
 
 `Exclamation mark serie #1 remove a exclamation mark from the end of string`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Expressions matter`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Fake binary`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Filling an array`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -223,6 +219,8 @@
 
 `How many lightsaber do you own`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`I love you a little a lot passionately not at all`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `If you canrt sleep just count sheep`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Incorrect division method`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -266,6 +264,8 @@
 `Opposite number`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Opposites attracks`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Parse nice int from char problem`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Pick a set of first elements`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
