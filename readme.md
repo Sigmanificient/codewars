@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*234 solved katas !*
+*238 solved katas !*
 
 ```c
 5kyu : 3
 6kyu : 7
 7kyu : 25
-8kyu : 199
+8kyu : 203
 ```
 
 ## 5Kyu
@@ -51,7 +51,7 @@
 
 `Beginner series #3 sum of numbers`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
-`Credit card mask`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/js.png" height="20px">
+`Credit card mask`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/js.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Decimal reverser`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -191,6 +191,8 @@
 
 `Ensure quesion`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Enumerable magic #20 cascading subsets`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Enumerable magic #25 take the first n elements`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Even or odd`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -237,6 +239,8 @@
 
 `Generate range of integers`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Geometry basics distance between points in 2d`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Get character from ascii value`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Get nth even number`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -264,6 +268,8 @@
 `Grasshopper summation`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Grasshopper terminal combat function`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Grasshopper terminal game move function`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Grasshopper variable assignment debug`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -321,6 +327,8 @@
 
 `Lario and muigi pipe problem`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Logical calculator`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Make uppercase`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Merg two sorted arrays into one`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -329,7 +337,7 @@
 
 `Multiplication table for number`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
-`Multiply`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/sql.png" height="20px">
+`Multiply`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/sql.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `My head is at the wrong end`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
@@ -383,7 +391,7 @@
 
 `Repeat it`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
-`Return negative`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/php.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/js.png" height="20px">
+`Return negative`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/js.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px"> <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/php.png" height="20px">
 
 `Return the day`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
