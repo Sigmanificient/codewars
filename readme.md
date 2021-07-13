@@ -10,12 +10,12 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*252 solved katas !*
+*254 solved katas !*
 
 ```c
 5kyu : 3
 6kyu : 7
-7kyu : 25
+7kyu : 27
 8kyu : 217
 ```
 
@@ -63,6 +63,8 @@
 
 `Evaporator`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
+`Fizz buzz`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
 `Get the middle character`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Growth of a population`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
@@ -78,6 +80,8 @@
 `Last survivor`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `List filtering`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Middle me`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 `Mumbling`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
