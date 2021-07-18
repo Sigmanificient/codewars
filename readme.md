@@ -10,10 +10,10 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*264 solved katas !*
+*265 solved katas !*
 
 ```c
-4kyu : 1
+4kyu : 2
 5kyu : 7
 6kyu : 10
 7kyu : 29
@@ -23,6 +23,8 @@
 ## 4Kyu
 
 `Permutations`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
+
+`Strip comments`:  <img src="https://github.com/Sigmanificient/codewars/blob/master/assets/py.png" height="20px">
 
 ## 5Kyu
 
