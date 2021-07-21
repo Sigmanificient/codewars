@@ -4,9 +4,7 @@ from typing import Dict, List
 SHIELD = 'https://img.shields.io'
 REPO_NAME = 'Sigmanificient/codewars'
 
-CODACY = "[![Codacy Badge](https://app.codacy.com/project/badge/Grade/569dfe5fc5c84deaba902a4151cab5c5)](" \
-         "https://www.codacy.com/gh/Sigmanificient/codewars/dashboard?utm_source=github.com&amp;utm_medium=referral" \
-         "&amp;utm_content=Sigmanificient/codewars&amp;utm_campaign=Badge_Grade) "
+SCRUTINIZER = "[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Sigmanificient/codewars/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Sigmanificient/codewars/?branch=master)"
 
 IMG_BASE_LINK = 'https://github.com/Sigmanificient/codewars/blob/master/assets/'
 PROFILE = '![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)'
@@ -51,7 +49,7 @@ for directory_language in os.listdir('.'):
 stats = '\n'.join(f"{k}kyu : {v}" for k, v in sorted(counts.items()) if v)
 
 with open("readme.md", "w") as f:
-    f.write(f"# Codewars\n\n{CODACY}\n{buttons}\n\n<br>\n\n{PROFILE}")
+    f.write(f"# Codewars\n\n{SCRUTINIZER}\n{buttons}\n\n<br>\n\n{PROFILE}")
     f.write(f"\n\n*{sum(counts.values())} solved katas !*\n\n```c\n{stats}\n```\n")
 
     for difficulty, filenames in sorted(difficulties.items()):
