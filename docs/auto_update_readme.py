@@ -71,11 +71,12 @@ with open("readme.md", "w") as f:
             continue
 
         f.write(
-            f"<details>\n"
-            f"<summary>\n"
+            "\n"
             f"<h2>{difficulty}Kyu</h2>\n"
-            f"</summary>\n"
-            f"\n"
+            "<details>\n"
+            "\t<summary>\n"
+            f"\t\t<i>views solved {difficulty} kyu</i>\n"
+            "\t</summary>\n"
         )
 
         for filename in sorted(filenames):
@@ -86,8 +87,8 @@ with open("readme.md", "w") as f:
 
             f.write(
                 f"\n"
-                f"\t`{filename.replace('_', ' ').capitalize()}`:\n"
-                f"\t{icons}\n"
+                f"`{filename.replace('_', ' ').capitalize()}`:\n"
+                f"{icons}\n"
             )
 
-        f.write('</details>')
+        f.write('</details>\n')
