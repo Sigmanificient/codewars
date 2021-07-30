@@ -10,12 +10,12 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*265 solved katas !*
+*267 solved katas !*
 
 ```c
 4kyu : 2
-5kyu : 7
-6kyu : 10
+5kyu : 8
+6kyu : 11
 7kyu : 29
 8kyu : 217
 ```
@@ -38,6 +38,9 @@
 	<summary>
 		<i>views solved 5 kyu</i>
 	</summary>
+
+`Isbn-10 validation`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Moving zeros to the end`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
@@ -77,6 +80,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Highest scoring word`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Ip validation`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Iq test`:
