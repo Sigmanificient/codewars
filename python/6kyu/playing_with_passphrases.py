@@ -1,8 +1,9 @@
+"""Kata url: https://www.codewars.com/kata/559536379512a64472000053."""
+
 charset: str = "abcdefghijklmnopqrstuvwxyz"
 
 
 def play_pass(s: str, n: int) -> str:
-    """Kata url: https://www.codewars.com/kata/559536379512a64472000053."""
     string: str = ''
     for c, char in enumerate(s):
         char: str = char.lower()

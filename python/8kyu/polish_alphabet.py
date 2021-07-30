@@ -1,4 +1,7 @@
-transcriptions = {
+"""Kata url: https://www.codewars.com/kata/57ab2d6072292dbf7c000039."""
+from typing import Dict
+
+transcriptions: Dict[str, str] = {
     "ą": "a",
     "ć": "c",
     "ę": "e",
@@ -12,5 +15,4 @@ transcriptions = {
 
 
 def correct_polish_letters(st: str) -> str:
-    """Kata url: https://www.codewars.com/kata/57ab2d6072292dbf7c000039."""
     return ''.join(transcriptions.get(char, char) for char in st)

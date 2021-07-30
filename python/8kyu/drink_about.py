@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/56170e844da7c6f647000063."""
+
 from typing import Dict
 
 ages: Dict[int, str] = {
@@ -10,7 +12,6 @@ ages: Dict[int, str] = {
 
 
 def people_with_age_drink(age: int) -> str:
-    """Kata url: https://www.codewars.com/kata/56170e844da7c6f647000063."""
     for d_age, drink in ages.items():
         if age <= d_age:
             return f"drink {drink}"

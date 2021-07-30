@@ -1,6 +1,10 @@
+"""Kata url: https://www.codewars.com/kata/57faf7275c991027af000679."""
+from typing import List
+
+
 def remove(s: str, n: int) -> str:
-    """Kata url: https://www.codewars.com/kata/57faf7275c991027af000679."""
-    r = []
+    r: List[str] = []
+
     for char in s:
         if char == '!' and n:
             n -= 1

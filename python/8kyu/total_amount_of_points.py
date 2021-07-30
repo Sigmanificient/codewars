@@ -1,8 +1,10 @@
+"""Kata url: https://www.codewars.com/kata/5bb904724c47249b10000131."""
+
+
 from typing import List
 
 
 def points(games: List[str]) -> int:
-    """Kata url: https://www.codewars.com/kata/5bb904724c47249b10000131."""
     point: int = 0
 
     for match in games:

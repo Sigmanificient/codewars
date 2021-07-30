@@ -1,8 +1,9 @@
+"""Kata url: https://www.codewars.com/kata/6089c7992df556001253ba7d."""
+
 from typing import List, Set
 
 
 class Song:
-    """Kata url: https://www.codewars.com/kata/6089c7992df556001253ba7d."""
 
     def __init__(self, title: str, artist: str):
         self.title: str = title

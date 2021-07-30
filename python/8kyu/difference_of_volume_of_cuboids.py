@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/58cb43f4256836ed95000f97."""
+
 from typing import List
 
 
@@ -10,5 +12,4 @@ def mul(x: List[int]) -> int:
 
 
 def find_difference(a: List[int], b: List[int]) -> int:
-    """Kata url: https://www.codewars.com/kata/58cb43f4256836ed95000f97."""
     return abs(mul(a) - mul(b))

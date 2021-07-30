@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/54b724efac3d5402db00065e."""
+
 from typing import Dict
 
 MORSE_CODE: Dict[str, str] = {
@@ -60,7 +62,6 @@ MORSE_CODE: Dict[str, str] = {
 
 
 def decodeMorse(morse_code: str) -> str:
-    """Kata url: https://www.codewars.com/kata/54b724efac3d5402db00065e."""
     return ' '.join(
         ''.join(
             MORSE_CODE.get(char, '') for char in word.split(' ')

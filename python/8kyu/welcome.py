@@ -1,3 +1,6 @@
+"""Kata url: https://www.codewars.com/kata/577ff15ad648a14b780000e7."""
+
+
 from typing import Dict
 
 languages: Dict[str, str] = {
@@ -22,5 +25,4 @@ languages: Dict[str, str] = {
 
 
 def greet(language: str) -> str:
-    """Kata url: https://www.codewars.com/kata/577ff15ad648a14b780000e7."""
     return languages.get(language, 'Welcome')

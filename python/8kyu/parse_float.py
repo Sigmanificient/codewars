@@ -1,8 +1,10 @@
+"""Kata url: https://www.codewars.com/kata/57a386117cb1f31890000039."""
+
+
 from typing import Optional
 
 
 def parse_float(string: str) -> Optional[float]:
-    """Kata url: https://www.codewars.com/kata/57a386117cb1f31890000039."""
     if isinstance(string, list):
         return
 

@@ -1,5 +1,7 @@
-class Solution:
-    """Kata url: https://www.codewars.com/kata/57036f007fd72e3b77000023."""
+"""Kata url: https://www.codewars.com/kata/57036f007fd72e3b77000023."""
 
-    def main(*_):
+class Solution:
+
+    @staticmethod
+    def main():
         print("Hello World!")

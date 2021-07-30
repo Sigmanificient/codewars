@@ -1,5 +1,7 @@
+"""Kata url: https://www.codewars.com/kata/568d0dd208ee69389d000016."""
+
+
 def rental_car_cost(d: int) -> int:
-    """Kata url: https://www.codewars.com/kata/568d0dd208ee69389d000016."""
     total: int = 40 * d
 
     if d >= 7:

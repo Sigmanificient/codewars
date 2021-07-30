@@ -1,9 +1,10 @@
+"""Kata url: https://www.codewars.com/kata/57096af70dad013aa200007b."""
+
 from functools import reduce
 from typing import List
 
 
 def logical_calc(array: List[bool], op: str) -> bool:
-    """Kata url: https://www.codewars.com/kata/57096af70dad013aa200007b."""
     if op == "AND":
         return all(array)
 

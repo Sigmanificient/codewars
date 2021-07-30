@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/53d16bd82578b1fb5b00128c."""
+
 from typing import Dict
 
 GRADES: Dict[float, str] = {
@@ -9,7 +11,6 @@ GRADES: Dict[float, str] = {
 
 
 def grader(grade: float) -> str:
-    """Kata url: https://www.codewars.com/kata/53d16bd82578b1fb5b00128c."""
     if grade > 1:
         return 'F'
 

@@ -1,8 +1,9 @@
+"""Kata url: https://www.codewars.com/kata/556deca17c58da83c00002db."""
+
 from typing import List
 
 
 def tribonacci(signature: List[int], n: int) -> List[int]:
-    """Kata url: https://www.codewars.com/kata/556deca17c58da83c00002db."""
     if n == 0:
         return []
 

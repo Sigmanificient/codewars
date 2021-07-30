@@ -1,5 +1,7 @@
-def i(word):
-    """Kata url: https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98."""
+"""Kata url: https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98."""
+
+
+def i(word: str) -> str:
     if not word:
         return 'Invalid word'
 

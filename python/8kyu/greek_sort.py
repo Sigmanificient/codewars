@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/56bc1acf66a2abc891000561."""
+
 from typing import Tuple
 
 greek_alphabet: Tuple[str, ...] = (
@@ -9,5 +11,4 @@ greek_alphabet: Tuple[str, ...] = (
 
 
 def greek_comparator(lhs: str, rhs: str) -> int:
-    """Kata url: https://www.codewars.com/kata/56bc1acf66a2abc891000561."""
     return greek_alphabet.index(lhs) - greek_alphabet.index(rhs)
