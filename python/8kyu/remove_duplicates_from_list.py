@@ -4,4 +4,4 @@ from typing import List
 
 
 def distinct(seq: List[int]) -> List[int]:
-    return [item for item in seq if item not in res]
+    return sorted(list(set(seq)), key=lambda x: seq.index(x))
