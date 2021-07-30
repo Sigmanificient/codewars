@@ -3,6 +3,18 @@ from math import sqrt
 
 
 def prime_factors(n: int) -> str:
+    factors = get_prime_factors(n)
+
+    primes_factorisation = [
+        f'({prime}**{factors.count(prime)})'
+        if factors.count(prime) > 1 else f'({prime})'
+        for prime in sorted(set(factors))
+    ]
+
+    return ''.join(primes_factorisation)
+
+
+def get_prime_factors(n):
     result = []
     for i in range(2, int(sqrt(n)) + 1):
         while not n % i:
@@ -12,13 +24,4 @@ def prime_factors(n: int) -> str:
     if n > 1:
         result.append(n)
 
-    primes_factorisation = []
-    for prime in sorted(set(result)):
-        power = result.count(prime)
-
-        if power > 1:
-            primes_factorisation.append(f'({prime}**{result.count(prime)})')
-        else:
-            primes_factorisation.append(f'({prime})')
-
-    return ''.join(primes_factorisation)
+    return result
