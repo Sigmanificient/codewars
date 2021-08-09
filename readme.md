@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*268 solved katas !*
+*269 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 8
 6kyu : 12
 7kyu : 29
-8kyu : 217
+8kyu : 218
 ```
 
 <h2>4Kyu</h2>
@@ -359,6 +359,9 @@
 
 `Ensure quesion`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Enumerable magic #1 true for all`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
 
 `Enumerable magic #20 cascading subsets`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
