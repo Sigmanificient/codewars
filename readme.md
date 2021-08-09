@@ -10,12 +10,12 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*267 solved katas !*
+*268 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 8
-6kyu : 11
+6kyu : 12
 7kyu : 29
 8kyu : 217
 ```
@@ -95,6 +95,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Replace with alphabet position`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Simple fun #305 typist`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Tribonacci sequence`:
