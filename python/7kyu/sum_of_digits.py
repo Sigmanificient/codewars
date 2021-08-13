@@ -1,4 +1,4 @@
-# Kata url: https://www.codewars.com/kata/59cf805aaeb28438fe00001c.
+"""Kata url: https://www.codewars.com/kata/59cf805aaeb28438fe00001c."""
 
 from typing import Optional, Union
 
