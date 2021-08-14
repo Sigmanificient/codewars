@@ -10,11 +10,11 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*278 solved katas !*
+*279 solved katas !*
 
 ```c
 4kyu : 2
-5kyu : 8
+5kyu : 9
 6kyu : 13
 7kyu : 37
 8kyu : 218
@@ -38,6 +38,9 @@
 	<summary>
 		<i>views solved 5 kyu</i>
 	</summary>
+
+`Hex dump`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Isbn-10 validation`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
