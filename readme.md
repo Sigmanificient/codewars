@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*269 solved katas !*
+*276 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 8
-6kyu : 12
-7kyu : 29
+6kyu : 13
+7kyu : 35
 8kyu : 218
 ```
 
@@ -71,6 +71,9 @@
 	</summary>
 
 `Are they the same`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Counting duplicates`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Decode the morse code`:
@@ -140,6 +143,9 @@
 `Evaporator`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Even and odd`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Fizz buzz`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -147,6 +153,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Growth of a population`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Having sum`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Heron formula`:
@@ -179,7 +188,19 @@
 `Rearrange number to get it maximum`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Remove duplicate words`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Shorter word`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Smallest product`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`String swap vowel case`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Sum of digits`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Sum of the first nth term of series`:
