@@ -13,7 +13,7 @@ def hexdump(data: bytes) -> str:
         hex_vals: List[str] = list(chunks(bytes.hex(line), 2))
 
         hex_dump.append(
-            '{:0x} {:47}  {}'.format(
+            '{:08x}: {:47}  {}'.format(
                 address * 16,
                 ' '.join(hex_vals),
                 ''.join(
