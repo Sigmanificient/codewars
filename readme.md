@@ -10,11 +10,11 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*279 solved katas !*
+*280 solved katas !*
 
 ```c
 4kyu : 2
-5kyu : 9
+5kyu : 10
 6kyu : 13
 7kyu : 37
 8kyu : 218
@@ -38,6 +38,9 @@
 	<summary>
 		<i>views solved 5 kyu</i>
 	</summary>
+
+`Convert a hax string to rgb`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
 
 `Hex dump`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
