@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*289 solved katas !*
+*295 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 10
 6kyu : 13
-7kyu : 41
-8kyu : 223
+7kyu : 46
+8kyu : 224
 ```
 
 <h2>4Kyu</h2>
@@ -131,6 +131,9 @@
 `Beginner series #3 sum of numbers`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Checks for prime numbers`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Credit card mask`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
 
@@ -153,6 +156,12 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Even numbers in an array`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Factorial`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Find the next perfect square`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Fizz buzz`:
@@ -209,6 +218,9 @@
 `Smallest product`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Split in parts`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Square every digit`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -228,6 +240,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Thinkful string drills repeater`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Vowel changer`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Vowel count`:
@@ -424,6 +439,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Exclamation marks series #11 replace all vowel to exclamation mark in the sentence`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Exclamation marks series #2 remove all exclamation marks from the end of sentence`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Exclamation marks series #6 remove n exclamation marks in the sentence from left to right`:
