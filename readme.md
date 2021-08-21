@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*314 solved katas !*
+*322 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 10
 6kyu : 13
 7kyu : 55
-8kyu : 234
+8kyu : 242
 ```
 
 <h2>4Kyu</h2>
@@ -291,6 +291,9 @@
 		<i>views solved 8 kyu</i>
 	</summary>
 
+`Enumerable magic #1 true for all`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Grasshoppper function syntax debugging`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -468,6 +471,9 @@
 `Enumerable magic #25 take the first n elements`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Enumerable magic #3 does my list include this`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Even or odd`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -478,6 +484,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Exclamation marks series #2 remove all exclamation marks from the end of sentence`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Exclamation marks series #4 remove all exclamation marks from sentence but ensure a exclamation mark at the end of string`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Exclamation marks series #6 remove n exclamation marks in the sentence from left to right`:
@@ -570,10 +579,16 @@
 `Grader`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Grasshopper array mean`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Grasshopper basic function fixer`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Grasshopper check for factor`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Grasshopper combine strings`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Grasshopper create the rooms`:
@@ -798,6 +813,9 @@
 `Remove exclamation marks`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Remove first and last character part two`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Remove string spaces`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -817,6 +835,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Return to sanity`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Return two highest values in list`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Returning strings`:
@@ -944,6 +965,9 @@
 
 `Usd cny`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
+
+`Validate code with simple regex`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Volume of a cuboid`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
