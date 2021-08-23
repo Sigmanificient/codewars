@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*322 solved katas !*
+*324 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 10
 6kyu : 13
 7kyu : 55
-8kyu : 242
+8kyu : 244
 ```
 
 <h2>4Kyu</h2>
@@ -306,6 +306,9 @@
 `Add length`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Add numbers`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Alan partride ii apple turnover`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -388,6 +391,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Color ghost`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Concurency convercy i`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Convert a string to an array`:
