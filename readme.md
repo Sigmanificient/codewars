@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*324 solved katas !*
+*326 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 10
-6kyu : 13
-7kyu : 55
+6kyu : 14
+7kyu : 56
 8kyu : 244
 ```
 
@@ -77,6 +77,9 @@
 	</summary>
 
 `Are they the same`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Backwards read primes`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Counting duplicates`:
@@ -193,6 +196,9 @@
 
 `List filtering`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Loop array`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
 
 `Middle me`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
