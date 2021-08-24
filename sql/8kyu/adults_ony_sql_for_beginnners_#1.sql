@@ -1,2 +1,4 @@
 -- Kata url: https://www.codewars.com/kata/590a95eede09f87472000213.
-select name, age from users where age >= 18
+SELECT name, age
+FROM users
+WHERE age >= 18;
