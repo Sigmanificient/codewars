@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*326 solved katas !*
+*328 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 10
 6kyu : 14
 7kyu : 56
-8kyu : 244
+8kyu : 246
 ```
 
 <h2>4Kyu</h2>
@@ -315,6 +315,9 @@
 `Add numbers`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Adults ony sql for beginnners #1`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/sql.png" height="20px">
+
 `Alan partride ii apple turnover`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -523,6 +526,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Find maximum and minimum valus of a list`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Find multiples of a number`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Find nearest square number`:
