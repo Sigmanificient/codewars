@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*331 solved katas !*
+*333 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 10
 6kyu : 14
 7kyu : 59
-8kyu : 246
+8kyu : 248
 ```
 
 <h2>4Kyu</h2>
@@ -678,6 +678,9 @@
 `How much water do i need`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`How old will i be in 2099`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `I love you a little a lot passionately not at all`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -820,6 +823,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Price of mangoes`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Printing array elements with command delimiters`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Quarter of the year`:
