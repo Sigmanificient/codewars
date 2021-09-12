@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*333 solved katas !*
+*338 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 10
 6kyu : 14
-7kyu : 59
-8kyu : 248
+7kyu : 62
+8kyu : 250
 ```
 
 <h2>4Kyu</h2>
@@ -191,6 +191,9 @@
 `Im everywhere`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Is even bitwise series`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Jaden casing strings`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -202,6 +205,9 @@
 
 `Loop array`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
+
+`Map function issue`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Middle me`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
@@ -288,6 +294,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `What a classy song`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Which string is worth more`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Words to sentence`:
@@ -567,6 +576,9 @@
 `Fixme replace all dots`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`For ufc fans total beginners conor mcgregor vs george saint pierre`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Formatting decimal places #0`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -741,6 +753,9 @@
 `Lario and muigi pipe problem`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Loenardo dicaprio and oscars`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Logical calculator`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -862,7 +877,7 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Return negative`:
-<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/php.png" height="20px">
 
 `Return the day`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
