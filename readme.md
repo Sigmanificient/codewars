@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*338 solved katas !*
+*339 solved katas !*
 
 ```c
 4kyu : 2
 5kyu : 10
 6kyu : 14
 7kyu : 62
-8kyu : 250
+8kyu : 251
 ```
 
 <h2>4Kyu</h2>
@@ -138,7 +138,7 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Credit card mask`:
-<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Decimal reverser`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
@@ -468,6 +468,9 @@
 `Csv representation of array`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
+`Did she said hallo`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Difference of volume of cuboids`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
@@ -778,7 +781,7 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Multiply`:
-<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/sql.png" height="20px">
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/sql.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `My head is at the wrong end`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
@@ -877,7 +880,7 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Return negative`:
-<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/php.png" height="20px">
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/php.png" height="20px">
 
 `Return the day`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
