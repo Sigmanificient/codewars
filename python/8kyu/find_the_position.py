@@ -2,6 +2,4 @@
 
 
 def position(alphabet: str) -> str:
-    return "Position of alphabet: {}".format(
-        "abcdefghijklmnopqrstuvwxyz".index(alphabet) + 1
-    )
+    return f'Position of alphabet: {"abcdefghijklmnopqrstuvwxyz".index(alphabet) + 1}'

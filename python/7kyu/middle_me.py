@@ -2,4 +2,4 @@
 
 
 def middle_me(n: int, x: str, y: str) -> str:
-    return x.center(n + 1, y) if not n % 2 else x
+    return x if n % 2 else x.center(n + 1, y)

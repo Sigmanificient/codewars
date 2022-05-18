@@ -2,4 +2,4 @@
 
 
 def reverse_float_decimal(n: float) -> float:
-    return int(n) + float('0.' + str(round(n % 1, 5))[2:][::-1])
+    return int(n) + float(f'0.{str(round(n % 1, 5))[2:][::-1]}')

@@ -2,4 +2,4 @@
 
 
 def greet(name: str, owner: str) -> str:
-    return 'Hello {}'.format("boss" if name == owner else "guest")
+    return f'Hello {"boss" if name == owner else "guest"}'

@@ -2,4 +2,4 @@
 
 
 def printer_errors(s: str) -> str:
-    return f'{sum(1 for c in s if c not in "abcdefghijklm")}/{len(s)}'
+    return f"{sum(c not in 'abcdefghijklm' for c in s)}/{len(s)}"
