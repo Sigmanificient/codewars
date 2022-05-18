@@ -10,5 +10,4 @@ def next_id(arr: List[int]) -> int:
         if item != c:
             return c
         c += 1
-    else:
-        return c
+    return c

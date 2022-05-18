@@ -14,7 +14,4 @@ def grader(grade: float) -> str:
     if grade > 1:
         return 'F'
 
-    for key, val in GRADES.items():
-        if grade >= key:
-            return val
-    return 'F'
+    return next((val for key, val in GRADES.items() if grade >= key), 'F')
