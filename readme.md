@@ -880,7 +880,7 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Return negative`:
-<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/php.png" height="20px">
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Return the day`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
