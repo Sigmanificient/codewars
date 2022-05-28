@@ -3,5 +3,5 @@
 from typing import List
 
 
-def two_highest(arg1: List[int]) -> List[int, int]:
+def two_highest(arg1: List[int]) -> List[int]:
     return sorted(set(arg1), reverse=True)[:2]

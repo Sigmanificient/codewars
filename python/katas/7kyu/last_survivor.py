@@ -3,7 +3,7 @@
 from typing import List
 
 
-def last_survivor(letters: str, coords: List[int, int]) -> str:
+def last_survivor(letters: str, coords: List[int]) -> str:
     letters: List[str] = list(letters)
 
     for r in coords:
