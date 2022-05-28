@@ -18,3 +18,10 @@ def solution(string: str, markers: List[str]) -> str:
         stripped.append(min(new_lines))
 
     return '\n'.join(line.strip() for line in stripped)
+
+
+def test_solution():
+    sol = solution("apples, pears # and bananas\ngrapes\nbananas !apples", ["#", "!"])
+    assert sol == "apples, pears\ngrapes\nbananas"
+
+    assert solution("a #b\nc\nd $e f g", ["#", "$"]) == "a\nc\nd"
