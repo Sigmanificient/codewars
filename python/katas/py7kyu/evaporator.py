@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/5506b230a11c0aeab3000c1f."""
 
 
-def evaporator(content: int, evap_per_day: int, threshold: int) -> int:
+def evaporator(content: float, evap_per_day: int, threshold: int) -> int:
     c: int = 0
     mn: float = content * (threshold / 100)
 

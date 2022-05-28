@@ -5,7 +5,14 @@ from typing import Union, List
 
 
 def is_vow(inp: List[Union[int, str]]) -> List[Union[int, str]]:
-    return [
-        chr(x) if (chr(x) if isinstance(x, int) else x) in 'aeiou' else x
-        for x in inp
-    ]
+    buf: List[Union[int, str]] = []
+    for x in inp:
+        letter: str = chr(x) if isinstance(x, int) else x
+
+        if letter in 'aeiou':
+            buf.append(letter)
+
+        else:
+            buf.append(x)
+
+    return buf

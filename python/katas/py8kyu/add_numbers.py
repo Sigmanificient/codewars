@@ -2,5 +2,5 @@
 from typing import Tuple
 
 
-def add(*n: Tuple[int]) -> int:
+def add(*n: int) -> int:
     return sum(n)

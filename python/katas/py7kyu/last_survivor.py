@@ -4,9 +4,9 @@ from typing import List
 
 
 def last_survivor(letters: str, coords: List[int]) -> str:
-    letters: List[str] = list(letters)
+    buf_letters = list(letters)
 
     for r in coords:
-        letters.pop(r)
+        buf_letters.pop(r)
 
-    return letters[-1]
+    return buf_letters[-1]

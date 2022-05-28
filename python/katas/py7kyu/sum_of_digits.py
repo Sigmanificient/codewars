@@ -7,5 +7,5 @@ def sum_of_digits(digits: Optional[Union[int, str]]) -> str:
     if digits is None:
         return ''
 
-    digits: str = str(digits)
+    digits = str(digits)
     return ' + '.join(digits) + f" = {sum(map(int, digits))}"

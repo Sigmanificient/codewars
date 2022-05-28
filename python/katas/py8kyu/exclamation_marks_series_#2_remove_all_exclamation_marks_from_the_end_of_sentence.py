@@ -8,3 +8,5 @@ def remove(s: str) -> str:
     for c, char in enumerate(s[::-1]):
         if char != '!':
             return s[:-c]
+
+    return s

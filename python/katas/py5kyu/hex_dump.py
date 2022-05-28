@@ -1,7 +1,7 @@
-from typing import List, Any, Iterable, Sized
+from typing import List, Any, Iterable, AnyStr
 
 
-def chunks(lst: Sized, n: int) -> Iterable[Any]:
+def chunks(lst: AnyStr, n: int) -> Iterable[Any]:
     """Yield successive n-sized chunks from lst."""
     for i in range(0, len(lst), n):
         yield lst[i:i + n]

@@ -13,6 +13,14 @@ opts: Dict[str, Callable[[int, int], Union[int, float]]] = {
 
 def calculator(
     x: Union[int, str], y: Union[int, str], op: str
-) -> Union[int, str]:
-    op = opts.get(op)
-    return op(x, y) if callable(op) and isinstance(x, int) and isinstance(y, int) else "unknown value"
+) -> Union[float, str]:
+    _err: str = "unknown value"
+
+    if not isinstance(x, int) or not isinstance(y, int):
+        return _err
+
+    func = opts.get(op)
+    if func is None:
+        return _err
+
+    return func(x, y)

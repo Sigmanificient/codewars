@@ -6,11 +6,13 @@ from typing import Optional
 
 def parse_float(string: str) -> Optional[float]:
     if isinstance(string, list):
-        return
+        return None
 
     if '.' not in string:
-        return
+        return None
 
     int_part, dec_part = string.split('.')
     if int_part.isdigit() and dec_part.isdigit():
         return float(string)
+
+    return None

@@ -4,4 +4,4 @@ from typing import Union
 
 
 def cockroach_speed(s: Union[int, float]) -> int:
-    return (s * 1000) // 36
+    return int((s * 1000) // 36)

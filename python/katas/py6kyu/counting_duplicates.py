@@ -2,5 +2,5 @@
 
 
 def duplicate_count(text: str) -> int:
-    text: str = text.lower()
+    text = text.lower()
     return sum(True for x in set(text) if text.count(x) > 1)

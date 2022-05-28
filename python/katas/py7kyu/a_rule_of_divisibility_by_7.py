@@ -6,6 +6,6 @@ from typing import Tuple
 def seven(m: int) -> Tuple[int, int]:
     step: int = 0
     while m > 99:
-        m: int = (m // 10 - (2 * (m % 10)))
+        m = (m // 10 - (2 * (m % 10)))
         step += 1
     return m, step

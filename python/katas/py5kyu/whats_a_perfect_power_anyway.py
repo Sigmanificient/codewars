@@ -9,7 +9,7 @@ def isPP(n: int) -> Optional[List[int]]:
     ]
 
     if not possibles:
-        return
+        return None
 
     for possible in possibles:
         c, x = 1, 0
@@ -20,3 +20,5 @@ def isPP(n: int) -> Optional[List[int]]:
 
         if x == n:
             return [possible, c - 1]
+
+    return None

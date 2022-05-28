@@ -1,10 +1,10 @@
 """Kata url: https://www.codewars.com/kata/5865a75da5f19147370000c7."""
-from typing import List, Union
+from typing import List, TypeVar
+
+Addable = TypeVar("Addable", str, int)
 
 
-def add_arrays(
-    array: List[Union[int, str]], array2: List[Union[int, str]]
-) -> List[Union[int, str]]:
+def add_arrays(array: List[Addable], array2: List[Addable]) -> List[Addable]:
     if len(array) != len(array2):
         raise ValueError
 

@@ -10,5 +10,5 @@ def unique_in_order(iterable: str) -> List[str]:
         if last == element:
             continue
         array.append(element)
-        last: Optional[str] = element
+        last = element
     return array

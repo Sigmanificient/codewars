@@ -6,13 +6,13 @@ charset: str = "abcdefghijklmnopqrstuvwxyz"
 def play_pass(s: str, n: int) -> str:
     string: str = ''
     for c, char in enumerate(s):
-        char: str = char.lower()
+        char = char.lower()
 
         if char.isdigit():
             char = str(9 - int(char))
 
         if char in charset:
-            char: str = charset[(charset.index(char) + n) % len(charset)]
+            char = charset[(charset.index(char) + n) % len(charset)]
 
-        string: str = f'{char if c % 2 else char.upper()}{string}'
+        string = f'{char if c % 2 else char.upper()}{string}'
     return string
