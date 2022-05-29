@@ -12,3 +12,7 @@ def unique_in_order(iterable: str) -> List[str]:
         array.append(element)
         last = element
     return array
+
+
+def test_unique_in_order():
+    assert unique_in_order('AAAABBBCCDAABBB') == ['A', 'B', 'C', 'D', 'A', 'B']
