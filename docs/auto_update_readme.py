@@ -11,10 +11,6 @@ PROFILE = f'![Codewars](https://www.codewars.com/users/{USER}/badges/large)'
 EXCLUDED = ['docs', '$RECYCLE.BIN', 'LICENSE']
 
 buttons_urls = {
-    'Scrutinizer Code Quality':
-        f"https://scrutinizer-ci.com/g/{USER}/{REPO_NAME}"
-        f"/badges/quality-score.png?b=master",
-
     'GitHub code size in bytes':
         f"{SHIELDS}/github/languages/code-size/{USER}/{REPO_NAME}",
 
