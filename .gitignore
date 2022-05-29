@@ -1,1 +1,9 @@
+# IDE folder settings
 .idea
+
+# coverage
+.coverage
+
+# python env
+venv
+__pycache__
