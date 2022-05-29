@@ -3,7 +3,7 @@ from typing import List
 
 
 def move_zeros(array: List[int]) -> List[int]:
-    filtered: List[int] = list(map(bool, array))
+    filtered: List[int] = list(filter(bool, array))
     return filtered + [0] * (len(array) - len(filtered))
 
 
