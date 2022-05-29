@@ -1,6 +1,6 @@
-from typing import List, Any, Iterable, AnyStr
+"""Kata url: https://www.codewars.com/kata/5ab3be5f6a176bef4e00012d."""
 
-import pytest
+from typing import List, Any, Iterable, AnyStr
 
 
 def chunks(lst: AnyStr, n: int) -> Iterable[Any]:
