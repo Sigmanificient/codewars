@@ -1,6 +1,9 @@
 # IDE folder settings
 .idea
 
+# pytest
+.pytest_cache
+
 # coverage
 .coverage
 
