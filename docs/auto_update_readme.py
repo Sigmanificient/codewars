@@ -43,7 +43,7 @@ for directory_language in os.listdir('src/'):
         kyu_level = int(''.join(c for c in kyu if c.isdigit()))
 
         for file in os.listdir(f'src/{directory_language}/katas/{kyu}'):
-            if '.' not in file:
+            if file.count('.') != 1:
                 continue
 
             filename, ext = file.split(".")
