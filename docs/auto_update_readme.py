@@ -36,14 +36,20 @@ difficulties: Dict[int, List[int]] = {i: [] for i in range(1, 9)}
 counts: Dict[int, int] = {}
 total: int = 0
 
-for directory_language in os.listdir('.'):
+for directory_language in os.listdir('src/'):
     if directory_language in EXCLUDED or '.' in directory_language:
         continue
 
-    for kyu in os.listdir(directory_language):
-        kyu_level = int(kyu[0])
+    for kyu in os.listdir(f'src/{directory_language}/katas'):
+        if '_' in kyu:
+            continue
 
-        for file in os.listdir(f'{directory_language}/{kyu}'):
+        kyu_level = int(''.join(c for c in kyu if c.isdigit()))
+
+        for file in os.listdir(f'src/{directory_language}/katas/{kyu}'):
+            if '.' not in file:
+                continue
+
             filename, ext = file.split(".")
 
             if kyu_level not in counts:
