@@ -25,3 +25,19 @@ def get_prime_factors(n):
         result.append(n)
 
     return result
+
+
+def test_prime_factors():
+    assert prime_factors(25) == '(5**2)'
+    assert prime_factors(7 * 5) == '(5)(7)'
+    assert prime_factors(100) == '(2**2)(5**2)'
+    assert prime_factors(3301) == '(3301)'
+    assert prime_factors(7775460) == "(2**2)(3**3)(5)(7)(11**2)(17)"
+
+
+def test_get_prime_factors():
+    assert get_prime_factors(25) == [5, 5]
+    assert get_prime_factors(7 * 5) == [5, 7]
+    assert get_prime_factors(100) == [2, 2, 5, 5]
+    assert get_prime_factors(3301) == [3301]
+    assert get_prime_factors(7775460) == [2, 2, 3, 3, 3, 5, 7, 11, 11, 17]
