@@ -1,6 +1,5 @@
 # Codewars
 
-![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Sigmanificient/Codewars/badges/quality-score.png?b=master)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sigmanificient/Codewars)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sigmanificient/Codewars)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/Codewars)
@@ -10,12 +9,12 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*344 solved katas !*
+*346 solved katas !*
 
 ```c
 4kyu : 3
-5kyu : 11
-6kyu : 15
+5kyu : 12
+6kyu : 16
 7kyu : 63
 8kyu : 252
 ```
@@ -46,6 +45,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
 
 `Hex dump`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Ips between`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Isbn 10 validation`:
@@ -83,6 +85,9 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Backwards read primes`:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
+`Count the divisible numbers`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Counting duplicates`:
