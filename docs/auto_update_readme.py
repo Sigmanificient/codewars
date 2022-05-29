@@ -7,6 +7,8 @@ REPO_NAME = "Codewars"
 SHIELDS = 'https://img.shields.io'
 IMG_BASE_LINK = f'https://github.com/{USER}/{REPO_NAME}/blob/master/docs/img/'
 PROFILE = f'![Codewars](https://www.codewars.com/users/{USER}/badges/large)'
+COVERAGE = f'https://codecov.io/gh/{USER}/{REPO_NAME}'
+
 
 EXCLUDED = ['docs', '$RECYCLE.BIN', 'LICENSE']
 
@@ -21,7 +23,10 @@ buttons_urls = {
         f"{SHIELDS}/tokei/lines/github/{USER}/{REPO_NAME}",
 
     'GitHub last commit':
-        f"{SHIELDS}/github/last-commit/{USER}/{REPO_NAME}"
+        f"{SHIELDS}/github/last-commit/{USER}/{REPO_NAME}",
+
+    'Codecov':
+        f"{SHIELDS}/codecov/gh/{USER}/{REPO_NAME}",
 }
 
 buttons = '\n'.join(f'![{k}]({v})' for k, v in buttons_urls.items())
