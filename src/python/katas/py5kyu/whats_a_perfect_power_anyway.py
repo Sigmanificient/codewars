@@ -42,3 +42,6 @@ def test_isPP():
 
         assert r is not None
         assert r[0]**r[1] == l
+
+    assert isPP(1) is None
+    assert isPP(20) is None
