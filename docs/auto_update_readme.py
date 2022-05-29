@@ -7,7 +7,7 @@ REPO_NAME = "Codewars"
 SHIELDS = 'https://img.shields.io'
 IMG_BASE_LINK = f'https://github.com/{USER}/{REPO_NAME}/blob/master/docs/img/'
 PROFILE = f'![Codewars](https://www.codewars.com/users/{USER}/badges/large)'
-COVERAGE = f'https://codecov.io/gh/{USER}/{REPO_NAME}'
+COVERAGE = f'https://codecov.io/gh/{USER}/{REPO_NAME}/branch/master/graph/badge.svg'
 
 
 EXCLUDED = ['docs', '$RECYCLE.BIN', 'LICENSE']
