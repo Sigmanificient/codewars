@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*339 solved katas !*
+*344 solved katas !*
 
 ```c
-4kyu : 2
-5kyu : 10
-6kyu : 14
-7kyu : 62
-8kyu : 251
+4kyu : 3
+5kyu : 11
+6kyu : 15
+7kyu : 63
+8kyu : 252
 ```
 
 <h2>4Kyu</h2>
@@ -39,13 +39,16 @@
 		<i>views solved 5 kyu</i>
 	</summary>
 
+`  init  `:
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+
 `Convert a hax string to rgb`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
 
 `Hex dump`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
-`Isbn-10 validation`:
+`Isbn 10 validation`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Moving zeros to the end`:
@@ -109,7 +112,7 @@
 `Replace with alphabet position`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
-`Simple fun #305 typist`:
+`Simple fun 305 typist`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Tribonacci sequence`:
@@ -138,7 +141,7 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Credit card mask`:
-<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
 
 `Decimal reverser`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
@@ -880,7 +883,7 @@
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Return negative`:
-<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
+<img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/php.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px"> <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/js.png" height="20px">
 
 `Return the day`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
