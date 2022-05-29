@@ -6,7 +6,12 @@
 
 # coverage
 .coverage
+coverage
+*.xml
 
 # python env
 venv
 __pycache__
+
+# js dependencies
+node_modules

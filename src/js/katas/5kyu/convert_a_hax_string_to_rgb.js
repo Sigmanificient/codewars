@@ -9,3 +9,5 @@ function hexStringToRGB(hexString) {
     b: parseInt(rgb[2], 16)
   }
 }
+
+module.exports = hexStringToRGB

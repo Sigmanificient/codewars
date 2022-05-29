@@ -16,8 +16,12 @@ def comp(array: Optional[List[int]], array2: Optional[List[int]]) -> bool:
 
 
 def test_comp():
-    a1 = [121, 144, 19, 161, 19, 144, 19, 11]
+    assert not comp(None, [1, 2, 3])
+    assert not comp([1, 2, 3], None)
 
+    assert not comp([1, 2, 3], [1, 2, 3, 4])
+
+    a1 = [121, 144, 19, 161, 19, 144, 19, 11]
     a2 = [11 * 11, 121 * 121, 144 * 144, 19 * 19, 161 * 161, 19 * 19, 144 * 144, 19 * 19]
     assert comp(a1, a2)
 
