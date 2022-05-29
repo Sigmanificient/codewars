@@ -8,3 +8,9 @@ def dig_pow(n: int, p: int) -> int:
         p += 1
 
     return r // n if (r % n) == 0 else -1
+
+
+def test_dig_pow():
+    assert dig_pow(89, 1) == 1
+    assert dig_pow(92, 1) == -1
+    assert dig_pow(46288, 3) == 51
