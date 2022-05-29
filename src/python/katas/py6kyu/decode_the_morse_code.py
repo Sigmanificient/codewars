@@ -67,3 +67,8 @@ def decodeMorse(morse_code: str) -> str:
             MORSE_CODE.get(char, '') for char in word.split(' ')
         ) for word in morse_code.split('   ') if word.replace(' ', '')
     )
+
+
+def test_decode_morse():
+    assert decodeMorse('.... . -.--   .--- ..- -.. .') == 'HEY JUDE'
+    assert decodeMorse('...---...') == 'SOS'
