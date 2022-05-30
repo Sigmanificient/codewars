@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sigmanificient/Codewars)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Sigmanificient/Codewars)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sigmanificient/Codewars)
-![Codecov](https://img.shields.io/codecov/gh/Sigmanificient/Codewars)
+![Codecov](https://codecov.io/gh/Sigmanificient/Codewars/branch/master/graph/badge.svg?token=0MNNDL5VSF)
 
 <br>
 
