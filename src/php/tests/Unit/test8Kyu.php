@@ -12,7 +12,7 @@ class Test8Kyu extends TestCase
 {
     /** @covers makeNegative */
     /** @test */
-    public function makeNegative()
+    public function TestMakeNegative()
     {
         $this->assertEquals(0, makeNegative(0));
         $this->assertEquals(-1, makeNegative(1));
