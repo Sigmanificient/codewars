@@ -4,11 +4,11 @@
          cacheResultFile=".phpunit.cache/test-results"
          executionOrder="depends,defects"
          forceCoversAnnotation="true"
-         beStrictAboutCoversAnnotation="true"
+         beStrictAboutCoversAnnotation="false"
          beStrictAboutOutputDuringTests="true"
          beStrictAboutTodoAnnotatedTests="true"
          convertDeprecationsToExceptions="true"
-         failOnRisky="true"
+         failOnRisky="false"
          failOnWarning="true"
          verbose="true">
     <testsuites>
@@ -19,10 +19,8 @@
 
     <coverage cacheDirectory=".phpunit.cache/code-coverage"
               processUncoveredFiles="true">
-        <whitelist forceCoversAnnotation="false">
-            <include>
-                <directory suffix=".php">katas/8kyu</directory>
-            </include>
-        </whitelist>
+        <include>
+            <directory suffix=".php">katas/8kyu</directory>
+        </include>
     </coverage>
 </phpunit>
