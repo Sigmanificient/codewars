@@ -15,6 +15,7 @@ jobs:
       id: composer_config
       uses: php-actions/composer@v6
       with:
+        php_extensions: xdebug
         args: -d src/php
 
     - name: Run PHPUnit
