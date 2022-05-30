@@ -4,10 +4,11 @@ declare(strict_types=1);
 
 namespace Tests\Unit;
 
-define('ROOT', dirname(__DIR__, 2));
-require ROOT . '/katas/8kyu/return_negative.php';
+use PHPUnit\Framework\TestCase;
 
-class Test8Kyu extends \PHPUnit\Framework\TestCase
+require_once dirname(__DIR__, 2) . '/katas/8kyu/return_negative.php';
+
+class Test8Kyu extends TestCase
 {
     /** @test */
     public function makeNegative()
