@@ -1,4 +1,4 @@
-name: JavaScript Coverage
+name: PHP Coverage
 
 on: push
 
