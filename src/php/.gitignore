@@ -1,1 +1,6 @@
+# Dependencies
 vendor
+
+# Unittests
+!phpunit.xml
+*.cache
