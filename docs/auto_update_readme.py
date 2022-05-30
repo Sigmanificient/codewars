@@ -25,8 +25,7 @@ buttons_urls = {
     'GitHub last commit':
         f"{SHIELDS}/github/last-commit/{USER}/{REPO_NAME}",
 
-    'Codecov':
-        f"{SHIELDS}/codecov/gh/{USER}/{REPO_NAME}",
+    'Codecov': COVERAGE
 }
 
 buttons = '\n'.join(f'![{k}]({v})' for k, v in buttons_urls.items())
