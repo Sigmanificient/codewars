@@ -18,7 +18,8 @@
     </testsuites>
 
     <coverage cacheDirectory=".phpunit.cache/code-coverage"
-              processUncoveredFiles="true">
+              processUncoveredFiles="true"
+              forceCoversAnnotation="false">
         <include>
             <directory suffix=".php">katas/</directory>
         </include>
