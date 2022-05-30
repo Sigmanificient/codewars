@@ -19,8 +19,10 @@
 
     <coverage cacheDirectory=".phpunit.cache/code-coverage"
               processUncoveredFiles="true">
-        <include>
-            <directory suffix=".php" forceCoversAnnotation="false">katas/8kyu</directory>
-        </include>
+        <whitelist forceCoversAnnotation="false">
+            <include>
+                <directory suffix=".php">katas/8kyu</directory>
+            </include>
+        </whitelist>
     </coverage>
 </phpunit>
