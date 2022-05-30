@@ -13,7 +13,7 @@ jobs:
 
     - name: Get composer cache directory
       id: composer_config
-      uses: php-actions/composer@v7
+      uses: php-actions/composer@v6
       with:
         args: -d src/php
 
