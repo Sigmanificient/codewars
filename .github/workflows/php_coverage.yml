@@ -1,0 +1,28 @@
+name: JavaScript Coverage
+
+on: push
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get into php dir
+      run: cd src/php
+
+    - name: Get composer cache directory
+      id: composer_config
+      uses: baschny/php-composer-action@v1
+      with:
+        composer_version: 2.3.5
+        command: install
+
+    - name: Run PHPUnit
+      run: vendor/bin/phpunit --coverage-clover=clover coverage.xml
+
+    - name: Upload coverage report
+      run: bash <(curl -s https://codecov.io/bash)
