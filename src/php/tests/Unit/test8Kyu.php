@@ -10,7 +10,8 @@ require_once dirname(__DIR__, 2) . '/katas/8kyu/return_negative.php';
 
 class Test8Kyu extends TestCase
 {
-    /** @test @covers */
+    /* @covers */
+    /* @test */
     public function makeNegative()
     {
         $this->assertEquals(0, makeNegative(0));
