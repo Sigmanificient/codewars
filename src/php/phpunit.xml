@@ -23,4 +23,9 @@
             <directory suffix=".php">katas/</directory>
         </include>
     </coverage>
+
+
+    <logging>
+        <log type="coverage-clover" target="coverage.xml" lowUpperBound="35" highLowerBound="70"/>
+    </logging>
 </phpunit>
