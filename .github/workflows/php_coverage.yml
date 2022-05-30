@@ -18,7 +18,7 @@ jobs:
         args: -d src/php
 
     - name: Run PHPUnit
-      run: src/php/vendor/bin/phpunit --coverage-clover=clover coverage.xml
+      run: src/php/vendor/bin/phpunit --coverage-clover=clover src/php/coverage.xml
 
     - name: Upload coverage report
       run: bash <(curl -s https://codecov.io/bash)
