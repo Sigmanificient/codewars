@@ -9,3 +9,10 @@ def seven(m: int) -> Tuple[int, int]:
         m = (m // 10 - (2 * (m % 10)))
         step += 1
     return m, step
+
+
+def test_seven():
+    assert seven(1603) == (7, 2)
+    assert seven(371) == (35, 1)
+    assert seven(483) == (42, 1)
+    assert seven(483595) == (28, 4)
