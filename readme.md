@@ -137,7 +137,7 @@
 `A rule of divisibility by 7`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
-`All star code challenge #20`:
+`All star code challenge 20`:
 <img src="https://github.com/Sigmanificient/Codewars/blob/master/docs/img/py.png" height="20px">
 
 `Beginner series #3 sum of numbers`:
