@@ -1,3 +1,4 @@
+name: Updating readme
 
 on:
   workflow_dispatch:
@@ -17,16 +18,14 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
 
-      - name: running script
-        run: python -m scripts.auto_update_readme
-
-      - name: Commit files
+      - name: setup git
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull
+
+      - name: running script
+        run: |
+          python -m scripts.auto_update_readme
           git commit -m "Add changes" -a
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          git push || echo "No changes to push"
