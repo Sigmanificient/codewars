@@ -28,7 +28,7 @@ all: fclean deps
 $(PY_ENV):
 	@ python -m venv $@
 	@ chmod +x $@/bin/activate
-	@ ./$@/bin/activate
+	@ sh $@/bin/activate
 
 	@ $^/bin/pip install -r $(PY_DIR)/requirements.txt
 
