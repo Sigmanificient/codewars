@@ -18,7 +18,7 @@ jobs:
           architecture: 'x64'
 
       - name: running script
-        run: python -m docs.auto_update_readme
+        run: python -m scripts.auto_update_readme
 
       - name: Commit files
         run: |
