@@ -2,6 +2,7 @@ SRC_DIR = src
 
 JS_DIR = $(SRC_DIR)/js
 PHP_DIR = $(SRC_DIR)/php
+
 PY_DIR = $(SRC_DIR)/python
 
 PY_ENV = $(PY_DIR)/venv
@@ -22,16 +23,13 @@ endif
 
 all: fclean deps
 
-# - Envs ---------------------------------------------------------------------------------------------------------------
+# - Deps ---------------------------------------------------------------------------------------------------------------
 
 $(PY_ENV):
 	@ python -m venv $@
 	@ chmod +x $@/bin/activate
 	@ ./$@/bin/activate
 
-# - Deps ---------------------------------------------------------------------------------------------------------------
-
-PY_DEPS: $(PY_ENV)
 	@ $^/bin/pip3 install -r $(PY_DIR)/requirements.txt
 
 $(JS_DEPS):
@@ -40,12 +38,12 @@ $(JS_DEPS):
 $(PHP_VENDOR):
 	@ composer install -d $(PHP_DIR)
 
-deps: $(PHP_VENDOR) $(JS_DEPS) PY_DEPS
+deps: $(PHP_VENDOR) $(JS_DEPS) $(PY_ENV)
 	@ echo -e "$(BOLD)* All dependencies were installed$(RESET)" $(COLOR)
 
 # - Readme -------------------------------------------------------------------------------------------------------------
 
-docs/readme.md: $(PY_ENV)
+docs/readme.md:
 	@ python -m scripts.auto_update_readme
 	@ echo -e "$(BOLD)* Generated new readme.md$(RESET)" $(COLOR)
 
@@ -57,9 +55,9 @@ js_test: $(JS_DEPS)
 php_test: $(PHP_VENDOR)
 	@ $(PHP_VENDOR)/bin/phpunit --coverage-clover $(PHP_DIR)/coverage.xml -c $(PHP_DIR)/phpunit.xml
 
-py_test: PY_DEPS
-	@ python -m pytest $(PY_DIR)/katas/*/*.py --cov=$(PY_DIR)
-	@ python -m coverage xml -o $(PY_DIR)/coverage.xml
+py_test: $(PY_ENV)
+	@ $(PY_ENV)/bin/python -m pytest $(PY_DIR)/katas/*/*.py --cov=$(PY_DIR)
+	@ $(PY_ENV)/bin/python -m coverage xml -o $(PY_DIR)/coverage.xml
 
 cov: clean js_test php_test py_test
 
