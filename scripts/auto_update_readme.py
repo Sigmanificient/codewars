@@ -5,7 +5,6 @@ USER = "Sigmanificient"
 REPO_NAME = "Codewars"
 
 SHIELDS = 'https://img.shields.io'
-IMG_BASE_LINK = f'https://github.com/{USER}/{REPO_NAME}/blob/master/docs/img/'
 PROFILE = f'![Codewars](https://www.codewars.com/users/{USER}/badges/large)'
 COVERAGE = f'https://codecov.io/gh/{USER}/{REPO_NAME}/branch/master/graph/badge.svg?token=0MNNDL5VSF'
 
@@ -66,7 +65,7 @@ for directory_language in os.listdir('src/'):
 
 stats = '\n'.join(f"{k}kyu : {v}" for k, v in sorted(counts.items()) if v)
 
-with open("readme.md", "w") as f:
+with open("docs/readme.md", "w") as f:
     f.write(f"# Codewars\n\n{buttons}\n\n<br>\n\n{PROFILE}")
     f.write(
         f"\n\n*{sum(counts.values())} solved katas !*\n\n```c\n{stats}\n```\n"
@@ -87,7 +86,7 @@ with open("readme.md", "w") as f:
 
         for filename in sorted(filenames):
             icons = ' '.join(
-                f'<img src="{IMG_BASE_LINK}{ext}.png" height="20px">'
+                f'<img src="img/{ext}.png" height="20px">'
                 for ext in challenges[filename]
             )
 
