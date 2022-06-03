@@ -47,7 +47,7 @@ deps: $(PHP_VENDOR) $(JS_DEPS) PY_DEPS
 
 docs/readme.md: $(PY_ENV)
 	@ python -m scripts.auto_update_readme
-	@ echo "$(BOLD)* Generated new readme.md$(RESET)" $(COLOR)
+	@ echo -e "$(BOLD)* Generated new readme.md$(RESET)" $(COLOR)
 
 # - Tests --------------------------------------------------------------------------------------------------------------
 
@@ -78,13 +78,13 @@ clean:
 	@ rm -rf .pytest_cache
 	@ rm -rf .mypy_cache
 
-	@ echo "$(BOLD)* cache cleaned up$(RESET)" $(COLOR)
+	@ echo -e "$(BOLD)* cache cleaned up$(RESET)" $(COLOR)
 
 fclean: clean
 	@ rm -rf $(JS_DEPS)
 	@ rm -rf $(PY_ENV)
 	@ rm -rf $(PHP_DIR)/vendor
-	@ echo "$(BOLD)* full clean done$(RESET)" $(COLOR)
+	@ echo -e "$(BOLD)* full clean done$(RESET)" $(COLOR)
 
 
 .PHONY: PY_DEPS js_test php_test py_test fclean deps
