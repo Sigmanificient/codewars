@@ -28,9 +28,9 @@ all: fclean deps
 $(PY_ENV):
 	@ python -m venv $@
 	@ chmod +x $@/bin/activate
-	@ sh $@/bin/activate
+	@ ./$@/bin/activate
 
-	@ $^/bin/pip install -r $(PY_DIR)/requirements.txt
+	@ $@/bin/pip3 install -r $(PY_DIR)/requirements.txt
 
 $(JS_DEPS):
 	@ yarn install --cwd $(JS_DIR)
