@@ -52,14 +52,16 @@ docs/readme.md: $(PY_ENV)
 # - Tests --------------------------------------------------------------------------------------------------------------
 
 js_test: $(JS_DEPS)
-	@ yarn --cwd $(JS_DIR) test
+	@ yarn --cwd $(JS_DIR) test --coverage
 
 php_test: $(PHP_VENDOR)
-	@ $(PHP_VENDOR)/bin/phpunit --coverage-clover coverage.xml -c $(PHP_DIR)/phpunit.xml
+	@ $(PHP_VENDOR)/bin/phpunit --coverage-clover $(PHP_DIR)/coverage.xml -c $(PHP_DIR)/phpunit.xml
 
 py_test: PY_DEPS
-	@ python -m pytest $(PY_DIR)/katas/*/*.py
+	@ python -m pytest $(PY_DIR)/katas/*/*.py --cov=$(PY_DIR)
+	@ python -m coverage xml -o $(PY_DIR)/coverage.xml
 
+cov: fclean js_test php_test py_test
 
 # - Cleaning -----------------------------------------------------------------------------------------------------------
 
@@ -87,4 +89,4 @@ fclean: clean
 	@ echo -e "$(BOLD)* full clean done$(RESET)" $(COLOR)
 
 
-.PHONY: PY_DEPS js_test php_test py_test fclean deps
+.PHONY: PY_DEPS js_test php_test py_test fclean deps cov
