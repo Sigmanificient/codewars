@@ -30,7 +30,7 @@ $(PY_ENV):
 	@ chmod +x $@/bin/activate
 	@ ./$@/bin/activate
 
-	@ $^/bin/pip3 install -r $(PY_DIR)/requirements.txt
+	@ $^/bin/pip install -r $(PY_DIR)/requirements.txt
 
 $(JS_DEPS):
 	@ yarn install --cwd $(JS_DIR)
@@ -56,7 +56,7 @@ php_test: $(PHP_VENDOR)
 	@ $(PHP_VENDOR)/bin/phpunit --coverage-clover $(PHP_DIR)/coverage.xml -c $(PHP_DIR)/phpunit.xml
 
 py_test: $(PY_ENV)
-	@ $(PY_ENV)/bin/python -m pytest $(PY_DIR)/katas/*/*.py --cov=$(PY_DIR)
+	@ $(PY_ENV)/bin/pytest $(PY_DIR)/katas/*/*.py --cov=$(PY_DIR)
 	@ $(PY_ENV)/bin/python -m coverage xml -o $(PY_DIR)/coverage.xml
 
 cov: clean js_test php_test py_test
