@@ -61,7 +61,7 @@ py_test: PY_DEPS
 	@ python -m pytest $(PY_DIR)/katas/*/*.py --cov=$(PY_DIR)
 	@ python -m coverage xml -o $(PY_DIR)/coverage.xml
 
-cov: fclean js_test php_test py_test
+cov: clean js_test php_test py_test
 
 # - Cleaning -----------------------------------------------------------------------------------------------------------
 
