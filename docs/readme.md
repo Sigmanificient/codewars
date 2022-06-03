@@ -39,6 +39,9 @@
 		<i>views solved 5 kyu</i>
 	</summary>
 
+`  init  `:
+<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
+
 `Convert a hax string to rgb`:
 <img src="img/js.png" height="20px">
 
@@ -130,9 +133,6 @@
 	<summary>
 		<i>views solved 7 kyu</i>
 	</summary>
-
-`  init  `:
-<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
 
 `A rule of divisibility by 7`:
 <img src="img/py.png" height="20px">
@@ -790,7 +790,7 @@
 <img src="img/py.png" height="20px">
 
 `Multiply`:
-<img src="img/py.png" height="20px"> <img src="img/sql.png" height="20px">
+<img src="img/sql.png" height="20px"> <img src="img/py.png" height="20px">
 
 `My head is at the wrong end`:
 <img src="img/py.png" height="20px">
@@ -889,7 +889,7 @@
 <img src="img/py.png" height="20px">
 
 `Return negative`:
-<img src="img/php.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/js.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/php.png" height="20px"> <img src="img/js.png" height="20px">
 
 `Return the day`:
 <img src="img/py.png" height="20px">
