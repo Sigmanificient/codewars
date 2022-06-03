@@ -1,0 +1,33 @@
+name: Coverage
+on: push
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 14.x
+
+    - name: Set up php
+      id: composer_config
+      uses: php-actions/composer@v6
+      with:
+        php_extensions: xdebug
+        args: -d src/php
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Generate cov report
+      run: make cov
+
+    - name: Upload to codecov
+      uses: codecov/codecov-action@v2
