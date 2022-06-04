@@ -20,7 +20,7 @@
     <coverage cacheDirectory=".phpunit.cache/code-coverage"
               processUncoveredFiles="true">
         <include>
-            <directory suffix=".php">katas/8kyu</directory>
+            <file>katas/8kyu/return_negative.php</file>
         </include>
     </coverage>
 </phpunit>
