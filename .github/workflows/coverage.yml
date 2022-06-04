@@ -32,4 +32,4 @@ jobs:
     - name: Upload to codecov
       uses: codecov/codecov-action@v2
       with:
-        files: ./src/js/coverage/clover.xml, ./src/php/coverage.xml, ./src/python/coverage.xml
+        files: ./src/js/coverage/clover.xml ./src/php/coverage.xml ./src/python/coverage.xml
