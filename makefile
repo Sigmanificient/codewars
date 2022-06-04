@@ -53,7 +53,7 @@ js_test: $(JS_DEPS)
 	@ yarn --cwd $(JS_DIR) test --coverage
 
 php_test: $(PHP_VENDOR)
-	@ $(PHP_VENDOR)/bin/phpunit -d XDEBUG_MODE=coverage --coverage-clover $(PHP_DIR)/coverage.xml -c $(PHP_DIR)/phpunit.xml
+	@ XDEBUG_MODE=coverage $(PHP_VENDOR)/bin/phpunit --coverage-clover $(PHP_DIR)/coverage.xml -c $(PHP_DIR)/phpunit.xml
 
 py_test: $(PY_ENV)
 	@ $(PY_ENV)/bin/pytest $(PY_DIR)/katas/*/*.py --cov=$(PY_DIR)
