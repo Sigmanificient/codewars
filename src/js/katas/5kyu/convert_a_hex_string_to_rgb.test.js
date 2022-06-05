@@ -1,4 +1,4 @@
-const hexStringToRGB = require('./convert_a_hax_string_to_rgb');
+const hexStringToRGB = require('./convert_a_hex_string_to_rgb');
 
 
 test('conversion', () => {
