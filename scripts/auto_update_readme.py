@@ -49,6 +49,9 @@ for directory_language in os.listdir('src/'):
             if file.count('.') != 1:
                 continue
 
+            if '__' in file:
+                continue
+
             filename, ext = file.split(".")
 
             if kyu_level not in counts:
