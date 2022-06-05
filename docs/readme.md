@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*346 solved katas !*
+*341 solved katas !*
 
 ```c
-4kyu : 3
-5kyu : 12
-6kyu : 16
-7kyu : 63
-8kyu : 252
+4kyu : 2
+5kyu : 11
+6kyu : 15
+7kyu : 62
+8kyu : 251
 ```
 
 <h2>4Kyu</h2>
@@ -39,10 +39,7 @@
 		<i>views solved 5 kyu</i>
 	</summary>
 
-`  init  `:
-<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
-
-`Convert a hax string to rgb`:
+`Convert a hex string to rgb`:
 <img src="img/js.png" height="20px">
 
 `Hex dump`:
