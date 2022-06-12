@@ -137,7 +137,7 @@
 `All star code challenge 20`:
 <img src="img/py.png" height="20px">
 
-`Beginner series #3 sum of numbers`:
+`Beginner series 3 sum of numbers`:
 <img src="img/py.png" height="20px">
 
 `Checks for prime numbers`:
