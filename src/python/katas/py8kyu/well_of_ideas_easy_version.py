@@ -11,3 +11,14 @@ def well(x: List[str]) -> str:
         return 'Publish!'
 
     return 'I smell a series!'
+
+
+def test_well():
+    args = {'g': 'good', 'b': 'bad'}
+
+    def prepare(x: List[str]) -> List[str]:
+        return list(map(args.__getitem__, x))
+
+    assert well(prepare('bbb')) == 'Fail!'
+    assert well(prepare('gbbbb')) == 'Publish!'
+    assert well(prepare('gbbbbgbbg')) == 'I smell a series!'
