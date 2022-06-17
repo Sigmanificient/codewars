@@ -6,3 +6,9 @@ def get_real_floor(n: int) -> int:
         return n
 
     return n - 1 if n < 13 else n - 2
+
+
+def test_get_real_floor():
+    assert get_real_floor(1) == 0
+    assert get_real_floor(5) == 4
+    assert get_real_floor(15) == 13
