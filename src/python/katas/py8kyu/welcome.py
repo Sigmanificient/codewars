@@ -26,3 +26,10 @@ languages: Dict[str, str] = {
 
 def greet(language: str) -> str:
     return languages.get(language, 'Welcome')
+
+
+def test_greet():
+    assert greet('english') == 'Welcome'
+    assert greet('dutch') == 'Welkom'
+    assert greet('IP_ADDRESS_INVALID') == 'Welcome'
+    assert greet('') == 'Welcome'
