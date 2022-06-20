@@ -14,4 +14,4 @@ def test_say_hello():
     assert say_hello(['Wallace', 'Russel', 'Osbourne'], 'Albany', 'New York') == 'Hello, Wallace Russel Osbourne! Welcome to Albany, New York!'
     assert say_hello(['Lupin', 'the', 'Third'], 'Los Angeles', 'California') == 'Hello, Lupin the Third! Welcome to Los Angeles, California!'
     assert say_hello(['Marlo', 'Stanfield'], 'Baltimore', 'Maryland') == 'Hello, Marlo Stanfield! Welcome to Baltimore, Maryland!'
-    assert say_hello(['', '', ''], '', '') == 'Hello, ! Welcome to , !'
+    assert say_hello([], '', '') == 'Hello, ! Welcome to , !'
