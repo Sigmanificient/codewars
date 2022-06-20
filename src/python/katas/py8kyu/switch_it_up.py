@@ -6,3 +6,8 @@ def switch_it_up(number: int) -> str:
         "Zero", "One", "Two", "Three", "Four",
         "Five", "Six", "Seven", "Eight", "Nine"
     )[number]
+
+
+def test_switch_it_up():
+    assert switch_it_up(0) == "Zero"
+    assert switch_it_up(9) == "Nine"
