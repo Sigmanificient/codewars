@@ -10,15 +10,26 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*341 solved katas !*
+*342 solved katas !*
 
 ```c
+3kyu : 1
 4kyu : 2
 5kyu : 11
 6kyu : 15
 7kyu : 62
 8kyu : 251
 ```
+
+<h2>3Kyu</h2>
+<details>
+	<summary>
+		<i>views solved 3 kyu</i>
+	</summary>
+
+`Spiralize`:
+<img src="img/py.png" height="20px">
+</details>
 
 <h2>4Kyu</h2>
 <details>
