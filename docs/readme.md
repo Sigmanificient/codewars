@@ -155,7 +155,7 @@
 <img src="img/py.png" height="20px">
 
 `Credit card mask`:
-<img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/js.png" height="20px">
 
 `Decimal reverser`:
 <img src="img/py.png" height="20px">
@@ -798,7 +798,7 @@
 <img src="img/py.png" height="20px">
 
 `Multiply`:
-<img src="img/sql.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/sql.png" height="20px">
 
 `My head is at the wrong end`:
 <img src="img/py.png" height="20px">
@@ -897,7 +897,7 @@
 <img src="img/py.png" height="20px">
 
 `Return negative`:
-<img src="img/php.png" height="20px"> <img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/js.png" height="20px"> <img src="img/php.png" height="20px">
 
 `Return the day`:
 <img src="img/py.png" height="20px">
