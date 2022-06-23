@@ -10,12 +10,12 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*344 solved katas !*
+*345 solved katas !*
 
 ```c
 3kyu : 1
 4kyu : 2
-5kyu : 11
+5kyu : 12
 6kyu : 17
 7kyu : 62
 8kyu : 251
@@ -63,6 +63,9 @@
 <img src="img/py.png" height="20px">
 
 `Moving zeros to the end`:
+<img src="img/py.png" height="20px">
+
+`Not very secure`:
 <img src="img/py.png" height="20px">
 
 `Perimeter`:
