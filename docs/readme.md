@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*342 solved katas !*
+*344 solved katas !*
 
 ```c
 3kyu : 1
 4kyu : 2
 5kyu : 11
-6kyu : 15
+6kyu : 17
 7kyu : 62
 8kyu : 251
 ```
@@ -90,10 +90,16 @@
 		<i>views solved 6 kyu</i>
 	</summary>
 
+`Alternating strings`:
+<img src="img/py.png" height="20px">
+
 `Are they the same`:
 <img src="img/py.png" height="20px">
 
 `Backwards read primes`:
+<img src="img/py.png" height="20px">
+
+`Build tower`:
 <img src="img/py.png" height="20px">
 
 `Count the divisible numbers`:
