@@ -1,4 +1,4 @@
-def valid_parentheses(string):
+def valid_parentheses(string: str) -> bool:
     depth = 0
 
     for ch in string:
