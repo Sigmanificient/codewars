@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*348 solved katas !*
+*349 solved katas !*
 
 ```c
 3kyu : 1
 4kyu : 2
 5kyu : 14
-6kyu : 18
+6kyu : 19
 7kyu : 62
 8kyu : 251
 ```
@@ -151,6 +151,9 @@
 <img src="img/py.png" height="20px">
 
 `Unique in order`:
+<img src="img/py.png" height="20px">
+
+`Write the number in expanded form`:
 <img src="img/py.png" height="20px">
 </details>
 
