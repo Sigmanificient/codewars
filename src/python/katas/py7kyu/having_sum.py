@@ -8,3 +8,8 @@ def halving_sum(n) -> int:
         r += n
 
     return r
+
+
+def test_halving():
+    assert halving_sum(25) == 47
+    assert halving_sum(127) == 247
