@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*352 solved katas !*
+*353 solved katas !*
 
 ```c
 3kyu : 1
 4kyu : 2
 5kyu : 14
 6kyu : 21
-7kyu : 63
+7kyu : 64
 8kyu : 251
 ```
 
@@ -203,6 +203,9 @@
 <img src="img/py.png" height="20px">
 
 `Even numbers in an array`:
+<img src="img/py.png" height="20px">
+
+`Exes ohs`:
 <img src="img/py.png" height="20px">
 
 `Factorial`:
