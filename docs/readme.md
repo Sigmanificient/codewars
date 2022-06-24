@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*345 solved katas !*
+*348 solved katas !*
 
 ```c
 3kyu : 1
 4kyu : 2
-5kyu : 12
-6kyu : 17
+5kyu : 14
+6kyu : 18
 7kyu : 62
 8kyu : 251
 ```
@@ -80,6 +80,12 @@
 `Scramble`:
 <img src="img/py.png" height="20px">
 
+`String incrementer`:
+<img src="img/py.png" height="20px">
+
+`Valid parentheses`:
+<img src="img/py.png" height="20px">
+
 `Whats a perfect power anyway`:
 <img src="img/py.png" height="20px">
 
@@ -112,6 +118,9 @@
 <img src="img/py.png" height="20px">
 
 `Decode the morse code`:
+<img src="img/py.png" height="20px">
+
+`Does my number look big in this`:
 <img src="img/py.png" height="20px">
 
 `Find the odd int`:
