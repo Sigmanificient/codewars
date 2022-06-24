@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*349 solved katas !*
+*352 solved katas !*
 
 ```c
 3kyu : 1
 4kyu : 2
 5kyu : 14
-6kyu : 19
-7kyu : 62
+6kyu : 21
+7kyu : 63
 8kyu : 251
 ```
 
@@ -105,6 +105,9 @@
 `Are they the same`:
 <img src="img/py.png" height="20px">
 
+`Array diff`:
+<img src="img/py.png" height="20px">
+
 `Backwards read primes`:
 <img src="img/py.png" height="20px">
 
@@ -115,6 +118,9 @@
 <img src="img/py.png" height="20px">
 
 `Counting duplicates`:
+<img src="img/py.png" height="20px">
+
+`Create phone number`:
 <img src="img/py.png" height="20px">
 
 `Decode the morse code`:
@@ -313,6 +319,9 @@
 `Switcheroo`:
 <img src="img/py.png" height="20px">
 
+`Testing 123`:
+<img src="img/py.png" height="20px">
+
 `Thinkful string drills poem formatter`:
 <img src="img/py.png" height="20px">
 
@@ -353,7 +362,7 @@
 		<i>views solved 8 kyu</i>
 	</summary>
 
-`Enumerable magic #1 true for all`:
+`Enumerable magic 1 true for all`:
 <img src="img/py.png" height="20px">
 
 `Grasshoppper function syntax debugging`:
@@ -377,7 +386,7 @@
 `Alan partride ii apple turnover`:
 <img src="img/py.png" height="20px">
 
-`All star code challenge #18`:
+`All star code challenge 18`:
 <img src="img/py.png" height="20px">
 
 `Alternate case`:
@@ -413,13 +422,13 @@
 `Beginner reduce but grow`:
 <img src="img/py.png" height="20px">
 
-`Beginner serie #1 school paperwork`:
+`Beginner series 1 school paperwork`:
 <img src="img/py.png" height="20px">
 
-`Beginner series #2 clock`:
+`Beginner series 2 clock`:
 <img src="img/py.png" height="20px">
 
-`Beginner series #4 cockroack`:
+`Beginner series 4 cockroack`:
 <img src="img/py.png" height="20px">
 
 `Bin to decimal`:
@@ -539,31 +548,31 @@
 `Enumerable magic #1 true for all`:
 <img src="img/js.png" height="20px">
 
-`Enumerable magic #20 cascading subsets`:
+`Enumerable magic 20 cascading subsets`:
 <img src="img/py.png" height="20px">
 
-`Enumerable magic #25 take the first n elements`:
+`Enumerable magic 25 take the first n elements`:
 <img src="img/py.png" height="20px">
 
-`Enumerable magic #3 does my list include this`:
+`Enumerable magic 3 does my list include this`:
 <img src="img/py.png" height="20px">
 
 `Even or odd`:
 <img src="img/py.png" height="20px">
 
-`Exclamation mark serie #1 remove a exclamation mark from the end of string`:
+`Exclamation mark series 1 remove a exclamation mark from the end of string`:
 <img src="img/py.png" height="20px">
 
-`Exclamation marks series #11 replace all vowel to exclamation mark in the sentence`:
+`Exclamation marks series 11 replace all vowel to exclamation mark in the sentence`:
 <img src="img/py.png" height="20px">
 
-`Exclamation marks series #2 remove all exclamation marks from the end of sentence`:
+`Exclamation marks series 2 remove all exclamation marks from the end of sentence`:
 <img src="img/py.png" height="20px">
 
-`Exclamation marks series #4 remove all exclamation marks from sentence but ensure a exclamation mark at the end of string`:
+`Exclamation marks series 4 remove all exclamation marks from sentence but ensure a exclamation mark at the end of string`:
 <img src="img/py.png" height="20px">
 
-`Exclamation marks series #6 remove n exclamation marks in the sentence from left to right`:
+`Exclamation marks series 6 remove n exclamation marks in the sentence from left to right`:
 <img src="img/py.png" height="20px">
 
 `Exclusive or xor logical operator`:
