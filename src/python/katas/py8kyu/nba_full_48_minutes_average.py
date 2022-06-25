@@ -2,7 +2,7 @@
 
 
 def nba_extrap(ppg: int, mpg: int) -> float:
-    return round((ppg / mpg) * 48, 1) or 0
+    return round((ppg / mpg) * 48, 1) if mpg else 0 or 0
 
 
 def test_nba_extrap():
