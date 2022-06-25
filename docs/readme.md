@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*353 solved katas !*
+*355 solved katas !*
 
 ```c
 3kyu : 1
 4kyu : 2
-5kyu : 14
-6kyu : 21
+5kyu : 15
+6kyu : 22
 7kyu : 64
 8kyu : 251
 ```
@@ -52,6 +52,9 @@
 
 `Convert a hex string to rgb`:
 <img src="img/js.png" height="20px">
+
+`First non repeating character`:
+<img src="img/py.png" height="20px">
 
 `Hex dump`:
 <img src="img/py.png" height="20px">
@@ -130,6 +133,9 @@
 <img src="img/py.png" height="20px">
 
 `Find the odd int`:
+<img src="img/py.png" height="20px">
+
+`Find the parity outlier`:
 <img src="img/py.png" height="20px">
 
 `Highest scoring word`:
@@ -836,9 +842,6 @@
 `My head is at the wrong end`:
 <img src="img/py.png" height="20px">
 
-`N-th power`:
-<img src="img/py.png" height="20px">
-
 `Name shuffler`:
 <img src="img/py.png" height="20px">
 
@@ -848,13 +851,16 @@
 `Nba full 48 minutes average`:
 <img src="img/py.png" height="20px">
 
-`No loop 2 you only need on`:
+`No loop 2 you only need one`:
 <img src="img/py.png" height="20px">
 
 `No zero for heros`:
 <img src="img/py.png" height="20px">
 
 `Noob code 01 supersize me or rather this integer`:
+<img src="img/py.png" height="20px">
+
+`Nth power`:
 <img src="img/py.png" height="20px">
 
 `Number to string`:
