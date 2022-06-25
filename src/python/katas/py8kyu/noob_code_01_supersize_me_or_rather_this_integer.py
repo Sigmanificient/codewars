@@ -2,7 +2,7 @@
 
 
 def super_size(n: int) -> int:
-    return int(''.join(sorted(str(n))))
+    return int(''.join(sorted(str(n), reverse=True)))
 
 
 def test_super_size():
