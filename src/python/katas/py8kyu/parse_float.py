@@ -16,3 +16,9 @@ def parse_float(string: str) -> Optional[float]:
         return float(string)
 
     return None
+
+
+def test_parse_float():
+    assert parse_float("1.0") == 1.0
+    assert parse_float("a") is None
+    assert parse_float("234.0234") == 234.0234
