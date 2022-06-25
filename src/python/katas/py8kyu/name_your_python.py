@@ -5,3 +5,8 @@ class Python:
 
     def __init__(self, name):
         self.name = name
+
+
+def test_cls():
+    bubba = Python('Bubba')
+    assert bubba.name == 'Bubba'
