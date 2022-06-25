@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*355 solved katas !*
+*358 solved katas !*
 
 ```c
-3kyu : 1
-4kyu : 2
+3kyu : 2
+4kyu : 3
 5kyu : 15
-6kyu : 22
+6kyu : 23
 7kyu : 64
 8kyu : 251
 ```
@@ -28,6 +28,9 @@
 	</summary>
 
 `Spiralize`:
+<img src="img/py.png" height="20px">
+
+`The millionth fibonacci kata`:
 <img src="img/py.png" height="20px">
 </details>
 
@@ -41,6 +44,9 @@
 <img src="img/py.png" height="20px">
 
 `Strip comments`:
+<img src="img/py.png" height="20px">
+
+`Sum by factor`:
 <img src="img/py.png" height="20px">
 </details>
 
@@ -145,6 +151,9 @@
 <img src="img/py.png" height="20px">
 
 `Iq test`:
+<img src="img/py.png" height="20px">
+
+`Perisitent bugger`:
 <img src="img/py.png" height="20px">
 
 `Playing with digits`:
