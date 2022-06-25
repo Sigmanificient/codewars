@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*358 solved katas !*
+*359 solved katas !*
 
 ```c
 3kyu : 2
 4kyu : 3
 5kyu : 15
 6kyu : 23
-7kyu : 64
+7kyu : 65
 8kyu : 251
 ```
 
@@ -194,6 +194,9 @@
 <img src="img/py.png" height="20px">
 
 `Checks for prime numbers`:
+<img src="img/py.png" height="20px">
+
+`Convert a linked list to a string`:
 <img src="img/py.png" height="20px">
 
 `Credit card mask`:
