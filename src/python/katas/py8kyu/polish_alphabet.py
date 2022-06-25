@@ -16,3 +16,10 @@ transcriptions: Dict[str, str] = {
 
 def correct_polish_letters(st: str) -> str:
     return ''.join(transcriptions.get(char, char) for char in st)
+
+
+def test_polish_letters():
+    assert correct_polish_letters("Jędrzej Błądziński") == "Jedrzej Bladzinski";
+    assert correct_polish_letters("Lech Wałęsa") == "Lech Walesa";
+    assert correct_polish_letters("Maria Skłodowska-Curie") == "Maria Sklodowska-Curie"
+    assert correct_polish_letters("Kazimierz Wielki") == "Kazimierz Wielki"
