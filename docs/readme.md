@@ -839,7 +839,7 @@
 `Man in the west`:
 <img src="img/py.png" height="20px">
 
-`Merg two sorted arrays into one`:
+`Merge two sorted arrays into one`:
 <img src="img/py.png" height="20px">
 
 `Merging sorted integer arrays`:
