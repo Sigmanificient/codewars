@@ -12,3 +12,13 @@ def logical_calc(array: List[bool], op: str) -> bool:
         return any(array)
 
     return reduce(lambda x, y: x ^ y, array)
+
+
+def test_logical_calc():
+    assert not logical_calc([True, False], "AND")
+    assert logical_calc([True, False], "OR")
+    assert logical_calc([True, False], "XOR")
+
+    assert logical_calc([True, True, False], "OR")
+    assert not logical_calc([True, True, False], "AND")
+    assert not logical_calc([True, True, False], "XOR")
