@@ -8,3 +8,8 @@ def is_digit(x: str) -> bool:
 
     except ValueError:
         return False
+
+
+def test_is_digit():
+    assert not is_digit("s2324")
+    assert is_digit("-234.4")
