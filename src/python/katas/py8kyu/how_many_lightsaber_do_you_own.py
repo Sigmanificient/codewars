@@ -2,7 +2,7 @@
 
 
 def how_many_light_sabers_do_you_own(name: str = '') -> int:
-    return 0 if name == "Zach" else 18
+    return 0 if name != "Zach" else 18
 
 
 def test_how_many_light_sabers():
