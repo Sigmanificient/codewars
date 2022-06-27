@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*360 solved katas !*
+*361 solved katas !*
 
 ```c
 3kyu : 2
 4kyu : 3
 5kyu : 15
 6kyu : 24
-7kyu : 65
+7kyu : 66
 8kyu : 251
 ```
 
@@ -194,6 +194,9 @@
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
+<img src="img/py.png" height="20px">
+
+`Censored strings`:
 <img src="img/py.png" height="20px">
 
 `Checks for prime numbers`:
