@@ -6,3 +6,8 @@ def hoop_count(n: int) -> str:
         "Keep at it until you get it"
         if n < 10 else "Great, now move on to tricks"
     )
+
+
+def test_hoop_count():
+    assert hoop_count(3) == "Keep at it until you get it"
+    assert hoop_count(11) == "Great, now move on to tricks"
