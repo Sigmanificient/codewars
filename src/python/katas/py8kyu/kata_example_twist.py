@@ -2,3 +2,9 @@
 from typing import List
 
 websites: List[str] = ["codewars"] * 1000
+
+
+def test_website():
+    assert len(websites) == 1000
+    assert type(websites) == list
+    assert list(set(websites)) == ["codewars"]
