@@ -15,3 +15,15 @@ def grader(grade: float) -> str:
         return 'F'
 
     return next((val for key, val in GRADES.items() if grade >= key), 'F')
+
+
+def test_grader():
+    assert grader(0.6) == "D"
+    assert grader(0.7) == "C"
+    assert grader(0.8) == "B"
+    assert grader(0.9) == "A"
+
+    assert grader(0.1) == "F"
+    assert grader(1.1) == "F"
+    assert grader(0.0) == "F"
+    assert grader(0.5) == "F"
