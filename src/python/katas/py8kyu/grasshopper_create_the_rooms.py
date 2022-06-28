@@ -19,3 +19,13 @@ rooms: Dict[str, Dict[str, str]] = {
         'completed': '...'
     }
 }
+
+
+def test_solution():
+    assert len(rooms) >= 3
+
+    for name in rooms.values():
+        assert isinstance(name, dict)
+
+    for name in rooms.values():
+        assert len(name) >= 3
