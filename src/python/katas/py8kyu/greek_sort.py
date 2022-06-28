@@ -12,3 +12,9 @@ greek_alphabet: Tuple[str, ...] = (
 
 def greek_comparator(lhs: str, rhs: str) -> int:
     return greek_alphabet.index(lhs) - greek_alphabet.index(rhs)
+
+
+def test_greek_comparator():
+    assert greek_comparator('alpha', 'beta') < 0
+    assert greek_comparator('psi', 'psi') == 0
+    assert greek_comparator('upsilon', 'rho') > 0
