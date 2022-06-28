@@ -1,3 +1,6 @@
+"""Kata url: https://www.codewars.com/kata/54d496788776e49e6b00052f."""
+
+
 from collections import defaultdict
 from math import sqrt
 
