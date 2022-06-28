@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*361 solved katas !*
+*365 solved katas !*
 
 ```c
 3kyu : 2
 4kyu : 3
-5kyu : 15
+5kyu : 18
 6kyu : 24
-7kyu : 66
+7kyu : 67
 8kyu : 251
 ```
 
@@ -59,7 +59,13 @@
 `Convert a hex string to rgb`:
 <img src="img/js.png" height="20px">
 
+`Extract the domain from a url`:
+<img src="img/py.png" height="20px">
+
 `First non repeating character`:
+<img src="img/py.png" height="20px">
+
+`Group in tens`:
 <img src="img/py.png" height="20px">
 
 `Hex dump`:
@@ -69,6 +75,9 @@
 <img src="img/py.png" height="20px">
 
 `Isbn 10 validation`:
+<img src="img/py.png" height="20px">
+
+`Last digit of a large number`:
 <img src="img/py.png" height="20px">
 
 `Moving zeros to the end`:
@@ -259,6 +268,9 @@
 `Highest and lowest`:
 <img src="img/py.png" height="20px">
 
+`How many are smaller than me`:
+<img src="img/py.png" height="20px">
+
 `Im everywhere`:
 <img src="img/py.png" height="20px">
 
@@ -390,9 +402,6 @@
 	</summary>
 
 `Enumerable magic 1 true for all`:
-<img src="img/py.png" height="20px">
-
-`Grasshoppper function syntax debugging`:
 <img src="img/py.png" height="20px">
 
 `A needle in the haystack`:
@@ -735,6 +744,9 @@
 <img src="img/py.png" height="20px">
 
 `Grasshopper variable assignment debug`:
+<img src="img/py.png" height="20px">
+
+`Grasshoppper function syntax debugging`:
 <img src="img/py.png" height="20px">
 
 `Grasshoppper messi goals function`:
