@@ -3,3 +3,10 @@
 
 def check_alive(health: int) -> bool:
     return health > 0
+
+
+def test_check_alive():
+    assert check_alive(5)
+    assert not check_alive(0)
+    assert not check_alive(-5)
+    assert not check_alive(-10)
