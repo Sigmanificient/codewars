@@ -3,3 +3,8 @@
 
 def greet(name: str, owner: str) -> str:
     return f'Hello {"boss" if name == owner else "guest"}'
+
+
+def test_greet():
+    assert greet('Daniel', 'Daniel') == 'Hello boss'
+    assert greet('Greg', 'Daniel') == 'Hello guest'
