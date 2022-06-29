@@ -10,10 +10,10 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*375 solved katas !*
+*376 solved katas !*
 
 ```c
-3kyu : 2
+3kyu : 3
 4kyu : 3
 5kyu : 18
 6kyu : 29
@@ -28,6 +28,9 @@
 	</summary>
 
 `Spiralize`:
+<img src="img/py.png" height="20px">
+
+`The builder of things`:
 <img src="img/py.png" height="20px">
 
 `The millionth fibonacci kata`:
