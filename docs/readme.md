@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*365 solved katas !*
+*374 solved katas !*
 
 ```c
 3kyu : 2
 4kyu : 3
 5kyu : 18
-6kyu : 24
-7kyu : 67
+6kyu : 28
+7kyu : 72
 8kyu : 251
 ```
 
@@ -135,6 +135,9 @@
 `Convert string to camel case`:
 <img src="img/py.png" height="20px">
 
+`Count characters in your string`:
+<img src="img/py.png" height="20px">
+
 `Count the divisible numbers`:
 <img src="img/py.png" height="20px">
 
@@ -147,6 +150,9 @@
 `Decode the morse code`:
 <img src="img/py.png" height="20px">
 
+`Delete occurences of an element if it occurs more than n times`:
+<img src="img/py.png" height="20px">
+
 `Does my number look big in this`:
 <img src="img/py.png" height="20px">
 
@@ -154,6 +160,9 @@
 <img src="img/py.png" height="20px">
 
 `Find the parity outlier`:
+<img src="img/py.png" height="20px">
+
+`Give me a diamond`:
 <img src="img/py.png" height="20px">
 
 `Highest scoring word`:
@@ -178,6 +187,9 @@
 <img src="img/py.png" height="20px">
 
 `Simple fun 305 typist`:
+<img src="img/py.png" height="20px">
+
+`Sort the columns of a csv file`:
 <img src="img/py.png" height="20px">
 
 `Tribonacci sequence`:
@@ -205,6 +217,9 @@
 `Beginner series 3 sum of numbers`:
 <img src="img/py.png" height="20px">
 
+`Categorize member`:
+<img src="img/py.png" height="20px">
+
 `Censored strings`:
 <img src="img/py.png" height="20px">
 
@@ -212,6 +227,9 @@
 <img src="img/py.png" height="20px">
 
 `Convert a linked list to a string`:
+<img src="img/py.png" height="20px">
+
+`Count red beads`:
 <img src="img/py.png" height="20px">
 
 `Credit card mask`:
@@ -313,6 +331,9 @@
 `Rearrange number to get it maximum`:
 <img src="img/py.png" height="20px">
 
+`Regex validate pin code`:
+<img src="img/py.png" height="20px">
+
 `Remove duplicate words`:
 <img src="img/py.png" height="20px">
 
@@ -331,6 +352,9 @@
 `Some but not all`:
 <img src="img/py.png" height="20px">
 
+`Sort array by string length`:
+<img src="img/py.png" height="20px">
+
 `Sorted numbers`:
 <img src="img/py.png" height="20px">
 
@@ -338,6 +362,9 @@
 <img src="img/py.png" height="20px">
 
 `Square every digit`:
+<img src="img/py.png" height="20px">
+
+`String ends with`:
 <img src="img/py.png" height="20px">
 
 `String swap vowel case`:
@@ -665,7 +692,7 @@
 `For ufc fans total beginners conor mcgregor vs george saint pierre`:
 <img src="img/py.png" height="20px">
 
-`Formatting decimal places #0`:
+`Formatting decimal places 0`:
 <img src="img/py.png" height="20px">
 
 `Function 1 hello world`:
