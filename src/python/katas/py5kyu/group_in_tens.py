@@ -1,14 +1,14 @@
 """Kata url: https://www.codewars.com/kata/5694d22eb15d78fe8d00003a."""
 
 from collections import defaultdict
-from typing import Optional, List
+from typing import Optional, List, DefaultDict
 
 
-def group_in_10s(*args: int) -> List[Optional[int]]:
+def group_in_10s(*args: int) -> List[Optional[List[int]]]:
     if not args:
         return []
 
-    groups = defaultdict(list)
+    groups: DefaultDict[int, List[int]] = defaultdict(list)
 
     for a in sorted(args):
         groups[a // 10].append(a)
