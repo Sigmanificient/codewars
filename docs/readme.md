@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*374 solved katas !*
+*375 solved katas !*
 
 ```c
 3kyu : 2
 4kyu : 3
 5kyu : 18
-6kyu : 28
+6kyu : 29
 7kyu : 72
 8kyu : 251
 ```
@@ -184,6 +184,9 @@
 <img src="img/py.png" height="20px">
 
 `Replace with alphabet position`:
+<img src="img/py.png" height="20px">
+
+`Simple card game`:
 <img src="img/py.png" height="20px">
 
 `Simple fun 305 typist`:
