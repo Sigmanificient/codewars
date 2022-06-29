@@ -13,5 +13,8 @@ coverage
 venv
 __pycache__
 
+# tests
+_.py
+
 # js dependencies
 node_modules
