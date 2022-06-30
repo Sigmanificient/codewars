@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*393 solved katas !*
+*404 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
-5kyu : 23
-6kyu : 35
-7kyu : 78
+5kyu : 24
+6kyu : 39
+7kyu : 84
 8kyu : 251
 ```
 
@@ -107,6 +107,9 @@
 `Primes in numbers`:
 <img src="img/py.png" height="20px">
 
+`Product of consecutive fib numbers`:
+<img src="img/py.png" height="20px">
+
 `Regex password validation`:
 <img src="img/py.png" height="20px">
 
@@ -147,6 +150,9 @@
 `Backwards read primes`:
 <img src="img/py.png" height="20px">
 
+`Break camel case`:
+<img src="img/py.png" height="20px">
+
 `Build a pile of cubes`:
 <img src="img/py.png" height="20px">
 
@@ -162,10 +168,16 @@
 `Count the divisible numbers`:
 <img src="img/py.png" height="20px">
 
+`Count the smiley faces`:
+<img src="img/py.png" height="20px">
+
 `Counting duplicates`:
 <img src="img/py.png" height="20px">
 
 `Create phone number`:
+<img src="img/py.png" height="20px">
+
+`Data reverse`:
 <img src="img/py.png" height="20px">
 
 `Decode the morse code`:
@@ -222,6 +234,9 @@
 `Sort the columns of a csv file`:
 <img src="img/py.png" height="20px">
 
+`Sort the odd`:
+<img src="img/py.png" height="20px">
+
 `Title case`:
 <img src="img/py.png" height="20px">
 
@@ -274,6 +289,9 @@
 `Count red beads`:
 <img src="img/py.png" height="20px">
 
+`Count the divisors of a number`:
+<img src="img/py.png" height="20px">
+
 `Credit card mask`:
 <img src="img/py.png" height="20px"> <img src="img/js.png" height="20px">
 
@@ -311,6 +329,9 @@
 <img src="img/py.png" height="20px">
 
 `Find the next perfect square`:
+<img src="img/py.png" height="20px">
+
+`Fix string case`:
 <img src="img/py.png" height="20px">
 
 `Fizz buzz`:
@@ -376,6 +397,9 @@
 `Odd or even`:
 <img src="img/py.png" height="20px">
 
+`Predict your age`:
+<img src="img/py.png" height="20px">
+
 `Previous multiple of three`:
 <img src="img/py.png" height="20px">
 
@@ -391,7 +415,13 @@
 `Remove duplicate words`:
 <img src="img/py.png" height="20px">
 
+`Reverse letter`:
+<img src="img/py.png" height="20px">
+
 `Reverse words`:
+<img src="img/py.png" height="20px">
+
+`Round up to the next multiple of 5`:
 <img src="img/py.png" height="20px">
 
 `Shorter word`:
@@ -437,6 +467,9 @@
 <img src="img/py.png" height="20px">
 
 `Sum or difference`:
+<img src="img/py.png" height="20px">
+
+`Summing a number digits`:
 <img src="img/py.png" height="20px">
 
 `Switcheroo`:
