@@ -3,3 +3,10 @@
 
 def xor(a: bool, b: bool) -> bool:
     return a ^ b
+
+
+def test_xor():
+    assert xor(True, False)
+    assert xor(False, True)
+    assert not xor(True, True)
+    assert not xor(False, False)
