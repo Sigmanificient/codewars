@@ -4,11 +4,7 @@ from typing import List
 
 
 def first_non_consecutive(arr: List[int]) -> int:
-    for element, following in zip(arr, arr[1:]):
-        if element + 1 != following:
-            return following
-
-    return 0
+    return next((fol for i, fol in zip(arr, arr[1:])if i + 1 != fol), None)
 
 
 def test_first_non_consecutive():
