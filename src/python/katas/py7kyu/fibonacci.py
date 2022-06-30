@@ -1,3 +1,6 @@
+"""Kara url: https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af."""
+
+
 def fibonacci(n: int) -> int:
     a, b = 0, 1
     for _ in range(abs(n)):
