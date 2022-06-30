@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*404 solved katas !*
+*407 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
 5kyu : 24
 6kyu : 39
-7kyu : 84
+7kyu : 87
 8kyu : 251
 ```
 
@@ -325,6 +325,12 @@
 `Factorial 2`:
 <img src="img/py.png" height="20px">
 
+`Fibonacci`:
+<img src="img/py.png" height="20px">
+
+`Find the capitals`:
+<img src="img/py.png" height="20px">
+
 `Find the middle element`:
 <img src="img/py.png" height="20px">
 
@@ -413,6 +419,9 @@
 <img src="img/py.png" height="20px">
 
 `Remove duplicate words`:
+<img src="img/py.png" height="20px">
+
+`Remove the minimum`:
 <img src="img/py.png" height="20px">
 
 `Reverse letter`:
