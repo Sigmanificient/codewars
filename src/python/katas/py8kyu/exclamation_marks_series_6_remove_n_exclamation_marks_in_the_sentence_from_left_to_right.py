@@ -12,3 +12,17 @@ def remove(s: str, n: int) -> str:
 
         r.append(char)
     return ''.join(r)
+
+
+def test_remove():
+    assert remove("Hi!", 1) == "Hi"
+    assert remove("Hi!!!", 1) == "Hi!!"
+
+    assert remove("Hi!", 100) == "Hi"
+    assert remove("Hi!!!", 1) == "Hi!!"
+    assert remove("Hi!!!", 100) == "Hi"
+
+    assert remove("!!!Hi !!hi!!! !hi", 1) == "!!Hi !!hi!!! !hi"
+    assert remove("!!!Hi !!hi!!! !hi", 3) == "Hi !!hi!!! !hi"
+    assert remove("!!!Hi !!hi!!! !hi", 5) == "Hi hi!!! !hi"
+    assert remove("!!!Hi !!hi!!! !hi", 100) == "Hi hi hi"

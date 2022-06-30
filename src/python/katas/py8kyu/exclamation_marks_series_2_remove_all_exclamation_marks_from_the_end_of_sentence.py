@@ -10,3 +10,12 @@ def remove(s: str) -> str:
             return s[:-c]
 
     return s
+
+
+def test_remove():
+    assert remove("Hi!") == "Hi"
+    assert remove("Hi!!!") == "Hi"
+    assert remove("!Hi") == "!Hi"
+    assert remove("!Hi!") == "!Hi"
+    assert remove("Hi! Hi!") == "Hi! Hi"
+    assert remove("Hi") == "Hi"
