@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*376 solved katas !*
+*393 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
-5kyu : 18
-6kyu : 29
-7kyu : 72
+5kyu : 23
+6kyu : 35
+7kyu : 78
 8kyu : 251
 ```
 
@@ -65,6 +65,9 @@
 `Extract the domain from a url`:
 <img src="img/py.png" height="20px">
 
+`Find the unique string`:
+<img src="img/py.png" height="20px">
+
 `First non repeating character`:
 <img src="img/py.png" height="20px">
 
@@ -72,6 +75,9 @@
 <img src="img/py.png" height="20px">
 
 `Hex dump`:
+<img src="img/py.png" height="20px">
+
+`How many numbers ii`:
 <img src="img/py.png" height="20px">
 
 `Ips between`:
@@ -83,7 +89,13 @@
 `Last digit of a large number`:
 <img src="img/py.png" height="20px">
 
+`Maximum subarray sum`:
+<img src="img/py.png" height="20px">
+
 `Moving zeros to the end`:
+<img src="img/py.png" height="20px">
+
+`Myjinxin katas 001 rotate remove return`:
 <img src="img/py.png" height="20px">
 
 `Not very secure`:
@@ -102,6 +114,9 @@
 <img src="img/py.png" height="20px">
 
 `String incrementer`:
+<img src="img/py.png" height="20px">
+
+`Sum of pairs`:
 <img src="img/py.png" height="20px">
 
 `Valid parentheses`:
@@ -130,6 +145,9 @@
 <img src="img/py.png" height="20px">
 
 `Backwards read primes`:
+<img src="img/py.png" height="20px">
+
+`Build a pile of cubes`:
 <img src="img/py.png" height="20px">
 
 `Build tower`:
@@ -165,6 +183,9 @@
 `Find the parity outlier`:
 <img src="img/py.png" height="20px">
 
+`Find the unique number`:
+<img src="img/py.png" height="20px">
+
 `Give me a diamond`:
 <img src="img/py.png" height="20px">
 
@@ -175,6 +196,9 @@
 <img src="img/py.png" height="20px">
 
 `Iq test`:
+<img src="img/py.png" height="20px">
+
+`Mexican wave`:
 <img src="img/py.png" height="20px">
 
 `Perisitent bugger`:
@@ -198,10 +222,19 @@
 `Sort the columns of a csv file`:
 <img src="img/py.png" height="20px">
 
+`Title case`:
+<img src="img/py.png" height="20px">
+
+`Tortoise racing`:
+<img src="img/py.png" height="20px">
+
 `Tribonacci sequence`:
 <img src="img/py.png" height="20px">
 
 `Unique in order`:
+<img src="img/py.png" height="20px">
+
+`Who likes it`:
 <img src="img/py.png" height="20px">
 
 `Write the number in expanded form`:
@@ -221,6 +254,9 @@
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
+<img src="img/py.png" height="20px">
+
+`Binary addition`:
 <img src="img/py.png" height="20px">
 
 `Categorize member`:
@@ -271,10 +307,19 @@
 `Factorial 2`:
 <img src="img/py.png" height="20px">
 
+`Find the middle element`:
+<img src="img/py.png" height="20px">
+
 `Find the next perfect square`:
 <img src="img/py.png" height="20px">
 
 `Fizz buzz`:
+<img src="img/py.png" height="20px">
+
+`Form the minimum`:
+<img src="img/py.png" height="20px">
+
+`Friend or foe`:
 <img src="img/py.png" height="20px">
 
 `Get the middle character`:
@@ -328,6 +373,9 @@
 `Not oddities here`:
 <img src="img/py.png" height="20px">
 
+`Odd or even`:
+<img src="img/py.png" height="20px">
+
 `Previous multiple of three`:
 <img src="img/py.png" height="20px">
 
@@ -374,6 +422,9 @@
 <img src="img/py.png" height="20px">
 
 `String swap vowel case`:
+<img src="img/py.png" height="20px">
+
+`Sum of all the multiples of 3 and 5`:
 <img src="img/py.png" height="20px">
 
 `Sum of cubes`:
@@ -433,9 +484,6 @@
 	<summary>
 		<i>views solved 8 kyu</i>
 	</summary>
-
-`Enumerable magic 1 true for all`:
-<img src="img/py.png" height="20px">
 
 `A needle in the haystack`:
 <img src="img/py.png" height="20px">
@@ -617,6 +665,9 @@
 `Enumerable magic #1 true for all`:
 <img src="img/js.png" height="20px">
 
+`Enumerable magic 1 true for all`:
+<img src="img/py.png" height="20px">
+
 `Enumerable magic 20 cascading subsets`:
 <img src="img/py.png" height="20px">
 
@@ -677,7 +728,7 @@
 `Find the difference in age between oldest and youngest  family members`:
 <img src="img/py.png" height="20px">
 
-`Find the first non-consecutive number`:
+`Find the first non consecutive number`:
 <img src="img/py.png" height="20px">
 
 `Find the position`:
