@@ -8,3 +8,11 @@ def capitalize(s: str) -> str:
     )
 
     return [x.swapcase(), x]
+
+
+def test_capitalize():
+    assert capitalize("") == ['', '']
+    assert capitalize("abcdef") == ['AbCdEf', 'aBcDeF']
+    assert capitalize("codewars") == ['CoDeWaRs', 'cOdEwArS']
+    assert capitalize("abracadabra") == ['AbRaCaDaBrA', 'aBrAcAdAbRa']
+    assert capitalize("codewarriors") == ['CoDeWaRrIoRs', 'cOdEwArRiOrS']
