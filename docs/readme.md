@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*418 solved katas !*
+*420 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
 5kyu : 27
-6kyu : 43
-7kyu : 91
+6kyu : 44
+7kyu : 92
 8kyu : 251
 ```
 
@@ -255,6 +255,9 @@
 `Sort the odd`:
 <img src="img/py.png" height="20px">
 
+`Split strings`:
+<img src="img/py.png" height="20px">
+
 `Title case`:
 <img src="img/py.png" height="20px">
 
@@ -411,6 +414,9 @@
 
 `Loop array`:
 <img src="img/js.png" height="20px">
+
+`Make a funciton that does arithmetic`:
+<img src="img/py.png" height="20px">
 
 `Map function issue`:
 <img src="img/py.png" height="20px">
