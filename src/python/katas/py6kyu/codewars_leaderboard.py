@@ -2,7 +2,6 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-import pytest
 import requests
 from bs4 import BeautifulSoup
 
@@ -26,7 +25,7 @@ class User:
     honor: int
 
 
-def solution():
+def solution() -> Leaderboard:
     soup = BeautifulSoup(requests.get(URL).text, "html.parser")
     return Leaderboard(
         OneIndexedList(
