@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*407 solved katas !*
+*418 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
-5kyu : 24
-6kyu : 39
-7kyu : 87
+5kyu : 27
+6kyu : 43
+7kyu : 91
 8kyu : 251
 ```
 
@@ -80,6 +80,9 @@
 `How many numbers ii`:
 <img src="img/py.png" height="20px">
 
+`Human readable time`:
+<img src="img/py.png" height="20px">
+
 `Ips between`:
 <img src="img/py.png" height="20px">
 
@@ -113,7 +116,13 @@
 `Regex password validation`:
 <img src="img/py.png" height="20px">
 
+`Rot 13`:
+<img src="img/py.png" height="20px">
+
 `Scramble`:
+<img src="img/py.png" height="20px">
+
+`Simple pig latin`:
 <img src="img/py.png" height="20px">
 
 `String incrementer`:
@@ -159,6 +168,9 @@
 `Build tower`:
 <img src="img/py.png" height="20px">
 
+`Codewars leaderboard`:
+<img src="img/py.png" height="20px">
+
 `Convert string to camel case`:
 <img src="img/py.png" height="20px">
 
@@ -189,6 +201,9 @@
 `Does my number look big in this`:
 <img src="img/py.png" height="20px">
 
+`Find the missing letter`:
+<img src="img/py.png" height="20px">
+
 `Find the odd int`:
 <img src="img/py.png" height="20px">
 
@@ -211,6 +226,9 @@
 <img src="img/py.png" height="20px">
 
 `Mexican wave`:
+<img src="img/py.png" height="20px">
+
+`Multiple of 3 or 5`:
 <img src="img/py.png" height="20px">
 
 `Perisitent bugger`:
@@ -246,6 +264,9 @@
 `Tribonacci sequence`:
 <img src="img/py.png" height="20px">
 
+`Two sum`:
+<img src="img/py.png" height="20px">
+
 `Unique in order`:
 <img src="img/py.png" height="20px">
 
@@ -266,6 +287,12 @@
 <img src="img/py.png" height="20px">
 
 `All star code challenge 20`:
+<img src="img/py.png" height="20px">
+
+`Alphabet war`:
+<img src="img/py.png" height="20px">
+
+`Alternate capitalization`:
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
@@ -391,6 +418,9 @@
 `Middle me`:
 <img src="img/py.png" height="20px">
 
+`Most digits`:
+<img src="img/py.png" height="20px">
+
 `Multples`:
 <img src="img/py.png" height="20px">
 
@@ -431,6 +461,9 @@
 <img src="img/py.png" height="20px">
 
 `Round up to the next multiple of 5`:
+<img src="img/py.png" height="20px">
+
+`Row weight`:
 <img src="img/py.png" height="20px">
 
 `Shorter word`:
