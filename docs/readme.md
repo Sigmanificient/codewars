@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*426 solved katas !*
+*430 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
-5kyu : 27
-6kyu : 45
-7kyu : 97
+5kyu : 28
+6kyu : 46
+7kyu : 99
 8kyu : 251
 ```
 
@@ -69,6 +69,9 @@
 <img src="img/py.png" height="20px">
 
 `First non repeating character`:
+<img src="img/py.png" height="20px">
+
+`Greed is good`:
 <img src="img/py.png" height="20px">
 
 `Group in tens`:
@@ -204,6 +207,9 @@
 `Does my number look big in this`:
 <img src="img/py.png" height="20px">
 
+`Duplicate encoder`:
+<img src="img/py.png" height="20px">
+
 `Find the missing letter`:
 <img src="img/py.png" height="20px">
 
@@ -311,6 +317,9 @@
 <img src="img/py.png" height="20px">
 
 `Censored strings`:
+<img src="img/py.png" height="20px">
+
+`Check the exam`:
 <img src="img/py.png" height="20px">
 
 `Checks for prime numbers`:
@@ -448,7 +457,7 @@
 `Not oddities here`:
 <img src="img/py.png" height="20px">
 
-`Odd even-string sort`:
+`Odd even string sort`:
 <img src="img/py.png" height="20px">
 
 `Odd or even`:
@@ -530,6 +539,9 @@
 <img src="img/py.png" height="20px">
 
 `Sum of the first nth term of series`:
+<img src="img/py.png" height="20px">
+
+`Sum of the lowest positive integers`:
 <img src="img/py.png" height="20px">
 
 `Sum or difference`:
@@ -662,13 +674,13 @@
 `Capacity and mutability`:
 <img src="img/py.png" height="20px">
 
+`Cat years dog years`:
+<img src="img/py.png" height="20px">
+
 `Century from year`:
 <img src="img/py.png" height="20px">
 
 `Charater frequency`:
-<img src="img/py.png" height="20px">
-
-`Check the exam`:
 <img src="img/py.png" height="20px">
 
 `Chuck norris vii true or false`:
@@ -683,7 +695,7 @@
 `Color ghost`:
 <img src="img/py.png" height="20px">
 
-`Concurency convercy i`:
+`Concurrency currency i`:
 <img src="img/py.png" height="20px">
 
 `Convert a string to an array`:
