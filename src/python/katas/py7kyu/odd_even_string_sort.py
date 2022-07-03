@@ -6,6 +6,5 @@ def sort_my_string(s: str) -> str:
 
 
 def test_sort_my_string():
-    assert sort_my_string("") == ""
     assert sort_my_string("CodeWars") == "CdWr oeas"
     assert sort_my_string("YCOLUE'VREER") == "YOU'RE CLEVER"
