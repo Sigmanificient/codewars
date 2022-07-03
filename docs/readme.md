@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*422 solved katas !*
+*425 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
 5kyu : 27
 6kyu : 44
-7kyu : 94
+7kyu : 97
 8kyu : 251
 ```
 
@@ -364,6 +364,9 @@
 `Find the capitals`:
 <img src="img/py.png" height="20px">
 
+`Find the divisor`:
+<img src="img/py.png" height="20px">
+
 `Find the middle element`:
 <img src="img/py.png" height="20px">
 
@@ -442,6 +445,9 @@
 `Not oddities here`:
 <img src="img/py.png" height="20px">
 
+`Odd even-string sort`:
+<img src="img/py.png" height="20px">
+
 `Odd or even`:
 <img src="img/py.png" height="20px">
 
@@ -515,6 +521,9 @@
 <img src="img/py.png" height="20px">
 
 `Sum of digits`:
+<img src="img/py.png" height="20px">
+
+`Sum of numbers from 0 to n`:
 <img src="img/py.png" height="20px">
 
 `Sum of the first nth term of series`:
