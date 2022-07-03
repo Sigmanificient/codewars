@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*425 solved katas !*
+*426 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
 5kyu : 27
-6kyu : 44
+6kyu : 45
 7kyu : 97
 8kyu : 251
 ```
@@ -196,6 +196,9 @@
 <img src="img/py.png" height="20px">
 
 `Delete occurences of an element if it occurs more than n times`:
+<img src="img/py.png" height="20px">
+
+`Detect pangram`:
 <img src="img/py.png" height="20px">
 
 `Does my number look big in this`:
