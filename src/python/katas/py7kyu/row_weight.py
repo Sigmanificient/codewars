@@ -1,9 +1,9 @@
 """Kata url: https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9."""
 
-from typing import List
+from typing import List, Tuple
 
 
-def row_weights(array: List[int]) -> List[int]:
+def row_weights(array: List[int]) -> Tuple[int, int]:
     return sum(array[::2]), sum(array[1::2])
 
 

@@ -1,4 +1,7 @@
-def diamond(n: int) -> str:
+from typing import Optional
+
+
+def diamond(n: int) -> Optional[str]:
     if not n % 2 or n < 0:
         return None
 

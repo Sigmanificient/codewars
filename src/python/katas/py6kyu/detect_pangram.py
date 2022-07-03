@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/545cedaa9943f7fe7b000048."""
 
 
-def is_pangram(s: str) -> str:
+def is_pangram(s: str) -> bool:
     return ''.join(
         filter(str.isalpha, sorted(set(s.lower())))
     ) == 'abcdefghijklmnopqrstuvwxyz'

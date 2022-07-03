@@ -2,16 +2,17 @@ from typing import List
 
 
 def find_missing_letter(chars: List[str]) -> str:
-    print(chars)
-
     charset = 'abcdefghijklmnopqrstuvwxyz'
-    chars = ''.join(chars)
-    if chars.isupper():
+    string = ''.join(chars)
+
+    if string.isupper():
         charset = charset.upper()
 
-    for a, b in zip(charset[charset.index(chars[0]):], chars):
+    for a, b in zip(charset[charset.index(string[0]):], string):
         if a != b:
             return a
+
+    raise ValueError('No missing letter found')
 
 
 def test_find_missing_letter():

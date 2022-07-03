@@ -1,12 +1,12 @@
-from typing import List
+from typing import List, Optional
 
 
-def race(v1: int, v2: int, g: int) -> List[int]:
+def race(v1: int, v2: int, g: float) -> Optional[List[int]]:
     if v1 >= v2:
         return None
 
     v1ps, v2ps = v1 / 3600, v2 / 3600
-    a, b, s = g, 0, 0
+    a, b, s = g, 0.0, 0
 
     while a > b:
         a += v1ps

@@ -1,7 +1,8 @@
 """Kata url: https://www.codewars.com/kata/59cfc000aeb2844d16000075."""
+from typing import List
 
 
-def capitalize(s: str) -> str:
+def capitalize(s: str) -> List[str]:
     x = ''.join(
         char.upper() if c % 2 else char.lower()
         for c, char in enumerate(s)

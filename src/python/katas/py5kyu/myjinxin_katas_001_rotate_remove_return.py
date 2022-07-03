@@ -3,7 +3,7 @@ from typing import List
 
 def rotate_and_remove(arr: List[List[int]]) -> int:
     while len(arr) > 1:
-        new = [[] for _ in range(len(arr[0]))]
+        new: List[List[int]] = [[] for _ in range(len(arr[0]))]
 
         for line in arr:
             for cx, i in enumerate(line[::-1]):

@@ -1,4 +1,4 @@
-def show_sequence(n: int) -> int:
+def show_sequence(n: int) -> str:
     if not n:
         return '0=0'
 

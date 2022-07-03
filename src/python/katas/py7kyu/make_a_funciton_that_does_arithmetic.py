@@ -8,7 +8,7 @@ ops = {
 }
 
 
-def arithmetic(a: int, b: int, operator) -> int:
+def arithmetic(a: int, b: int, operator) -> float:
     return ops[operator](a, b)
 
 
