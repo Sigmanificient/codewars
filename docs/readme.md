@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*430 solved katas !*
+*433 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
 5kyu : 28
-6kyu : 46
-7kyu : 99
+6kyu : 47
+7kyu : 101
 8kyu : 251
 ```
 
@@ -267,6 +267,9 @@
 `Split strings`:
 <img src="img/py.png" height="20px">
 
+`Take a number and sum its digits raised to the consectuve powers and eureka`:
+<img src="img/py.png" height="20px">
+
 `Title case`:
 <img src="img/py.png" height="20px">
 
@@ -305,6 +308,9 @@
 <img src="img/py.png" height="20px">
 
 `Alternate capitalization`:
+<img src="img/py.png" height="20px">
+
+`Anagram detection`:
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
@@ -425,6 +431,9 @@
 <img src="img/py.png" height="20px">
 
 `Last survivor`:
+<img src="img/py.png" height="20px">
+
+`Length and two values`:
 <img src="img/py.png" height="20px">
 
 `List filtering`:
