@@ -1,3 +1,5 @@
 pytest
 coverage==6.3.2
 pytest-cov==3.0.0
+requests==2.28.1
+beautifulsoup4==4.11.1
