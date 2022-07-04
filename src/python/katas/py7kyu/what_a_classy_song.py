@@ -15,3 +15,13 @@ class Song:
         new_l: List[str] = [p for p in peoples if p not in self.listeners]
         self.listeners.extend(tuple(new_l))
         return len(new_l)
+
+
+def test_solution():
+    mount_moose = Song("Mount Moose", "The Snazzy Moose")
+    assert mount_moose.title == 'Mount Moose'
+    assert mount_moose.artist == 'The Snazzy Moose'
+    assert mount_moose.how_many(['John', 'Fred', 'Bob', 'Carl', 'RyAn']) == 5
+    assert mount_moose.how_many(['JoHn', 'Luke', 'AmAndA']) == 2
+    assert mount_moose.how_many(['Amanda', 'CalEb', 'CarL', 'Furgus']) == 2
+    assert mount_moose.how_many(['JOHN', 'FRED', 'BOB', 'CARL', 'RYAN', 'KATE']) == 1
