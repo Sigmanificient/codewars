@@ -9,5 +9,13 @@ class Solution:
 
 
 def test_solution():
-    assert Solution.main() == "Hello World!"
-    assert Solution.main("Hola mundo!") == "Hello World!"
+    import io
+    from contextlib import redirect_stdout
+
+    def _test_stdout(func, *args):
+        with io.StringIO() as buf, redirect_stdout(buf):
+            func(*args)
+            return buf.getvalue().strip()
+
+    assert _test_stdout(Solution.main) == "Hello World!"
+    assert _test_stdout(Solution.main, "Hi!") == "Hello World!"
