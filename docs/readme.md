@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*433 solved katas !*
+*435 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
 5kyu : 28
-6kyu : 47
-7kyu : 101
+6kyu : 48
+7kyu : 102
 8kyu : 251
 ```
 
@@ -210,6 +210,9 @@
 `Duplicate encoder`:
 <img src="img/py.png" height="20px">
 
+`Encrypt this`:
+<img src="img/py.png" height="20px">
+
 `Find the missing letter`:
 <img src="img/py.png" height="20px">
 
@@ -311,6 +314,9 @@
 <img src="img/py.png" height="20px">
 
 `Anagram detection`:
+<img src="img/py.png" height="20px">
+
+`Are the number in order`:
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
