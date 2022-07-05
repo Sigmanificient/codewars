@@ -10,11 +10,11 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*438 solved katas !*
+*439 solved katas !*
 
 ```c
 3kyu : 3
-4kyu : 3
+4kyu : 4
 5kyu : 29
 6kyu : 50
 7kyu : 102
@@ -50,6 +50,9 @@
 <img src="img/py.png" height="20px">
 
 `Sum by factor`:
+<img src="img/py.png" height="20px">
+
+`The observed pin`:
 <img src="img/py.png" height="20px">
 </details>
 
