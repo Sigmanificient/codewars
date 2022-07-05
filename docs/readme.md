@@ -10,12 +10,12 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*439 solved katas !*
+*440 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 4
-5kyu : 29
+5kyu : 30
 6kyu : 50
 7kyu : 102
 8kyu : 251
@@ -99,6 +99,9 @@
 <img src="img/py.png" height="20px">
 
 `Last digit of a large number`:
+<img src="img/py.png" height="20px">
+
+`Luck check`:
 <img src="img/py.png" height="20px">
 
 `Maximum subarray sum`:
