@@ -13,7 +13,7 @@ def rental_car_cost(d: int) -> int:
     return total
 
 
-def get_rental_car_cost():
+def test_get_rental_car_cost():
     assert rental_car_cost(1) == 40
     assert rental_car_cost(4) == 140
     assert rental_car_cost(7) == 230
