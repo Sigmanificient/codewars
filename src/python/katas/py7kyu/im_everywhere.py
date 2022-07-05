@@ -14,3 +14,15 @@ def i(word: str) -> str:
         return 'Invalid word'
 
     return f"i{word}"
+
+
+def test_i():
+    assert i('Phone') == 'iPhone'
+    assert i('World') == 'iWorld'
+    assert i('Human') == 'iHuman'
+    assert i('Programmer') == 'iProgrammer'
+    assert i('') == 'Invalid word'
+    assert i('Inspire') == 'Invalid word'
+    assert i('East') == 'Invalid word'
+    assert i('Peace') == 'Invalid word'
+    assert i('road') == 'Invalid word'
