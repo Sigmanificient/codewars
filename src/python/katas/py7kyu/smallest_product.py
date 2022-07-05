@@ -12,3 +12,14 @@ def mul(x: List[int]) -> int:
 
 def smallest_product(a: List[List[int]]) -> int:
     return min(mul(x) for x in a)
+
+
+def test_mul():
+    assert mul([1, 2, 3]) == 6
+    assert mul([1, 2, 3, 4]) == 24
+    assert mul([1, 2, 3, 4, 5]) == 120
+
+
+def test_smallest_product():
+    assert smallest_product([[3, 2], [1, 2, 1], [7, 8]]) == 2
+    assert smallest_product([[10], [3, 0], [-1, -6, 2]]) == 0
