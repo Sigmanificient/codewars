@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*435 solved katas !*
+*438 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 3
-5kyu : 28
-6kyu : 48
+5kyu : 29
+6kyu : 50
 7kyu : 102
 8kyu : 251
 ```
@@ -84,6 +84,9 @@
 <img src="img/py.png" height="20px">
 
 `Human readable time`:
+<img src="img/py.png" height="20px">
+
+`Int32 to ipv4`:
 <img src="img/py.png" height="20px">
 
 `Ips between`:
@@ -157,6 +160,9 @@
 <img src="img/py.png" height="20px">
 
 `Array diff`:
+<img src="img/py.png" height="20px">
+
+`Backspaces in string`:
 <img src="img/py.png" height="20px">
 
 `Backwards read primes`:
@@ -268,6 +274,9 @@
 <img src="img/py.png" height="20px">
 
 `Split strings`:
+<img src="img/py.png" height="20px">
+
+`Sum of digits digital rot`:
 <img src="img/py.png" height="20px">
 
 `Take a number and sum its digits raised to the consectuve powers and eureka`:
