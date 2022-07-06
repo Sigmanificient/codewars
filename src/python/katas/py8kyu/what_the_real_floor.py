@@ -12,3 +12,7 @@ def test_get_real_floor():
     assert get_real_floor(1) == 0
     assert get_real_floor(5) == 4
     assert get_real_floor(15) == 13
+
+    assert get_real_floor(0) == 0
+    assert get_real_floor(-1) == -1
+    assert get_real_floor(-5) == -5
