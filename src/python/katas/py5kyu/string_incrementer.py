@@ -7,7 +7,7 @@ def increment_string(string: str) -> str:
         i += 1
 
     if not i:
-        return string + '1'
+        return f'{string}1'
 
     return f"{string[:-i]}{int(string[-i:]) + 1:0{i}}"
 

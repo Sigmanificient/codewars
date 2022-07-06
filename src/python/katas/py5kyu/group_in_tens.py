@@ -13,10 +13,7 @@ def group_in_10s(*args: int) -> List[Optional[List[int]]]:
     for a in sorted(args):
         groups[a // 10].append(a)
 
-    return [
-        groups.get(x)
-        for x in range(0, (max(args) // 10) + 1)
-    ]
+    return [groups.get(x) for x in range((max(args) // 10) + 1)]
 
 
 def test_group_in_10s():

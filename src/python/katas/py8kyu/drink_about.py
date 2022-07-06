@@ -12,11 +12,10 @@ ages: Dict[int, str] = {
 
 
 def people_with_age_drink(age: int) -> str:
-    for d_age, drink in ages.items():
-        if age <= d_age:
-            return f"drink {drink}"
-
-    return "drink toddy"
+    return next(
+        (f"drink {drink}" for d_age, drink in ages.items() if age <= d_age),
+        "drink toddy"
+    )
 
 
 def test_people_with_age_drink():

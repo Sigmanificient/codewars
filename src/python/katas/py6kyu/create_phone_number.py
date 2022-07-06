@@ -3,7 +3,7 @@ from typing import List
 
 def create_phone_number(n: List[int]) -> str:
     sn = ''.join(map(str, n))
-    return f"({sn[0:3]}) {sn[3:6]}-{sn[6:]}"
+    return f"({sn[:3]}) {sn[3:6]}-{sn[6:]}"
 
 
 def test_create_phone_number():

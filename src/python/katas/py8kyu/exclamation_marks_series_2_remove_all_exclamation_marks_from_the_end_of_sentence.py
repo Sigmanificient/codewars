@@ -2,14 +2,9 @@
 
 
 def remove(s: str) -> str:
-    if not s.endswith('!'):
-        return s
-
-    for c, char in enumerate(s[::-1]):
-        if char != '!':
-            return s[:-c]
-
-    return s
+    return next(
+        (s[:-c] for c, char in enumerate(s[::-1]) if char != '!'), s
+    ) if s.endswith('!') else s
 
 
 def test_remove():

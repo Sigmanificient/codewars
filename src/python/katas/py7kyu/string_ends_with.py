@@ -9,7 +9,3 @@ def test_solution():
     assert solution('abcde', 'cde')
     assert not solution('abcde', 'abc')
     assert solution('abcde', '')
-
-    assert solution('abcde', 'cde')
-    assert not solution('abcde', 'abc')
-    assert solution('abcde', '')

@@ -3,10 +3,7 @@
 
 def first_non_repeating_letter(string: str) -> str:
     lowered = string.lower()
-    for c in string:
-        if lowered.count(c.lower()) == 1:
-            return c
-    return ''
+    return next((c for c in string if lowered.count(c.lower()) == 1), '')
 
 
 def test_first_non_repeating_letter():
