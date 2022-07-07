@@ -10,11 +10,11 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*440 solved katas !*
+*441 solved katas !*
 
 ```c
 3kyu : 3
-4kyu : 4
+4kyu : 5
 5kyu : 30
 6kyu : 50
 7kyu : 102
@@ -42,6 +42,9 @@
 	<summary>
 		<i>views solved 4 kyu</i>
 	</summary>
+
+`Human readable duration format`:
+<img src="img/py.png" height="20px">
 
 `Permutations`:
 <img src="img/py.png" height="20px">
