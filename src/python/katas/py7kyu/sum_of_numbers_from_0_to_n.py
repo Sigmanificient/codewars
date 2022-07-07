@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763."""
+
 def show_sequence(n: int) -> str:
     if not n:
         return '0=0'

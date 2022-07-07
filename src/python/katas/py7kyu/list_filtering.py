@@ -1,4 +1,4 @@
-"""Kate url: https://www.codewars.com/kata/53dbd5315a3c69eed20002dd."""
+"""Kata url: https://www.codewars.com/kata/53dbd5315a3c69eed20002dd."""
 
 from typing import List, Any
 

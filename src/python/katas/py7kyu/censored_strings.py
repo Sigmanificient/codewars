@@ -1,3 +1,6 @@
+"""Kata url: https://www.codewars.com/kata/5ff6060ed14f4100106d8e6f."""
+
+
 def uncensor(infected: str, discovered: str) -> str:
     for i in discovered:
         infected = infected.replace('*', i, 1)

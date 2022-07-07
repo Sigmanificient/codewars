@@ -1,3 +1,6 @@
+"""Kata url: https://www.codewars.com/kata/5263c6999e0f40dee200059d."""
+
+
 def get_pins(observed):
     each_comb = []
     layout = '123456789 0 '

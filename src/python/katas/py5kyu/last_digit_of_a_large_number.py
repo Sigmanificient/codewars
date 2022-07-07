@@ -1,3 +1,6 @@
+"""Kata url: https://www.codewars.com/kata/5511b2f550906349a70004e1."""
+
+
 def last_digit(a: int, b: int) -> int:
     return pow(a, b, 10)
 

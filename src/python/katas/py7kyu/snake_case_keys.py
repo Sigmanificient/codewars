@@ -1,4 +1,4 @@
-# Kata url: https://www.codewars.com/kata/610c8308ed5ee4003279d112.
+"""Kata url: https://www.codewars.com/kata/610c8308ed5ee4003279d112."""
 
 from typing import Dict
 

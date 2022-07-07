@@ -1,4 +1,4 @@
-"""Kata: https://www.codewars.com/kata/554ca54ffa7d91b236000023."""
+"""Kata url: https://www.codewars.com/kata/554ca54ffa7d91b236000023."""
 from collections import defaultdict
 from typing import List, DefaultDict
 

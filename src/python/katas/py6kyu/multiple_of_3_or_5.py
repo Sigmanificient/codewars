@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/514b92a657cdc65150000006."""
+
 def solution(number: int) -> int:
     return sum(
         n for n in range(number)

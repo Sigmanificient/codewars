@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/53417de006654f4171000587."""
+
 from typing import List
 
 CARDS = "23456789TJQKA"

@@ -4,10 +4,11 @@ import os
 
 def check_doc(filename):
     with open(filename) as f:
-        return re.fullmatch(
-            r'^"""Kata url: https://www.codewars.com/kata/(.*)"""$',
-            next(f)
-        )
+        first_line = next(f)
+        assert re.match(
+            r'\"\"\"Kata url: https://www\.codewars\.com/kata/(.+)\.\"\"\"',
+            first_line
+        ), f"{filename}: {first_line}"
 
 
 def test_doc():
@@ -17,4 +18,7 @@ def test_doc():
             if not filename.endswith('.py'):
                 continue
 
-            assert check_doc(f'{kata_dir}/{filename}'), f'{filename} have no doc'
+            if filename.startswith('_'):
+                continue
+
+            check_doc(f'{kata_dir}/{filename}')

@@ -1,3 +1,6 @@
+"""Kata url: https://www.codewars.com/kata/5202ef17a402dd033c000009."""
+
+
 def title_case(title: str, minor_words: str = '') -> str:
     minor_wl = tuple(map(str.lower, minor_words.split(' ')))
     return ' '.join(

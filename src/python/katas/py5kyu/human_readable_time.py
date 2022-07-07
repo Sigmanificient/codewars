@@ -1,4 +1,4 @@
-"""Kata url: https://www.codewars.com/kata/52685f7382004e774f0001f7"""
+"""Kata url: https://www.codewars.com/kata/52685f7382004e774f0001f7."""
 
 
 def make_readable(seconds: int) -> str:

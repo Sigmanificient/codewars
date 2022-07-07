@@ -1,4 +1,4 @@
-# Kata url: https://www.codewars.com/kata/5539fecef69c483c5a000015.
+"""Kata url: https://www.codewars.com/kata/5539fecef69c483c5a000015."""
 
 from math import sqrt
 from typing import List

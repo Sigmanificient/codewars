@@ -1,4 +1,4 @@
-"""Kata url: https://www.codewars.com/kata/542c0f198e077084c0000c2e"""
+"""Kata url: https://www.codewars.com/kata/542c0f198e077084c0000c2e."""
 
 
 def divisors(n: int) -> int:

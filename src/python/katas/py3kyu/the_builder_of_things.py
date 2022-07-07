@@ -1,7 +1,4 @@
-"""
-Kata url: https://www.codewars.com/kata/5571d9fc11526780a000011a
-Don't even try to understand this kata.
-"""
+"""Kata url: https://www.codewars.com/kata/5571d9fc11526780a000011a."""
 
 # Fix 'Name is not defined' error
 name = 'Jane'

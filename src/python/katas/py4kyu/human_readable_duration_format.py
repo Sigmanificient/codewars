@@ -1,3 +1,19 @@
+"""Kata url: https://www.codewars.com/kata/52742f58faf5485cae000b9a."""
+
+
+def u_input(*inps):
+    def wrapper(func):
+        def wrapped(*args, **kwargs):
+            return func(*args, **kwargs)
+
+        for i in inps:
+            print(func(i))
+
+        return wrapped
+    return wrapper
+
+
+@u_input(4815162342)
 def format_duration(seconds: int) -> str:
     if not seconds:
         return 'now'
@@ -34,7 +50,7 @@ def test_format_duration():
     assert format_duration(62) == "1 minute and 2 seconds"
     assert format_duration(120) == "2 minutes"
     assert format_duration(3600) == "1 hour"
-    assert format_duration(3662), "1 hour == 1 minute and 2 seconds"
+    assert format_duration(3601) == "1 hour and 1 second"
 
     assert format_duration(99999) == "1 day, 3 hours, 46 minutes and 39 seconds"
     assert format_duration(
