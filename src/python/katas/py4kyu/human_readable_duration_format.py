@@ -1,19 +1,6 @@
 """Kata url: https://www.codewars.com/kata/52742f58faf5485cae000b9a."""
 
 
-def u_input(*inps):
-    def wrapper(func):
-        def wrapped(*args, **kwargs):
-            return func(*args, **kwargs)
-
-        for i in inps:
-            print(func(i))
-
-        return wrapped
-    return wrapper
-
-
-@u_input(4815162342)
 def format_duration(seconds: int) -> str:
     if not seconds:
         return 'now'
