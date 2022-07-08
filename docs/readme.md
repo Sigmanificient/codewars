@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*441 solved katas !*
+*445 solved katas !*
 
 ```c
 3kyu : 3
@@ -18,7 +18,7 @@
 5kyu : 30
 6kyu : 50
 7kyu : 102
-8kyu : 251
+8kyu : 255
 ```
 
 <h2>3Kyu</h2>
@@ -629,6 +629,9 @@
 		<i>views solved 8 kyu</i>
 	</summary>
 
+`Rock paper scissors`:
+<img src="img/py.png" height="20px">
+
 `A needle in the haystack`:
 <img src="img/py.png" height="20px">
 
@@ -774,6 +777,9 @@
 <img src="img/py.png" height="20px">
 
 `Csv representation of array`:
+<img src="img/py.png" height="20px">
+
+`Define a card suit`:
 <img src="img/py.png" height="20px">
 
 `Did she said hallo`:
@@ -1166,6 +1172,9 @@
 `Regex count lowercase letters`:
 <img src="img/py.png" height="20px">
 
+`Regexp basics is it a digit`:
+<img src="img/py.png" height="20px">
+
 `Regulaer ball super ball`:
 <img src="img/py.png" height="20px">
 
@@ -1257,6 +1266,9 @@
 <img src="img/py.png" height="20px">
 
 `String repeat`:
+<img src="img/py.png" height="20px">
+
+`String templates bug fixing 5`:
 <img src="img/py.png" height="20px">
 
 `Stringy strings`:
