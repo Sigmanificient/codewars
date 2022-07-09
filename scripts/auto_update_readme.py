@@ -40,7 +40,7 @@ for directory_language in os.listdir('src/'):
         continue
 
     for kyu in os.listdir(f'src/{directory_language}/katas'):
-        if '_' in kyu:
+        if '_' in kyu or 'test' in kyu:
             continue
 
         kyu_level = int(''.join(c for c in kyu if c.isdigit()))
