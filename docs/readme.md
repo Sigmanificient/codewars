@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*445 solved katas !*
+*449 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
-5kyu : 30
-6kyu : 50
+5kyu : 31
+6kyu : 53
 7kyu : 102
 8kyu : 255
 ```
@@ -146,6 +146,9 @@
 `Sum of pairs`:
 <img src="img/py.png" height="20px">
 
+`The hashing generator`:
+<img src="img/py.png" height="20px">
+
 `Valid parentheses`:
 <img src="img/py.png" height="20px">
 
@@ -252,6 +255,12 @@
 `Iq test`:
 <img src="img/py.png" height="20px">
 
+`Longest palidrome`:
+<img src="img/py.png" height="20px">
+
+`Merge in 2048`:
+<img src="img/py.png" height="20px">
+
 `Mexican wave`:
 <img src="img/py.png" height="20px">
 
@@ -310,6 +319,9 @@
 <img src="img/py.png" height="20px">
 
 `Write the number in expanded form`:
+<img src="img/py.png" height="20px">
+
+`Your order please`:
 <img src="img/py.png" height="20px">
 </details>
 
