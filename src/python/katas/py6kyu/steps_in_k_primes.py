@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/5a48948e145c46820b00002f."""
+
 from math import sqrt
 
 
