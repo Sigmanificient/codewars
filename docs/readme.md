@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*449 solved katas !*
+*451 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
 5kyu : 31
-6kyu : 53
+6kyu : 54
 7kyu : 102
-8kyu : 255
+8kyu : 256
 ```
 
 <h2>3Kyu</h2>
@@ -292,6 +292,9 @@
 <img src="img/py.png" height="20px">
 
 `Split strings`:
+<img src="img/py.png" height="20px">
+
+`Steps in k primes`:
 <img src="img/py.png" height="20px">
 
 `Sum of digits digital rot`:
@@ -1302,6 +1305,9 @@
 <img src="img/py.png" height="20px">
 
 `Super duper easy`:
+<img src="img/py.png" height="20px">
+
+`Surface area and volume of a box`:
 <img src="img/py.png" height="20px">
 
 `Swap values`:
