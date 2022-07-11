@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*451 solved katas !*
+*453 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
 5kyu : 31
-6kyu : 54
-7kyu : 102
+6kyu : 55
+7kyu : 103
 8kyu : 256
 ```
 
@@ -187,6 +187,9 @@
 <img src="img/py.png" height="20px">
 
 `Build tower`:
+<img src="img/py.png" height="20px">
+
+`Calculate pyramid height`:
 <img src="img/py.png" height="20px">
 
 `Codewars leaderboard`:
@@ -608,6 +611,9 @@
 <img src="img/py.png" height="20px">
 
 `Thinkful string drills repeater`:
+<img src="img/py.png" height="20px">
+
+`Two oldest ages`:
 <img src="img/py.png" height="20px">
 
 `Two to one`:
