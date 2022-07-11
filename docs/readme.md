@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*455 solved katas !*
+*456 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
 5kyu : 31
-6kyu : 56
+6kyu : 57
 7kyu : 104
 8kyu : 256
 ```
@@ -322,6 +322,9 @@
 <img src="img/py.png" height="20px">
 
 `Unique in order`:
+<img src="img/py.png" height="20px">
+
+`Weird string case`:
 <img src="img/py.png" height="20px">
 
 `Who likes it`:
