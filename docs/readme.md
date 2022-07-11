@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*453 solved katas !*
+*455 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
 5kyu : 31
-6kyu : 55
-7kyu : 103
+6kyu : 56
+7kyu : 104
 8kyu : 256
 ```
 
@@ -178,6 +178,9 @@
 <img src="img/py.png" height="20px">
 
 `Backwards read primes`:
+<img src="img/py.png" height="20px">
+
+`Binary tree compare`:
 <img src="img/py.png" height="20px">
 
 `Break camel case`:
@@ -365,6 +368,9 @@
 <img src="img/py.png" height="20px">
 
 `Censored strings`:
+<img src="img/py.png" height="20px">
+
+`Char code calculation`:
 <img src="img/py.png" height="20px">
 
 `Check the exam`:
