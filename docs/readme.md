@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*458 solved katas !*
+*461 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
 5kyu : 31
 6kyu : 58
-7kyu : 105
+7kyu : 108
 8kyu : 256
 ```
 
@@ -445,10 +445,16 @@
 `Find the next perfect square`:
 <img src="img/py.png" height="20px">
 
+`First class function factory`:
+<img src="img/py.png" height="20px">
+
 `Fix string case`:
 <img src="img/py.png" height="20px">
 
 `Fizz buzz`:
+<img src="img/py.png" height="20px">
+
+`Flatten and sort an array`:
 <img src="img/py.png" height="20px">
 
 `Form the minimum`:
@@ -482,6 +488,9 @@
 <img src="img/py.png" height="20px">
 
 `Jaden casing strings`:
+<img src="img/py.png" height="20px">
+
+`Last digit of a number`:
 <img src="img/py.png" height="20px">
 
 `Last survivor`:
