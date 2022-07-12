@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*456 solved katas !*
+*458 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
 5kyu : 31
-6kyu : 57
-7kyu : 104
+6kyu : 58
+7kyu : 105
 8kyu : 256
 ```
 
@@ -303,6 +303,9 @@
 `Steps in k primes`:
 <img src="img/py.png" height="20px">
 
+`Stop gninnips my sdrow`:
+<img src="img/py.png" height="20px">
+
 `Sum of digits digital rot`:
 <img src="img/py.png" height="20px">
 
@@ -395,7 +398,7 @@
 <img src="img/py.png" height="20px">
 
 `Credit card mask`:
-<img src="img/py.png" height="20px"> <img src="img/js.png" height="20px">
+<img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Decimal reverser`:
 <img src="img/py.png" height="20px">
@@ -521,6 +524,9 @@
 <img src="img/py.png" height="20px">
 
 `Odd or even`:
+<img src="img/py.png" height="20px">
+
+`Power of two`:
 <img src="img/py.png" height="20px">
 
 `Predict your age`:
@@ -1233,7 +1239,7 @@
 <img src="img/py.png" height="20px">
 
 `Return negative`:
-<img src="img/py.png" height="20px"> <img src="img/js.png" height="20px"> <img src="img/php.png" height="20px">
+<img src="img/php.png" height="20px"> <img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Return the day`:
 <img src="img/py.png" height="20px">
