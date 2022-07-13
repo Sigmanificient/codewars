@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*461 solved katas !*
+*463 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
 5kyu : 31
 6kyu : 58
-7kyu : 108
+7kyu : 110
 8kyu : 256
 ```
 
@@ -511,6 +511,9 @@
 `Map function issue`:
 <img src="img/py.png" height="20px">
 
+`Maximum length difference`:
+<img src="img/py.png" height="20px">
+
 `Maximum multiple`:
 <img src="img/py.png" height="20px">
 
@@ -524,6 +527,9 @@
 <img src="img/py.png" height="20px">
 
 `Mumbling`:
+<img src="img/py.png" height="20px">
+
+`Nice array`:
 <img src="img/py.png" height="20px">
 
 `Not oddities here`:
