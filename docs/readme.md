@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*469 solved katas !*
+*471 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
-5kyu : 32
+5kyu : 33
 6kyu : 59
 7kyu : 114
-8kyu : 256
+8kyu : 257
 ```
 
 <h2>3Kyu</h2>
@@ -64,6 +64,9 @@
 	<summary>
 		<i>views solved 5 kyu</i>
 	</summary>
+
+`Bird mountains`:
+<img src="img/py.png" height="20px">
 
 `Can you get the loop`:
 <img src="img/py.png" height="20px">
@@ -699,6 +702,9 @@
 	</summary>
 
 `Rock paper scissors`:
+<img src="img/py.png" height="20px">
+
+` 101 dalmatians squash the bugs not the dogs`:
 <img src="img/py.png" height="20px">
 
 `A needle in the haystack`:
