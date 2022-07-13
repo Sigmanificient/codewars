@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*463 solved katas !*
+*469 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
-5kyu : 31
-6kyu : 58
-7kyu : 110
+5kyu : 32
+6kyu : 59
+7kyu : 114
 8kyu : 256
 ```
 
@@ -64,6 +64,9 @@
 	<summary>
 		<i>views solved 5 kyu</i>
 	</summary>
+
+`Can you get the loop`:
+<img src="img/py.png" height="20px">
 
 `Convert a hex string to rgb`:
 <img src="img/js.png" height="20px">
@@ -196,6 +199,9 @@
 <img src="img/py.png" height="20px">
 
 `Codewars leaderboard`:
+<img src="img/py.png" height="20px">
+
+`Consecutive strings`:
 <img src="img/py.png" height="20px">
 
 `Convert string to camel case`:
@@ -346,6 +352,9 @@
 		<i>views solved 7 kyu</i>
 	</summary>
 
+` 16p18e214`:
+<img src="img/py.png" height="20px">
+
 `A rule of divisibility by 7`:
 <img src="img/py.png" height="20px">
 
@@ -409,6 +418,9 @@
 `Disemvowel trolls`:
 <img src="img/py.png" height="20px">
 
+`Divide and conquer`:
+<img src="img/py.png" height="20px">
+
 `Elevator distance`:
 <img src="img/py.png" height="20px">
 
@@ -470,6 +482,9 @@
 <img src="img/py.png" height="20px">
 
 `Having sum`:
+<img src="img/py.png" height="20px">
+
+`Heavy metal umlauts`:
 <img src="img/py.png" height="20px">
 
 `Heron formula`:
@@ -554,6 +569,9 @@
 <img src="img/py.png" height="20px">
 
 `Rearrange number to get it maximum`:
+<img src="img/py.png" height="20px">
+
+`Reduce my fraction`:
 <img src="img/py.png" height="20px">
 
 `Regex validate pin code`:
