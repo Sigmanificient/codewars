@@ -45,6 +45,7 @@ def is_this_a_rectangle(p, t=0.05):
         and abs(bc - ad) <= t
     )
 
+
 def test_is_this_a_rectangle():
     assert is_this_a_rectangle([[0, 0], [1, 0], [1, 1], [0, 1], [0, 0]])
     assert is_this_a_rectangle([[0, 0], [2, 0], [2, 2], [0, 2], [0, 0]])
