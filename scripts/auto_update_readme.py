@@ -9,7 +9,7 @@ PROFILE = f'![Codewars](https://www.codewars.com/users/{USER}/badges/large)'
 COVERAGE = f'https://codecov.io/gh/{USER}/{REPO_NAME}/branch/master/graph/badge.svg?token=0MNNDL5VSF'
 
 
-EXCLUDED = ['docs', '$RECYCLE.BIN', 'LICENSE']
+EXCLUDED = ['__pycache__', ]
 
 buttons_urls = {
     'GitHub code size in bytes':
@@ -31,7 +31,7 @@ buttons = '\n'.join(f'![{k}]({v})' for k, v in buttons_urls.items())
 
 
 challenges: Dict[str, List[str]] = {}
-difficulties: Dict[int, List[int]] = {i: [] for i in range(1, 9)}
+difficulties: Dict[int, List[int]] = {i: [] for i in range(9)}
 counts: Dict[int, int] = {}
 total: int = 0
 
@@ -43,7 +43,7 @@ for directory_language in os.listdir('src/'):
         if '_' in kyu or 'test' in kyu:
             continue
 
-        kyu_level = int(''.join(c for c in kyu if c.isdigit()))
+        kyu_level = int(''.join(c for c in kyu if c.isdigit()) or 0)
 
         for file in os.listdir(f'src/{directory_language}/katas/{kyu}'):
             if file.count('.') != 1:
@@ -66,7 +66,11 @@ for directory_language in os.listdir('src/'):
             counts[kyu_level] += 1
             total += 1
 
-stats = '\n'.join(f"{k}kyu : {v}" for k, v in sorted(counts.items()) if v)
+stats = '\n'.join(
+    f"{k}kyu : {v}" if k else f"beta : {v}"
+    for k, v in sorted(counts.items())
+    if v
+)
 
 with open("docs/readme.md", "w") as f:
     f.write(f"# Codewars\n\n{buttons}\n\n<br>\n\n{PROFILE}")
