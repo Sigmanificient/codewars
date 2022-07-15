@@ -10,16 +10,30 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*474 solved katas !*
+*478 solved katas !*
 
 ```c
+beta : 2
 3kyu : 3
 4kyu : 5
 5kyu : 34
 6kyu : 59
-7kyu : 116
+7kyu : 118
 8kyu : 257
 ```
+
+<h2>0Kyu</h2>
+<details>
+	<summary>
+		<i>views solved 0 kyu</i>
+	</summary>
+
+`Beta asyncio the beginning`:
+<img src="img/py.png" height="20px">
+
+`Beta is this a rectangle`:
+<img src="img/py.png" height="20px">
+</details>
 
 <h2>3Kyu</h2>
 <details>
@@ -391,6 +405,9 @@
 `Censored strings`:
 <img src="img/py.png" height="20px">
 
+`Chain me`:
+<img src="img/py.png" height="20px">
+
 `Char code calculation`:
 <img src="img/py.png" height="20px">
 
@@ -449,6 +466,9 @@
 <img src="img/py.png" height="20px">
 
 `Fibonacci`:
+<img src="img/py.png" height="20px">
+
+`Find the annonymous function`:
 <img src="img/py.png" height="20px">
 
 `Find the capitals`:
