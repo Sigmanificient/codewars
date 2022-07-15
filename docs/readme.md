@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*478 solved katas !*
+*481 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 5
-5kyu : 34
-6kyu : 59
+5kyu : 35
+6kyu : 61
 7kyu : 118
 8kyu : 257
 ```
@@ -133,6 +133,9 @@ beta : 2
 `Maximum subarray sum`:
 <img src="img/py.png" height="20px">
 
+`Memoized fibonacci`:
+<img src="img/py.png" height="20px">
+
 `Moving zeros to the end`:
 <img src="img/py.png" height="20px">
 
@@ -197,6 +200,9 @@ beta : 2
 `Array diff`:
 <img src="img/py.png" height="20px">
 
+`Ascii fun 2 funny dots`:
+<img src="img/py.png" height="20px">
+
 `Backspaces in string`:
 <img src="img/py.png" height="20px">
 
@@ -204,6 +210,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Binary tree compare`:
+<img src="img/py.png" height="20px">
+
+`Binding within the list monad`:
 <img src="img/py.png" height="20px">
 
 `Break camel case`:
