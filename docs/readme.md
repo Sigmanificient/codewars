@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*471 solved katas !*
+*474 solved katas !*
 
 ```c
 3kyu : 3
 4kyu : 5
-5kyu : 33
+5kyu : 34
 6kyu : 59
-7kyu : 114
+7kyu : 116
 8kyu : 257
 ```
 
@@ -82,6 +82,9 @@
 
 `First non repeating character`:
 <img src="img/py.png" height="20px">
+
+`Flatten`:
+<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Greed is good`:
 <img src="img/py.png" height="20px">
@@ -668,6 +671,9 @@
 <img src="img/py.png" height="20px">
 
 `Two to one`:
+<img src="img/py.png" height="20px">
+
+`Unflatten a list`:
 <img src="img/py.png" height="20px">
 
 `Vaporcode`:
