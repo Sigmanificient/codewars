@@ -1,4 +1,4 @@
-"""Kata ul: https://www.codewars.com/kata/534d0a229345375d520006a0."""
+"""Kata url: https://www.codewars.com/kata/534d0a229345375d520006a0."""
 
 
 def power_of_two(n: int) -> bool:

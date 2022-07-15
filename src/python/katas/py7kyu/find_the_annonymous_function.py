@@ -1,4 +1,4 @@
-"""Kata ur: https://www.codewars.com/kata/55a12bb8f0fac1ba340000aa."""
+"""Kata url: https://www.codewars.com/kata/55a12bb8f0fac1ba340000aa."""
 from typing import List, Union, Callable
 
 
