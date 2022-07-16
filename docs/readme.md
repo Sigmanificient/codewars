@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*485 solved katas !*
+*490 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 5
-5kyu : 35
+5kyu : 36
 6kyu : 63
-7kyu : 120
+7kyu : 124
 8kyu : 257
 ```
 
@@ -86,6 +86,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Convert a hex string to rgb`:
+<img src="img/js.png" height="20px">
+
+`Conway look and say generalized`:
 <img src="img/js.png" height="20px">
 
 `Extract the domain from a url`:
@@ -612,6 +615,9 @@ beta : 2
 `Printer errors`:
 <img src="img/py.png" height="20px">
 
+`Race ceremony`:
+<img src="img/py.png" height="20px">
+
 `Rearrange number to get it maximum`:
 <img src="img/py.png" height="20px">
 
@@ -643,6 +649,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Shorter word`:
+<img src="img/py.png" height="20px">
+
+`Small enough beginner`:
 <img src="img/py.png" height="20px">
 
 `Smallest product`:
@@ -682,6 +691,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Sum of numbers from 0 to n`:
+<img src="img/py.png" height="20px">
+
+`Sum of odd numbers`:
 <img src="img/py.png" height="20px">
 
 `Sum of the first nth term of series`:
@@ -724,6 +736,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Vowel count`:
+<img src="img/py.png" height="20px">
+
+`Wealth equality finally`:
 <img src="img/py.png" height="20px">
 
 `What a classy song`:
