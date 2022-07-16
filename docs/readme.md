@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*481 solved katas !*
+*485 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 5
 5kyu : 35
-6kyu : 61
-7kyu : 118
+6kyu : 63
+7kyu : 120
 8kyu : 257
 ```
 
@@ -296,6 +296,9 @@ beta : 2
 `Iq test`:
 <img src="img/py.png" height="20px">
 
+`Is a number prime`:
+<img src="img/py.png" height="20px">
+
 `Longest palidrome`:
 <img src="img/py.png" height="20px">
 
@@ -318,6 +321,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Replace with alphabet position`:
+<img src="img/py.png" height="20px">
+
+`Rotate array`:
 <img src="img/py.png" height="20px">
 
 `Simple card game`:
@@ -540,6 +546,9 @@ beta : 2
 `Jaden casing strings`:
 <img src="img/py.png" height="20px">
 
+`Largest 5 digit number in a series`:
+<img src="img/py.png" height="20px">
+
 `Last digit of a number`:
 <img src="img/py.png" height="20px">
 
@@ -628,6 +637,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Row weight`:
+<img src="img/py.png" height="20px">
+
+`Seven ate 9`:
 <img src="img/py.png" height="20px">
 
 `Shorter word`:
