@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*490 solved katas !*
+*492 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 5
 5kyu : 36
-6kyu : 63
-7kyu : 124
+6kyu : 64
+7kyu : 125
 8kyu : 257
 ```
 
@@ -233,6 +233,9 @@ beta : 2
 `Codewars leaderboard`:
 <img src="img/py.png" height="20px">
 
+`Collatz`:
+<img src="img/py.png" height="20px">
+
 `Consecutive strings`:
 <img src="img/py.png" height="20px">
 
@@ -433,6 +436,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Checks for prime numbers`:
+<img src="img/py.png" height="20px">
+
+`Collatz conjecture length`:
 <img src="img/py.png" height="20px">
 
 `Complementary dna`:
