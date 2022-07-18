@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*499 solved katas !*
+*500 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 5
 5kyu : 38
-6kyu : 64
+6kyu : 65
 7kyu : 129
 8kyu : 258
 ```
@@ -240,6 +240,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Collatz`:
+<img src="img/py.png" height="20px">
+
+`Common directory path`:
 <img src="img/py.png" height="20px">
 
 `Consecutive strings`:
