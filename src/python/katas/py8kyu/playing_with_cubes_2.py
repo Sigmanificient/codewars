@@ -13,7 +13,7 @@ class Cube:
         self.__side = new_side
 
 
-def text_cube():
+def test_cube():
     c = Cube()
     assert c.get_side() == 0
 
