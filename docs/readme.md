@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*492 solved katas !*
+*499 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 5
-5kyu : 36
+5kyu : 38
 6kyu : 64
-7kyu : 125
-8kyu : 257
+7kyu : 129
+8kyu : 258
 ```
 
 <h2>0Kyu</h2>
@@ -91,6 +91,9 @@ beta : 2
 `Conway look and say generalized`:
 <img src="img/js.png" height="20px">
 
+`Did i fnish my sodoku`:
+<img src="img/py.png" height="20px">
+
 `Extract the domain from a url`:
 <img src="img/py.png" height="20px">
 
@@ -119,6 +122,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Int32 to ipv4`:
+<img src="img/py.png" height="20px">
+
+`Intergers recreation one`:
 <img src="img/py.png" height="20px">
 
 `Ips between`:
@@ -438,6 +444,9 @@ beta : 2
 `Checks for prime numbers`:
 <img src="img/py.png" height="20px">
 
+`Coding meetup 1 higher order functions series count the number of javascript developers coming from europe`:
+<img src="img/py.png" height="20px">
+
 `Collatz conjecture length`:
 <img src="img/py.png" height="20px">
 
@@ -507,6 +516,9 @@ beta : 2
 `Find the next perfect square`:
 <img src="img/py.png" height="20px">
 
+`Find the vowel`:
+<img src="img/py.png" height="20px">
+
 `First class function factory`:
 <img src="img/py.png" height="20px">
 
@@ -556,6 +568,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Largest 5 digit number in a series`:
+<img src="img/py.png" height="20px">
+
+`Largest pair sum in array`:
 <img src="img/py.png" height="20px">
 
 `Last digit of a number`:
@@ -718,6 +733,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Testing 123`:
+<img src="img/py.png" height="20px">
+
+`The fusc function part 1`:
 <img src="img/py.png" height="20px">
 
 `Thinkful string drills poem formatter`:
@@ -1289,6 +1307,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Pick a set of first elements`:
+<img src="img/py.png" height="20px">
+
+`Playing with cubes 2`:
 <img src="img/py.png" height="20px">
 
 `Plural`:
