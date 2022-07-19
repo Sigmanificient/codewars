@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*500 solved katas !*
+*507 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
-4kyu : 5
+4kyu : 7
 5kyu : 38
-6kyu : 65
-7kyu : 129
-8kyu : 258
+6kyu : 66
+7kyu : 132
+8kyu : 259
 ```
 
 <h2>0Kyu</h2>
@@ -60,7 +60,13 @@ beta : 2
 `Human readable duration format`:
 <img src="img/py.png" height="20px">
 
+`Most frequently used words in a text`:
+<img src="img/py.png" height="20px">
+
 `Permutations`:
+<img src="img/py.png" height="20px">
+
+`Range extraction`:
 <img src="img/py.png" height="20px">
 
 `Strip comments`:
@@ -341,6 +347,9 @@ beta : 2
 `Rotate array`:
 <img src="img/py.png" height="20px">
 
+`Silent import`:
+<img src="img/py.png" height="20px">
+
 `Simple card game`:
 <img src="img/py.png" height="20px">
 
@@ -466,7 +475,7 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Credit card mask`:
-<img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/js.png" height="20px">
 
 `Decimal reverser`:
 <img src="img/py.png" height="20px">
@@ -657,6 +666,9 @@ beta : 2
 `Remove the minimum`:
 <img src="img/py.png" height="20px">
 
+`Return the closest multiple of 10`:
+<img src="img/py.png" height="20px">
+
 `Reverse letter`:
 <img src="img/py.png" height="20px">
 
@@ -693,6 +705,9 @@ beta : 2
 `Sorted numbers`:
 <img src="img/py.png" height="20px">
 
+`Sorted yes no how`:
+<img src="img/py.png" height="20px">
+
 `Split in parts`:
 <img src="img/py.png" height="20px">
 
@@ -712,6 +727,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Sum of digits`:
+<img src="img/py.png" height="20px">
+
+`Sum of minimums`:
 <img src="img/py.png" height="20px">
 
 `Sum of numbers from 0 to n`:
@@ -896,6 +914,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Concurrency currency i`:
+<img src="img/py.png" height="20px">
+
+`Consecutive letters`:
 <img src="img/py.png" height="20px">
 
 `Convert a string to an array`:
@@ -1370,7 +1391,7 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Return negative`:
-<img src="img/php.png" height="20px"> <img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/php.png" height="20px"> <img src="img/js.png" height="20px">
 
 `Return the day`:
 <img src="img/py.png" height="20px">
