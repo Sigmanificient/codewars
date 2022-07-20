@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*510 solved katas !*
+*512 solved katas !*
 
 ```c
 beta : 2
@@ -18,7 +18,7 @@ beta : 2
 4kyu : 7
 5kyu : 38
 6kyu : 67
-7kyu : 134
+7kyu : 136
 8kyu : 259
 ```
 
@@ -567,6 +567,9 @@ beta : 2
 `Heavy metal umlauts`:
 <img src="img/py.png" height="20px">
 
+`Help sukui count his vegetables`:
+<img src="img/py.png" height="20px">
+
 `Heron formula`:
 <img src="img/py.png" height="20px">
 
@@ -772,6 +775,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Thinkful string drills repeater`:
+<img src="img/py.png" height="20px">
+
+`Triangular treasure`:
 <img src="img/py.png" height="20px">
 
 `Two oldest ages`:
