@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*507 solved katas !*
+*510 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 7
 5kyu : 38
-6kyu : 66
-7kyu : 132
+6kyu : 67
+7kyu : 134
 8kyu : 259
 ```
 
@@ -377,6 +377,9 @@ beta : 2
 `Take a number and sum its digits raised to the consectuve powers and eureka`:
 <img src="img/py.png" height="20px">
 
+`The takewhile function`:
+<img src="img/py.png" height="20px">
+
 `Title case`:
 <img src="img/py.png" height="20px">
 
@@ -433,6 +436,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
+<img src="img/py.png" height="20px">
+
+`Big factorial`:
 <img src="img/py.png" height="20px">
 
 `Binary addition`:
@@ -574,6 +580,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Is even bitwise series`:
+<img src="img/py.png" height="20px">
+
+`Isograms`:
 <img src="img/py.png" height="20px">
 
 `Jaden casing strings`:
