@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*514 solved katas !*
+*525 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 8
-5kyu : 38
-6kyu : 67
-7kyu : 137
-8kyu : 259
+5kyu : 39
+6kyu : 73
+7kyu : 140
+8kyu : 260
 ```
 
 <h2>0Kyu</h2>
@@ -166,6 +166,9 @@ beta : 2
 `Perimeter`:
 <img src="img/py.png" height="20px">
 
+`Pete the baker`:
+<img src="img/py.png" height="20px">
+
 `Primes in numbers`:
 <img src="img/py.png" height="20px">
 
@@ -233,6 +236,9 @@ beta : 2
 `Binding within the list monad`:
 <img src="img/py.png" height="20px">
 
+`Bit counting`:
+<img src="img/py.png" height="20px">
+
 `Break camel case`:
 <img src="img/py.png" height="20px">
 
@@ -243,6 +249,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Calculate pyramid height`:
+<img src="img/py.png" height="20px">
+
+`Camelcase method`:
 <img src="img/py.png" height="20px">
 
 `Codewars leaderboard`:
@@ -326,6 +335,9 @@ beta : 2
 `Longest palidrome`:
 <img src="img/py.png" height="20px">
 
+`Meeting`:
+<img src="img/py.png" height="20px">
+
 `Merge in 2048`:
 <img src="img/py.png" height="20px">
 
@@ -335,6 +347,9 @@ beta : 2
 `Multiple of 3 or 5`:
 <img src="img/py.png" height="20px">
 
+`Nested list depth`:
+<img src="img/py.png" height="20px">
+
 `Perisitent bugger`:
 <img src="img/py.png" height="20px">
 
@@ -342,6 +357,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Playing with passphrases`:
+<img src="img/py.png" height="20px">
+
+`Rectangle letter juggling`:
 <img src="img/py.png" height="20px">
 
 `Replace with alphabet position`:
@@ -375,6 +393,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Sum of digits digital rot`:
+<img src="img/py.png" height="20px">
+
+`Sum of parts`:
 <img src="img/py.png" height="20px">
 
 `Take a number and sum its digits raised to the consectuve powers and eureka`:
@@ -424,6 +445,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `All star code challenge 20`:
+<img src="img/py.png" height="20px">
+
+`Alphabet symmetry`:
 <img src="img/py.png" height="20px">
 
 `Alphabet war`:
@@ -540,6 +564,9 @@ beta : 2
 `Find the next perfect square`:
 <img src="img/py.png" height="20px">
 
+`Find the stray number`:
+<img src="img/py.png" height="20px">
+
 `Find the vowel`:
 <img src="img/py.png" height="20px">
 
@@ -646,6 +673,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Not oddities here`:
+<img src="img/py.png" height="20px">
+
+`Number of people in the bus`:
 <img src="img/py.png" height="20px">
 
 `Odd even string sort`:
@@ -1451,6 +1481,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Simple multplication`:
+<img src="img/py.png" height="20px">
+
+`Simple validation of a username with regex`:
 <img src="img/py.png" height="20px">
 
 `Sleigh authentication`:
