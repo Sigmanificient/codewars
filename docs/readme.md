@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*512 solved katas !*
+*514 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
-4kyu : 7
+4kyu : 8
 5kyu : 38
 6kyu : 67
-7kyu : 136
+7kyu : 137
 8kyu : 259
 ```
 
@@ -67,6 +67,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Range extraction`:
+<img src="img/py.png" height="20px">
+
+`Strings mix`:
 <img src="img/py.png" height="20px">
 
 `Strip comments`:
@@ -493,6 +496,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Divide and conquer`:
+<img src="img/py.png" height="20px">
+
+`Dont give me five`:
 <img src="img/py.png" height="20px">
 
 `Elevator distance`:
