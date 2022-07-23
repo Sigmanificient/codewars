@@ -1,0 +1,7 @@
+*.*cache
+coverage
+
+
+src/python/venv
+src/php/vendor
+src/js/node_modules
