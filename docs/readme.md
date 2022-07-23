@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*525 solved katas !*
+*528 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
-4kyu : 8
-5kyu : 39
-6kyu : 73
+4kyu : 9
+5kyu : 40
+6kyu : 74
 7kyu : 140
 8kyu : 260
 ```
@@ -73,6 +73,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Strip comments`:
+<img src="img/py.png" height="20px">
+
+`Sudoku solution validator`:
 <img src="img/py.png" height="20px">
 
 `Sum by factor`:
@@ -197,6 +200,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Valid parentheses`:
+<img src="img/py.png" height="20px">
+
+`Vector class`:
 <img src="img/py.png" height="20px">
 
 `Whats a perfect power anyway`:
@@ -417,6 +423,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Unique in order`:
+<img src="img/py.png" height="20px">
+
+`Valid phone number`:
 <img src="img/py.png" height="20px">
 
 `Weird string case`:
