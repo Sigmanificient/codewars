@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*528 solved katas !*
+*529 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 9
-5kyu : 40
+5kyu : 41
 6kyu : 74
 7kyu : 140
 8kyu : 260
@@ -117,6 +117,9 @@ beta : 2
 
 `Flatten`:
 <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
+
+`Gap in primes`:
+<img src="img/py.png" height="20px">
 
 `Greed is good`:
 <img src="img/py.png" height="20px">
