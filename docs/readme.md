@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*529 solved katas !*
+*530 solved katas !*
 
 ```c
 beta : 2
@@ -19,7 +19,7 @@ beta : 2
 5kyu : 41
 6kyu : 74
 7kyu : 140
-8kyu : 260
+8kyu : 261
 ```
 
 <h2>0Kyu</h2>
@@ -1634,6 +1634,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Will you make it`:
+<img src="img/py.png" height="20px">
+
+`Wilson primes`:
 <img src="img/py.png" height="20px">
 
 `You cant code under pressure 1`:
