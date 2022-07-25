@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*530 solved katas !*
+*537 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
-4kyu : 9
+4kyu : 10
 5kyu : 41
-6kyu : 74
-7kyu : 140
-8kyu : 261
+6kyu : 76
+7kyu : 143
+8kyu : 262
 ```
 
 <h2>0Kyu</h2>
@@ -67,6 +67,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Range extraction`:
+<img src="img/py.png" height="20px">
+
+`Sort binary tree by level`:
 <img src="img/py.png" height="20px">
 
 `Strings mix`:
@@ -401,6 +404,9 @@ beta : 2
 `Stop gninnips my sdrow`:
 <img src="img/py.png" height="20px">
 
+`Street fighter 2 character selection`:
+<img src="img/py.png" height="20px">
+
 `Sum of digits digital rot`:
 <img src="img/py.png" height="20px">
 
@@ -411,6 +417,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `The takewhile function`:
+<img src="img/py.png" height="20px">
+
+`The vowel code`:
 <img src="img/py.png" height="20px">
 
 `Title case`:
@@ -657,6 +666,9 @@ beta : 2
 `Loop array`:
 <img src="img/js.png" height="20px">
 
+`Lost number in number sequence`:
+<img src="img/py.png" height="20px">
+
 `Make a funciton that does arithmetic`:
 <img src="img/py.png" height="20px">
 
@@ -720,10 +732,16 @@ beta : 2
 `Regex validate pin code`:
 <img src="img/py.png" height="20px">
 
+`Remove anchor from url`:
+<img src="img/py.png" height="20px">
+
 `Remove duplicate words`:
 <img src="img/py.png" height="20px">
 
 `Remove the minimum`:
+<img src="img/py.png" height="20px">
+
+`Replace every nth`:
 <img src="img/py.png" height="20px">
 
 `Return the closest multiple of 10`:
@@ -1532,6 +1550,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Sum mixed array`:
+<img src="img/py.png" height="20px">
+
+`Sum of multiples`:
 <img src="img/py.png" height="20px">
 
 `Sum of positive`:
