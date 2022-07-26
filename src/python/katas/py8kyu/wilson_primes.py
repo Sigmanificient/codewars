@@ -6,9 +6,10 @@ def am_i_wilson(n: int) -> bool:
 
 
 def test_am_i_wilson():
-    assert am_i_wilson(0)
+    assert not am_i_wilson(0)
     assert am_i_wilson(5)
-    assert am_i_wilson(6)
-    assert am_i_wilson(7)
+    assert not am_i_wilson(6)
+    assert not am_i_wilson(7)
     assert am_i_wilson(13)
-    assert am_i_wilson(567)
+    assert am_i_wilson(563)
+    assert not am_i_wilson(564)

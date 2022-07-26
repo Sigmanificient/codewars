@@ -60,7 +60,7 @@ def test_valid_solution():
         [8, 7, 9, 6, 4, 2, 1, 5, 3]
     ])
 
-    assert valid_solution([
+    assert not valid_solution([
         [1, 3, 2, 5, 7, 9, 4, 6, 8],
         [4, 9, 8, 2, 6, 1, 3, 7, 5],
         [7, 5, 6, 3, 8, 4, 2, 1, 9],
@@ -84,7 +84,7 @@ def test_valid_solution():
         [8, 7, 0, 6, 4, 2, 1, 3, 5]]
     )
 
-    assert valid_solution([
+    assert not valid_solution([
         [1, 2, 3, 4, 5, 6, 7, 8, 9],
         [2, 3, 4, 5, 6, 7, 8, 9, 1],
         [3, 4, 5, 6, 7, 8, 9, 1, 2],
