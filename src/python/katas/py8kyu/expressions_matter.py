@@ -2,14 +2,7 @@
 
 
 def expression_matter(a: int, b: int, c: int) -> int:
-    return max(
-        (a + b) * c,
-        a + b * c,
-        a * b + c,
-        a * (b + c),
-        a + b + c,
-        a * b * c
-    )
+    return max((a + b) * c, a + b * c, a * b + c, a * (b + c), a + b + c, a * b * c)
 
 
 def test_expression_matter():

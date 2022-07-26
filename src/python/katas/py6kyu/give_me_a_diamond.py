@@ -6,8 +6,8 @@ def diamond(n: int) -> Optional[str]:
     if not n % 2 or n < 0:
         return None
 
-    half = [' ' * ((n - i) // 2) + '*' * i for i in range(1, n + 1, 2)]
-    return '\n'.join(half[:-1] + half[::-1]) + '\n'
+    half = [" " * ((n - i) // 2) + "*" * i for i in range(1, n + 1, 2)]
+    return "\n".join(half[:-1] + half[::-1]) + "\n"
 
 
 def test_diamond():

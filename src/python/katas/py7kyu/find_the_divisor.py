@@ -3,7 +3,7 @@ from typing import List, Union
 
 
 def divisors(n: int) -> Union[str, List[int]]:
-    return [i for i in range(2, n) if not n % i] or f'{n} is prime'
+    return [i for i in range(2, n) if not n % i] or f"{n} is prime"
 
 
 def test_divisors():

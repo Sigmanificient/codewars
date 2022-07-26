@@ -2,7 +2,7 @@
 
 
 def bmi(weight: float, height: float) -> str:
-    bmi: float = (weight / height ** 2)
+    bmi: float = weight / height**2
 
     if bmi <= 18.5:
         return "Underweight"

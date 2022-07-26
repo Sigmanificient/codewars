@@ -12,7 +12,7 @@ def max_sequence(arr: List[int]) -> int:
         off_max = len(arr) - i
 
         for j in range(off_max + 1):
-            s = sum(arr[i: i + j])
+            s = sum(arr[i : i + j])
             if s > sub_max:
                 sub_max = s
 

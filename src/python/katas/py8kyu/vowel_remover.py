@@ -2,7 +2,7 @@
 
 
 def shortcut(s: str) -> str:
-    return ''.join(x for x in s if x not in 'aeiou')
+    return "".join(x for x in s if x not in "aeiou")
 
 
 def test_shortcut():

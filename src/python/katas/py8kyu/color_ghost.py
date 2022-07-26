@@ -4,7 +4,6 @@ from random import choice
 
 
 class Ghost:
-
     def __init__(self):
         self.color: str = choice(("white", "yellow", "purple", "red"))
 

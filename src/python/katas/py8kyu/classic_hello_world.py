@@ -2,7 +2,6 @@
 
 
 class Solution:
-
     @staticmethod
     def main(*_args):
         print("Hello World!")

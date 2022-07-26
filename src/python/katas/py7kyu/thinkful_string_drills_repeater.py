@@ -6,6 +6,6 @@ def repeater(string: str, n: int) -> str:
 
 
 def test_repeater():
-    assert repeater('a', 5) == 'aaaaa'
-    assert repeater('Na', 16) == 'NaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNa'
-    assert repeater('Wub ', 6) == 'Wub Wub Wub Wub Wub Wub '
+    assert repeater("a", 5) == "aaaaa"
+    assert repeater("Na", 16) == "NaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNa"
+    assert repeater("Wub ", 6) == "Wub Wub Wub Wub Wub Wub "

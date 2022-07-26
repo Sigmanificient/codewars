@@ -18,16 +18,19 @@ def test_flatten():
     assert flatten() == []
     assert flatten(1, 2, 3) == [1, 2, 3]
     assert flatten(1, 2) == [1, 2]
-    assert flatten(5, 'string') == [5, 'string']
+    assert flatten(5, "string") == [5, "string"]
     assert flatten(-4.5, -3, 1, 4) == [-4.5, -3, 1, 4]
 
     assert flatten([3, 4, 5], [1, 2, 3]) == [3, 4, 5, 1, 2, 3]
     assert flatten([1], [], 2, [4, 5, 6]) == [1, 2, 4, 5, 6]
-    assert flatten(
-        [4, "string", 9, 3, 1], [], [], [], [], ["string"]
-    ) == [4, "string", 9, 3, 1, "string"]
+    assert flatten([4, "string", 9, 3, 1], [], [], [], [], ["string"]) == [
+        4,
+        "string",
+        9,
+        3,
+        1,
+        "string",
+    ]
 
-    assert flatten(1, 2, ['9', [], []], None) == [1, 2, '9', None]
-    assert flatten(
-        [1, 2], [3, 4, 5], [6, [7], [[8]]]
-    ) == [1, 2, 3, 4, 5, 6, 7, 8]
+    assert flatten(1, 2, ["9", [], []], None) == [1, 2, "9", None]
+    assert flatten([1, 2], [3, 4, 5], [6, [7], [[8]]]) == [1, 2, 3, 4, 5, 6, 7, 8]

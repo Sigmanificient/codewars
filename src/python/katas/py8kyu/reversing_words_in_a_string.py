@@ -2,9 +2,9 @@
 
 
 def reverse(st: str) -> str:
-    return ' '.join(reversed(st.split()))
+    return " ".join(reversed(st.split()))
 
 
 def test_reverse():
-    assert reverse('Hello World') == 'World Hello'
-    assert reverse('Hi There.') == 'There. Hi'
+    assert reverse("Hello World") == "World Hello"
+    assert reverse("Hi There.") == "There. Hi"

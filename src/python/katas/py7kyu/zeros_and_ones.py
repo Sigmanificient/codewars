@@ -4,7 +4,7 @@ from typing import List
 
 
 def binary_array_to_number(arr: List[int]) -> int:
-    return int(''.join(map(str, arr)), 2)
+    return int("".join(map(str, arr)), 2)
 
 
 def test_binary_array_to_number():

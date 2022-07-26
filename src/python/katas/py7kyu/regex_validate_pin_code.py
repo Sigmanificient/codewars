@@ -3,7 +3,7 @@ import re
 
 
 def validate_pin(pin: str) -> bool:
-    return re.fullmatch(r'^\d{4}$|^\d{6}$', pin) is not None
+    return re.fullmatch(r"^\d{4}$|^\d{6}$", pin) is not None
 
 
 def test_validate_pin():

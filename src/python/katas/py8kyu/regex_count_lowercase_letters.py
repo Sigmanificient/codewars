@@ -9,6 +9,6 @@ def test_lowercase_count():
     assert lowercase_count("") == 0
     assert lowercase_count("abc") == 3
     assert lowercase_count("abcABC123") == 3
-    assert lowercase_count("abcABC123!@#$%^&*()_-+=}{[]|\':;?/>.<,~") == 3
-    assert lowercase_count("ABC123!@#$%^&*()_-+=}{[]|\':;?/>.<,~") == 0
+    assert lowercase_count("abcABC123!@#$%^&*()_-+=}{[]|':;?/>.<,~") == 3
+    assert lowercase_count("ABC123!@#$%^&*()_-+=}{[]|':;?/>.<,~") == 0
     assert lowercase_count("abcdefghijklmnopqrstuvwxyz") == 26

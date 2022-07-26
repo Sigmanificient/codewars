@@ -5,14 +5,11 @@ from typing import List
 def peak_height(mountain: List[str]) -> int:
     # TODO: optimize this in O(n²)
     old = []
-    out = [
-        [-1 for _i in range(len(mountain[0]))]
-        for _j in range(len(mountain))
-    ]
+    out = [[-1 for _i in range(len(mountain[0]))] for _j in range(len(mountain))]
 
     for y, line in enumerate(mountain):
         for x, s in enumerate(line):
-            if s == ' ':
+            if s == " ":
                 out[y][x] = 0
                 continue
 
@@ -24,7 +21,7 @@ def peak_height(mountain: List[str]) -> int:
         for y, line in enumerate(mountain):
             for x, s in enumerate(line):
                 n, s, e, w = 0, 0, 0, 0
-                if s == ' ':
+                if s == " ":
                     continue
 
                 if y > 0:
@@ -43,14 +40,17 @@ def peak_height(mountain: List[str]) -> int:
 
 
 def test_peak_height():
-    assert peak_height(
-        [
-            "^^^^^^        ",
-            " ^^^^^^^^     ",
-            "  ^^^^^^^     ",
-            "  ^^^^^       ",
-            "  ^^^^^^^^^^^ ",
-            "  ^^^^^^      ",
-            "  ^^^^        "
-        ]
-    ) == 3
+    assert (
+        peak_height(
+            [
+                "^^^^^^        ",
+                " ^^^^^^^^     ",
+                "  ^^^^^^^     ",
+                "  ^^^^^       ",
+                "  ^^^^^^^^^^^ ",
+                "  ^^^^^^      ",
+                "  ^^^^        ",
+            ]
+        )
+        == 3
+    )

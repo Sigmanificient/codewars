@@ -2,9 +2,7 @@
 
 
 def replace_exclamation(s: str) -> str:
-    return ''.join(
-        '!' if char.lower() in 'aeiou' else char for char in s
-    )
+    return "".join("!" if char.lower() in "aeiou" else char for char in s)
 
 
 def test_replace_exclamation():

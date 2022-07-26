@@ -4,7 +4,7 @@ from typing import List
 
 
 def each_cons(lst: List[int], n: int) -> List[List[int]]:
-    return [lst[i: i + n] for i in range(len(lst) - n + 1)]
+    return [lst[i : i + n] for i in range(len(lst) - n + 1)]
 
 
 def test_each():

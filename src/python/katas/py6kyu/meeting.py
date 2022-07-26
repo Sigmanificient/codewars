@@ -2,12 +2,9 @@
 
 
 def meeting(s: str) -> str:
-    return ''.join(
+    return "".join(
         f"({', '.join(name)})"
-        for name in sorted(
-            x.split(':')[::-1]
-            for x in s.upper().split(';')
-        )
+        for name in sorted(x.split(":")[::-1] for x in s.upper().split(";"))
     )
 
 

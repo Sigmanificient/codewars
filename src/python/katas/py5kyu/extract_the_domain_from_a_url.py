@@ -3,7 +3,7 @@ import re
 
 
 def domain_name(url):
-    return re.search(r'^(https?:)?(\.|/+)?(www\.)?(?P<d>[^./]*)\.', url)['d']
+    return re.search(r"^(https?:)?(\.|/+)?(www\.)?(?P<d>[^./]*)\.", url)["d"]
 
 
 def test_domain_name():

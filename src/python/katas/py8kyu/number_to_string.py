@@ -3,4 +3,4 @@ a = str(123)
 
 
 def test_a():
-    assert a == '123'
+    assert a == "123"

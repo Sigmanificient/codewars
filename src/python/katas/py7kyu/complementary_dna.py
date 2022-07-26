@@ -2,7 +2,7 @@
 
 
 def dna_strand(dna: str) -> str:
-    return dna.translate(dna.maketrans('ACGT', 'TGCA'))
+    return dna.translate(dna.maketrans("ACGT", "TGCA"))
 
 
 def test_dna_strand():

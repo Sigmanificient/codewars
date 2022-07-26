@@ -10,5 +10,5 @@ def check(a: List[Any], x: Any) -> bool:
 def test_check():
     assert check([66, 101], 66)
     assert check([80, 117, 115, 104, 45, 85, 112, 115], 45)
-    assert check(['t', 'e', 's', 't'], 'e')
-    assert not check(['what', 'a', 'great', 'kata'], 'kat')
+    assert check(["t", "e", "s", "t"], "e")
+    assert not check(["what", "a", "great", "kata"], "kat")

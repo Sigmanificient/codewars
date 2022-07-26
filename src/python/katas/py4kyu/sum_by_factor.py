@@ -42,6 +42,4 @@ def test_abs_prime_factors():
 
 def test_sum_for_list():
     assert sum_for_list([12, 15]) == [[2, 12], [3, 27], [5, 15]]
-    assert sum_for_list(
-        [15, 21, 24, 30, 45]
-    ) == [[2, 54], [3, 135], [5, 90], [7, 21]]
+    assert sum_for_list([15, 21, 24, 30, 45]) == [[2, 54], [3, 135], [5, 90], [7, 21]]

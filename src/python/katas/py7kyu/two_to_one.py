@@ -2,10 +2,13 @@
 
 
 def longest(a1: str, a2: str) -> str:
-    return ''.join(sorted(set(a1 + a2)))
+    return "".join(sorted(set(a1 + a2)))
 
 
 def test_longest():
     assert longest("aretheyhere", "yestheyarehere") == "aehrsty"
-    assert longest("loopingisfunbutdangerous", "lessdangerousthancoding") == "abcdefghilnoprstu"
+    assert (
+        longest("loopingisfunbutdangerous", "lessdangerousthancoding")
+        == "abcdefghilnoprstu"
+    )
     assert longest("inmanylanguages", "theresapairoffunctions") == "acefghilmnoprstuy"

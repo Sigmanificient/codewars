@@ -13,7 +13,9 @@ class Node:
     value: int
 
 
-def tree_by_levels(node: Optional[Node], d: int = 0, layout: DefaultDict[int, List[int]] = None):
+def tree_by_levels(
+    node: Optional[Node], d: int = 0, layout: DefaultDict[int, List[int]] = None
+):
     if layout is None:
         layout = defaultdict(list)
 
@@ -34,6 +36,6 @@ def test_tree_by_levels():
         Node(
             Node(None, Node(None, None, 4), 2),
             Node(Node(None, None, 5), Node(None, None, 6), 3),
-            1
+            1,
         )
     ) == [1, 2, 3, 4, 5, 6]

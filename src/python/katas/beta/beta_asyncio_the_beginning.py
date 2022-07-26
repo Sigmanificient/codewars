@@ -7,12 +7,12 @@ import pytest
 
 async def dreaming(n: int, m: int) -> int:
     await asyncio.sleep(n)
-    return m ** n
+    return m**n
 
 
 @pytest.mark.asyncio
 async def test_dreaming():
     t = perf_counter()
     results = await asyncio.gather(*[dreaming(0.01, i) for i in range(10)])
-    assert results == [k ** 0.01 for k in range(10)]
+    assert results == [k**0.01 for k in range(10)]
     assert perf_counter() - t < 0.03

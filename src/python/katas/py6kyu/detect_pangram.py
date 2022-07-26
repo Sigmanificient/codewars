@@ -2,9 +2,10 @@
 
 
 def is_pangram(s: str) -> bool:
-    return ''.join(
-        filter(str.isalpha, sorted(set(s.lower())))
-    ) == 'abcdefghijklmnopqrstuvwxyz'
+    return (
+        "".join(filter(str.isalpha, sorted(set(s.lower()))))
+        == "abcdefghijklmnopqrstuvwxyz"
+    )
 
 
 def test_is_pangram():

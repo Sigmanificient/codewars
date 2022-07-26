@@ -15,4 +15,4 @@ def unique_in_order(iterable: str) -> List[str]:
 
 
 def test_unique_in_order():
-    assert unique_in_order('AAAABBBCCDAABBB') == ['A', 'B', 'C', 'D', 'A', 'B']
+    assert unique_in_order("AAAABBBCCDAABBB") == ["A", "B", "C", "D", "A", "B"]

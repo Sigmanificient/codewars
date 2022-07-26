@@ -1,11 +1,12 @@
 """Kata url: https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763."""
 
+
 def show_sequence(n: int) -> str:
     if not n:
-        return '0=0'
+        return "0=0"
 
     if n < 0:
-        return f'{n}<0'
+        return f"{n}<0"
 
     r = range(n + 1)
     return f"{'+'.join(map(str, r))} = {sum(r)}"

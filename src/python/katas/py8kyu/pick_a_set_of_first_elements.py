@@ -9,9 +9,9 @@ def first(seq: List[int], n: int = 1) -> List[int]:
 
 
 def test_first():
-    seq = ['a', 'b', 'c', 'd', 'e']
-    assert first(seq) == ['a']
+    seq = ["a", "b", "c", "d", "e"]
+    assert first(seq) == ["a"]
     assert first(seq, 0) == []
-    assert first(seq, 1) == ['a']
-    assert first(seq, 2) == ['a', 'b']
-    assert first(seq, 10) == ['a', 'b', 'c', 'd', 'e']
+    assert first(seq, 1) == ["a"]
+    assert first(seq, 2) == ["a", "b"]
+    assert first(seq, 10) == ["a", "b", "c", "d", "e"]

@@ -4,10 +4,11 @@
 def decrypt(encrypted_text, n):
 
     for _ in range(n):
-        encrypted_text = ''.join(
-            x + y for x, y in zip(
-                ''.join(encrypted_text[len(encrypted_text) // 2:]),
-                ''.join(encrypted_text[:len(encrypted_text) // 2])
+        encrypted_text = "".join(
+            x + y
+            for x, y in zip(
+                "".join(encrypted_text[len(encrypted_text) // 2 :]),
+                "".join(encrypted_text[: len(encrypted_text) // 2]),
             )
         ) + (encrypted_text[-1] * (len(encrypted_text) % 2))
 
@@ -31,7 +32,9 @@ def test_encrypt():
     assert encrypt("This is a test!", 3) == " Tah itse sits!"
     assert encrypt("This is a test!", 4) == "This is a test!"
     assert encrypt("This is a test!", -1) == "This is a test!"
-    assert encrypt("This kata is very interesting!", 1) == "hskt svr neetn!Ti aai eyitrsig"
+    assert (
+        encrypt("This kata is very interesting!", 1) == "hskt svr neetn!Ti aai eyitrsig"
+    )
 
 
 def test_decrypt():
@@ -43,4 +46,6 @@ def test_decrypt():
     assert decrypt(" Tah itse sits!", 3) == "This is a test!"
     assert decrypt("This is a test!", 4) == "This is a test!"
     assert decrypt("This is a test!", -1) == "This is a test!"
-    assert decrypt("hskt svr neetn!Ti aai eyitrsig", 1) == "This kata is very interesting!"
+    assert (
+        decrypt("hskt svr neetn!Ti aai eyitrsig", 1) == "This kata is very interesting!"
+    )

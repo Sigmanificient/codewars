@@ -2,7 +2,7 @@
 
 
 def fake_bin(x: str) -> str:
-    return ''.join('1' if int(c) >= 5 else '0' for c in x)
+    return "".join("1" if int(c) >= 5 else "0" for c in x)
 
 
 def test_fake_bin():

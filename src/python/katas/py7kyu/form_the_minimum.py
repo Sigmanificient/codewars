@@ -3,7 +3,7 @@ from typing import List
 
 
 def min_value(digits: List[int]) -> int:
-    return int(''.join(map(str, sorted(set(digits)))))
+    return int("".join(map(str, sorted(set(digits)))))
 
 
 def test_min_value():

@@ -5,7 +5,7 @@ from typing import List
 
 def even_numbers(arr: List[int], n: int) -> List[int]:
     odds: List[int] = [x for x in arr if not x % 2]
-    return odds[len(odds) - n:]
+    return odds[len(odds) - n :]
 
 
 def test_even_and_odd():

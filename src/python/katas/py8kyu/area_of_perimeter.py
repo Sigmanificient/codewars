@@ -2,7 +2,7 @@
 
 
 def area_or_perimeter(length: int, width: int) -> int:
-    return (length * 2 + 2 * width) if length != width else length ** 2
+    return (length * 2 + 2 * width) if length != width else length**2
 
 
 def test_area_or_perimeter():

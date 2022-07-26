@@ -2,7 +2,7 @@
 
 
 def dont_give_me_five(start: int, end: int) -> int:
-    return sum('5' not in str(k) for k in range(start, end + 1))
+    return sum("5" not in str(k) for k in range(start, end + 1))
 
 
 def test_dont_give_me_five():

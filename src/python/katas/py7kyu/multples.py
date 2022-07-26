@@ -2,8 +2,4 @@
 
 
 def multiple(x: int) -> str:
-    return (
-        "Bang" * (not x % 3)
-        + "Boom" * (not x % 5)
-        or "Miss"
-    )
+    return "Bang" * (not x % 3) + "Boom" * (not x % 5) or "Miss"

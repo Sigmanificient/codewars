@@ -6,8 +6,8 @@ def scramble(s1: str, s2: str) -> bool:
 
 
 def test_scramble():
-    assert scramble('rkqodlw', 'world')
-    assert scramble('cedewaraaossoqqyt', 'codewars')
-    assert not scramble('katas', 'steak')
-    assert scramble('scriptjava', 'javascript')
-    assert scramble('scriptingjava', 'javascript')
+    assert scramble("rkqodlw", "world")
+    assert scramble("cedewaraaossoqqyt", "codewars")
+    assert not scramble("katas", "steak")
+    assert scramble("scriptjava", "javascript")
+    assert scramble("scriptingjava", "javascript")

@@ -8,6 +8,6 @@ def capitals(word: str) -> List[int]:
 
 
 def test_capitals():
-    assert capitals('codewars') == []
-    assert capitals('CodEWaRs') == [0, 3, 4, 6]
-    assert capitals('Hello, World') == [0, 7]
+    assert capitals("codewars") == []
+    assert capitals("CodEWaRs") == [0, 3, 4, 6]
+    assert capitals("Hello, World") == [0, 7]

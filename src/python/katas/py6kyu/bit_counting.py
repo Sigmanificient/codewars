@@ -2,7 +2,7 @@
 
 
 def count_bits(n: int) -> int:
-    return sum(i == '1' for i in f'{n:b}')
+    return sum(i == "1" for i in f"{n:b}")
 
 
 def test_count_bits():

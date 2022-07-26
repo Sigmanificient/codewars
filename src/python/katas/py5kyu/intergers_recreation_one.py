@@ -16,7 +16,7 @@ def list_squared(m: int, n: int) -> List[List[int]]:
                 out.append([i, k])
             continue
 
-        s = sum(x ** 2 for x in range(1, i + 1) if not i % x)
+        s = sum(x**2 for x in range(1, i + 1) if not i % x)
 
         if not sqrt(s) % 1:
             out.append([i, s])
@@ -38,4 +38,8 @@ def test_list_square():
     assert list_squared(1800, 2000) == [[1880, 4884100]]
     assert list_squared(2000, 2200) == []
     assert list_squared(2200, 5000) == [[4264, 24304900]]
-    assert list_squared(5000, 10000) == [[6237, 45024100], [9799, 96079204], [9855, 113635600]]
+    assert list_squared(5000, 10000) == [
+        [6237, 45024100],
+        [9799, 96079204],
+        [9855, 113635600],
+    ]

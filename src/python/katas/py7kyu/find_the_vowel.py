@@ -4,10 +4,7 @@ from typing import List
 
 
 def vowel_indices(word: str) -> List[int]:
-    return [
-        c for c, l in enumerate(word, start=1)
-        if l.lower() in 'aeiouy'
-    ]
+    return [c for c, l in enumerate(word, start=1) if l.lower() in "aeiouy"]
 
 
 def test_vowel_indices():

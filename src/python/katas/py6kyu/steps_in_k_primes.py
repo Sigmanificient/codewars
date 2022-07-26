@@ -17,15 +17,9 @@ def get_count_prime_factors(n):
 
 
 def k_primes_step(k, step, start, nd):
-    out = [
-        i for i in range(start, nd + 1)
-        if get_count_prime_factors(i) == k
-    ]
+    out = [i for i in range(start, nd + 1) if get_count_prime_factors(i) == k]
 
-    return [
-        [x, x + step] for x, n in zip(out, out[1::])
-        if x + step in out
-    ]
+    return [[x, x + step] for x, n in zip(out, out[1::]) if x + step in out]
 
 
 def test_get_prime_factors():
@@ -39,5 +33,7 @@ def test_get_prime_factors():
 def test_k_primes_step():
     assert k_primes_step(10, 8, 2425364, 2425700) == []
     assert k_primes_step(6, 8, 2627371, 2627581) == [
-        [2627408, 2627416], [2627440, 2627448], [2627496, 2627504]
+        [2627408, 2627416],
+        [2627440, 2627448],
+        [2627496, 2627504],
     ]

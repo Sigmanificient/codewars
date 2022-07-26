@@ -6,8 +6,7 @@ from typing import List, Optional
 
 def is_prime(k: int) -> bool:
     return k == 2 or (
-            k > 2 and k % 2
-            and all(k % i for i in range(3, int(math.sqrt(k)) + 1, 2))
+        k > 2 and k % 2 and all(k % i for i in range(3, int(math.sqrt(k)) + 1, 2))
     )
 
 

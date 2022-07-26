@@ -2,7 +2,7 @@
 
 
 def rot13(message: str) -> str:
-    charset = 'abcdefghijklmnopqrstuvwxyz'
+    charset = "abcdefghijklmnopqrstuvwxyz"
 
     buff = []
     for char in message:
@@ -17,7 +17,7 @@ def rot13(message: str) -> str:
 
         buff.append(n_char)
 
-    return ''.join(buff)
+    return "".join(buff)
 
 
 def test_rot13():

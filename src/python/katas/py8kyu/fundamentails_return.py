@@ -18,7 +18,7 @@ def mod(a: int, b: int) -> int:
 
 
 def exponent(a: int, b: int) -> int:
-    return a ** b
+    return a**b
 
 
 def subt(a: int, b: int) -> int:

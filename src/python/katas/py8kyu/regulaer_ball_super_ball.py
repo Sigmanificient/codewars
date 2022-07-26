@@ -2,11 +2,10 @@
 
 
 class Ball:
-
     def __init__(self, _type="regular"):
         self.ball_type = _type
 
 
 def test_ball():
     assert Ball().ball_type == "regular"
-    assert Ball('super').ball_type == "super"
+    assert Ball("super").ball_type == "super"

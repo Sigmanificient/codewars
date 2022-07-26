@@ -2,7 +2,7 @@
 
 
 def dna_to_rna(dna: str) -> str:
-    return dna.replace('T', 'U')
+    return dna.replace("T", "U")
 
 
 def test_dna_to_rna():

@@ -2,7 +2,7 @@
 
 
 def mango(quantity: int, price: int) -> int:
-    return (quantity - quantity//3) * price
+    return (quantity - quantity // 3) * price
 
 
 def test_mango():

@@ -2,7 +2,7 @@
 
 
 def square_digits(num: int) -> int:
-    return int(''.join(str(int(digit) ** 2) for digit in str(num)))
+    return int("".join(str(int(digit) ** 2) for digit in str(num)))
 
 
 def test_square_digits():

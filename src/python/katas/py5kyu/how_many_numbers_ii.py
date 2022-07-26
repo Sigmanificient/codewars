@@ -9,7 +9,7 @@ def max_sum_dig(n: int, m: int) -> List[int]:
         off_max = len(str_i) - 4
 
         for j in range(off_max + 1):
-            s = sum(map(int, str_i[j: j + 4]))
+            s = sum(map(int, str_i[j : j + 4]))
 
             if s > m:
                 break

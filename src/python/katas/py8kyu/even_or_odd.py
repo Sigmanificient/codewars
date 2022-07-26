@@ -2,7 +2,7 @@
 
 
 def even_or_odd(number: int) -> str:
-    return 'Odd' if number % 2 else 'Even'
+    return "Odd" if number % 2 else "Even"
 
 
 def test_even_or_odd():

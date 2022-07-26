@@ -4,7 +4,7 @@ from typing import List
 
 
 def powers_of_two(n: int) -> List[int]:
-    return [2 ** i for i in range(n + 1)]
+    return [2**i for i in range(n + 1)]
 
 
 def test_powers_of_two():

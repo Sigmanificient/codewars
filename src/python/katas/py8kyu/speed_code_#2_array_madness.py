@@ -4,7 +4,7 @@ from typing import List
 
 
 def array_madness(a: List[int], b: List[int]) -> bool:
-    return sum(i ** 2 for i in a) > sum(j ** 3 for j in b)
+    return sum(i**2 for i in a) > sum(j**3 for j in b)
 
 
 def test_array_madness():

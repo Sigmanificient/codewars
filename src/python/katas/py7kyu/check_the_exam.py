@@ -4,12 +4,7 @@ from typing import List
 
 
 def check_exam(arr1: List[str], arr2: List[str]) -> int:
-    return max(
-        0, sum(
-            (-1 if x != y else 4) if y else 0
-            for x, y in zip(arr1, arr2)
-        )
-    )
+    return max(0, sum((-1 if x != y else 4) if y else 0 for x, y in zip(arr1, arr2)))
 
 
 def test_check_exam():

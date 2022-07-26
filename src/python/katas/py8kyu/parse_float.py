@@ -8,10 +8,10 @@ def parse_float(string: Union[list, str]) -> Optional[float]:
     if isinstance(string, list):
         return None
 
-    if '.' not in string:
+    if "." not in string:
         return None
 
-    int_part, dec_part, *left_over = string.split('.')
+    int_part, dec_part, *left_over = string.split(".")
 
     if left_over:
         return None

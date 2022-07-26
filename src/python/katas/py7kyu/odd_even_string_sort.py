@@ -2,7 +2,7 @@
 
 
 def sort_my_string(s: str) -> str:
-    return f'{s[::2]} {s[1::2]}'
+    return f"{s[::2]} {s[1::2]}"
 
 
 def test_sort_my_string():

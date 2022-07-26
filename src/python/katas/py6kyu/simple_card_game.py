@@ -15,7 +15,7 @@ def winner(deck_steve: List[str], deck_josh: List[str]) -> str:
         s += p > 0
 
     if j == s:
-        return 'Tie'
+        return "Tie"
 
     if s > j:
         return f"Steve wins {s} to {j}"
@@ -24,15 +24,20 @@ def winner(deck_steve: List[str], deck_josh: List[str]) -> str:
 
 
 def test_winner():
-    assert winner(
-        ['2', '3', '4', '5', '6'], ['7', '8', '9', 'T', 'J']
-    ) == "Josh wins 5 to 0"
+    assert (
+        winner(["2", "3", "4", "5", "6"], ["7", "8", "9", "T", "J"])
+        == "Josh wins 5 to 0"
+    )
 
-    assert winner(
-        ['7', '4', '3', 'T', 'J', 'Q'], ['8', '9', '2', '5', '6', '2']
-    ) == "Steve wins 4 to 2"
+    assert (
+        winner(["7", "4", "3", "T", "J", "Q"], ["8", "9", "2", "5", "6", "2"])
+        == "Steve wins 4 to 2"
+    )
 
-    assert winner(
-        ['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2'],
-        ['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2'][::-1]
-    ) == "Tie"
+    assert (
+        winner(
+            ["A", "K", "Q", "J", "T", "9", "8", "7", "6", "5", "4", "3", "2"],
+            ["A", "K", "Q", "J", "T", "9", "8", "7", "6", "5", "4", "3", "2"][::-1],
+        )
+        == "Tie"
+    )

@@ -18,4 +18,7 @@ def test_fib():
     assert fibonacci(5) == 5
     assert fibonacci(6) == 8
     assert fibonacci(34) == 5702887
-    assert fibonacci(299) == 137347080577163115432025771710279131845700275212767467264610201
+    assert (
+        fibonacci(299)
+        == 137347080577163115432025771710279131845700275212767467264610201
+    )

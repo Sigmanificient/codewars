@@ -2,7 +2,7 @@
 
 
 def combine_names(a: str, b: str) -> str:
-    return f'{a} {b}'
+    return f"{a} {b}"
 
 
 def test_combine_names():

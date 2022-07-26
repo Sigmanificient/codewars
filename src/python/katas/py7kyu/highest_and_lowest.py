@@ -4,7 +4,7 @@ from typing import Tuple
 
 
 def high_and_low(numbers_string: str) -> str:
-    numbers: Tuple[int, ...] = tuple(map(int, numbers_string.split(' ')))
+    numbers: Tuple[int, ...] = tuple(map(int, numbers_string.split(" ")))
     return f"{max(numbers)} {min(numbers)}"
 
 

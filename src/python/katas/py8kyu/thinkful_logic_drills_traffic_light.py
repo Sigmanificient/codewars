@@ -2,7 +2,7 @@
 from typing import List
 
 
-lights: List[str] = ['green', 'yellow', 'red']
+lights: List[str] = ["green", "yellow", "red"]
 
 
 def update_light(current: str) -> str:
@@ -10,6 +10,6 @@ def update_light(current: str) -> str:
 
 
 def test_update_light():
-    assert update_light('green') == 'yellow'
-    assert update_light('yellow') == 'red'
-    assert update_light('red') == 'green'
+    assert update_light("green") == "yellow"
+    assert update_light("yellow") == "red"
+    assert update_light("red") == "green"

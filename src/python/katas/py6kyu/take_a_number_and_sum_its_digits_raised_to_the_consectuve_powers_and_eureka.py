@@ -3,7 +3,8 @@
 
 def sum_dig_pow(a: int, b: int) -> int:
     return [
-        x for x in range(a, b + 1)
+        x
+        for x in range(a, b + 1)
         if sum(int(d) ** c for c, d in enumerate(str(x), start=1)) == x
     ]
 

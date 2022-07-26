@@ -7,5 +7,5 @@ def gimme(arr: List[int]) -> int:
 
 
 def test_gimme():
-    assert gimme([2, 3, 1]) == 0, 'Finds the index of middle element'
-    assert gimme([5, 10, 14]) == 1, 'Finds the index of middle element'
+    assert gimme([2, 3, 1]) == 0, "Finds the index of middle element"
+    assert gimme([5, 10, 14]) == 1, "Finds the index of middle element"

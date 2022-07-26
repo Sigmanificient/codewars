@@ -2,9 +2,7 @@
 
 
 def swap_vowel_case(st: str) -> str:
-    return ''.join(
-        x.swapcase() if x.lower() in 'aeoui' else x for x in st
-    )
+    return "".join(x.swapcase() if x.lower() in "aeoui" else x for x in st)
 
 
 def test_swap_vowel_case():

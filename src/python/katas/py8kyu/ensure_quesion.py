@@ -2,7 +2,7 @@
 
 
 def ensure_question(s: str) -> str:
-    return s if s.endswith('?') else f"{s}?"
+    return s if s.endswith("?") else f"{s}?"
 
 
 def test_ensure_question():

@@ -15,17 +15,17 @@ def typist(s: str) -> int:
 
 def test_typist():
     sample_test_cases = (
-        ('a', 1),
-        ('aa', 2),
-        ('A', 2),
-        ('AA', 3),
-        ('aA', 3),
-        ('Aa', 4),
-        ('BeiJingDaXueDongMen', 31),
-        ('AAAaaaBBBbbbABAB', 21),
-        ('AmericanRAILWAY', 18),
-        ('AaAaAa', 12),
-        ('DFjfkdaB', 11)
+        ("a", 1),
+        ("aa", 2),
+        ("A", 2),
+        ("AA", 3),
+        ("aA", 3),
+        ("Aa", 4),
+        ("BeiJingDaXueDongMen", 31),
+        ("AAAaaaBBBbbbABAB", 21),
+        ("AmericanRAILWAY", 18),
+        ("AaAaAa", 12),
+        ("DFjfkdaB", 11),
     )
 
     for s, expected in sample_test_cases:

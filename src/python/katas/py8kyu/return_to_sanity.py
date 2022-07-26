@@ -4,8 +4,8 @@ from typing import Dict
 
 
 def mystery() -> Dict[str, str]:
-    return {'sanity': 'Hello'}
+    return {"sanity": "Hello"}
 
 
 def test_mystery():
-    assert mystery() == {'sanity': 'Hello'}, 'Mystery has not returned to sanity'
+    assert mystery() == {"sanity": "Hello"}, "Mystery has not returned to sanity"

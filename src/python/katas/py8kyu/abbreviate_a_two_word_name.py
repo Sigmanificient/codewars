@@ -2,7 +2,7 @@
 
 
 def abbrev_name(name: str) -> str:
-    return '.'.join(word[0].upper() for word in name.split())
+    return ".".join(word[0].upper() for word in name.split())
 
 
 def test_abbrev_name():

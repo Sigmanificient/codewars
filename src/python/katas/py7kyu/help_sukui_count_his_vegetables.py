@@ -3,17 +3,21 @@ from collections import Counter
 
 
 VEGETABLES = [
-    "cabbage", "carrot", "celery", "cucumber", "mushroom",
-    "onion", "pepper", "potato", "tofu", "turnip"
+    "cabbage",
+    "carrot",
+    "celery",
+    "cucumber",
+    "mushroom",
+    "onion",
+    "pepper",
+    "potato",
+    "tofu",
+    "turnip",
 ]
 
 
 def count_vegetables(string):
     return sorted(
-        [
-            (v, k)
-            for k, v in Counter(string.split()).items()
-            if k in VEGETABLES
-        ],
-        reverse=True
+        [(v, k) for k, v in Counter(string.split()).items() if k in VEGETABLES],
+        reverse=True,
     )

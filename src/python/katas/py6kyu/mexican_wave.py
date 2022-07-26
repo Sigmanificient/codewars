@@ -4,8 +4,9 @@ from typing import List
 
 def wave(people: str) -> List[str]:
     return [
-        ''.join(chr.upper() if c == i else chr for c, chr in enumerate(people))
-        for i, current_chr in enumerate(people) if current_chr != ' '
+        "".join(chr.upper() if c == i else chr for c, chr in enumerate(people))
+        for i, current_chr in enumerate(people)
+        if current_chr != " "
     ]
 
 
@@ -14,14 +15,25 @@ def test_wave():
     assert wave("hello") == ["Hello", "hEllo", "heLlo", "helLo", "hellO"]
 
     assert wave("codewars") == [
-        "Codewars", "cOdewars", "coDewars", "codEwars",
-        "codeWars", "codewArs", "codewaRs", "codewarS"
+        "Codewars",
+        "cOdewars",
+        "coDewars",
+        "codEwars",
+        "codeWars",
+        "codewArs",
+        "codewaRs",
+        "codewarS",
     ]
 
-    assert wave("two words") ==  [
-        "Two words", "tWo words", "twO words", "two Words",
-        "two wOrds", "two woRds", "two worDs", "two wordS"
+    assert wave("two words") == [
+        "Two words",
+        "tWo words",
+        "twO words",
+        "two Words",
+        "two wOrds",
+        "two woRds",
+        "two worDs",
+        "two wordS",
     ]
-
 
     assert wave(" gap ") == [" Gap ", " gAp ", " gaP "]

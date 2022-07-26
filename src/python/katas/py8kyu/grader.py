@@ -2,19 +2,14 @@
 
 from typing import Dict
 
-GRADES: Dict[float, str] = {
-    0.9: 'A',
-    0.8: 'B',
-    0.7: 'C',
-    0.6: 'D'
-}
+GRADES: Dict[float, str] = {0.9: "A", 0.8: "B", 0.7: "C", 0.6: "D"}
 
 
 def grader(grade: float) -> str:
     if grade > 1:
-        return 'F'
+        return "F"
 
-    return next((val for key, val in GRADES.items() if grade >= key), 'F')
+    return next((val for key, val in GRADES.items() if grade >= key), "F")
 
 
 def test_grader():

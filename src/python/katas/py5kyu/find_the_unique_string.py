@@ -6,7 +6,7 @@ def find_uniq(arr: List[str]) -> str:
     k, hash_word = {}, []
 
     for word in arr:
-        s = ''.join(sorted(set(word.lower())))
+        s = "".join(sorted(set(word.lower())))
         hash_word.append(s)
         k[s] = word
 
@@ -14,6 +14,6 @@ def find_uniq(arr: List[str]) -> str:
 
 
 def test_find_uniq():
-    assert find_uniq(['Aa', 'aaa', 'aaaaa', 'BbBb', 'Aaaa', 'AaAaAa', 'a']) == 'BbBb'
-    assert find_uniq(['abc', 'acb', 'bac', 'foo', 'bca', 'cab', 'cba']) == 'foo'
-    assert find_uniq(['    ', 'a', '  ']) == 'a'
+    assert find_uniq(["Aa", "aaa", "aaaaa", "BbBb", "Aaaa", "AaAaAa", "a"]) == "BbBb"
+    assert find_uniq(["abc", "acb", "bac", "foo", "bca", "cab", "cba"]) == "foo"
+    assert find_uniq(["    ", "a", "  "]) == "a"

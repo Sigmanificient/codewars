@@ -2,7 +2,7 @@
 
 
 def camel_case(string: str) -> str:
-    return ''.join(w.capitalize() for w in string.split(' '))
+    return "".join(w.capitalize() for w in string.split(" "))
 
 
 def test_camel_case():

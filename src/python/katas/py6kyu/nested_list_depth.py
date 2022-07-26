@@ -2,14 +2,11 @@
 from typing import List, Union
 
 
-RecursiveList = List[Union[bool, str, int, 'RecursiveList']]
+RecursiveList = List[Union[bool, str, int, "RecursiveList"]]
 
 
 def list_depth(lst: RecursiveList, d: int = 0) -> int:
     if not isinstance(lst, list):
         return d
 
-    return (
-        max(list_depth(item, d + 1) for item in lst)
-        if lst else d + 1
-    )
+    return max(list_depth(item, d + 1) for item in lst) if lst else d + 1

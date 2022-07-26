@@ -4,12 +4,9 @@ from typing import Union, List
 
 
 def fizzbuzz(n: int) -> List[Union[str, int]]:
-    return [
-        'Fizz' * (not i % 3) + 'Buzz' * (not i % 5) or i
-        for i in range(1, n + 1)
-    ]
+    return ["Fizz" * (not i % 3) + "Buzz" * (not i % 5) or i for i in range(1, n + 1)]
 
 
 def test_fizzbuzz():
-    expected = [1, 2, 'Fizz', 4, 'Buzz', 'Fizz', 7, 8, 'Fizz', 'Buzz']
+    expected = [1, 2, "Fizz", 4, "Buzz", "Fizz", 7, 8, "Fizz", "Buzz"]
     assert fizzbuzz(10) == expected

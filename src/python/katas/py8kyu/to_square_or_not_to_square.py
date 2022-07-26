@@ -5,7 +5,7 @@ from math import sqrt
 
 
 def square_or_square_root(arr):
-    return [x ** 2 if (s := sqrt(x)) % 1 else s for x in arr]
+    return [x**2 if (s := sqrt(x)) % 1 else s for x in arr]
 
 
 def test_square_or_square_root():

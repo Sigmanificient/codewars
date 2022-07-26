@@ -6,5 +6,5 @@ def greet(name: str, owner: str) -> str:
 
 
 def test_greet():
-    assert greet('Daniel', 'Daniel') == 'Hello boss'
-    assert greet('Greg', 'Daniel') == 'Hello guest'
+    assert greet("Daniel", "Daniel") == "Hello boss"
+    assert greet("Greg", "Daniel") == "Hello guest"

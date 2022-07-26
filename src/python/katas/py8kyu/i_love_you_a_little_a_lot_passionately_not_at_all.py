@@ -2,9 +2,9 @@
 
 
 def how_much_i_love_you(nb_petals: int) -> str:
-    return (
-        "I love you", "a little", "a lot", "passionately", "madly", "not at all"
-    )[(nb_petals - 1) % 6]
+    return ("I love you", "a little", "a lot", "passionately", "madly", "not at all")[
+        (nb_petals - 1) % 6
+    ]
 
 
 def test_how_much_i_love_you():

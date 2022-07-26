@@ -4,7 +4,7 @@ from typing import Optional
 
 
 def repeat_it(string: Optional[str], n: int) -> str:
-    return string * n if isinstance(string, str) else 'Not a string'
+    return string * n if isinstance(string, str) else "Not a string"
 
 
 def test_repeat_it():

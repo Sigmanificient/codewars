@@ -6,6 +6,4 @@ def highest_value(a: str, b: str) -> str:
 
 
 def test_highest_value():
-    assert highest_value(
-        "AaBbCcXxYyZz0189", "KkLlMmNnOoPp4567"
-    ) == "KkLlMmNnOoPp4567"
+    assert highest_value("AaBbCcXxYyZz0189", "KkLlMmNnOoPp4567") == "KkLlMmNnOoPp4567"

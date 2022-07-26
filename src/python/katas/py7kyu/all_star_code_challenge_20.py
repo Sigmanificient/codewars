@@ -15,7 +15,7 @@ def add_arrays(array: List[Addable], array2: List[Addable]) -> List[Addable]:
 
 def test_add_arrays():
     assert add_arrays([1, 2], [4, 5]) == [5, 7]
-    assert add_arrays(['a'], ['b']) == ['ab']
+    assert add_arrays(["a"], ["b"]) == ["ab"]
 
     with pytest.raises(ValueError):
         add_arrays([1, 2, 3], [4, 5])

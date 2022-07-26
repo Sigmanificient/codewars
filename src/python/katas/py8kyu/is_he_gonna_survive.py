@@ -12,5 +12,3 @@ def test_hero():
     assert not hero(7, 4)
     assert not hero(1500, 751)
     assert not hero(0, 1)
-
-

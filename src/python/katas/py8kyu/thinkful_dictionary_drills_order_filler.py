@@ -8,13 +8,8 @@ def fillable(stock: Dict[str, int], merch: str, n: int):
 
 
 def test_fillable():
-    stock = {
-        'football': 4,
-        'boardgame': 10,
-        'leggos': 1,
-        'doll': 5
-    }
+    stock = {"football": 4, "boardgame": 10, "leggos": 1, "doll": 5}
 
-    assert fillable(stock, 'football', 3)
-    assert not fillable(stock, 'leggos', 2)
-    assert not fillable(stock, 'action figure', 1)
+    assert fillable(stock, "football", 3)
+    assert not fillable(stock, "leggos", 2)
+    assert not fillable(stock, "action figure", 1)

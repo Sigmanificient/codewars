@@ -4,16 +4,14 @@ from typing import Union, Callable, Dict
 
 
 opts: Dict[str, Callable[[int, int], Union[int, float]]] = {
-    '+': lambda x, y: x + y,
-    '-': lambda x, y: x - y,
-    '*': lambda x, y: x * y,
-    '/': lambda x, y: x / y,
+    "+": lambda x, y: x + y,
+    "-": lambda x, y: x - y,
+    "*": lambda x, y: x * y,
+    "/": lambda x, y: x / y,
 }
 
 
-def calculator(
-    x: Union[int, str], y: Union[int, str], op: str
-) -> Union[float, str]:
+def calculator(x: Union[int, str], y: Union[int, str], op: str) -> Union[float, str]:
     _err: str = "unknown value"
 
     if not isinstance(x, int) or not isinstance(y, int):
@@ -27,8 +25,8 @@ def calculator(
 
 
 def test_calculator():
-    assert calculator(6, 2, '+') == 8
-    assert calculator(4, 3, '-') == 1
-    assert calculator(5, 5, '*') == 25
-    assert calculator(5, 4, '/') == 1.25
-    assert calculator(6, 2, '&') == "unknown value"
+    assert calculator(6, 2, "+") == 8
+    assert calculator(4, 3, "-") == 1
+    assert calculator(5, 5, "*") == 25
+    assert calculator(5, 4, "/") == 1.25
+    assert calculator(6, 2, "&") == "unknown value"

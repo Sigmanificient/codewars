@@ -2,8 +2,8 @@
 
 
 def ips_between(start: str, end: str) -> int:
-    grs_end = [int(n) for n in end.split('.')]
-    grs_start = [int(n) for n in start.split('.')]
+    grs_end = [int(n) for n in end.split(".")]
+    grs_start = [int(n) for n in start.split(".")]
 
     return sum(
         (g_e - g_s) * (256 ** (3 - p))

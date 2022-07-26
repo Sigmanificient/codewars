@@ -4,4 +4,4 @@ from typing import List
 
 def remove_duplicate_words(s: str) -> str:
     words: List[str] = s.split()
-    return ' '.join(sorted(set(words), key=words.index))
+    return " ".join(sorted(set(words), key=words.index))

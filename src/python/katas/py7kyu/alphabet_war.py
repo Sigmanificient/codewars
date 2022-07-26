@@ -2,8 +2,8 @@
 
 
 def alphabet_war(fight: str) -> str:
-    points = 'wpbs-zdqm'
-    total = sum((points.index(c) - 4) for c in fight if c in points and c != '-')
+    points = "wpbs-zdqm"
+    total = sum((points.index(c) - 4) for c in fight if c in points and c != "-")
     if not total:
         return "Let's fight again!"
 

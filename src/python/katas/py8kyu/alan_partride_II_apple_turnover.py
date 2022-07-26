@@ -11,7 +11,7 @@ def apple(x: Union[int, str]) -> str:
 
 
 def test_apple():
-    assert apple('50') == "It's hotter than the sun!!"
+    assert apple("50") == "It's hotter than the sun!!"
     assert apple(4) == "Help yourself to a honeycomb Yorkie for the glovebox."
     assert apple("12") == "Help yourself to a honeycomb Yorkie for the glovebox."
     assert apple(60) == "It's hotter than the sun!!"

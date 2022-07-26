@@ -2,12 +2,10 @@
 
 
 def sort_gift_code(code: str) -> str:
-    return ''.join(sorted(code))
+    return "".join(sorted(code))
 
 
 def test_sort_gift_code():
-    assert sort_gift_code('abcdef') == 'abcdef'
-    assert sort_gift_code('pqksuvy') == 'kpqsuvy'
-    assert sort_gift_code(
-        'zyxwvutsrqponmlkjihgfedcba'
-    ) == 'abcdefghijklmnopqrstuvwxyz'
+    assert sort_gift_code("abcdef") == "abcdef"
+    assert sort_gift_code("pqksuvy") == "kpqsuvy"
+    assert sort_gift_code("zyxwvutsrqponmlkjihgfedcba") == "abcdefghijklmnopqrstuvwxyz"

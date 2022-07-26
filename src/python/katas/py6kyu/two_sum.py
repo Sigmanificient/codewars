@@ -11,9 +11,12 @@ def two_sum(numbers, target):
     """
     return next(
         (
-            [off - 1, off + c] for off, t in enumerate(numbers, start=1)
-            for c, i in enumerate(numbers[off:]) if t + i == target
-        ), []
+            [off - 1, off + c]
+            for off, t in enumerate(numbers, start=1)
+            for c, i in enumerate(numbers[off:])
+            if t + i == target
+        ),
+        [],
     )
 
 

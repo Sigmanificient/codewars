@@ -16,11 +16,7 @@ def compare(a: Optional[Node], b: Optional[Node]) -> bool:
     if b is None:
         return False
 
-    return (
-        a.val == b.val
-        and compare(a.left, b.left)
-        and compare(a.right, b.right)
-    )
+    return a.val == b.val and compare(a.left, b.left) and compare(a.right, b.right)
 
 
 def test_compare():

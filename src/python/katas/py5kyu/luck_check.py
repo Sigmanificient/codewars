@@ -9,8 +9,8 @@ def luck_check(string: str) -> bool:
 
 
 def test_luck_check():
-    assert luck_check('683179')
-    assert not luck_check('683000')
+    assert luck_check("683179")
+    assert not luck_check("683000")
 
     with pytest.raises(ValueError):
-        luck_check('6F43E8')
+        luck_check("6F43E8")

@@ -4,7 +4,7 @@
 def make_readable(seconds: int) -> str:
     r, s = divmod(seconds, 60)
     h, m = divmod(r, 60)
-    return f'{h:02}:{m:02}:{s:02}'
+    return f"{h:02}:{m:02}:{s:02}"
 
 
 def test_make_readable():

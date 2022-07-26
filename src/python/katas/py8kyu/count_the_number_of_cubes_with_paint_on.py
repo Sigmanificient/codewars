@@ -3,7 +3,7 @@
 
 def count_squares(cuts: int) -> int:
     cuts += 1
-    return (cuts ** 3) - ((cuts - 2) ** 3)
+    return (cuts**3) - ((cuts - 2) ** 3)
 
 
 def test_count_squares():

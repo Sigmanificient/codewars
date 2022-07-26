@@ -7,11 +7,8 @@ def add(num1: int, num2: int) -> str:
     def get_digits(k):
         return map(int, str(k).zfill(ml))
 
-    out = ''
-    for a, b in zip(
-            get_digits(num1),
-            get_digits(num2)
-    ):
+    out = ""
+    for a, b in zip(get_digits(num1), get_digits(num2)):
         out += str(a + b)
 
     return int(out)

@@ -2,16 +2,16 @@
 
 
 def format_poem(poem: str) -> str:
-    return '.\n'.join(poem.split('. '))
+    return ".\n".join(poem.split(". "))
 
 
 def test_format_poem():
     assert format_poem(
-        'Beautiful is better than ugly. Explicit is better than implicit.'
-        ' Simple is better than complex. Complex is better than complicated.'
+        "Beautiful is better than ugly. Explicit is better than implicit."
+        " Simple is better than complex. Complex is better than complicated."
     ) == (
-        'Beautiful is better than ugly.\nExplicit is better than implicit.'
-        '\nSimple is better than complex.\nComplex is better than complicated.'
+        "Beautiful is better than ugly.\nExplicit is better than implicit."
+        "\nSimple is better than complex.\nComplex is better than complicated."
     )
 
     assert format_poem(

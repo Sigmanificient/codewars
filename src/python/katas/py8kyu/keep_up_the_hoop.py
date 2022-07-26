@@ -2,10 +2,7 @@
 
 
 def hoop_count(n: int) -> str:
-    return (
-        "Keep at it until you get it"
-        if n < 10 else "Great, now move on to tricks"
-    )
+    return "Keep at it until you get it" if n < 10 else "Great, now move on to tricks"
 
 
 def test_hoop_count():

@@ -7,7 +7,7 @@ def race_podium(blocks: int) -> Tuple[int, int, int]:
     if blocks == 7:
         return 2, 4, 1
 
-    snd = int(blocks / 3 + 2/3)
+    snd = int(blocks / 3 + 2 / 3)
     first = snd + 1
     return snd, first, blocks - snd - first
 

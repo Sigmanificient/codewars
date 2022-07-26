@@ -10,7 +10,7 @@ def collatz(n):
             n //= 2
 
         out.append(n)
-    return '->'.join(map(str, out))
+    return "->".join(map(str, out))
 
 
 def test_collatz():

@@ -7,6 +7,6 @@ name: str = a + b
 
 
 def test_solution():
-    assert a == 'dev'
-    assert b == 'Lab'
-    assert name == 'devLab'
+    assert a == "dev"
+    assert b == "Lab"
+    assert name == "devLab"

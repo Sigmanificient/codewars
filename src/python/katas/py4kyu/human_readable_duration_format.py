@@ -3,7 +3,7 @@
 
 def format_duration(seconds: int) -> str:
     if not seconds:
-        return 'now'
+        return "now"
 
     dvr = []
     r = seconds
@@ -14,10 +14,9 @@ def format_duration(seconds: int) -> str:
     y, (d, h, m, s) = r, dvr[::-1]
 
     display = [
-        (v, unit) for v, unit in zip(
-            (y, d, h, m, s),
-            ('year', 'day', 'hour', 'minute', 'second')
-        ) if v
+        (v, unit)
+        for v, unit in zip((y, d, h, m, s), ("year", "day", "hour", "minute", "second"))
+        if v
     ]
 
     last, last_unit = display.pop()
@@ -26,13 +25,11 @@ def format_duration(seconds: int) -> str:
     if not display:
         return suffix
 
-    return ', '.join(
-        f'{v} {d}{"s" * (v > 1)}' for v, d in display
-    ) + ' and ' + suffix
+    return ", ".join(f'{v} {d}{"s" * (v > 1)}' for v, d in display) + " and " + suffix
 
 
 def test_format_duration():
-    assert format_duration(0) == 'now'
+    assert format_duration(0) == "now"
     assert format_duration(1) == "1 second"
     assert format_duration(62) == "1 minute and 2 seconds"
     assert format_duration(120) == "2 minutes"
@@ -40,6 +37,7 @@ def test_format_duration():
     assert format_duration(3601) == "1 hour and 1 second"
 
     assert format_duration(99999) == "1 day, 3 hours, 46 minutes and 39 seconds"
-    assert format_duration(
-        1_000_000_000
-    ) == "31 years, 259 days, 1 hour, 46 minutes and 40 seconds"
+    assert (
+        format_duration(1_000_000_000)
+        == "31 years, 259 days, 1 hour, 46 minutes and 40 seconds"
+    )

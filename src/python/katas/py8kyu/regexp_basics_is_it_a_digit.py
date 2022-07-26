@@ -3,7 +3,7 @@ import re
 
 
 def is_digit(n):
-    return bool(re.fullmatch(r'(\d)', n))
+    return bool(re.fullmatch(r"(\d)", n))
 
 
 def test_is_digit():

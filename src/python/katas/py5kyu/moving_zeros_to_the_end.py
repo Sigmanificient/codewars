@@ -12,12 +12,12 @@ def _li(string) -> List[int]:
 
 
 def test_li():
-    assert _li('123') == [1, 2, 3]
+    assert _li("123") == [1, 2, 3]
 
 
 def test_move_zeros():
-    assert move_zeros(_li('1201010301')) == _li('1211310000')
-    assert move_zeros(_li('90091201010301900009')) == _li('99121131990000000000')
-    assert move_zeros(_li('00')) == _li('00')
-    assert move_zeros(_li('0')) == _li('0')
+    assert move_zeros(_li("1201010301")) == _li("1211310000")
+    assert move_zeros(_li("90091201010301900009")) == _li("99121131990000000000")
+    assert move_zeros(_li("00")) == _li("00")
+    assert move_zeros(_li("0")) == _li("0")
     assert move_zeros([]) == []

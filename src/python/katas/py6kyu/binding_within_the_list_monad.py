@@ -10,12 +10,7 @@ def bind(lst: List[Any], func: Callable[[Any], List[Any]]) -> List[Any]:
 
 
 def test_bind():
-    funcs = [
-        lambda a: [a],
-        lambda a: [[a]],
-        lambda a: [a, -a],
-        lambda a: [str(a)]
-    ]
+    funcs = [lambda a: [a], lambda a: [[a]], lambda a: [a, -a], lambda a: [str(a)]]
 
     assert bind([], funcs[0]) == []
 

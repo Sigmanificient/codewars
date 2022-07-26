@@ -2,7 +2,7 @@
 
 
 def sum_cubes(n: int) -> int:
-    return sum(x ** 3 for x in range(1, n + 1))
+    return sum(x**3 for x in range(1, n + 1))
 
 
 def test_sum_cubes():

@@ -5,10 +5,10 @@ from typing import List
 
 def likes(names: List[str]) -> str:
     if not names:
-        return 'no one likes this'
+        return "no one likes this"
 
     if len(names) == 1:
-        return f'{names[0]} likes this'
+        return f"{names[0]} likes this"
 
     if len(names) < 4:
         return f'{", ".join(names[:-1])} and {names[-1]} like this'
@@ -17,8 +17,10 @@ def likes(names: List[str]) -> str:
 
 
 def test_likes():
-    assert likes([]) == 'no one likes this'
-    assert likes(['Peter']) == 'Peter likes this'
-    assert likes(['Jacob', 'Alex']) == 'Jacob and Alex like this'
-    assert likes(['Max', 'John', 'Mark']) == 'Max, John and Mark like this'
-    assert likes(['Alex', 'Jacob', 'Mark', 'Max']) == 'Alex, Jacob and 2 others like this'
+    assert likes([]) == "no one likes this"
+    assert likes(["Peter"]) == "Peter likes this"
+    assert likes(["Jacob", "Alex"]) == "Jacob and Alex like this"
+    assert likes(["Max", "John", "Mark"]) == "Max, John and Mark like this"
+    assert (
+        likes(["Alex", "Jacob", "Mark", "Max"]) == "Alex, Jacob and 2 others like this"
+    )

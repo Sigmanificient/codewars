@@ -2,7 +2,7 @@
 
 
 def remove(s: str) -> str:
-    return s[:-1] if s.endswith('!') else s
+    return s[:-1] if s.endswith("!") else s
 
 
 def test_remove():

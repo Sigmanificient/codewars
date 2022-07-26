@@ -2,7 +2,7 @@
 
 
 def descending_order(num: int) -> int:
-    return int(''.join(sorted(str(num), reverse=True)))
+    return int("".join(sorted(str(num), reverse=True)))
 
 
 def test_order():

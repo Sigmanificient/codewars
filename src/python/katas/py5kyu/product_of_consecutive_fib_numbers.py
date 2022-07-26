@@ -16,5 +16,3 @@ def test_product_fib():
 
     assert product_fib(74049690) == [6765, 10946, True]
     assert product_fib(84049690) == [10946, 17711, False]
-
-

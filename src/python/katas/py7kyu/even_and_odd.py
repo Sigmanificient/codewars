@@ -4,7 +4,7 @@ from typing import Tuple
 
 
 def even_and_odd(n) -> Tuple[int, int]:
-    ne = no = ''
+    ne = no = ""
 
     for x in str(n):
         if int(x) % 2:
@@ -12,7 +12,7 @@ def even_and_odd(n) -> Tuple[int, int]:
         else:
             no += x
 
-    return int(no or '0'), int(ne or '0')
+    return int(no or "0"), int(ne or "0")
 
 
 def test_even_and_odd():

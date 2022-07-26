@@ -2,9 +2,9 @@
 
 
 def greet(name) -> str:
-    return f'Hello, {name} how are you doing today?'
+    return f"Hello, {name} how are you doing today?"
 
 
 def test_greet():
-    assert greet('Ryan') == "Hello, Ryan how are you doing today?"
-    assert greet('Shingles') == "Hello, Shingles how are you doing today?"
+    assert greet("Ryan") == "Hello, Ryan how are you doing today?"
+    assert greet("Shingles") == "Hello, Shingles how are you doing today?"

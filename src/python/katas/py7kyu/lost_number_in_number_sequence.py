@@ -16,12 +16,11 @@ def find_deleted_number(arr: List[int], mixed_arr: List[int]) -> int:
 def test_find_deleted_number():
     assert find_deleted_number([], []) == 0
     assert find_deleted_number([1], []) == 1
-    assert find_deleted_number(
-        [1, 2, 3, 4, 5, 6, 7, 8, 9], [5, 7, 9, 4, 8, 1, 2, 3]
-    ) == 6
-    assert find_deleted_number(
-        [1, 2, 3, 4, 5, 6, 7], [2, 3, 6, 1, 5, 4, 7]
-    ) == 0
-    assert find_deleted_number(
-        [1, 2, 3, 4, 5, 6, 7, 8, 9], [5, 7, 6, 9, 4, 8, 1, 2, 3]
-    ) == 0
+    assert (
+        find_deleted_number([1, 2, 3, 4, 5, 6, 7, 8, 9], [5, 7, 9, 4, 8, 1, 2, 3]) == 6
+    )
+    assert find_deleted_number([1, 2, 3, 4, 5, 6, 7], [2, 3, 6, 1, 5, 4, 7]) == 0
+    assert (
+        find_deleted_number([1, 2, 3, 4, 5, 6, 7, 8, 9], [5, 7, 6, 9, 4, 8, 1, 2, 3])
+        == 0
+    )

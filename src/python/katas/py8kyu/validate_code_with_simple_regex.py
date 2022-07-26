@@ -4,7 +4,7 @@ import re
 
 
 def validate_code(code: int) -> bool:
-    return bool(re.match(r'[1-3].*', str(code)))
+    return bool(re.match(r"[1-3].*", str(code)))
 
 
 def test_validate_code():

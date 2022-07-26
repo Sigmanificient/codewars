@@ -2,12 +2,11 @@
 
 
 def pig_it(text):
-    return ' '.join(
-        (w[1:] + w[0] + 'ay') if w.isalpha() else w
-        for w in text.split(' ')
+    return " ".join(
+        (w[1:] + w[0] + "ay") if w.isalpha() else w for w in text.split(" ")
     )
 
 
 def test_pig_it():
-    assert pig_it('Pig latin is cool') == 'igPay atinlay siay oolcay'
-    assert pig_it('This is my string') == 'hisTay siay ymay tringsay'
+    assert pig_it("Pig latin is cool") == "igPay atinlay siay oolcay"
+    assert pig_it("This is my string") == "hisTay siay ymay tringsay"

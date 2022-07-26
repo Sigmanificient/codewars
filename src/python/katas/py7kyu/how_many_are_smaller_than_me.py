@@ -3,10 +3,7 @@ from typing import List
 
 
 def smaller(arr: List[int]) -> List[int]:
-    return [
-        sum(True for x in arr[c:] if x < i)
-        for c, i in enumerate(arr)
-    ]
+    return [sum(True for x in arr[c:] if x < i) for c, i in enumerate(arr)]
 
 
 def test_smaller():

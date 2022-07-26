@@ -3,7 +3,7 @@
 
 def max_redigit(num: int) -> int:
     if 99 < num < 1000:
-        return int(''.join(sorted(str(abs(num)), reverse=True)))
+        return int("".join(sorted(str(abs(num)), reverse=True)))
 
     return None
 

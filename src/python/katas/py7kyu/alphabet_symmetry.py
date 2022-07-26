@@ -6,10 +6,8 @@ from typing import List
 
 def solve(arr: List[str]) -> List[str]:
     return [
-        sum(
-            ascii_lowercase.index(i) == c
-            for c, i in enumerate(item.lower())
-        ) for item in arr
+        sum(ascii_lowercase.index(i) == c for c, i in enumerate(item.lower()))
+        for item in arr
     ]
 
 

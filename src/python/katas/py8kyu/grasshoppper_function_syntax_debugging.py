@@ -6,8 +6,8 @@ def main(verb: str, noun: str) -> str:
 
 
 def test_main():
-    assert main('take ', 'item') == 'take item'
-    assert main('use ', 'sword') == 'use sword'
-    assert main('drop ', 'item') == 'drop item'
-    assert main('go ', 'north') == 'go north'
-    assert main('go ', 'south') == 'go south'
+    assert main("take ", "item") == "take item"
+    assert main("use ", "sword") == "use sword"
+    assert main("drop ", "item") == "drop item"
+    assert main("go ", "north") == "go north"
+    assert main("go ", "south") == "go south"

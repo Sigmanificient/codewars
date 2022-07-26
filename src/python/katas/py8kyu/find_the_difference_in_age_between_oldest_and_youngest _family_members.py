@@ -15,5 +15,9 @@ def test_difference_in_ages():
     assert difference_in_ages([57, 99, 14, 32]) == (14, 99, 85)
     assert difference_in_ages([62, 0, 3, 77, 88, 102, 26, 44, 55]) == (0, 102, 102)
     assert difference_in_ages([2, 44, 34, 67, 88, 76, 31, 67]) == (2, 88, 86)
-    assert difference_in_ages([46, 86, 33, 29, 87, 47, 28, 12, 1, 4, 78, 92]) == (1, 92, 91)
+    assert difference_in_ages([46, 86, 33, 29, 87, 47, 28, 12, 1, 4, 78, 92]) == (
+        1,
+        92,
+        91,
+    )
     assert difference_in_ages([66, 73, 88, 24, 36, 65, 5]) == (5, 88, 83)

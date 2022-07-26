@@ -5,7 +5,7 @@ def longest_palindrome(s: str) -> int:
     max_p = 1 * bool(len(s))
     for off in range(2, len(s) + 1):
         for i in range(len(s) - off + 1):
-            x = s[i:off + i]
+            x = s[i : off + i]
             if x == x[::-1]:
                 max_p = off
                 break

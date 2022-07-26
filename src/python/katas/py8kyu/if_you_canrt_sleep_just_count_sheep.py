@@ -2,7 +2,7 @@
 
 
 def count_sheep(n: int) -> str:
-    return ''.join(f"{x + 1} sheep..." for x in range(n))
+    return "".join(f"{x + 1} sheep..." for x in range(n))
 
 
 def test_count_sheep():

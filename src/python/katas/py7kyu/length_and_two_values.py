@@ -11,7 +11,24 @@ def test_alternate():
     assert alternate(0, "lemons", "apples") == []
     assert alternate(5, True, False) == [True, False, True, False, True]
     assert alternate(20, "blue", "red") == [
-        'blue', 'red', 'blue', 'red', 'blue', 'red', 'blue', 'red',
-        'blue', 'red', 'blue', 'red', 'blue', 'red', 'blue', 'red',
-        'blue', 'red', 'blue', 'red'
+        "blue",
+        "red",
+        "blue",
+        "red",
+        "blue",
+        "red",
+        "blue",
+        "red",
+        "blue",
+        "red",
+        "blue",
+        "red",
+        "blue",
+        "red",
+        "blue",
+        "red",
+        "blue",
+        "red",
+        "blue",
+        "red",
     ]

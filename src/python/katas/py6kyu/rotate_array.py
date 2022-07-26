@@ -26,4 +26,4 @@ def test_rotate():
     assert rotate([1, 2, 3, 4, 5], -6) == [2, 3, 4, 5, 1]
     assert rotate([True, True, False], 2) == [True, False, True]
     assert rotate([1, 2, 3, 4, 5], 12478) == [3, 4, 5, 1, 2]
-    assert rotate(['a', 'b', 'c'], 2) == ['b', 'c', 'a']
+    assert rotate(["a", "b", "c"], 2) == ["b", "c", "a"]

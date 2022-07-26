@@ -9,10 +9,10 @@ def alphanumeric(password: str) -> bool:
 
 
 def test_alphanumeric():
-    assert not alphanumeric('')
-    assert not alphanumeric(' ' * 5)
+    assert not alphanumeric("")
+    assert not alphanumeric(" " * 5)
 
-    assert alphanumeric('abc')
-    assert alphanumeric('abc123')
-    assert not alphanumeric('abc123%')
-    assert not alphanumeric('abc123@')
+    assert alphanumeric("abc")
+    assert alphanumeric("abc123")
+    assert not alphanumeric("abc123%")
+    assert not alphanumeric("abc123@")

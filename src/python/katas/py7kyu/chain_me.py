@@ -15,7 +15,7 @@ def test_chain():
 
     def mul30(x):
         return x * 30
-    
+
     assert chain(42, []) == 42
     assert chain(50, [mul30]) == 1500
     assert chain(50, [mul30, add10]) == 1510

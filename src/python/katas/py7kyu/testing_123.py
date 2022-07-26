@@ -2,10 +2,7 @@
 
 
 def number(lines):
-    return [
-        f"{c}: {line}"
-        for c, line in enumerate(lines, start=1)
-    ]
+    return [f"{c}: {line}" for c, line in enumerate(lines, start=1)]
 
 
 def test_numbers():

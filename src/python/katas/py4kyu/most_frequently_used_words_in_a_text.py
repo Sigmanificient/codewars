@@ -7,9 +7,9 @@ from string import ascii_lowercase
 def top_3_words(text):
     allowed = ascii_lowercase + "'"
     counter = defaultdict(int)
-    word = ''
+    word = ""
 
-    for char in f'{text} ':
+    for char in f"{text} ":
         c = char.lower()
 
         if c in allowed:
@@ -18,18 +18,18 @@ def top_3_words(text):
 
         if word and set(word) != {"'"}:
             counter[word] += 1
-            word = ''
+            word = ""
 
-    return sorted(
-        counter.keys(),
-        key=lambda x: counter[x],
-        reverse=True
-    )[:3]
+    return sorted(counter.keys(), key=lambda x: counter[x], reverse=True)[:3]
 
 
 def test_top_3_words():
     assert top_3_words("a a a  b  c c  d d d d  e e e e e") == ["e", "d", "a"]
-    assert top_3_words("e e e e DDD ddd DdD: ddd ddd aa aA Aa, bb cc cC e e e"), ["e", "ddd", "aa"]
+    assert top_3_words("e e e e DDD ddd DdD: ddd ddd aa aA Aa, bb cc cC e e e"), [
+        "e",
+        "ddd",
+        "aa",
+    ]
     assert top_3_words("  //wont won't won't ") == ["won't", "wont"]
     assert top_3_words("  , e   .. ") == ["e"]
     assert top_3_words("  ...  ") == []

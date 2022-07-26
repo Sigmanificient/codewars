@@ -5,7 +5,7 @@ def int32_to_ip(int32: int) -> str:
     r, d = divmod(int32, 256)
     r, c = divmod(r, 256)
     a, b = divmod(r, 256)
-    return f'{a}.{b}.{c}.{d}'
+    return f"{a}.{b}.{c}.{d}"
 
 
 def test_int32_to_ip():

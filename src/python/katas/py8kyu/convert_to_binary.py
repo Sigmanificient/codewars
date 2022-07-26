@@ -2,7 +2,7 @@
 
 
 def to_binary(n: int) -> int:
-    return int(f'{n:b}')
+    return int(f"{n:b}")
 
 
 def test_to_binary():

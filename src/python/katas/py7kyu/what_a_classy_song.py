@@ -4,7 +4,6 @@ from typing import List, Set
 
 
 class Song:
-
     def __init__(self, title: str, artist: str):
         self.title: str = title
         self.artist: str = artist
@@ -19,9 +18,9 @@ class Song:
 
 def test_solution():
     mount_moose = Song("Mount Moose", "The Snazzy Moose")
-    assert mount_moose.title == 'Mount Moose'
-    assert mount_moose.artist == 'The Snazzy Moose'
-    assert mount_moose.how_many(['John', 'Fred', 'Bob', 'Carl', 'RyAn']) == 5
-    assert mount_moose.how_many(['JoHn', 'Luke', 'AmAndA']) == 2
-    assert mount_moose.how_many(['Amanda', 'CalEb', 'CarL', 'Furgus']) == 2
-    assert mount_moose.how_many(['JOHN', 'FRED', 'BOB', 'CARL', 'RYAN', 'KATE']) == 1
+    assert mount_moose.title == "Mount Moose"
+    assert mount_moose.artist == "The Snazzy Moose"
+    assert mount_moose.how_many(["John", "Fred", "Bob", "Carl", "RyAn"]) == 5
+    assert mount_moose.how_many(["JoHn", "Luke", "AmAndA"]) == 2
+    assert mount_moose.how_many(["Amanda", "CalEb", "CarL", "Furgus"]) == 2
+    assert mount_moose.how_many(["JOHN", "FRED", "BOB", "CARL", "RYAN", "KATE"]) == 1

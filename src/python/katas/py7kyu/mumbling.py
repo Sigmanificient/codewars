@@ -2,4 +2,4 @@
 
 
 def accum(s: str) -> str:
-    return '-'.join((x * (i + 1)).capitalize() for i, x in enumerate(s))
+    return "-".join((x * (i + 1)).capitalize() for i, x in enumerate(s))

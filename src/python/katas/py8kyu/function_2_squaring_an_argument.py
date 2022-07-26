@@ -2,7 +2,7 @@
 
 
 def square(n: int) -> int:
-    return n ** 2
+    return n**2
 
 
 def test_square():

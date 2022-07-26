@@ -9,7 +9,6 @@ Op = Callable[[int, int], int]
 
 
 class Vector:
-
     def __init__(self, values: List[int]):
         self.__values = values
 
@@ -38,7 +37,7 @@ class Vector:
         return sum(x * y for x, y in zip(self, other))
 
     def norm(self) -> int:
-        return sqrt(sum(x ** 2 for x in self))
+        return sqrt(sum(x**2 for x in self))
 
     def equals(self, other: Vector):
         return all(x == y for x, y in zip(self, other))

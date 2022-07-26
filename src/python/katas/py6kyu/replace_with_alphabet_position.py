@@ -4,10 +4,8 @@ alphabet: str = "abcdefghijklmnopqrstuvwxyz"
 
 
 def alphabet_position(text: str) -> str:
-    return ' '.join(
-        str(alphabet.index(char) + 1)
-        for char in text.lower()
-        if char in alphabet
+    return " ".join(
+        str(alphabet.index(char) + 1) for char in text.lower() if char in alphabet
     )
 
 
@@ -20,5 +18,5 @@ def test_alphabet_position():
     assert alphabet_position("The sunset sets at twelve o' clock.") == r1
     assert alphabet_position("The narwhal bacons at midnight.") == r2
 
-    number_test = ''.join(str(randint(1, 9)) for _ in range(10))
+    number_test = "".join(str(randint(1, 9)) for _ in range(10))
     assert alphabet_position(number_test) == ""

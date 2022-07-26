@@ -7,10 +7,7 @@ def is_prime(num):
     if num < 3:
         return num == 2
 
-    return num % 2 and all(
-        num % n
-        for n in range(3, int(sqrt(num) + 1), 2)
-    )
+    return num % 2 and all(num % n for n in range(3, int(sqrt(num) + 1), 2))
 
 
 def test_is_prime():

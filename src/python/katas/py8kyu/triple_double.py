@@ -2,7 +2,7 @@
 
 
 def triple_trouble(one: str, two: str, three: str) -> str:
-    return ''.join(a + b + c for a, b, c in zip(one, two, three))
+    return "".join(a + b + c for a, b, c in zip(one, two, three))
 
 
 def test_triple_trouble():

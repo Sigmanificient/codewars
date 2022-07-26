@@ -4,7 +4,7 @@ from typing import List
 
 
 def square_sum(numbers: List[int]) -> int:
-    return sum(x ** 2 for x in numbers)
+    return sum(x**2 for x in numbers)
 
 
 def test_square_sum():

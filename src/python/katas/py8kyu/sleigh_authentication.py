@@ -2,7 +2,6 @@
 
 
 class Sleigh:
-
     @staticmethod
     def authenticate(name, password):
         return name == "Santa Claus" and password == "Ho Ho Ho!"
@@ -11,7 +10,7 @@ class Sleigh:
 def test_sleigh():
     sleigh = Sleigh()
 
-    assert sleigh.authenticate('Santa Claus', 'Ho Ho Ho!')
-    assert not sleigh.authenticate('Santa', 'Ho Ho Ho!')
-    assert not sleigh.authenticate('Santa Claus', 'Ho Ho!')
-    assert not sleigh.authenticate('jhoffner', 'CodeWars')
+    assert sleigh.authenticate("Santa Claus", "Ho Ho Ho!")
+    assert not sleigh.authenticate("Santa", "Ho Ho Ho!")
+    assert not sleigh.authenticate("Santa Claus", "Ho Ho!")
+    assert not sleigh.authenticate("jhoffner", "CodeWars")

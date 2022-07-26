@@ -5,7 +5,7 @@ def pyramid_height(n):
     c = 1
     while n > 0:
         c += 1
-        n -= c ** 2
+        n -= c**2
 
     return c - 1
 

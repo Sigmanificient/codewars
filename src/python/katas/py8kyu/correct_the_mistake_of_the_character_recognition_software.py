@@ -2,7 +2,7 @@
 
 
 def correct(s: str) -> str:
-    return s.replace('5', 'S').replace('0', 'O').replace('1', 'I')
+    return s.replace("5", "S").replace("0", "O").replace("1", "I")
 
 
 def test_correct():

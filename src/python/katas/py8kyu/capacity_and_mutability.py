@@ -6,6 +6,6 @@ def capitalize_word(word: str) -> str:
 
 
 def test_capitalize_word():
-    assert capitalize_word('word') == 'Word'
-    assert capitalize_word('i') == 'I'
-    assert capitalize_word('glasswear') == 'Glasswear'
+    assert capitalize_word("word") == "Word"
+    assert capitalize_word("i") == "I"
+    assert capitalize_word("glasswear") == "Glasswear"

@@ -4,9 +4,9 @@ from typing import List
 
 
 def words_to_sentence(words: List[str]) -> str:
-    return ' '.join(words)
+    return " ".join(words)
 
 
 def test_words_to_sentence():
-    assert words_to_sentence(['bacon', 'is', 'delicious']) == 'bacon is delicious'
-    assert words_to_sentence(['hello', 'world']) == 'hello world'
+    assert words_to_sentence(["bacon", "is", "delicious"]) == "bacon is delicious"
+    assert words_to_sentence(["hello", "world"]) == "hello world"

@@ -11,8 +11,8 @@ def convert_to_celsius(temperature: float) -> float:
 
 
 def test_weather_info():
-    assert weather_info(50) == '10.0 is above freezing temperature'
-    assert weather_info(23) == '-5.0 is freezing temperature'
+    assert weather_info(50) == "10.0 is above freezing temperature"
+    assert weather_info(23) == "-5.0 is freezing temperature"
 
 
 def test_convert_to_celsius():

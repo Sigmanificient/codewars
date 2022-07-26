@@ -32,11 +32,11 @@ def solution() -> Leaderboard:
     return Leaderboard(
         OneIndexedList(
             User(
-                x.parent['data-username'],
+                x.parent["data-username"],
                 x.previous_element.text,
-                int(x.text.replace(',', ''))
+                int(x.text.replace(",", "")),
             )
-            for x in soup.find_all('td', class_="honor")
+            for x in soup.find_all("td", class_="honor")
         )
     )
 
@@ -47,7 +47,4 @@ def test_solution():
     assert len(leaderboard.position) == 500
 
     assert leaderboard.position[1].name
-    assert all(
-        isinstance(u.honor, int)
-        for u in leaderboard.position
-    )
+    assert all(isinstance(u.honor, int) for u in leaderboard.position)

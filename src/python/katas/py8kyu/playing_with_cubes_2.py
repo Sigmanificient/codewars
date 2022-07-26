@@ -2,7 +2,6 @@
 
 
 class Cube:
-
     def __init__(self, side=0):
         self.__side = side
 

@@ -3,10 +3,7 @@ import re
 
 
 def valid_phone_number(phone_number: str) -> bool:
-    return re.match(
-        r'^\(\d{3}\) \d{3}-\d{4}$',
-        phone_number
-    ) is not None
+    return re.match(r"^\(\d{3}\) \d{3}-\d{4}$", phone_number) is not None
 
 
 def test_valid_phone_number():

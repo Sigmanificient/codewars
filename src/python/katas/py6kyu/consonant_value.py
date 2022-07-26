@@ -2,17 +2,17 @@
 
 
 def solve(word: str) -> int:
-    a = ord('a') - 1
+    a = ord("a") - 1
     cons_subs = []
     sub = 0
 
     for char in word:
-        if char in 'aeiou':
+        if char in "aeiou":
             cons_subs.append(sub)
             sub = 0
 
         else:
-            sub += (ord(char) - a)
+            sub += ord(char) - a
 
     return max(cons_subs)
 

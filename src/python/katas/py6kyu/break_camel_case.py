@@ -2,7 +2,7 @@
 
 
 def solution(s: str) -> str:
-    return ''.join(c if c.islower() else f' {c}' for c in s)
+    return "".join(c if c.islower() else f" {c}" for c in s)
 
 
 def test_solution():

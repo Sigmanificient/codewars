@@ -4,22 +4,23 @@ from typing import Dict, List
 
 def sort_csv_columns(csv_file_content: str) -> str:
     lines = csv_file_content.splitlines()
-    headers = lines[0].split(';')
+    headers = lines[0].split(";")
     csv_content: Dict[str, List[str]] = {field: [] for field in headers}
 
     for line in lines[1:]:
-        v_fields = line.split(';')
+        v_fields = line.split(";")
 
         for v_field, h_field in zip(v_fields, headers):
             csv_content[h_field].append(v_field)
 
     sorted_header = sorted(headers, key=str.lower)
-    return ';'.join(sorted_header) + '\n' + '\n'.join(
-        ';'.join(
-            csv_content[h][i]
-            for h in sorted_header
+    return (
+        ";".join(sorted_header)
+        + "\n"
+        + "\n".join(
+            ";".join(csv_content[h][i] for h in sorted_header)
+            for i in range(len(lines) - 1)
         )
-        for i in range(len(lines) - 1)
     )
 
 

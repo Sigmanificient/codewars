@@ -2,7 +2,7 @@
 
 
 def remove(s: str) -> str:
-    return s.replace('!', '') + '!'
+    return s.replace("!", "") + "!"
 
 
 def test_move():

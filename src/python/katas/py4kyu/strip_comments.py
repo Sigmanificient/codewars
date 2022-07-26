@@ -5,10 +5,11 @@ from typing import List
 def solution(string: str, markers: List[str]) -> str:
     stripped: List[str] = []
 
-    for line in string.split('\n'):
+    for line in string.split("\n"):
         new_lines: List[str] = [
             line[::-1].partition(marker)[2][::-1]
-            for marker in markers if marker in line
+            for marker in markers
+            if marker in line
         ]
 
         if not new_lines:
@@ -17,7 +18,7 @@ def solution(string: str, markers: List[str]) -> str:
 
         stripped.append(min(new_lines))
 
-    return '\n'.join(line.strip() for line in stripped)
+    return "\n".join(line.strip() for line in stripped)
 
 
 def test_solution():

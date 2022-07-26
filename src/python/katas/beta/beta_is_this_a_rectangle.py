@@ -3,14 +3,11 @@
 import math
 from collections import namedtuple
 
-Point = namedtuple('Point', ('x', 'y'))
+Point = namedtuple("Point", ("x", "y"))
 
 
 def distance(a, b):
-    return math.sqrt(
-        (a.x - b.x) ** 2
-        + (a.y - b.y) ** 2
-    )
+    return math.sqrt((a.x - b.x) ** 2 + (a.y - b.y) ** 2)
 
 
 def is_this_a_rectangle(p, t=0.05):
@@ -31,8 +28,8 @@ def is_this_a_rectangle(p, t=0.05):
     ab = distance(a, b)
     bc = distance(b, c)
 
-    hyp = round(ac ** 2, 5)
-    hyp_c = round((ab ** 2) + (bc ** 2), 5)
+    hyp = round(ac**2, 5)
+    hyp_c = round((ab**2) + (bc**2), 5)
 
     if abs(hyp - hyp_c) > t:
         return False
@@ -40,10 +37,7 @@ def is_this_a_rectangle(p, t=0.05):
     cd = distance(c, d)
     ad = distance(a, d)
 
-    return (
-        abs(ab - cd) <= t
-        and abs(bc - ad) <= t
-    )
+    return abs(ab - cd) <= t and abs(bc - ad) <= t
 
 
 def test_is_this_a_rectangle():
@@ -67,13 +61,23 @@ def test_is_this_a_rectangle():
     assert is_this_a_rectangle([[0, 0], [1000000, 0], [1000000, -1], [0, -1], [0, 0]])
     assert is_this_a_rectangle([[0, 0], [1, 0], [1, 1000000], [0, 1000000], [0, 0]])
     assert is_this_a_rectangle([[0, 0], [1, 0], [1, -1000000], [0, -1000000], [0, 0]])
-    assert is_this_a_rectangle([[1, -1000000], [2, -1000000], [2, 1], [1, 1], [1, -1000000]])
+    assert is_this_a_rectangle(
+        [[1, -1000000], [2, -1000000], [2, 1], [1, 1], [1, -1000000]]
+    )
 
     assert is_this_a_rectangle([[-1, -1], [1, -1], [1, 1], [-1, 1], [-1, -1]])
     assert is_this_a_rectangle([[-1, -100], [1, -100], [1, 1], [-1, 1], [-1, -100]])
     assert is_this_a_rectangle([[-2, -2], [2, -2], [2, 2], [-2, 2], [-2, -2]])
     assert is_this_a_rectangle([[-1000, -1], [1, -1], [1, 1], [-1000, 1], [-1000, -1]])
-    assert is_this_a_rectangle([[-12345, -12345], [12345, -12345], [12345, 12345], [-12345, 12345], [-12345, -12345]])
+    assert is_this_a_rectangle(
+        [
+            [-12345, -12345],
+            [12345, -12345],
+            [12345, 12345],
+            [-12345, 12345],
+            [-12345, -12345],
+        ]
+    )
 
     assert is_this_a_rectangle([[0, 0], [1, 0], [1, 1], [0, 1], [0, 0]])
     assert is_this_a_rectangle([[0, 0], [1, 0], [1, -1], [0, -1], [0, 0]])

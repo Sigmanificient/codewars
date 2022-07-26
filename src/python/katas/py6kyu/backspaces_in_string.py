@@ -5,17 +5,17 @@ def clean_string(s: str) -> str:
     out = []
 
     for c in s:
-        if c != '#':
+        if c != "#":
             out.append(c)
 
         elif out:
             out.pop()
 
-    return ''.join(out)
+    return "".join(out)
 
 
 def test_clean_string():
     assert clean_string("") == ""
     assert clean_string("#######") == ""
-    assert clean_string('abc#d##c') == "ac"
-    assert clean_string('abc####d##c#') == ""
+    assert clean_string("abc#d##c") == "ac"
+    assert clean_string("abc####d##c#") == ""

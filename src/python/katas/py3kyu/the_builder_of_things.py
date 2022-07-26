@@ -1,11 +1,10 @@
 """Kata url: https://www.codewars.com/kata/5571d9fc11526780a000011a."""
 
 # Fix 'Name is not defined' error
-name = 'Jane'
+name = "Jane"
 
 
 class Func:
-
     def __init__(self, func, ins):
         self.ins = ins
         self.func = func
@@ -22,14 +21,13 @@ class Func:
 
 
 class Can:
-
     def __init__(self, ins):
         self.ins = ins
         self.func_name = None
 
     def __getattribute__(self, item):
-        if item not in ('ins', 'func_name'):
-            super().__setattr__('func_name', item)
+        if item not in ("ins", "func_name"):
+            super().__setattr__("func_name", item)
             return self
 
         return super().__getattribute__(item)
@@ -47,19 +45,18 @@ class Can:
 
 
 class Has:
-
     def __init__(self, ins, n):
         self.ins = ins
         self.n = n
 
     def __getattribute__(self, item):
-        if item in ('ins', 'n'):
+        if item in ("ins", "n"):
             return super().__getattribute__(item)
 
         _ins = self.ins
         _n = self.n
 
-        item_name = item.removesuffix('s')
+        item_name = item.removesuffix("s")
 
         if _n == 1:
             _t = Thing(item_name)
@@ -72,13 +69,12 @@ class Has:
 
 
 class Is:
-
     def __init__(self, ins, not_a=False):
         self.ins = ins
         self.not_a = not_a
 
     def __getattribute__(self, item):
-        if item in ('ins', 'not_a'):
+        if item in ("ins", "not_a"):
             return super().__getattribute__(item)
 
         self.ins.things_is[item] = not self.not_a
@@ -86,25 +82,23 @@ class Is:
 
 
 class IsThe:
-
     def __init__(self, ins):
         self.ins = ins
 
     def __getattribute__(self, item):
-        if item in ('ins', 'not_a'):
+        if item in ("ins", "not_a"):
             return super().__getattribute__(item)
 
         return IsTheSet(self.ins, item)
 
 
 class IsTheSet:
-
     def __init__(self, ins, item_name):
         self.ins = ins
         self.item_name = item_name
 
     def __getattribute__(self, item):
-        if item in ('ins', 'item_name'):
+        if item in ("ins", "item_name"):
             return super().__getattribute__(item)
 
         self.ins.things_is_the[self.item_name] = item
@@ -112,7 +106,6 @@ class IsTheSet:
 
 
 class Thing:
-
     def __init__(self, name):
         self.name = name
 
@@ -132,7 +125,7 @@ class Thing:
         self.funcs_out = {}
 
     def __call__(self, *args, **kwargs):
-        return Thing('Unknown')
+        return Thing("Unknown")
 
     def __getattribute__(self, item):
         try:
@@ -143,22 +136,22 @@ class Thing:
         if item == f"is_{super().__getattribute__('name')}":
             return True
 
-        if item.startswith('is_a_'):
-            return self.things_is[item.removeprefix('is_a_')]
+        if item.startswith("is_a_"):
+            return self.things_is[item.removeprefix("is_a_")]
 
-        if item in super().__getattribute__('things_has'):
+        if item in super().__getattribute__("things_has"):
             return self.things_has[item]
 
-        if item in super().__getattribute__('things_is_the'):
+        if item in super().__getattribute__("things_is_the"):
             return self.things_is_the[item]
 
-        if item in super().__getattribute__('funcs'):
+        if item in super().__getattribute__("funcs"):
             return self.funcs[item]
 
-        if item in super().__getattribute__('funcs_out'):
+        if item in super().__getattribute__("funcs_out"):
             return self.funcs_out[item]()
 
-        return Thing('Unknown')
+        return Thing("Unknown")
 
     def has(self, n):
         return Has(self, n)
@@ -174,8 +167,8 @@ class Thing:
 
 
 def test_things():
-    jane = Thing('Jane')
-    assert jane.name == 'Jane'
+    jane = Thing("Jane")
+    assert jane.name == "Jane"
 
     assert jane.is_a.woman
     assert jane.is_a_woman
@@ -183,7 +176,7 @@ def test_things():
     assert jane.is_not_a.man
     assert not jane.is_a_man
 
-    jane = Thing('Jane')
+    jane = Thing("Jane")
     assert jane.has(2).arms
     assert isinstance(jane.arms, tuple)
 
@@ -192,57 +185,61 @@ def test_things():
     assert all(v.name == "arm" for v in jane.arms)
     assert all(v.is_arm for v in jane.arms)
 
-    jane = Thing('Jane')
+    jane = Thing("Jane")
     assert jane.having(2).arms
     assert len(jane.arms) == 2
     assert all(isinstance(v, Thing) for v in jane.arms)
 
-    jane = Thing('Jane')
+    jane = Thing("Jane")
     assert jane.has(1).head
 
     assert isinstance(jane.head, Thing)
     assert jane.head.name == "head"
-    jane = Thing('Jane')
+    jane = Thing("Jane")
     assert jane.has(1).head.having(2).eyes
 
     assert len(jane.head.eyes) == 2
     assert all(isinstance(v, Thing) for v in jane.head.eyes)
-    assert all(v.name == 'eye' for v in jane.head.eyes)
+    assert all(v.name == "eye" for v in jane.head.eyes)
 
-    jane = Thing('Jane')
+    jane = Thing("Jane")
     assert jane.has(2).arms.each.having(5).fingers
     assert all(len(v.fingers) == 5 for v in jane.arms)
 
-    jane = Thing('Jane')
+    jane = Thing("Jane")
     assert jane.is_the.parent_of.joe
 
-    jane = Thing('Jane')
+    jane = Thing("Jane")
     assert jane.has(1).head.having(2).eyes.each.being_the.color.blue
-    assert all(v.color == 'blue' for v in jane.head.eyes)
+    assert all(v.color == "blue" for v in jane.head.eyes)
 
-    jane = Thing('Jane')
+    jane = Thing("Jane")
     assert jane.has(2).eyes.each.being_the.color.blue.and_the.shape.round
-    assert all(v.color == 'blue' for v in jane.eyes)
-    assert all(v.shape == 'round' for v in jane.eyes)
+    assert all(v.color == "blue" for v in jane.eyes)
+    assert all(v.shape == "round" for v in jane.eyes)
 
-    jane = Thing('Jane')
-    assert jane.has(2).eyes.each.being_the.color.green.having(1).pupil.being_the.color.black
-    assert all(v.color == 'green' for v in jane.eyes)
-    assert all(v.pupil.color == 'black' for v in jane.eyes)
+    jane = Thing("Jane")
+    assert (
+        jane.has(2)
+        .eyes.each.being_the.color.green.having(1)
+        .pupil.being_the.color.black
+    )
+    assert all(v.color == "green" for v in jane.eyes)
+    assert all(v.pupil.color == "black" for v in jane.eyes)
 
-    jane = Thing('Jane')
+    jane = Thing("Jane")
 
     def fnc(phrase):
         return "%s says: %s" % (name, phrase)
 
     jane.can.speak(fnc)
 
-    assert jane.speak('hi') == "Jane says: hi"
+    assert jane.speak("hi") == "Jane says: hi"
 
-    jane = Thing('Jane')
-    jane.can.speak(lambda phrase: "%s says: %s" % (name, phrase), 'spoke')
-    jane.speak('hi')
+    jane = Thing("Jane")
+    jane.can.speak(lambda phrase: "%s says: %s" % (name, phrase), "spoke")
+    jane.speak("hi")
 
     assert jane.spoke == ["Jane says: hi"]
-    jane.speak('goodbye')
+    jane.speak("goodbye")
     assert jane.spoke == ["Jane says: hi", "Jane says: goodbye"]

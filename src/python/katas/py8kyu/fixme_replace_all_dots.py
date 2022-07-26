@@ -2,7 +2,7 @@
 
 
 def replace_dots(string: str) -> str:
-    return string.replace('.', '-')
+    return string.replace(".", "-")
 
 
 def test_replace_dots():
