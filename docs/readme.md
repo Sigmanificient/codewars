@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*541 solved katas !*
+*542 solved katas !*
 
 ```c
 beta : 2
@@ -18,7 +18,7 @@ beta : 2
 4kyu : 10
 5kyu : 41
 6kyu : 79
-7kyu : 144
+7kyu : 145
 8kyu : 262
 ```
 
@@ -646,6 +646,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Is even bitwise series`:
+<img src="img/py.png" height="20px">
+
+`Is this a triangle`:
 <img src="img/py.png" height="20px">
 
 `Isograms`:
