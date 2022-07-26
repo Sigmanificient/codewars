@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*537 solved katas !*
+*541 solved katas !*
 
 ```c
 beta : 2
 3kyu : 3
 4kyu : 10
 5kyu : 41
-6kyu : 76
-7kyu : 143
+6kyu : 79
+7kyu : 144
 8kyu : 262
 ```
 
@@ -278,6 +278,9 @@ beta : 2
 `Consecutive strings`:
 <img src="img/py.png" height="20px">
 
+`Consonant value`:
+<img src="img/py.png" height="20px">
+
 `Convert string to camel case`:
 <img src="img/py.png" height="20px">
 
@@ -380,6 +383,9 @@ beta : 2
 `Rotate array`:
 <img src="img/py.png" height="20px">
 
+`Sha256 cracker`:
+<img src="img/py.png" height="20px">
+
 `Silent import`:
 <img src="img/py.png" height="20px">
 
@@ -429,6 +435,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Tribonacci sequence`:
+<img src="img/py.png" height="20px">
+
+`Twisted sum`:
 <img src="img/py.png" height="20px">
 
 `Two sum`:
@@ -778,6 +787,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Sort array by string length`:
+<img src="img/py.png" height="20px">
+
+`Sort the gift code`:
 <img src="img/py.png" height="20px">
 
 `Sorted numbers`:
