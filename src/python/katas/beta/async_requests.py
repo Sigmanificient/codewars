@@ -3,7 +3,8 @@ import asyncio
 from copy import copy
 from itertools import cycle
 from random import randint
-from string import ascii_letters, digits
+from string import ascii_letters
+from time import perf_counter
 
 _cycler = cycle(ascii_letters)
 
@@ -20,12 +21,13 @@ def test_request_manager():
     _cycler_copy = copy(_cycler)
 
     def run_it(n: int) -> str:
-        try:
-            return asyncio.run(asyncio.wait_for(request_manager(n), 0.3))
-        except asyncio.TimeoutError:
-            return "Execution took longer than 1.5 sec"
+        return asyncio.run(asyncio.wait_for(request_manager(n), 0.5))
+
+    marker = perf_counter()
 
     for _ in range(5):
         rand = randint(14, 300)
         s = ''.join(next(_cycler_copy) for i in range(rand))
         assert run_it(rand) == s
+
+    assert perf_counter() - marker < 3

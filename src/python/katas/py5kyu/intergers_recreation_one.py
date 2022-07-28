@@ -37,9 +37,3 @@ def test_list_square():
     assert list_squared(1500, 1800) == [[1673, 2856100]]
     assert list_squared(1800, 2000) == [[1880, 4884100]]
     assert list_squared(2000, 2200) == []
-    assert list_squared(2200, 5000) == [[4264, 24304900]]
-    assert list_squared(5000, 10000) == [
-        [6237, 45024100],
-        [9799, 96079204],
-        [9855, 113635600],
-    ]
