@@ -3,15 +3,12 @@
 
 def colour_changer(rgb: str, percent: int = 10) -> str:
     out = [
-        round(
-            (c := int(rgb[i + 1: i + 3], 16))
-            - (c * (percent / 100))
-        )
+        round((c := int(rgb[i + 1: i + 3], 16)) - (c * (percent / 100)))
         for i in range(0, len(rgb) - 1, 2)
     ]
 
     return '#' + ''.join(
-        f'{max(min(x, 0), 255):x}'.zfill(2)
+        f'{max(min(x, 255), 0):x}'.zfill(2)
         for x in out
     )
 

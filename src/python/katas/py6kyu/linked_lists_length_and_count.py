@@ -1,3 +1,4 @@
+"""Kata url: https://www.codewars.com/kata/55beec7dd347078289000021."""
 from __future__ import annotations
 
 from dataclasses import dataclass
