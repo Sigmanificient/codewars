@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*542 solved katas !*
+*550 solved katas !*
 
 ```c
-beta : 2
+beta : 3
 3kyu : 3
-4kyu : 10
+4kyu : 11
 5kyu : 41
-6kyu : 79
-7kyu : 145
-8kyu : 262
+6kyu : 82
+7kyu : 146
+8kyu : 264
 ```
 
 <h2>0Kyu</h2>
@@ -32,6 +32,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Beta is this a rectangle`:
+<img src="img/py.png" height="20px">
+
+`Projection`:
 <img src="img/py.png" height="20px">
 </details>
 
@@ -56,6 +59,9 @@ beta : 2
 	<summary>
 		<i>views solved 4 kyu</i>
 	</summary>
+
+`Hamming numbers`:
+<img src="img/py.png" height="20px">
 
 `Human readable duration format`:
 <img src="img/py.png" height="20px">
@@ -320,6 +326,9 @@ beta : 2
 `Encrypt this`:
 <img src="img/py.png" height="20px">
 
+`Equal side of an array`:
+<img src="img/py.png" height="20px">
+
 `Find the missing letter`:
 <img src="img/py.png" height="20px">
 
@@ -345,6 +354,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Is a number prime`:
+<img src="img/py.png" height="20px">
+
+`Kebabize`:
 <img src="img/py.png" height="20px">
 
 `Longest palidrome`:
@@ -378,6 +390,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Replace with alphabet position`:
+<img src="img/py.png" height="20px">
+
+`Reverse every other word in a string`:
 <img src="img/py.png" height="20px">
 
 `Rotate array`:
@@ -556,6 +571,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Elevator distance`:
+<img src="img/py.png" height="20px">
+
+`Esrever`:
 <img src="img/py.png" height="20px">
 
 `Evaporator`:
@@ -997,6 +1015,9 @@ beta : 2
 `Charater frequency`:
 <img src="img/py.png" height="20px">
 
+`Check same case`:
+<img src="img/py.png" height="20px">
+
 `Chuck norris vii true or false`:
 <img src="img/py.png" height="20px">
 
@@ -1208,6 +1229,9 @@ beta : 2
 <img src="img/py.png" height="20px">
 
 `Get nth even number`:
+<img src="img/py.png" height="20px">
+
+`Get number from string`:
 <img src="img/py.png" height="20px">
 
 `Get planet by id`:
