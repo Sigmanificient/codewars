@@ -1,4 +1,4 @@
-"""Kata url: https://www.codewars.com/kata/55847fcd3e7dadc9f800005f."""
+"""Kata url: https://www.codewars.com/kata/57f75cc397d62fc93d000059."""
 
 
 def calc(x: str) -> int:
