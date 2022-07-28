@@ -54,3 +54,18 @@ def test_peak_height():
         )
         == 3
     )
+
+    assert peak_height(
+        [
+            "      ",
+            "      ",
+            "      "
+        ]
+    ) == 0
+
+    assert peak_height(
+        mountain=[
+            "^" * 21
+            for _ in range(21)
+        ]
+    ) == 11

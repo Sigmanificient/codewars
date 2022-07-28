@@ -1,6 +1,8 @@
 """Kata url: https://www.codewars.com/kata/5839edaa6754d6fec10000a2."""
 from typing import List
 
+import pytest
+
 
 def find_missing_letter(chars: List[str]) -> str:
     charset = "abcdefghijklmnopqrstuvwxyz"
@@ -22,3 +24,6 @@ def test_find_missing_letter():
 
     assert find_missing_letter(["O", "Q", "R", "S"]) == "P"
     assert find_missing_letter(["V", "X", "Y", "Z"]) == "W"
+
+    with pytest.raises(ValueError):
+        find_missing_letter(["a", "b", "c", "d", "e"])

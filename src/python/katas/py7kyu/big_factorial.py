@@ -12,7 +12,7 @@ def factorial(n: int) -> int:
     return t
 
 
-def tdest_factorial():
+def test_factorial():
     assert factorial(1) == 1
     assert factorial(4) == 24
     assert factorial(5) == 120

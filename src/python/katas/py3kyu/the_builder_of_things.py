@@ -1,5 +1,7 @@
 """Kata url: https://www.codewars.com/kata/5571d9fc11526780a000011a."""
 
+
+import contextlib
 # Fix 'Name is not defined' error
 name = "Jane"
 
@@ -124,40 +126,25 @@ class Thing:
         self.funcs = {}
         self.funcs_out = {}
 
-    def __call__(self, *args, **kwargs):
-        return Thing("Unknown")
-
     def __getattribute__(self, item):
-        try:
+        with contextlib.suppress(AttributeError):
             return super().__getattribute__(item)
-        except AttributeError:
-            pass
-
         if item == f"is_{super().__getattribute__('name')}":
             return True
-
         if item.startswith("is_a_"):
             return self.things_is[item.removeprefix("is_a_")]
-
         if item in super().__getattribute__("things_has"):
             return self.things_has[item]
-
         if item in super().__getattribute__("things_is_the"):
             return self.things_is_the[item]
-
         if item in super().__getattribute__("funcs"):
             return self.funcs[item]
-
         if item in super().__getattribute__("funcs_out"):
             return self.funcs_out[item]()
-
         return Thing("Unknown")
 
     def has(self, n):
         return Has(self, n)
-
-    def __repr__(self):
-        return self.name
 
     @property
     def each(self):
@@ -230,14 +217,14 @@ def test_things():
     jane = Thing("Jane")
 
     def fnc(phrase):
-        return "%s says: %s" % (name, phrase)
+        return f"{name} says: {phrase}"
 
     jane.can.speak(fnc)
 
     assert jane.speak("hi") == "Jane says: hi"
 
     jane = Thing("Jane")
-    jane.can.speak(lambda phrase: "%s says: %s" % (name, phrase), "spoke")
+    jane.can.speak(lambda phrase: f"{name} says: {phrase}", "spoke")
     jane.speak("hi")
 
     assert jane.spoke == ["Jane says: hi"]

@@ -5,6 +5,8 @@ from __future__ import annotations
 from math import sqrt
 from typing import List, Callable
 
+import pytest
+
 Op = Callable[[int, int], int]
 
 
@@ -69,3 +71,6 @@ def test_vector():
     assert str(a) == "(1,2,3)"
     assert str(b) == "(3,4,5)"
     assert str(c) == "(5,6,7,8)"
+
+    with pytest.raises(ValueError):
+        a.add(c)

@@ -26,3 +26,6 @@ def test_compare():
 
     assert compare(a_node, b_node)
     assert not compare(a_node, c_node)
+
+    assert not compare(a_node, None)
+    assert not compare(None, a_node)

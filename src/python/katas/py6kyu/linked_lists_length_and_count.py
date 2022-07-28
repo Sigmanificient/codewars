@@ -37,6 +37,7 @@ def count(node: Node, data: int) -> int:
 
 
 def test_count():
+    assert count(None, 1) == 0
     assert count(Node(1), 1) == 1
     assert count(Node(1), 2) == 0
 
@@ -45,6 +46,7 @@ def test_count():
 
 
 def test_length():
+    assert length(None) == 0
     assert length(Node(1)) == 1
     assert length(Node(1, Node(2))) == 2
     assert length(Node(1, Node(2, Node(3)))) == 3

@@ -17,4 +17,6 @@ def test_factorial():
 
     with pytest.raises(ValueError):
         factorial(13)
+
+    with pytest.raises(ValueError):
         factorial(-1)
