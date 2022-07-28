@@ -1,3 +1,4 @@
+"""Kata url: https://www.codewars.com/kata/53697be005f803751e0015aa."""
 ENCODE = str.maketrans("aeiou", "12345")
 DECODE = str.maketrans("12345", "aeiou")
 

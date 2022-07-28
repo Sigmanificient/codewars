@@ -1,4 +1,4 @@
-"""kata url: https://www.codewars.com/kata/57fcaed83206fb15fd00027a."""
+"""Kata url: https://www.codewars.com/kata/57fcaed83206fb15fd00027a."""
 
 
 def replace_nth(text: str, n: int, old_value: str, new_value: str) -> str:

@@ -1,4 +1,7 @@
-def same_case(a, b):
+"""Kata url: https://www.codewars.com/kata/5dd462a573ee6d0014ce715b."""
+
+
+def same_case(a: str, b: str) -> int:
     return (-1 + (a+b).isalpha()) or (a.isupper() == b.isupper())
 
 
