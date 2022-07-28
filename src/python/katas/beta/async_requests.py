@@ -21,13 +21,9 @@ def test_request_manager():
     _cycler_copy = copy(_cycler)
 
     def run_it(n: int) -> str:
-        return asyncio.run(asyncio.wait_for(request_manager(n), 0.5))
-
-    marker = perf_counter()
+        return asyncio.run(asyncio.wait_for(request_manager(n), 0.3))
 
     for _ in range(5):
         rand = randint(14, 300)
         s = ''.join(next(_cycler_copy) for i in range(rand))
         assert run_it(rand) == s
-
-    assert perf_counter() - marker < 3
