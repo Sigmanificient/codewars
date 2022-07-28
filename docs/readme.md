@@ -10,10 +10,10 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*556 solved katas !*
+*557 solved katas !*
 
 ```c
-beta : 4
+beta : 5
 3kyu : 3
 4kyu : 11
 5kyu : 42
@@ -28,16 +28,19 @@ beta : 4
 		<i>views solved 0 kyu</i>
 	</summary>
 
-`Beta`:
+`Async requests`:
 <img src="img/py.png" height="20px">
 
-`Beta asyncio the beginning`:
+`Asyncio the beginning`:
 <img src="img/py.png" height="20px">
 
-`Beta is this a rectangle`:
+`Is this a rectangle`:
 <img src="img/py.png" height="20px">
 
 `Projection`:
+<img src="img/py.png" height="20px">
+
+`Rgb colour changer`:
 <img src="img/py.png" height="20px">
 </details>
 
