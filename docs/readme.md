@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*550 solved katas !*
+*556 solved katas !*
 
 ```c
-beta : 3
+beta : 4
 3kyu : 3
 4kyu : 11
-5kyu : 41
-6kyu : 82
-7kyu : 146
+5kyu : 42
+6kyu : 84
+7kyu : 148
 8kyu : 264
 ```
 
@@ -27,6 +27,9 @@ beta : 3
 	<summary>
 		<i>views solved 0 kyu</i>
 	</summary>
+
+`Beta`:
+<img src="img/py.png" height="20px">
 
 `Beta asyncio the beginning`:
 <img src="img/py.png" height="20px">
@@ -205,6 +208,9 @@ beta : 3
 `String incrementer`:
 <img src="img/py.png" height="20px">
 
+`String n iterations string`:
+<img src="img/py.png" height="20px">
+
 `Sum of pairs`:
 <img src="img/py.png" height="20px">
 
@@ -359,6 +365,9 @@ beta : 3
 `Kebabize`:
 <img src="img/py.png" height="20px">
 
+`Linked lists length and count`:
+<img src="img/py.png" height="20px">
+
 `Longest palidrome`:
 <img src="img/py.png" height="20px">
 
@@ -468,6 +477,9 @@ beta : 3
 <img src="img/py.png" height="20px">
 
 `Who likes it`:
+<img src="img/py.png" height="20px">
+
+`Word a a10n`:
 <img src="img/py.png" height="20px">
 
 `Write the number in expanded form`:
@@ -795,6 +807,9 @@ beta : 3
 `Shorter word`:
 <img src="img/py.png" height="20px">
 
+`Simple remove duplicates`:
+<img src="img/py.png" height="20px">
+
 `Small enough beginner`:
 <img src="img/py.png" height="20px">
 
@@ -865,6 +880,9 @@ beta : 3
 <img src="img/py.png" height="20px">
 
 `Testing 123`:
+<img src="img/py.png" height="20px">
+
+`The coupon code`:
 <img src="img/py.png" height="20px">
 
 `The fusc function part 1`:
