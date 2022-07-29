@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*557 solved katas !*
+*559 solved katas !*
 
 ```c
 beta : 5
 3kyu : 3
 4kyu : 11
-5kyu : 42
+5kyu : 43
 6kyu : 84
-7kyu : 148
+7kyu : 149
 8kyu : 264
 ```
 
@@ -117,6 +117,9 @@ beta : 5
 
 `Conway look and say generalized`:
 <img src="img/js.png" height="20px">
+
+`Count a spiral`:
+<img src="img/py.png" height="20px">
 
 `Did i fnish my sodoku`:
 <img src="img/py.png" height="20px">
@@ -520,6 +523,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Are the number in order`:
+<img src="img/py.png" height="20px">
+
+`Area of the arrow`:
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
