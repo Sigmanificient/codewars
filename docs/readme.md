@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*559 solved katas !*
+*564 solved katas !*
 
 ```c
 beta : 5
 3kyu : 3
 4kyu : 11
 5kyu : 43
-6kyu : 84
-7kyu : 149
+6kyu : 87
+7kyu : 151
 8kyu : 264
 ```
 
@@ -317,6 +317,9 @@ beta : 5
 `Create phone number`:
 <img src="img/py.png" height="20px">
 
+`Dashatize it`:
+<img src="img/py.png" height="20px">
+
 `Data reverse`:
 <img src="img/py.png" height="20px">
 
@@ -339,6 +342,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Equal side of an array`:
+<img src="img/py.png" height="20px">
+
+`Extract file name`:
 <img src="img/py.png" height="20px">
 
 `Find the missing letter`:
@@ -390,6 +396,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Nested list depth`:
+<img src="img/py.png" height="20px">
+
+`New cashier does not know about space or shift`:
 <img src="img/py.png" height="20px">
 
 `Perisitent bugger`:
@@ -684,6 +693,9 @@ beta : 5
 `Im everywhere`:
 <img src="img/py.png" height="20px">
 
+`Incrementer`:
+<img src="img/py.png" height="20px">
+
 `Is even bitwise series`:
 <img src="img/py.png" height="20px">
 
@@ -841,6 +853,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Sorted yes no how`:
+<img src="img/py.png" height="20px">
+
+`Spacify`:
 <img src="img/py.png" height="20px">
 
 `Split in parts`:
