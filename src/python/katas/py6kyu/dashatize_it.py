@@ -3,19 +3,19 @@
 
 def dashatize(n: int) -> str:
     if not isinstance(n, int):
-        return 'None'
+        return "None"
 
     n_str = str(abs(n))
     if len(n_str) == 1:
         return n_str
 
-    sep = '-'
-    out = ''
+    sep = "-"
+    out = ""
 
     len_n = len(n_str) - 1
     for c, char in enumerate(n_str):
         odd = ord(char) % 2
-        before = c and out[-1] != '-'
+        before = c and out[-1] != "-"
 
         out += f"{sep * (odd and before)}{char}{sep * (c != len_n and odd)}"
 

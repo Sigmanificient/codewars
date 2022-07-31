@@ -2,21 +2,13 @@
 from typing import List
 
 
-def project(
-    light_source: List[int],
-    point: List[int],
-    screen_x: int
-) -> List[int]:
+def project(light_source: List[int], point: List[int], screen_x: int) -> List[int]:
     a, b, c = point
     d, e, f = light_source
 
     u = (screen_x - a) / (d - a)
 
-    return [
-        screen_x,
-        int(b + (e - b) * u),
-        int(c + (f - c) * u)
-    ]
+    return [screen_x, int(b + (e - b) * u), int(c + (f - c) * u)]
 
 
 def test_project():

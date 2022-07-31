@@ -2,7 +2,7 @@
 
 
 def shuffle(s: str) -> str:
-    return f'{s[::2]}{s[1::2]}'
+    return f"{s[::2]}{s[1::2]}"
 
 
 def jumbled_string(s: str, n: int) -> str:

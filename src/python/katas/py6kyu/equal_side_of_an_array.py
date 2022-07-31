@@ -3,10 +3,7 @@ from typing import List
 
 
 def find_even_index(arr: List[int]) -> int:
-    return next(
-        (i for i in range(len(arr)) if sum(arr[:i]) == sum(arr[i + 1:])),
-        -1
-    )
+    return next((i for i in range(len(arr)) if sum(arr[:i]) == sum(arr[i + 1 :])), -1)
 
 
 def test_find_even_index():

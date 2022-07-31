@@ -6,14 +6,11 @@ def find_short(s: str) -> int:
 
 
 def test_find_short():
-    assert find_short(
-        "bitcoin take over the world maybe who knows perhaps"
-    ) == 3
+    assert find_short("bitcoin take over the world maybe who knows perhaps") == 3
 
-    assert find_short(
-        "turns out random test cases are easier than writing out basic ones"
-    ) == 3
+    assert (
+        find_short("turns out random test cases are easier than writing out basic ones")
+        == 3
+    )
 
-    assert find_short(
-        "lets talk about javascript the best language"
-    ) == 3
+    assert find_short("lets talk about javascript the best language") == 3

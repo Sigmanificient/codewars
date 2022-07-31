@@ -2,7 +2,7 @@
 
 
 def spiral_sum(size: int) -> int:
-    return (size ** 2) // 2 + size - 1 + (size % 2)
+    return (size**2) // 2 + size - 1 + (size % 2)
 
 
 def test_spiral():

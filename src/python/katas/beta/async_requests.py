@@ -14,7 +14,7 @@ async def _send_request():
 
 
 async def request_manager(n: int) -> str:
-    return ''.join(await asyncio.gather(*(_send_request() for _ in range(n))))
+    return "".join(await asyncio.gather(*(_send_request() for _ in range(n))))
 
 
 def test_request_manager():
@@ -25,5 +25,5 @@ def test_request_manager():
 
     for _ in range(5):
         rand = randint(14, 300)
-        s = ''.join(next(_cycler_copy) for i in range(rand))
+        s = "".join(next(_cycler_copy) for i in range(rand))
         assert run_it(rand) == s

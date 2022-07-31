@@ -2,22 +2,22 @@
 
 
 def abbreviate(s: str) -> str:
-    out = word = ''
+    out = word = ""
     m = len(s)
 
-    for c, char in enumerate(f'{s}.'):
+    for c, char in enumerate(f"{s}."):
         if char.isalpha():
             word += char
             continue
 
         if len(word) > 3:
-            word = f'{word[0]}{len(word) - 2}{word[-1]}'
+            word = f"{word[0]}{len(word) - 2}{word[-1]}"
 
         out += word
         if c != m:
             out += char
 
-        word = ''
+        word = ""
 
     return out
 

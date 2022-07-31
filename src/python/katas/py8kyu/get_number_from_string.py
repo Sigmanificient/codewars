@@ -2,7 +2,7 @@
 
 
 def get_number_from_string(string: str) -> int:
-    return int(''.join(x for x in string if x.isdigit()))
+    return int("".join(x for x in string if x.isdigit()))
 
 
 def test_number():

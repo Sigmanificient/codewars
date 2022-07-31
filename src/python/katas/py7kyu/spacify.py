@@ -2,7 +2,7 @@
 
 
 def spacify(string: str) -> str:
-    return ' '.join(string)
+    return " ".join(string)
 
 
 def test_spacify():
