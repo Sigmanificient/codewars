@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*568 solved katas !*
+*573 solved katas !*
 
 ```c
 beta : 5
 3kyu : 3
 4kyu : 11
 5kyu : 43
-6kyu : 90
-7kyu : 152
-8kyu : 264
+6kyu : 92
+7kyu : 154
+8kyu : 265
 ```
 
 <h2>0Kyu</h2>
@@ -368,6 +368,9 @@ beta : 5
 `Hello world without string number and booleans`:
 <img src="img/py.png" height="20px">
 
+`Hellphabet can you give the alphabet`:
+<img src="img/py.png" height="20px">
+
 `Highest scoring word`:
 <img src="img/py.png" height="20px">
 
@@ -393,6 +396,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Merge in 2048`:
+<img src="img/py.png" height="20px">
+
+`Message validator`:
 <img src="img/py.png" height="20px">
 
 `Mexican wave`:
@@ -532,6 +538,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Alphabet war`:
+<img src="img/py.png" height="20px">
+
+`Alphabetically ordered`:
 <img src="img/py.png" height="20px">
 
 `Alternate capitalization`:
@@ -745,6 +754,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Make a funciton that does arithmetic`:
+<img src="img/py.png" height="20px">
+
+`Make your own hashmap`:
 <img src="img/py.png" height="20px">
 
 `Map function issue`:
@@ -1088,6 +1100,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Consecutive letters`:
+<img src="img/py.png" height="20px">
+
+`Contamination 1 string`:
 <img src="img/py.png" height="20px">
 
 `Convert a string to an array`:
