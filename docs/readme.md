@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*564 solved katas !*
+*568 solved katas !*
 
 ```c
 beta : 5
 3kyu : 3
 4kyu : 11
 5kyu : 43
-6kyu : 87
-7kyu : 151
+6kyu : 90
+7kyu : 152
 8kyu : 264
 ```
 
@@ -335,6 +335,9 @@ beta : 5
 `Does my number look big in this`:
 <img src="img/py.png" height="20px">
 
+`Dont rely on luck`:
+<img src="img/py.png" height="20px">
+
 `Duplicate encoder`:
 <img src="img/py.png" height="20px">
 
@@ -360,6 +363,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Give me a diamond`:
+<img src="img/py.png" height="20px">
+
+`Hello world without string number and booleans`:
 <img src="img/py.png" height="20px">
 
 `Highest scoring word`:
@@ -485,6 +491,9 @@ beta : 5
 `Unique in order`:
 <img src="img/py.png" height="20px">
 
+`Valid braces`:
+<img src="img/py.png" height="20px">
+
 `Valid phone number`:
 <img src="img/py.png" height="20px">
 
@@ -598,6 +607,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Dont give me five`:
+<img src="img/py.png" height="20px">
+
+`Echo program`:
 <img src="img/py.png" height="20px">
 
 `Elevator distance`:
