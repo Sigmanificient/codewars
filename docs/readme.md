@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*573 solved katas !*
+*574 solved katas !*
 
 ```c
 beta : 5
 3kyu : 3
 4kyu : 11
-5kyu : 43
+5kyu : 44
 6kyu : 92
 7kyu : 154
 8kyu : 265
@@ -221,6 +221,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `The hashing generator`:
+<img src="img/py.png" height="20px">
+
+`Tic tac toe checker`:
 <img src="img/py.png" height="20px">
 
 `Valid parentheses`:
