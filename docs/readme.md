@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*574 solved katas !*
+*575 solved katas !*
 
 ```c
 beta : 5
@@ -18,7 +18,7 @@ beta : 5
 4kyu : 11
 5kyu : 44
 6kyu : 92
-7kyu : 154
+7kyu : 155
 8kyu : 265
 ```
 
@@ -556,6 +556,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Area of the arrow`:
+<img src="img/py.png" height="20px">
+
+`Balanced number special number series 1`:
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
