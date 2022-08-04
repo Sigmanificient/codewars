@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*579 solved katas !*
+*580 solved katas !*
 
 ```c
 beta : 5
@@ -18,7 +18,7 @@ beta : 5
 4kyu : 11
 5kyu : 45
 6kyu : 92
-7kyu : 157
+7kyu : 158
 8kyu : 266
 ```
 
@@ -607,6 +607,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Count the divisors of a number`:
+<img src="img/py.png" height="20px">
+
+`Counting array elements`:
 <img src="img/py.png" height="20px">
 
 `Credit card mask`:
