@@ -23,3 +23,4 @@ def is_nice(arr: List[int]) -> List[int]:
 def test_is_nice():
     assert is_nice([2, 10, 9, 3])
     assert not is_nice([3, 4, 5, 7])
+    assert not is_nice([])
