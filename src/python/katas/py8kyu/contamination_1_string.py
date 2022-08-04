@@ -2,7 +2,7 @@
 
 
 def contamination(text: str, char: str) -> str:
-    return char * len(text) if char else ''
+    return char * len(text) if char else ""
 
 
 def test_contamination():

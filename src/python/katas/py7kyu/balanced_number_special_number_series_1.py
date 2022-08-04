@@ -6,10 +6,14 @@ def balanced_num(number: int) -> str:
     half = len(n_str) // 2
     odd_length = not len(n_str) % 2
 
-    return 'Not ' * (
-        sum(map(int, n_str[:half - odd_length]))
-        != sum(map(int, n_str[half + 1:]))
-    ) + 'Balanced'
+    return (
+        "Not "
+        * (
+            sum(map(int, n_str[: half - odd_length]))
+            != sum(map(int, n_str[half + 1 :]))
+        )
+        + "Balanced"
+    )
 
 
 def test_balanced_num():

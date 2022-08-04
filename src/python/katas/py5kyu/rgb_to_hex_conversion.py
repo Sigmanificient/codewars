@@ -2,10 +2,7 @@
 
 
 def rgb(r: int, g: int, b: int) -> str:
-    return ''.join(
-        f'{min(max(0, k), 255):02x}'
-        for k in (r, g, b)
-    ).upper()
+    return "".join(f"{min(max(0, k), 255):02x}" for k in (r, g, b)).upper()
 
 
 def test_rgb():

@@ -9,7 +9,7 @@ def cube_odd(arr: List[Union[int, bool, str]]) -> int:
             return
 
         if i % 2:
-            total += i ** 3
+            total += i**3
 
     return total
 

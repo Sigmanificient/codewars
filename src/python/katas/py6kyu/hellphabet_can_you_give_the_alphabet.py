@@ -3,4 +3,4 @@ ALPHABET = str().join(x for x in sorted(set(str().join(dir(int)))) if x.isalpha(
 
 
 def test_alphabet():
-    assert ALPHABET == 'abcdefghijklmnopqrstuvwxyz'
+    assert ALPHABET == "abcdefghijklmnopqrstuvwxyz"

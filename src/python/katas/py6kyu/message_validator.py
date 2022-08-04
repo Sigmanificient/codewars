@@ -6,7 +6,7 @@ def is_a_valid_message(message: str) -> bool:
         return True
 
     items = []
-    word = ''
+    word = ""
     digits = True
 
     for char in message:
@@ -14,7 +14,7 @@ def is_a_valid_message(message: str) -> bool:
         if is_digits != digits:
             digits = not digits
             items.append(word)
-            word = ''
+            word = ""
         word += char
 
     items.append(word)

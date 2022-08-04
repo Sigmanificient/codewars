@@ -2,11 +2,11 @@
 
 
 def echo_program() -> str:
-    return __import__('inspect').getsource(echo_program).strip()
+    return __import__("inspect").getsource(echo_program).strip()
 
 
 def test_echo_program():
     assert echo_program() == (
-        'def echo_program() -> str:\n    return __import__(\'inspect\')'
-        '.getsource(echo_program).strip()'
+        "def echo_program() -> str:\n    return __import__('inspect')"
+        ".getsource(echo_program).strip()"
     )

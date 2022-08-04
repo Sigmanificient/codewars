@@ -13,10 +13,7 @@ def my_hash_map(list_of_strings: List[str]) -> Dict[int, List[str]]:
 
 def test_my_hash_map():
     list_of_strings = ["alphabet"]
-    assert my_hash_map(list_of_strings) == {833: ['alphabet']}
+    assert my_hash_map(list_of_strings) == {833: ["alphabet"]}
 
     list_of_strings.append("black")
-    assert my_hash_map(list_of_strings) == {
-        833: ['alphabet'], 509: ['black']
-    }
-
+    assert my_hash_map(list_of_strings) == {833: ["alphabet"], 509: ["black"]}
