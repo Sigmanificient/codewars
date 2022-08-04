@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*575 solved katas !*
+*579 solved katas !*
 
 ```c
 beta : 5
 3kyu : 3
 4kyu : 11
-5kyu : 44
+5kyu : 45
 6kyu : 92
-7kyu : 155
-8kyu : 265
+7kyu : 157
+8kyu : 266
 ```
 
 <h2>0Kyu</h2>
@@ -200,6 +200,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Regex password validation`:
+<img src="img/py.png" height="20px">
+
+`Rgb to hex conversion`:
 <img src="img/py.png" height="20px">
 
 `Rot 13`:
@@ -786,6 +789,9 @@ beta : 5
 `Mumbling`:
 <img src="img/py.png" height="20px">
 
+`Narcissistic number`:
+<img src="img/py.png" height="20px">
+
 `Nice array`:
 <img src="img/py.png" height="20px">
 
@@ -915,6 +921,9 @@ beta : 5
 `Sum of numbers from 0 to n`:
 <img src="img/py.png" height="20px">
 
+`Sum of odd cubed numbers`:
+<img src="img/py.png" height="20px">
+
 `Sum of odd numbers`:
 <img src="img/py.png" height="20px">
 
@@ -1034,6 +1043,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Array plus array`:
+<img src="img/py.png" height="20px">
+
+`Ascii total`:
 <img src="img/py.png" height="20px">
 
 `Aspect ratio cropping part 1`:
