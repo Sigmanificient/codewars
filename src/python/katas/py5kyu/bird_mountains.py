@@ -20,9 +20,9 @@ def peak_height(mountain: List[str]) -> int:
 
         for y, line in enumerate(mountain):
             for x, s in enumerate(line):
-                n, s, e, w = 0, 0, 0, 0
                 if s == " ":
                     continue
+                n, s, e, w = 0, 0, 0, 0
 
                 if y > 0:
                     n = out[y - 1][x]
