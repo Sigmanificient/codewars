@@ -1,3 +1,4 @@
+"""Kata url: https://www.codewars.com/kata/59ffef8246d8434b0700001d."""
 from typing import Callable, Dict
 
 
@@ -31,7 +32,6 @@ def test_memoize():
 
     fib_100 = 354224848179261915075
 
-    marker = perf_counter()
     assert fib(100) == fib_100
 
     marker = perf_counter()
