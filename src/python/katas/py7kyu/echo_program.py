@@ -6,7 +6,7 @@ def echo_program() -> str:
 
 
 def test_echo_program():
-    assert echo_program() == (
-        "def echo_program() -> str:\n    return __import__('inspect')"
-        ".getsource(echo_program).strip()"
+    assert echo_program().replace("'", '"') == (
+        'def echo_program() -> str:\n    return __import__("inspect")'
+        '.getsource(echo_program).strip()'
     )
