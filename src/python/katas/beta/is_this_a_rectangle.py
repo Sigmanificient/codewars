@@ -20,11 +20,7 @@ def is_this_a_rectangle(p, t=0.05):
     if (a != e) and distance(a, e) >= t:
         return False
 
-    bd = distance(b, d)
     ac = distance(a, c)
-    if ac == 0 or bd == 0:
-        return False
-
     ab = distance(a, b)
     bc = distance(b, c)
 
