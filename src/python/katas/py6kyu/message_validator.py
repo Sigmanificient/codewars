@@ -40,3 +40,11 @@ def test_is_a_valid_message():
 
     assert not is_a_valid_message("3hey5hello2hi5")
     assert not is_a_valid_message("code4hello5")
+
+    assert not is_a_valid_message(
+        "4H5121ZPRLSECR8CVAGIWVKKSBY19FMYBGGUYXAFOXUHTOXQDBYWUNYMN"
+    )
+
+    assert not is_a_valid_message(
+        "EUATRNIPK14PFZSSLTFHIOZEA9ZEJVFAJDHFDZLB14172HTELIUBVTJAHWMNULLU"
+    )
