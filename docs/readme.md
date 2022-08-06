@@ -10,15 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*597 solved katas !*
+*602 solved katas !*
 
 ```c
 beta : 6
+2kyu : 1
 3kyu : 3
 4kyu : 11
 5kyu : 47
-6kyu : 100
-7kyu : 164
+6kyu : 101
+7kyu : 167
 8kyu : 266
 ```
 
@@ -44,6 +45,16 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Rgb colour changer`:
+<img src="img/py.png" height="20px">
+</details>
+
+<h2>2Kyu</h2>
+<details>
+	<summary>
+		<i>views solved 2 kyu</i>
+	</summary>
+
+`Game of go`:
 <img src="img/py.png" height="20px">
 </details>
 
@@ -452,6 +463,9 @@ beta : 6
 `Playing with passphrases`:
 <img src="img/py.png" height="20px">
 
+`Plus one array`:
+<img src="img/py.png" height="20px">
+
 `Prime factors`:
 <img src="img/py.png" height="20px">
 
@@ -807,6 +821,9 @@ beta : 6
 `Lost number in number sequence`:
 <img src="img/py.png" height="20px">
 
+`Love vs friendship`:
+<img src="img/py.png" height="20px">
+
 `Make a funciton that does arithmetic`:
 <img src="img/py.png" height="20px">
 
@@ -867,6 +884,9 @@ beta : 6
 `Printer errors`:
 <img src="img/py.png" height="20px">
 
+`Product array`:
+<img src="img/py.png" height="20px">
+
 `Race ceremony`:
 <img src="img/py.png" height="20px">
 
@@ -895,6 +915,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Reverse letter`:
+<img src="img/py.png" height="20px">
+
+`Reverse list`:
 <img src="img/py.png" height="20px">
 
 `Reverse words`:
