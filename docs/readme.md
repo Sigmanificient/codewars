@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*580 solved katas !*
+*593 solved katas !*
 
 ```c
 beta : 5
 3kyu : 3
 4kyu : 11
-5kyu : 45
-6kyu : 92
-7kyu : 158
+5kyu : 47
+6kyu : 98
+7kyu : 163
 8kyu : 266
 ```
 
@@ -214,6 +214,9 @@ beta : 5
 `Simple pig latin`:
 <img src="img/py.png" height="20px">
 
+`Sorting arrays by amount of perfsq`:
+<img src="img/py.png" height="20px">
+
 `String incrementer`:
 <img src="img/py.png" height="20px">
 
@@ -227,6 +230,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Tic tac toe checker`:
+<img src="img/py.png" height="20px">
+
+`Tree to list`:
 <img src="img/py.png" height="20px">
 
 `Valid parentheses`:
@@ -306,6 +312,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Convert string to camel case`:
+<img src="img/py.png" height="20px">
+
+`Count calls`:
 <img src="img/py.png" height="20px">
 
 `Count characters in your string`:
@@ -401,6 +410,9 @@ beta : 5
 `Meeting`:
 <img src="img/py.png" height="20px">
 
+`Memoize`:
+<img src="img/py.png" height="20px">
+
 `Merge in 2048`:
 <img src="img/py.png" height="20px">
 
@@ -419,6 +431,9 @@ beta : 5
 `New cashier does not know about space or shift`:
 <img src="img/py.png" height="20px">
 
+`Pentabonacci`:
+<img src="img/py.png" height="20px">
+
 `Perisitent bugger`:
 <img src="img/py.png" height="20px">
 
@@ -426,6 +441,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Playing with passphrases`:
+<img src="img/py.png" height="20px">
+
+`Prime factors`:
 <img src="img/py.png" height="20px">
 
 `Rectangle letter juggling`:
@@ -458,6 +476,9 @@ beta : 5
 `Sort the odd`:
 <img src="img/py.png" height="20px">
 
+`Sorting by bits`:
+<img src="img/py.png" height="20px">
+
 `Split strings`:
 <img src="img/py.png" height="20px">
 
@@ -477,6 +498,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Take a number and sum its digits raised to the consectuve powers and eureka`:
+<img src="img/py.png" height="20px">
+
+`The paperfold sequence`:
 <img src="img/py.png" height="20px">
 
 `The takewhile function`:
@@ -540,6 +564,9 @@ beta : 5
 `All star code challenge 20`:
 <img src="img/py.png" height="20px">
 
+`All unique`:
+<img src="img/py.png" height="20px">
+
 `Alphabet symmetry`:
 <img src="img/py.png" height="20px">
 
@@ -553,6 +580,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Anagram detection`:
+<img src="img/py.png" height="20px">
+
+`Anything`:
 <img src="img/py.png" height="20px">
 
 `Are the number in order`:
@@ -619,6 +649,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Descending order`:
+<img src="img/py.png" height="20px">
+
+`Difference of squares`:
 <img src="img/py.png" height="20px">
 
 `Disemvowel trolls`:
@@ -804,6 +837,9 @@ beta : 5
 `Number of people in the bus`:
 <img src="img/py.png" height="20px">
 
+`Number slicer`:
+<img src="img/py.png" height="20px">
+
 `Odd even string sort`:
 <img src="img/py.png" height="20px">
 
@@ -874,6 +910,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Smallest product`:
+<img src="img/py.png" height="20px">
+
+`Smallest value of an array`:
 <img src="img/py.png" height="20px">
 
 `Snake case keys`:
