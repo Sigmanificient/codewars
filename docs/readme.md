@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*593 solved katas !*
+*597 solved katas !*
 
 ```c
-beta : 5
+beta : 6
 3kyu : 3
 4kyu : 11
 5kyu : 47
-6kyu : 98
-7kyu : 163
+6kyu : 100
+7kyu : 164
 8kyu : 266
 ```
 
@@ -35,6 +35,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Is this a rectangle`:
+<img src="img/py.png" height="20px">
+
+`Page replacement algorithm fifo`:
 <img src="img/py.png" height="20px">
 
 `Projection`:
@@ -377,7 +380,13 @@ beta : 5
 `Find the unique number`:
 <img src="img/py.png" height="20px">
 
+`Framed reflection`:
+<img src="img/py.png" height="20px">
+
 `Give me a diamond`:
+<img src="img/py.png" height="20px">
+
+`Goldbach conjecture`:
 <img src="img/py.png" height="20px">
 
 `Hello world without string number and booleans`:
@@ -895,6 +904,9 @@ beta : 5
 <img src="img/py.png" height="20px">
 
 `Row weight`:
+<img src="img/py.png" height="20px">
+
+`See you next happy year`:
 <img src="img/py.png" height="20px">
 
 `Seven ate 9`:
