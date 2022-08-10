@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*602 solved katas !*
+*605 solved katas !*
 
 ```c
 beta : 6
 2kyu : 1
 3kyu : 3
 4kyu : 11
-5kyu : 47
-6kyu : 101
+5kyu : 48
+6kyu : 102
 7kyu : 167
-8kyu : 266
+8kyu : 267
 ```
 
 <h2>0Kyu</h2>
@@ -222,6 +222,9 @@ beta : 6
 `Rot 13`:
 <img src="img/py.png" height="20px">
 
+`Rotate an array matrix`:
+<img src="img/py.png" height="20px">
+
 `Scramble`:
 <img src="img/py.png" height="20px">
 
@@ -404,6 +407,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Hellphabet can you give the alphabet`:
+<img src="img/py.png" height="20px">
+
+`Highest rank number in a array`:
 <img src="img/py.png" height="20px">
 
 `Highest scoring word`:
@@ -1339,6 +1345,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Find numbers which are divisible by given number`:
+<img src="img/py.png" height="20px">
+
+`Find out wheter the shape is a cube`:
 <img src="img/py.png" height="20px">
 
 `Find the difference in age between oldest and youngest  family members`:
