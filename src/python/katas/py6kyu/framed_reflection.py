@@ -1,3 +1,6 @@
+"""Kata url: https://www.codewars.com/kata/581331293788bc1702001fa6."""
+
+
 def mirror(text: str) -> str:
     lines = text[::-1].split(' ')[::-1]
     length = len(max(lines, key=len))
