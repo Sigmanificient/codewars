@@ -10,10 +10,10 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*627 solved katas !*
+*628 solved katas !*
 
 ```c
-beta : 6
+beta : 7
 2kyu : 1
 3kyu : 3
 4kyu : 11
@@ -33,6 +33,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Asyncio the beginning`:
+<img src="img/py.png" height="20px">
+
+`Factorial of factorials`:
 <img src="img/py.png" height="20px">
 
 `Is this a rectangle`:
