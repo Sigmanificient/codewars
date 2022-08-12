@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*629 solved katas !*
+*631 solved katas !*
 
 ```c
 beta : 7
@@ -19,8 +19,8 @@ beta : 7
 4kyu : 12
 5kyu : 50
 6kyu : 112
-7kyu : 174
-8kyu : 270
+7kyu : 175
+8kyu : 271
 ```
 
 <h2>0Kyu</h2>
@@ -1025,6 +1025,9 @@ beta : 7
 `Sort array by string length`:
 <img src="img/py.png" height="20px">
 
+`Sort by last char`:
+<img src="img/py.png" height="20px">
+
 `Sort the gift code`:
 <img src="img/py.png" height="20px">
 
@@ -1312,6 +1315,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Csv representation of array`:
+<img src="img/py.png" height="20px">
+
+`Days in the year`:
 <img src="img/py.png" height="20px">
 
 `Define a card suit`:
