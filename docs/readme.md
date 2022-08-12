@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*628 solved katas !*
+*629 solved katas !*
 
 ```c
 beta : 7
 2kyu : 1
 3kyu : 3
-4kyu : 11
+4kyu : 12
 5kyu : 50
 6kyu : 112
 7kyu : 174
@@ -90,6 +90,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Most frequently used words in a text`:
+<img src="img/py.png" height="20px">
+
+`Nesting structure comparison`:
 <img src="img/py.png" height="20px">
 
 `Permutations`:
