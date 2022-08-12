@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*609 solved katas !*
+*625 solved katas !*
 
 ```c
 beta : 6
@@ -18,9 +18,9 @@ beta : 6
 3kyu : 3
 4kyu : 11
 5kyu : 50
-6kyu : 102
-7kyu : 167
-8kyu : 269
+6kyu : 111
+7kyu : 173
+8kyu : 270
 ```
 
 <h2>0Kyu</h2>
@@ -286,7 +286,13 @@ beta : 6
 `Array diff`:
 <img src="img/py.png" height="20px">
 
+`Ascii fun 1 x shape`:
+<img src="img/py.png" height="20px">
+
 `Ascii fun 2 funny dots`:
+<img src="img/py.png" height="20px">
+
+`Ascii fun 3 build a pyramid`:
 <img src="img/py.png" height="20px">
 
 `Backspaces in string`:
@@ -311,6 +317,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Build tower`:
+<img src="img/py.png" height="20px">
+
+`Build tower advanced`:
 <img src="img/py.png" height="20px">
 
 `Calculate pyramid height`:
@@ -361,6 +370,9 @@ beta : 6
 `Data reverse`:
 <img src="img/py.png" height="20px">
 
+`Decipher this`:
+<img src="img/py.png" height="20px">
+
 `Decode the morse code`:
 <img src="img/py.png" height="20px">
 
@@ -380,6 +392,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Encrypt this`:
+<img src="img/py.png" height="20px">
+
+`English beggars`:
 <img src="img/py.png" height="20px">
 
 `Equal side of an array`:
@@ -419,6 +434,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Highest scoring word`:
+<img src="img/py.png" height="20px">
+
+`If you can read this`:
 <img src="img/py.png" height="20px">
 
 `Ip validation`:
@@ -469,6 +487,9 @@ beta : 6
 `Perisitent bugger`:
 <img src="img/py.png" height="20px">
 
+`Permute a palindrome`:
+<img src="img/py.png" height="20px">
+
 `Playing with digits`:
 <img src="img/py.png" height="20px">
 
@@ -491,6 +512,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Rotate array`:
+<img src="img/py.png" height="20px">
+
+`Score from permutations of combinations of an integer`:
 <img src="img/py.png" height="20px">
 
 `Sha256 cracker`:
@@ -568,6 +592,9 @@ beta : 6
 `Valid phone number`:
 <img src="img/py.png" height="20px">
 
+`Vowel back`:
+<img src="img/py.png" height="20px">
+
 `Weird string case`:
 <img src="img/py.png" height="20px">
 
@@ -590,10 +617,16 @@ beta : 6
 		<i>views solved 7 kyu</i>
 	</summary>
 
+`99 problems 1 last in list`:
+<img src="img/py.png" height="20px">
+
 ` 16p18e214`:
 <img src="img/py.png" height="20px">
 
 `A rule of divisibility by 7`:
+<img src="img/py.png" height="20px">
+
+`Adding arrays`:
 <img src="img/py.png" height="20px">
 
 `All star code challenge 20`:
@@ -689,6 +722,9 @@ beta : 6
 `Difference of squares`:
 <img src="img/py.png" height="20px">
 
+`Digits explosion`:
+<img src="img/py.png" height="20px">
+
 `Disemvowel trolls`:
 <img src="img/py.png" height="20px">
 
@@ -726,6 +762,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Fibonacci`:
+<img src="img/py.png" height="20px">
+
+`Filter the number`:
 <img src="img/py.png" height="20px">
 
 `Find the annonymous function`:
@@ -878,6 +917,9 @@ beta : 6
 `Number slicer`:
 <img src="img/py.png" height="20px">
 
+`Numbers to letters`:
+<img src="img/py.png" height="20px">
+
 `Odd even string sort`:
 <img src="img/py.png" height="20px">
 
@@ -987,6 +1029,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Square every digit`:
+<img src="img/py.png" height="20px">
+
+`Square sequence`:
 <img src="img/py.png" height="20px">
 
 `String ends with`:
@@ -1801,6 +1846,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Template feature`:
+<img src="img/py.png" height="20px">
+
+`The feast of many beast`:
 <img src="img/py.png" height="20px">
 
 `The if function`:
