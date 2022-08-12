@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*605 solved katas !*
+*609 solved katas !*
 
 ```c
 beta : 6
 2kyu : 1
 3kyu : 3
 4kyu : 11
-5kyu : 48
+5kyu : 50
 6kyu : 102
 7kyu : 167
-8kyu : 267
+8kyu : 269
 ```
 
 <h2>0Kyu</h2>
@@ -128,6 +128,12 @@ beta : 6
 
 `Convert a hex string to rgb`:
 <img src="img/js.png" height="20px">
+
+`Conway game of life`:
+<img src="img/py.png" height="20px">
+
+`Conway game of life on a toroidal array`:
+<img src="img/py.png" height="20px">
 
 `Conway look and say generalized`:
 <img src="img/js.png" height="20px">
@@ -1572,6 +1578,9 @@ beta : 6
 `Merging sorted integer arrays`:
 <img src="img/py.png" height="20px">
 
+`Methods of string concat split and join`:
+<img src="img/py.png" height="20px">
+
 `Multiple of index`:
 <img src="img/py.png" height="20px">
 
@@ -1580,6 +1589,9 @@ beta : 6
 
 `Multiply`:
 <img src="img/py.png" height="20px"> <img src="img/sql.png" height="20px">
+
+`Multiply word in string`:
+<img src="img/py.png" height="20px">
 
 `My head is at the wrong end`:
 <img src="img/py.png" height="20px">
