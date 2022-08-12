@@ -1,4 +1,4 @@
-"""Kata url: https://www.codewars.com/kata/58ae6ae22c3aaafc58000079"""
+"""Kata url: https://www.codewars.com/kata/58ae6ae22c3aaafc58000079."""
 
 
 def permute_a_palindrome(word: str) -> bool:
