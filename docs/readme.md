@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*625 solved katas !*
+*627 solved katas !*
 
 ```c
 beta : 6
@@ -18,8 +18,8 @@ beta : 6
 3kyu : 3
 4kyu : 11
 5kyu : 50
-6kyu : 111
-7kyu : 173
+6kyu : 112
+7kyu : 174
 8kyu : 270
 ```
 
@@ -439,6 +439,9 @@ beta : 6
 `If you can read this`:
 <img src="img/py.png" height="20px">
 
+`Inside out string`:
+<img src="img/py.png" height="20px">
+
 `Ip validation`:
 <img src="img/py.png" height="20px">
 
@@ -837,6 +840,9 @@ beta : 6
 <img src="img/py.png" height="20px">
 
 `Is even bitwise series`:
+<img src="img/py.png" height="20px">
+
+`Is it negative zero`:
 <img src="img/py.png" height="20px">
 
 `Is this a triangle`:
