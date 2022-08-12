@@ -6,7 +6,7 @@ class Go:
     HANDICAP_STONES = {
         9: [(6, 2), (2, 6), (6, 6), (2, 2), (4, 4)],
         13: [(9, 3), (3, 9), (9, 9), (3, 3), (6, 6), (3, 6), (9, 6), (6, 3), (6, 9)],
-        19: [(15, 3), (3, 15), (15, 15), (3, 3), (9, 9), (3, 9), (16, 9), (9, 3), (9, 16)]
+        19: [(15, 3), (3, 15), (15, 15), (3, 3), (9, 9), (3, 9), (15, 9), (9, 3), (9, 15)]
     }
 
     def __init__(self, height, width=0):
@@ -26,8 +26,9 @@ class Go:
         self.history = []
         self.__save_state()
 
-        self.y_labels = self.Y_LABELS[:height]
+        self.y_labels = self.Y_LABELS[:height][::-1]
         self.x_labels = self.X_LABELS[:width]
+        self.handicap = False
         self.__turn = 0
 
     def __map_string_to_coord(self, string):
@@ -117,6 +118,8 @@ class Go:
 
     def move(self, *player_moves):
         for move in player_moves:
+            print('-->', move)
+
             self.__save_state()
             y, x = self.__map_string_to_coord(move)
 
@@ -135,22 +138,34 @@ class Go:
                 raise ValueError("Illegal KO move")
 
             self.__next_turn()
+            self.print()
 
     def get_position(self, coord):
         y, x = self.__map_string_to_coord(coord)
         return self.board[y][x]
 
     def handicap_stones(self, amount):
+        if self.handicap:
+            raise ValueError('Handicap already set')
+
+        if len(self.history) > 1:
+            raise ValueError('Handicap cannot be set after the first move')
+
         placements = self.HANDICAP_STONES.get(self.width)
         if not placements:
             raise ValueError('Cannot put handicap stone')
 
+        if amount > len(placements):
+            raise ValueError('Cannot put that many handicap stones')
+
         for x, y in placements[:amount]:
             self.board[y][x] = 'x'
 
+        self.handicap = True
+
     def rollback(self, turn):
-        if not self.history or turn > len(self.history):
-            raise ValueError('Invliad Rollback')
+        if not self.history or turn >= len(self.history):
+            raise ValueError('Invalid Rollback')
 
         self.board = self.history[-turn]
         self.history = self.history[:-turn]
@@ -206,7 +221,7 @@ class Go:
             print(
                 '  ' + ' '.join(self.x_labels) + '\n'
                 + '\n'.join(
-                    f"{lab} {''.join(line_a)}"
+                    f"{lab} {' '.join(line_a)}"
                     for lab, line_a in zip(
                         self.y_labels, self.board
                     )
@@ -215,15 +230,9 @@ class Go:
 
 
 if __name__ == '__main__':
-    game = Go(5)
-    game.board = [
-        ['x', '.', 'o', '.', 'o'],
-        ['x', 'x', 'o', 'o', '.'],
-        ['x', 'o', 'x', 'o', 'o'],
-        ['o', 'o', '.', 'x', 'x'],
-        ['x', 'x', 'x', '.', '.']
-    ]
-    game.pass_turn()
+    game = Go(9)
+    game.move('5C', '5B', '4D', '4A', '3C', '3B', '2D', '2C', '4B', '4C', '4B')
+    game.rollback(1)
     game.print()
     game.move('4C')
     game.print()
