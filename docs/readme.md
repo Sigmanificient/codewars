@@ -10,15 +10,15 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*631 solved katas !*
+*633 solved katas !*
 
 ```c
 beta : 7
 2kyu : 1
 3kyu : 3
 4kyu : 12
-5kyu : 50
-6kyu : 112
+5kyu : 51
+6kyu : 113
 7kyu : 175
 8kyu : 271
 ```
@@ -148,6 +148,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Did i fnish my sodoku`:
+<img src="img/py.png" height="20px">
+
+`Emirps`:
 <img src="img/py.png" height="20px">
 
 `Extract the domain from a url`:
@@ -464,6 +467,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Longest palidrome`:
+<img src="img/py.png" height="20px">
+
+`Make a window`:
 <img src="img/py.png" height="20px">
 
 `Meeting`:
