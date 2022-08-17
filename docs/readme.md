@@ -10,11 +10,11 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*633 solved katas !*
+*634 solved katas !*
 
 ```c
 beta : 7
-2kyu : 1
+2kyu : 2
 3kyu : 3
 4kyu : 12
 5kyu : 51
@@ -56,6 +56,9 @@ beta : 7
 	<summary>
 		<i>views solved 2 kyu</i>
 	</summary>
+
+`Evaluate a mathematical expression`:
+<img src="img/py.png" height="20px">
 
 `Game of go`:
 <img src="img/py.png" height="20px">
