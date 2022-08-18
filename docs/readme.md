@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*648 solved katas !*
+*650 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 53
-6kyu : 116
+6kyu : 118
 7kyu : 181
 8kyu : 274
 ```
@@ -301,6 +301,9 @@ beta : 7
 `Array diff`:
 <img src="img/py.png" height="20px">
 
+`Arrh grabscrab`:
+<img src="img/py.png" height="20px">
+
 `Ascii fun 1 x shape`:
 <img src="img/py.png" height="20px">
 
@@ -416,6 +419,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Extract file name`:
+<img src="img/py.png" height="20px">
+
+`Fibonacci tribonacci and friends`:
 <img src="img/py.png" height="20px">
 
 `Find the missing letter`:
