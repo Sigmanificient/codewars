@@ -29,8 +29,6 @@ def dir_reduction(arr: List[Direction]) -> List[Direction]:
 
 
 def test_find_reduction():
-    assert dir_reduction([]) == []
-
     assert dir_reduction(
         ["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"]
     ) == ['WEST']

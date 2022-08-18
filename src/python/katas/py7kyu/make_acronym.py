@@ -6,7 +6,6 @@ def to_acronym(inp: str) -> str:
 
 
 def test_to_acronym():
-    assert to_acronym("") == ""
     assert to_acronym("Code Wars") == "CW"
     assert to_acronym("Water Closet") == "WC"
     assert to_acronym("Portable Network Graphics") == "PNG"
