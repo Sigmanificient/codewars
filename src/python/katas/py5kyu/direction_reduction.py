@@ -41,7 +41,7 @@ def test_find_reduction():
 
     assert dir_reduction(
         ["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH"]
-    ), []
+    ) == []
 
     assert dir_reduction(
         ["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "NORTH"]
@@ -52,7 +52,7 @@ def test_find_reduction():
             "EAST", "EAST", "WEST", "NORTH",
             "WEST", "EAST", "EAST", "SOUTH", "NORTH", "WEST"
         ]
-    ), ["EAST", "NORTH"]
+    ) ==["EAST", "NORTH"]
 
     assert dir_reduction(
         [
