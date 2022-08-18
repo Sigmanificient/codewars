@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*634 solved katas !*
+*639 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 51
-6kyu : 113
-7kyu : 175
+5kyu : 52
+6kyu : 114
+7kyu : 178
 8kyu : 271
 ```
 
@@ -153,6 +153,9 @@ beta : 7
 `Did i fnish my sodoku`:
 <img src="img/py.png" height="20px">
 
+`Direction reduction`:
+<img src="img/py.png" height="20px">
+
 `Emirps`:
 <img src="img/py.png" height="20px">
 
@@ -164,9 +167,6 @@ beta : 7
 
 `First non repeating character`:
 <img src="img/py.png" height="20px">
-
-`Flatten`:
-<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Gap in primes`:
 <img src="img/py.png" height="20px">
@@ -604,6 +604,9 @@ beta : 7
 `Unique in order`:
 <img src="img/py.png" height="20px">
 
+`Unknown amount of dup one missing number`:
+<img src="img/py.png" height="20px">
+
 `Valid braces`:
 <img src="img/py.png" height="20px">
 
@@ -689,6 +692,9 @@ beta : 7
 `Binary addition`:
 <img src="img/py.png" height="20px">
 
+`Build a square`:
+<img src="img/py.png" height="20px">
+
 `Categorize member`:
 <img src="img/py.png" height="20px">
 
@@ -713,6 +719,12 @@ beta : 7
 `Collatz conjecture length`:
 <img src="img/py.png" height="20px">
 
+`Coloured triangles`:
+<img src="img/py.png" height="20px">
+
+`Compare with margin`:
+<img src="img/py.png" height="20px">
+
 `Complementary dna`:
 <img src="img/py.png" height="20px">
 
@@ -729,7 +741,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Credit card mask`:
-<img src="img/py.png" height="20px"> <img src="img/js.png" height="20px">
+<img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Decimal reverser`:
 <img src="img/py.png" height="20px">
@@ -814,6 +826,9 @@ beta : 7
 
 `Fizz buzz`:
 <img src="img/py.png" height="20px">
+
+`Flatten`:
+<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Flatten and sort an array`:
 <img src="img/py.png" height="20px">
@@ -1768,7 +1783,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Return negative`:
-<img src="img/py.png" height="20px"> <img src="img/php.png" height="20px"> <img src="img/js.png" height="20px">
+<img src="img/php.png" height="20px"> <img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Return the day`:
 <img src="img/py.png" height="20px">
