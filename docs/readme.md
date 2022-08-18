@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*639 solved katas !*
+*648 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 52
-6kyu : 114
-7kyu : 178
-8kyu : 271
+5kyu : 53
+6kyu : 116
+7kyu : 181
+8kyu : 274
 ```
 
 <h2>0Kyu</h2>
@@ -196,6 +196,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Isbn 10 validation`:
+<img src="img/py.png" height="20px">
+
+`Land perimeter`:
 <img src="img/py.png" height="20px">
 
 `Last digit of a large number`:
@@ -448,6 +451,9 @@ beta : 7
 `Highest scoring word`:
 <img src="img/py.png" height="20px">
 
+`How many pages in a book`:
+<img src="img/py.png" height="20px">
+
 `If you can read this`:
 <img src="img/py.png" height="20px">
 
@@ -593,6 +599,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Tribonacci sequence`:
+<img src="img/py.png" height="20px">
+
+`Triple trouble`:
 <img src="img/py.png" height="20px">
 
 `Twisted sum`:
@@ -914,6 +923,9 @@ beta : 7
 `Make a funciton that does arithmetic`:
 <img src="img/py.png" height="20px">
 
+`Make acronym`:
+<img src="img/py.png" height="20px">
+
 `Make your own hashmap`:
 <img src="img/py.png" height="20px">
 
@@ -945,6 +957,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Not oddities here`:
+<img src="img/py.png" height="20px">
+
+`Number of decimal digits`:
 <img src="img/py.png" height="20px">
 
 `Number of people in the bus`:
@@ -1077,6 +1092,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `String swap vowel case`:
+<img src="img/py.png" height="20px">
+
+`Strings starts with`:
 <img src="img/py.png" height="20px">
 
 `Sum of all the multiples of 3 and 5`:
@@ -1223,6 +1241,9 @@ beta : 7
 
 `Aspect ratio cropping part 1`:
 <img src="img/js.png" height="20px">
+
+`Basic making six toast`:
+<img src="img/py.png" height="20px">
 
 `Basic mathematical operations`:
 <img src="img/py.png" height="20px">
@@ -1746,6 +1767,9 @@ beta : 7
 `Printing array elements with command delimiters`:
 <img src="img/py.png" height="20px">
 
+`Pythagorean triple`:
+<img src="img/py.png" height="20px">
+
 `Quarter of the year`:
 <img src="img/py.png" height="20px">
 
@@ -1885,6 +1909,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Switch it up`:
+<img src="img/py.png" height="20px">
+
+`Take the derivative`:
 <img src="img/py.png" height="20px">
 
 `Template feature`:
