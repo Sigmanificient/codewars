@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*650 solved katas !*
+*656 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 53
-6kyu : 118
-7kyu : 181
-8kyu : 274
+5kyu : 55
+6kyu : 120
+7kyu : 182
+8kyu : 275
 ```
 
 <h2>0Kyu</h2>
@@ -130,6 +130,9 @@ beta : 7
 	</summary>
 
 `Bird mountains`:
+<img src="img/py.png" height="20px">
+
+`Bob reversng obfuscator`:
 <img src="img/py.png" height="20px">
 
 `Can you get the loop`:
@@ -246,6 +249,9 @@ beta : 7
 `Rotate an array matrix`:
 <img src="img/py.png" height="20px">
 
+`Rule 30`:
+<img src="img/py.png" height="20px">
+
 `Scramble`:
 <img src="img/py.png" height="20px">
 
@@ -317,6 +323,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Backwards read primes`:
+<img src="img/py.png" height="20px">
+
+`Binaries`:
 <img src="img/py.png" height="20px">
 
 `Binary tree compare`:
@@ -416,6 +425,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Equal side of an array`:
+<img src="img/py.png" height="20px">
+
+`Error correction 1 hamming code`:
 <img src="img/py.png" height="20px">
 
 `Extract file name`:
@@ -876,6 +888,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `How many are smaller than me`:
+<img src="img/py.png" height="20px">
+
+`How many consecuutive numbers are needed`:
 <img src="img/py.png" height="20px">
 
 `Im everywhere`:
@@ -1732,6 +1747,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Number to string`:
+<img src="img/py.png" height="20px">
+
+`Object oriented piracy`:
 <img src="img/py.png" height="20px">
 
 `Opposite number`:
