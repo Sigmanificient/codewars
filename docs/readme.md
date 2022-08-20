@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*656 solved katas !*
+*658 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 55
-6kyu : 120
-7kyu : 182
+6kyu : 121
+7kyu : 183
 8kyu : 275
 ```
 
@@ -590,6 +590,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Street fighter 2 character selection`:
+<img src="img/py.png" height="20px">
+
+`String tops`:
 <img src="img/py.png" height="20px">
 
 `Sum of digits digital rot`:
@@ -1179,6 +1182,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Unflatten a list`:
+<img src="img/py.png" height="20px">
+
+`Upturn numeral triangle`:
 <img src="img/py.png" height="20px">
 
 `Vaporcode`:
