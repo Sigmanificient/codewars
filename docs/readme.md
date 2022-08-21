@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*667 solved katas !*
+*671 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 55
-6kyu : 121
-7kyu : 192
+5kyu : 56
+6kyu : 123
+7kyu : 193
 8kyu : 275
 ```
 
@@ -136,6 +136,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Can you get the loop`:
+<img src="img/py.png" height="20px">
+
+`Combining predicates`:
 <img src="img/py.png" height="20px">
 
 `Convert a hex string to rgb`:
@@ -297,6 +300,9 @@ beta : 7
 	<summary>
 		<i>views solved 6 kyu</i>
 	</summary>
+
+`Alphaber war airstrike letters massacre`:
+<img src="img/py.png" height="20px">
 
 `Alternating strings`:
 <img src="img/py.png" height="20px">
@@ -479,6 +485,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Ip validation`:
+<img src="img/py.png" height="20px">
+
+`Ipv4 to int 32`:
 <img src="img/py.png" height="20px">
 
 `Iq test`:
@@ -807,6 +816,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Dont give me five`:
+<img src="img/py.png" height="20px">
+
+`Double every other`:
 <img src="img/py.png" height="20px">
 
 `Echo program`:
