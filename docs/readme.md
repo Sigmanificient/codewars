@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*658 solved katas !*
+*667 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 12
 5kyu : 55
 6kyu : 121
-7kyu : 183
+7kyu : 192
 8kyu : 275
 ```
 
@@ -710,6 +710,9 @@ beta : 7
 `Area of the arrow`:
 <img src="img/py.png" height="20px">
 
+`Arithmetic progression`:
+<img src="img/py.png" height="20px">
+
 `Balanced number special number series 1`:
 <img src="img/py.png" height="20px">
 
@@ -749,6 +752,9 @@ beta : 7
 `Collatz conjecture length`:
 <img src="img/py.png" height="20px">
 
+`Colour association`:
+<img src="img/py.png" height="20px">
+
 `Coloured triangles`:
 <img src="img/py.png" height="20px">
 
@@ -767,11 +773,20 @@ beta : 7
 `Count the divisors of a number`:
 <img src="img/py.png" height="20px">
 
+`Count the ones`:
+<img src="img/py.png" height="20px">
+
 `Counting array elements`:
 <img src="img/py.png" height="20px">
 
 `Credit card mask`:
 <img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
+
+`Cryptanalysis word pattern`:
+<img src="img/py.png" height="20px">
+
+`Debug sum of digits of a number`:
+<img src="img/py.png" height="20px">
 
 `Decimal reverser`:
 <img src="img/py.png" height="20px">
@@ -890,6 +905,9 @@ beta : 7
 `Highest and lowest`:
 <img src="img/py.png" height="20px">
 
+`Holiday 3 fire on boat`:
+<img src="img/py.png" height="20px">
+
 `How many are smaller than me`:
 <img src="img/py.png" height="20px">
 
@@ -929,6 +947,9 @@ beta : 7
 `Last survivor`:
 <img src="img/py.png" height="20px">
 
+`Least larger`:
+<img src="img/py.png" height="20px">
+
 `Length and two values`:
 <img src="img/py.png" height="20px">
 
@@ -966,6 +987,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Most digits`:
+<img src="img/py.png" height="20px">
+
+`Move 10`:
 <img src="img/py.png" height="20px">
 
 `Multples`:
@@ -1032,6 +1056,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Remove duplicate words`:
+<img src="img/py.png" height="20px">
+
+`Remove duplicates`:
 <img src="img/py.png" height="20px">
 
 `Remove the minimum`:
