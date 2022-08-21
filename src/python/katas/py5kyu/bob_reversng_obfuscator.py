@@ -1,4 +1,4 @@
-"""Kata url: https://www.codewars.com/kata/559ee79ab98119dd0100001d"""
+"""Kata url: https://www.codewars.com/kata/559ee79ab98119dd0100001d."""
 
 
 def decoder(encoded: str, marker: str) -> str:
