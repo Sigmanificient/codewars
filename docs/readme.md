@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*671 solved katas !*
+*674 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 56
-6kyu : 123
-7kyu : 193
+6kyu : 124
+7kyu : 195
 8kyu : 275
 ```
 
@@ -359,6 +359,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Camelcase method`:
+<img src="img/py.png" height="20px">
+
+`Catalog`:
 <img src="img/py.png" height="20px">
 
 `Codewars leaderboard`:
@@ -1013,6 +1016,9 @@ beta : 7
 `Narcissistic number`:
 <img src="img/py.png" height="20px">
 
+`Next prime`:
+<img src="img/py.png" height="20px">
+
 `Nice array`:
 <img src="img/py.png" height="20px">
 
@@ -1035,6 +1041,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Odd or even`:
+<img src="img/py.png" height="20px">
+
+`Ones complement`:
 <img src="img/py.png" height="20px">
 
 `Power of two`:
