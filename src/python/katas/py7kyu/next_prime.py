@@ -22,9 +22,9 @@ def next_prime(n):
 
 
 def test_next_primes():
-    assert is_prime(0) == 2
-    assert is_prime(2) == 3
-    assert is_prime(3) == 5
-    assert is_prime(13) == 17
-    assert is_prime(181) == 191
-    assert is_prime(911) == 919
+    assert next_prime(0) == 2
+    assert next_prime(2) == 3
+    assert next_prime(3) == 5
+    assert next_prime(13) == 17
+    assert next_prime(181) == 191
+    assert next_prime(911) == 919
