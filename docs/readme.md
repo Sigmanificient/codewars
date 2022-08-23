@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*674 solved katas !*
+*675 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 12
 5kyu : 56
 6kyu : 124
-7kyu : 195
+7kyu : 196
 8kyu : 275
 ```
 
@@ -1167,6 +1167,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Strings starts with`:
+<img src="img/py.png" height="20px">
+
+`Sum a list but ignore any duplicates`:
 <img src="img/py.png" height="20px">
 
 `Sum of all the multiples of 3 and 5`:
