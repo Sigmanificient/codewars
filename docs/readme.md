@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*676 solved katas !*
+*679 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 56
-6kyu : 125
-7kyu : 196
+6kyu : 127
+7kyu : 197
 8kyu : 275
 ```
 
@@ -373,6 +373,9 @@ beta : 7
 `Common directory path`:
 <img src="img/py.png" height="20px">
 
+`Compute depth`:
+<img src="img/py.png" height="20px">
+
 `Consecutive strings`:
 <img src="img/py.png" height="20px">
 
@@ -509,6 +512,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Make a window`:
+<img src="img/py.png" height="20px">
+
+`Make the deadfish swim`:
 <img src="img/py.png" height="20px">
 
 `Meeting`:
@@ -780,6 +786,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Convert a linked list to a string`:
+<img src="img/py.png" height="20px">
+
+`Coprime validator`:
 <img src="img/py.png" height="20px">
 
 `Count red beads`:
