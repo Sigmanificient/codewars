@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*679 solved katas !*
+*680 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 56
+5kyu : 57
 6kyu : 127
 7kyu : 197
 8kyu : 275
@@ -181,6 +181,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Group in tens`:
+<img src="img/py.png" height="20px">
+
+`Hamster me`:
 <img src="img/py.png" height="20px">
 
 `Hex dump`:
