@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*675 solved katas !*
+*676 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 56
-6kyu : 124
+6kyu : 125
 7kyu : 196
 8kyu : 275
 ```
@@ -641,6 +641,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Two sum`:
+<img src="img/py.png" height="20px">
+
+`Typing series 1 the backspace function`:
 <img src="img/py.png" height="20px">
 
 `Unique in order`:
