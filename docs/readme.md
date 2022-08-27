@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*680 solved katas !*
+*683 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 57
-6kyu : 127
+6kyu : 129
 7kyu : 197
-8kyu : 275
+8kyu : 276
 ```
 
 <h2>0Kyu</h2>
@@ -445,6 +445,9 @@ beta : 7
 `Error correction 1 hamming code`:
 <img src="img/py.png" height="20px">
 
+`Esolang 1 mini string fuck`:
+<img src="img/py.png" height="20px">
+
 `Extract file name`:
 <img src="img/py.png" height="20px">
 
@@ -671,6 +674,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Weird string case`:
+<img src="img/py.png" height="20px">
+
+`Where is my parent`:
 <img src="img/py.png" height="20px">
 
 `Who likes it`:
@@ -1930,6 +1936,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Reversing words in a string`:
+<img src="img/py.png" height="20px">
+
+`Safen user input part 1 htmlspecialchars`:
 <img src="img/py.png" height="20px">
 
 `Sentence smash`:
