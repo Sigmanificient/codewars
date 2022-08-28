@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*683 solved katas !*
+*684 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 12
 5kyu : 57
 6kyu : 129
-7kyu : 197
+7kyu : 198
 8kyu : 276
 ```
 
@@ -753,6 +753,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Binary addition`:
+<img src="img/py.png" height="20px">
+
+`Boiled eggs`:
 <img src="img/py.png" height="20px">
 
 `Build a square`:
