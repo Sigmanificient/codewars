@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*687 solved katas !*
+*690 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 57
-6kyu : 130
+6kyu : 133
 7kyu : 200
 8kyu : 276
 ```
@@ -475,6 +475,9 @@ beta : 7
 `Goldbach conjecture`:
 <img src="img/py.png" height="20px">
 
+`Hanoi record`:
+<img src="img/py.png" height="20px">
+
 `Hello world without string number and booleans`:
 <img src="img/py.png" height="20px">
 
@@ -494,6 +497,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Inside out string`:
+<img src="img/py.png" height="20px">
+
+`Intro to art`:
 <img src="img/py.png" height="20px">
 
 `Ip validation`:
@@ -596,6 +602,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Simple fun 305 typist`:
+<img src="img/py.png" height="20px">
+
+`Simple fun 52 pairs of shoes`:
 <img src="img/py.png" height="20px">
 
 `Sort the columns of a csv file`:
