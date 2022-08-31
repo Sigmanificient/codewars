@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*690 solved katas !*
+*694 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 12
 5kyu : 57
 6kyu : 133
-7kyu : 200
+7kyu : 204
 8kyu : 276
 ```
 
@@ -1037,6 +1037,9 @@ beta : 7
 `Middle me`:
 <img src="img/py.png" height="20px">
 
+`Mod 256 without the mod operator`:
+<img src="img/py.png" height="20px">
+
 `Most digits`:
 <img src="img/py.png" height="20px">
 
@@ -1155,6 +1158,15 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Shorter word`:
+<img src="img/py.png" height="20px">
+
+`Simple fun #154 zero and one`:
+<img src="img/py.png" height="20px">
+
+`Simple fun 10 range bit counting`:
+<img src="img/py.png" height="20px">
+
+`Simple fun 2 circle of numbers`:
 <img src="img/py.png" height="20px">
 
 `Simple remove duplicates`:
