@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*685 solved katas !*
+*687 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 57
-6kyu : 129
-7kyu : 199
+6kyu : 130
+7kyu : 200
 8kyu : 276
 ```
 
@@ -571,6 +571,9 @@ beta : 7
 `Rectangle letter juggling`:
 <img src="img/py.png" height="20px">
 
+`Remove the parenthesis`:
+<img src="img/py.png" height="20px">
+
 `Replace with alphabet position`:
 <img src="img/py.png" height="20px">
 
@@ -1116,6 +1119,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Return the closest multiple of 10`:
+<img src="img/py.png" height="20px">
+
+`Reverse a number`:
 <img src="img/py.png" height="20px">
 
 `Reverse letter`:
