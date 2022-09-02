@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*694 solved katas !*
+*696 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 57
-6kyu : 133
-7kyu : 204
+6kyu : 134
+7kyu : 205
 8kyu : 276
 ```
 
@@ -553,6 +553,9 @@ beta : 7
 `New cashier does not know about space or shift`:
 <img src="img/py.png" height="20px">
 
+`Non even substrings`:
+<img src="img/py.png" height="20px">
+
 `Pentabonacci`:
 <img src="img/py.png" height="20px">
 
@@ -1005,6 +1008,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `List filtering`:
+<img src="img/py.png" height="20px">
+
+`Longest vowel chain`:
 <img src="img/py.png" height="20px">
 
 `Loop array`:
