@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*696 solved katas !*
+*698 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 57
-6kyu : 134
-7kyu : 205
+6kyu : 135
+7kyu : 206
 8kyu : 276
 ```
 
@@ -374,6 +374,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Common directory path`:
+<img src="img/py.png" height="20px">
+
+`Compare versions`:
 <img src="img/py.png" height="20px">
 
 `Compute depth`:
@@ -795,6 +798,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Coding meetup 1 higher order functions series count the number of javascript developers coming from europe`:
+<img src="img/py.png" height="20px">
+
+`Coding meetup 2 higher order func greet devs`:
 <img src="img/py.png" height="20px">
 
 `Collatz conjecture length`:
