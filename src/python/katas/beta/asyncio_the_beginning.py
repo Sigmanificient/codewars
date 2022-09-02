@@ -1,11 +1,11 @@
-"""kata url: https://www.codewars.com/kata/62cc8badb88fb2b0c4d09937."""
+"""Kata url: https://www.codewars.com/kata/62cc8badb88fb2b0c4d09937."""
 import asyncio
 from time import perf_counter
 
 import pytest
 
 
-async def dreaming(n: int, m: int) -> int:
+async def dreaming(n: float, m: int) -> float:
     await asyncio.sleep(n)
     return m**n
 
