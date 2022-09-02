@@ -22,6 +22,6 @@ def test_compare_versions():
 
     assert compare_versions("10.4.6", "10.4")
     assert not compare_versions("10.4", "10.4.8")
-    assert compare_versions("10.4", "11")
-    assert compare_versions("10.4", "10.10")
-    assert compare_versions("10.4.9", "10.5")
+    assert not compare_versions("10.4", "11")
+    assert not compare_versions("10.4", "10.10")
+    assert not compare_versions("10.4.9", "10.5")
