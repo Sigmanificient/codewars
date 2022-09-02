@@ -1,4 +1,4 @@
-"""https://www.codewars.com/kata/534eb5ad704a49dcfa000ba6."""
+"""Kata url: https://www.codewars.com/kata/534eb5ad704a49dcfa000ba6."""
 
 
 def hanoi(disks: int) -> int:
