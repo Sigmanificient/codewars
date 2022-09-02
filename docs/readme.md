@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*698 solved katas !*
+*699 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 57
+5kyu : 58
 6kyu : 135
 7kyu : 206
 8kyu : 276
@@ -259,6 +259,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Scramble`:
+<img src="img/py.png" height="20px">
+
+`Sierpinski gasket`:
 <img src="img/py.png" height="20px">
 
 `Simple pig latin`:
