@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*699 solved katas !*
+*700 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 58
-6kyu : 135
+6kyu : 136
 7kyu : 206
 8kyu : 276
 ```
@@ -602,6 +602,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Sha256 cracker`:
+<img src="img/py.png" height="20px">
+
+`Sierpinski triangle`:
 <img src="img/py.png" height="20px">
 
 `Silent import`:
