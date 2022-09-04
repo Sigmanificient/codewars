@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*700 solved katas !*
+*703 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 58
-6kyu : 136
+5kyu : 59
+6kyu : 137
 7kyu : 206
-8kyu : 276
+8kyu : 277
 ```
 
 <h2>0Kyu</h2>
@@ -163,6 +163,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Emirps`:
+<img src="img/py.png" height="20px">
+
+`Evaluate a posix expression`:
 <img src="img/py.png" height="20px">
 
 `Extract the domain from a url`:
@@ -329,6 +332,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Ascii fun 3 build a pyramid`:
+<img src="img/py.png" height="20px">
+
+`Ascii sierpinski carpet`:
 <img src="img/py.png" height="20px">
 
 `Backspaces in string`:
@@ -1633,6 +1639,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Fixme replace all dots`:
+<img src="img/py.png" height="20px">
+
+`For twins 1 types`:
 <img src="img/py.png" height="20px">
 
 `For ufc fans total beginners conor mcgregor vs george saint pierre`:
