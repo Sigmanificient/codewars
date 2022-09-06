@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*710 solved katas !*
+*715 solved katas !*
 
 ```c
 beta : 7
@@ -19,8 +19,8 @@ beta : 7
 4kyu : 12
 5kyu : 60
 6kyu : 141
-7kyu : 208
-8kyu : 277
+7kyu : 211
+8kyu : 279
 ```
 
 <h2>0Kyu</h2>
@@ -921,7 +921,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Factorial`:
-<img src="img/py.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Factorial 2`:
 <img src="img/py.png" height="20px">
@@ -1171,6 +1171,9 @@ beta : 7
 
 `Replace every nth`:
 <img src="img/py.png" height="20px">
+
+`Return string of first char`:
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Return the closest multiple of 10`:
 <img src="img/py.png" height="20px">
@@ -1471,7 +1474,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Check same case`:
-<img src="img/py.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Chuck norris vii true or false`:
 <img src="img/py.png" height="20px">
@@ -1876,7 +1879,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Multiply`:
-<img src="img/py.png" height="20px"> <img src="img/sql.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/sql.png" height="20px">
 
 `Multiply word in string`:
 <img src="img/py.png" height="20px">
