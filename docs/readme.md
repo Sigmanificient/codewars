@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*705 solved katas !*
+*710 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 60
-6kyu : 137
-7kyu : 207
+6kyu : 141
+7kyu : 208
 8kyu : 277
 ```
 
@@ -499,6 +499,9 @@ beta : 7
 `Hellphabet can you give the alphabet`:
 <img src="img/py.png" height="20px">
 
+`High score table`:
+<img src="img/py.png" height="20px">
+
 `Highest rank number in a array`:
 <img src="img/py.png" height="20px">
 
@@ -562,6 +565,9 @@ beta : 7
 `Multiple of 3 or 5`:
 <img src="img/py.png" height="20px">
 
+`Multiplication table`:
+<img src="img/py.png" height="20px">
+
 `Nested list depth`:
 <img src="img/py.png" height="20px">
 
@@ -602,6 +608,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Reverse every other word in a string`:
+<img src="img/py.png" height="20px">
+
+`Reverse or rotate`:
 <img src="img/py.png" height="20px">
 
 `Rotate array`:
@@ -704,6 +713,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Vowel back`:
+<img src="img/py.png" height="20px">
+
+`Weight for weight`:
 <img src="img/py.png" height="20px">
 
 `Weird string case`:
@@ -840,6 +852,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Count red beads`:
+<img src="img/py.png" height="20px">
+
+`Count the digit`:
 <img src="img/py.png" height="20px">
 
 `Count the divisors of a number`:
