@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*716 solved katas !*
+*721 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 60
-6kyu : 141
-7kyu : 212
+6kyu : 142
+7kyu : 216
 8kyu : 279
 ```
 
@@ -407,6 +407,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Count characters in your string`:
+<img src="img/py.png" height="20px">
+
+`Count the days`:
 <img src="img/py.png" height="20px">
 
 `Count the divisible numbers`:
@@ -800,6 +803,9 @@ beta : 7
 `Binary addition`:
 <img src="img/py.png" height="20px">
 
+`Binary pyramid 101`:
+<img src="img/py.png" height="20px">
+
 `Boiled eggs`:
 <img src="img/py.png" height="20px">
 
@@ -1127,6 +1133,9 @@ beta : 7
 `Ones complement`:
 <img src="img/py.png" height="20px">
 
+`Parts of a list`:
+<img src="img/py.png" height="20px">
+
 `Power of two`:
 <img src="img/py.png" height="20px">
 
@@ -1354,6 +1363,9 @@ beta : 7
 
 `What a classy song`:
 <img src="img/py.png" height="20px">
+
+`Which section did you scroll to`:
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Which string is worth more`:
 <img src="img/py.png" height="20px">
