@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*703 solved katas !*
+*705 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 59
+5kyu : 60
 6kyu : 137
-7kyu : 206
+7kyu : 207
 8kyu : 277
 ```
 
@@ -128,6 +128,9 @@ beta : 7
 	<summary>
 		<i>views solved 5 kyu</i>
 	</summary>
+
+`A chain adding function`:
+<img src="img/py.png" height="20px">
 
 `Bird mountains`:
 <img src="img/py.png" height="20px">
@@ -1215,6 +1218,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Sort by last char`:
+<img src="img/py.png" height="20px">
+
+`Sort out the me from boys`:
 <img src="img/py.png" height="20px">
 
 `Sort the gift code`:
