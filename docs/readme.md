@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*715 solved katas !*
+*716 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 12
 5kyu : 60
 6kyu : 141
-7kyu : 211
+7kyu : 212
 8kyu : 279
 ```
 
@@ -1158,7 +1158,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Remove anchor from url`:
-<img src="img/py.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Remove duplicate words`:
 <img src="img/py.png" height="20px">
