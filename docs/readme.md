@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*729 solved katas !*
+*730 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 12
 5kyu : 60
 6kyu : 145
-7kyu : 221
+7kyu : 222
 8kyu : 279
 ```
 
@@ -1389,6 +1389,9 @@ beta : 7
 <img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Which string is worth more`:
+<img src="img/py.png" height="20px">
+
+`Word values`:
 <img src="img/py.png" height="20px">
 
 `Words to sentence`:
