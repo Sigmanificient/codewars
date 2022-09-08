@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*721 solved katas !*
+*729 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 60
-6kyu : 142
-7kyu : 216
+6kyu : 145
+7kyu : 221
 8kyu : 279
 ```
 
@@ -538,6 +538,9 @@ beta : 7
 `Kebabize`:
 <img src="img/py.png" height="20px">
 
+`Length of missing array`:
+<img src="img/py.png" height="20px">
+
 `Linked lists length and count`:
 <img src="img/py.png" height="20px">
 
@@ -563,6 +566,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Mexican wave`:
+<img src="img/py.png" height="20px">
+
+`Minutes to midnight`:
 <img src="img/py.png" height="20px">
 
 `Multiple of 3 or 5`:
@@ -599,6 +605,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Prime factors`:
+<img src="img/py.png" height="20px">
+
+`Pyramid array`:
 <img src="img/py.png" height="20px">
 
 `Rectangle letter juggling`:
@@ -791,6 +800,9 @@ beta : 7
 `Arithmetic progression`:
 <img src="img/py.png" height="20px">
 
+`Averages of numbers`:
+<img src="img/py.png" height="20px">
+
 `Balanced number special number series 1`:
 <img src="img/py.png" height="20px">
 
@@ -852,6 +864,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Convert a linked list to a string`:
+<img src="img/py.png" height="20px">
+
+`Convert an array of strings to array of numners`:
 <img src="img/py.png" height="20px">
 
 `Coprime validator`:
@@ -1085,6 +1100,9 @@ beta : 7
 `Middle me`:
 <img src="img/py.png" height="20px">
 
+`Minimize sum of array`:
+<img src="img/py.png" height="20px">
+
 `Mod 256 without the mod operator`:
 <img src="img/py.png" height="20px">
 
@@ -1161,6 +1179,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Regex validate pin code`:
+<img src="img/py.png" height="20px">
+
+`Regexp basics parsing prices`:
 <img src="img/py.png" height="20px">
 
 `Remove all the marked element of a list`:
@@ -1372,6 +1393,9 @@ beta : 7
 
 `Words to sentence`:
 <img src="img/py.png" height="20px">
+
+`Words values`:
+<img src="img/c.png" height="20px">
 
 `Youre a square`:
 <img src="img/py.png" height="20px">
