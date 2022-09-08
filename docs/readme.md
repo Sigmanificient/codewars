@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*730 solved katas !*
+*736 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 60
-6kyu : 145
-7kyu : 222
-8kyu : 279
+5kyu : 61
+6kyu : 148
+7kyu : 223
+8kyu : 280
 ```
 
 <h2>0Kyu</h2>
@@ -229,6 +229,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Moving zeros to the end`:
+<img src="img/py.png" height="20px">
+
+`Multisize nonogram encoder`:
 <img src="img/py.png" height="20px">
 
 `Myjinxin katas 001 rotate remove return`:
@@ -553,6 +556,9 @@ beta : 7
 `Make the deadfish swim`:
 <img src="img/py.png" height="20px">
 
+`Matrix transpose`:
+<img src="img/py.png" height="20px">
+
 `Meeting`:
 <img src="img/py.png" height="20px">
 
@@ -584,6 +590,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Non even substrings`:
+<img src="img/py.png" height="20px">
+
+`Pair of gloves`:
 <img src="img/py.png" height="20px">
 
 `Pentabonacci`:
@@ -731,6 +740,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Weird string case`:
+<img src="img/py.png" height="20px">
+
+`What century is it`:
 <img src="img/py.png" height="20px">
 
 `Where is my parent`:
@@ -1346,6 +1358,9 @@ beta : 7
 `The coupon code`:
 <img src="img/py.png" height="20px">
 
+`The drop while function`:
+<img src="img/py.png" height="20px">
+
 `The fusc function part 1`:
 <img src="img/py.png" height="20px">
 
@@ -1919,6 +1934,9 @@ beta : 7
 
 `Multiply`:
 <img src="img/c.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/sql.png" height="20px">
+
+`Multiply the number`:
+<img src="img/py.png" height="20px">
 
 `Multiply word in string`:
 <img src="img/py.png" height="20px">
