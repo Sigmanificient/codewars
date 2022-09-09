@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*736 solved katas !*
+*742 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 61
+5kyu : 64
 6kyu : 148
-7kyu : 223
+7kyu : 226
 8kyu : 280
 ```
 
@@ -237,6 +237,9 @@ beta : 7
 `Myjinxin katas 001 rotate remove return`:
 <img src="img/py.png" height="20px">
 
+`Ninja vs samurai attack block`:
+<img src="img/py.png" height="20px">
+
 `Not very secure`:
 <img src="img/py.png" height="20px">
 
@@ -250,6 +253,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Product of consecutive fib numbers`:
+<img src="img/py.png" height="20px">
+
+`Readability is king`:
 <img src="img/py.png" height="20px">
 
 `Regex password validation`:
@@ -268,6 +274,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Scramble`:
+<img src="img/py.png" height="20px">
+
+`Secret knock`:
 <img src="img/py.png" height="20px">
 
 `Sierpinski gasket`:
@@ -1001,6 +1010,9 @@ beta : 7
 `Flatten and sort an array`:
 <img src="img/py.png" height="20px">
 
+`Folding your way to the moon`:
+<img src="img/py.png" height="20px">
+
 `Form the minimum`:
 <img src="img/py.png" height="20px">
 
@@ -1056,6 +1068,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Jaden casing strings`:
+<img src="img/py.png" height="20px">
+
+`Javascript filter`:
 <img src="img/py.png" height="20px">
 
 `Largest 5 digit number in a series`:
@@ -1335,6 +1350,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Sum of odd numbers`:
+<img src="img/py.png" height="20px">
+
+`Sum of singles`:
 <img src="img/py.png" height="20px">
 
 `Sum of the first nth term of series`:
