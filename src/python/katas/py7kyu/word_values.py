@@ -1,3 +1,5 @@
+"""Kata url: https://www.codewars.com/kata/598d91785d4ce3ec4f000018."""
+
 def name_value(my_list):
     ascii_offset = ord('a') - 1
     return [

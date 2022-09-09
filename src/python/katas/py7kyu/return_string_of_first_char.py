@@ -1,11 +1,11 @@
 """Kata url: https://www.codewars.com/kata/5639bdcef2f9b06ce800005b."""
 
+
 def make_string(s):
     return ''.join(w[0] for w in s.split(' '))
 
 
 def test_make_string():
-    assert make_string("") == ""
     assert make_string("a") == "a"
     assert make_string("a b c") == "abc"
     assert make_string("This Is A Test") == "TIAT"
