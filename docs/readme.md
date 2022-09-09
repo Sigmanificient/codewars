@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*742 solved katas !*
+*744 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 64
-6kyu : 148
+6kyu : 150
 7kyu : 226
 8kyu : 280
 ```
@@ -496,6 +496,9 @@ beta : 7
 `Find the unique number`:
 <img src="img/py.png" height="20px">
 
+`First character that repeats`:
+<img src="img/py.png" height="20px">
+
 `Framed reflection`:
 <img src="img/py.png" height="20px">
 
@@ -515,6 +518,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `High score table`:
+<img src="img/py.png" height="20px">
+
+`Highest number with two prime factors`:
 <img src="img/py.png" height="20px">
 
 `Highest rank number in a array`:
