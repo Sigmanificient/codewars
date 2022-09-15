@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*748 solved katas !*
+*749 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 12
-5kyu : 64
+5kyu : 65
 6kyu : 152
 7kyu : 227
 8kyu : 281
@@ -241,6 +241,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Not very secure`:
+<img src="img/py.png" height="20px">
+
+`Pagination helper`:
 <img src="img/py.png" height="20px">
 
 `Perimeter`:
