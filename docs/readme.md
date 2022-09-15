@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*749 solved katas !*
+*750 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 12
 5kyu : 65
 6kyu : 152
-7kyu : 227
+7kyu : 228
 8kyu : 281
 ```
 
@@ -900,6 +900,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Complementary dna`:
+<img src="img/py.png" height="20px">
+
+`Complete the pattern 1`:
 <img src="img/py.png" height="20px">
 
 `Convert a linked list to a string`:
