@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*744 solved katas !*
+*748 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 64
-6kyu : 150
-7kyu : 226
-8kyu : 280
+6kyu : 152
+7kyu : 227
+8kyu : 281
 ```
 
 <h2>0Kyu</h2>
@@ -499,6 +499,9 @@ beta : 7
 `First character that repeats`:
 <img src="img/py.png" height="20px">
 
+`Fold array`:
+<img src="img/py.png" height="20px">
+
 `Framed reflection`:
 <img src="img/py.png" height="20px">
 
@@ -706,6 +709,9 @@ beta : 7
 `Take a number and sum its digits raised to the consectuve powers and eureka`:
 <img src="img/py.png" height="20px">
 
+`The book of mormon`:
+<img src="img/py.png" height="20px">
+
 `The paperfold sequence`:
 <img src="img/py.png" height="20px">
 
@@ -804,6 +810,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Alphabet war`:
+<img src="img/py.png" height="20px">
+
+`Alphabetical addition`:
 <img src="img/py.png" height="20px">
 
 `Alphabetically ordered`:
@@ -1810,6 +1819,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Grasshopper debug say hello`:
+<img src="img/py.png" height="20px">
+
+`Grasshopper grade book`:
 <img src="img/py.png" height="20px">
 
 `Grasshopper if else syntax debug`:
