@@ -20,5 +20,5 @@ def test_fold_array():
     assert fold_array([1, 2, 3, 4, 5], 3) == [15]
     assert fold_array([-9, 9, -8, 8, 66, 23], 1) == [14, 75, 0]
 
-    assert fold_array([1, 2, 3, 4, 5, 99, 88, 78, 74, 73], 5) == 427
-    assert fold_array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 10) == 0
+    assert fold_array([1, 2, 3, 4, 5, 99, 88, 78, 74, 73], 5) == [427]
+    assert fold_array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 10) == [0]
