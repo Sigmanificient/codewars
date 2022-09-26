@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*750 solved katas !*
+*754 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 65
-6kyu : 152
-7kyu : 228
+6kyu : 153
+7kyu : 231
 8kyu : 281
 ```
 
@@ -413,6 +413,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Consonant value`:
+<img src="img/py.png" height="20px">
+
+`Convert int to whitespace format`:
 <img src="img/py.png" height="20px">
 
 `Convert string to camel case`:
@@ -1046,6 +1049,9 @@ beta : 7
 `Growth of a population`:
 <img src="img/py.png" height="20px">
 
+`Hamming distance part 1 binary codes`:
+<img src="img/py.png" height="20px">
+
 `Having sum`:
 <img src="img/py.png" height="20px">
 
@@ -1283,6 +1289,9 @@ beta : 7
 `Shorter word`:
 <img src="img/py.png" height="20px">
 
+`Simple consecutive pairs`:
+<img src="img/py.png" height="20px">
+
 `Simple fun #154 zero and one`:
 <img src="img/py.png" height="20px">
 
@@ -1350,6 +1359,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Sum a list but ignore any duplicates`:
+<img src="img/py.png" height="20px">
+
+`Sum of all arguments`:
 <img src="img/py.png" height="20px">
 
 `Sum of all the multiples of 3 and 5`:
