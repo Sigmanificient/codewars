@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*755 solved katas !*
+*759 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 65
-6kyu : 154
-7kyu : 231
+6kyu : 155
+7kyu : 234
 8kyu : 281
 ```
 
@@ -581,6 +581,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Matrix transpose`:
+<img src="img/py.png" height="20px">
+
+`Maximum sum values of ranges`:
 <img src="img/py.png" height="20px">
 
 `Meeting`:
@@ -1175,6 +1178,9 @@ beta : 7
 `Mumbling`:
 <img src="img/py.png" height="20px">
 
+`Name that number`:
+<img src="img/py.png" height="20px">
+
 `Narcissistic number`:
 <img src="img/py.png" height="20px">
 
@@ -1510,7 +1516,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Alternate case`:
-<img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Are arrow functions odd`:
 <img src="img/py.png" height="20px">
