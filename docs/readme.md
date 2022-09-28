@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*759 solved katas !*
+*761 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 65
-6kyu : 155
-7kyu : 234
+6kyu : 156
+7kyu : 235
 8kyu : 281
 ```
 
@@ -719,6 +719,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Take a number and sum its digits raised to the consectuve powers and eureka`:
+<img src="img/py.png" height="20px">
+
+`Take a ten minute walk`:
 <img src="img/py.png" height="20px">
 
 `The book of mormon`:
@@ -1422,6 +1425,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `The fusc function part 1`:
+<img src="img/py.png" height="20px">
+
+`The office 4 find a meeting room`:
 <img src="img/py.png" height="20px">
 
 `Thinkful string drills poem formatter`:
