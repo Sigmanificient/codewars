@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*761 solved katas !*
+*765 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 65
-6kyu : 156
-7kyu : 235
+6kyu : 158
+7kyu : 237
 8kyu : 281
 ```
 
@@ -610,6 +610,9 @@ beta : 7
 `Multiplication table`:
 <img src="img/py.png" height="20px">
 
+`Muti tap keypad text entry on old phone`:
+<img src="img/py.png" height="20px">
+
 `Nested list depth`:
 <img src="img/py.png" height="20px">
 
@@ -641,6 +644,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Prime factors`:
+<img src="img/py.png" height="20px">
+
+`Primordial of a number`:
 <img src="img/py.png" height="20px">
 
 `Pyramid array`:
@@ -992,6 +998,9 @@ beta : 7
 `Even numbers in an array`:
 <img src="img/py.png" height="20px">
 
+`Evens and odds`:
+<img src="img/py.png" height="20px">
+
 `Exes ohs`:
 <img src="img/py.png" height="20px">
 
@@ -1293,6 +1302,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `See you next happy year`:
+<img src="img/py.png" height="20px">
+
+`Series of integers from m to n`:
 <img src="img/py.png" height="20px">
 
 `Seven ate 9`:
