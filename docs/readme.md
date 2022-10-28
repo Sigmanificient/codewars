@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*770 solved katas !*
+*771 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 3
 4kyu : 12
 5kyu : 65
-6kyu : 158
+6kyu : 159
 7kyu : 241
 8kyu : 282
 ```
@@ -434,6 +434,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Count the divisible numbers`:
+<img src="img/py.png" height="20px">
+
+`Count the islands`:
 <img src="img/py.png" height="20px">
 
 `Count the smiley faces`:
