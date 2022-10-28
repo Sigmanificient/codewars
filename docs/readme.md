@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*765 solved katas !*
+*770 solved katas !*
 
 ```c
 beta : 7
@@ -19,8 +19,8 @@ beta : 7
 4kyu : 12
 5kyu : 65
 6kyu : 158
-7kyu : 237
-8kyu : 281
+7kyu : 241
+8kyu : 282
 ```
 
 <h2>0Kyu</h2>
@@ -179,6 +179,9 @@ beta : 7
 
 `First non repeating character`:
 <img src="img/py.png" height="20px">
+
+`Flatten`:
+<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Gap in primes`:
 <img src="img/py.png" height="20px">
@@ -842,6 +845,9 @@ beta : 7
 `Alternate capitalization`:
 <img src="img/py.png" height="20px">
 
+`Alternate case`:
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
+
 `Anagram detection`:
 <img src="img/py.png" height="20px">
 
@@ -856,6 +862,9 @@ beta : 7
 
 `Arithmetic progression`:
 <img src="img/py.png" height="20px">
+
+`Array length`:
+<img src="img/h.png" height="20px">
 
 `Averages of numbers`:
 <img src="img/py.png" height="20px">
@@ -1005,7 +1014,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Factorial`:
-<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Factorial 2`:
 <img src="img/py.png" height="20px">
@@ -1045,9 +1054,6 @@ beta : 7
 
 `Fizz buzz`:
 <img src="img/py.png" height="20px">
-
-`Flatten`:
-<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Flatten and sort an array`:
 <img src="img/py.png" height="20px">
@@ -1263,7 +1269,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Remove anchor from url`:
-<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Remove duplicate words`:
 <img src="img/py.png" height="20px">
@@ -1278,7 +1284,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Return string of first char`:
-<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Return the closest multiple of 10`:
 <img src="img/py.png" height="20px">
@@ -1291,6 +1297,9 @@ beta : 7
 
 `Reverse list`:
 <img src="img/py.png" height="20px">
+
+`Reverse the bits in an integer`:
+<img src="img/c.png" height="20px">
 
 `Reverse words`:
 <img src="img/py.png" height="20px">
@@ -1463,6 +1472,9 @@ beta : 7
 `Upturn numeral triangle`:
 <img src="img/py.png" height="20px">
 
+`Valid spacing`:
+<img src="img/c.png" height="20px">
+
 `Vaporcode`:
 <img src="img/py.png" height="20px">
 
@@ -1479,7 +1491,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Which section did you scroll to`:
-<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Which string is worth more`:
 <img src="img/py.png" height="20px">
@@ -1491,6 +1503,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Words values`:
+<img src="img/c.png" height="20px">
+
+`X marks the spot`:
 <img src="img/c.png" height="20px">
 
 `Youre a square`:
@@ -1532,9 +1547,6 @@ beta : 7
 
 `All star code challenge 18`:
 <img src="img/py.png" height="20px">
-
-`Alternate case`:
-<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Are arrow functions odd`:
 <img src="img/py.png" height="20px">
@@ -1606,7 +1618,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Check same case`:
-<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Chuck norris vii true or false`:
 <img src="img/py.png" height="20px">
@@ -2014,7 +2026,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Multiply`:
-<img src="img/sql.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
+<img src="img/sql.png" height="20px"> <img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Multiply the number`:
 <img src="img/py.png" height="20px">
@@ -2135,6 +2147,9 @@ beta : 7
 
 `Return the day`:
 <img src="img/py.png" height="20px">
+
+`Return the first m multiples of n`:
+<img src="img/c.png" height="20px">
 
 `Return to sanity`:
 <img src="img/py.png" height="20px">
