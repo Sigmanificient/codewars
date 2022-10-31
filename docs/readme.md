@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*775 solved katas !*
+*786 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 3
 4kyu : 13
 5kyu : 65
-6kyu : 159
-7kyu : 244
+6kyu : 161
+7kyu : 253
 8kyu : 282
 ```
 
@@ -727,11 +727,17 @@ beta : 7
 `String tops`:
 <img src="img/py.png" height="20px">
 
+`String transformer`:
+<img src="img/py.png" height="20px">
+
 `Sum of digits digital rot`:
 <img src="img/py.png" height="20px">
 
 `Sum of parts`:
 <img src="img/py.png" height="20px">
+
+`Sum the tree`:
+<img src="img/c.png" height="20px">
 
 `Take a number and sum its digits raised to the consectuve powers and eureka`:
 <img src="img/py.png" height="20px">
@@ -896,6 +902,9 @@ beta : 7
 `Build a square`:
 <img src="img/py.png" height="20px">
 
+`Car crash`:
+<img src="img/py.png" height="20px">
+
 `Categorize member`:
 <img src="img/py.png" height="20px">
 
@@ -937,6 +946,9 @@ beta : 7
 
 `Complete the pattern 1`:
 <img src="img/py.png" height="20px">
+
+`Consecutive items`:
+<img src="img/c.png" height="20px">
 
 `Convert a linked list to a string`:
 <img src="img/py.png" height="20px">
@@ -990,6 +1002,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Dont give me five`:
+<img src="img/py.png" height="20px">
+
+`Dot calculator`:
 <img src="img/py.png" height="20px">
 
 `Double every other`:
@@ -1151,6 +1166,9 @@ beta : 7
 `Length and two values`:
 <img src="img/py.png" height="20px">
 
+`Linked lists get nth node`:
+<img src="img/c.png" height="20px">
+
 `List filtering`:
 <img src="img/py.png" height="20px">
 
@@ -1249,6 +1267,9 @@ beta : 7
 
 `Power of two`:
 <img src="img/py.png" height="20px">
+
+`Powers of i`:
+<img src="img/c.png" height="20px">
 
 `Predict your age`:
 <img src="img/py.png" height="20px">
@@ -1445,6 +1466,9 @@ beta : 7
 `Sum or difference`:
 <img src="img/py.png" height="20px">
 
+`Sum up the random string`:
+<img src="img/c.png" height="20px">
+
 `Summing a number digits`:
 <img src="img/py.png" height="20px">
 
@@ -1472,8 +1496,14 @@ beta : 7
 `Thinkful string drills repeater`:
 <img src="img/py.png" height="20px">
 
+`To leet speak`:
+<img src="img/c.png" height="20px">
+
 `Triangular treasure`:
 <img src="img/py.png" height="20px">
+
+`Triple x`:
+<img src="img/c.png" height="20px">
 
 `Two oldest ages`:
 <img src="img/py.png" height="20px">
@@ -1498,6 +1528,9 @@ beta : 7
 
 `Vowel count`:
 <img src="img/py.png" height="20px">
+
+`Vowel one`:
+<img src="img/c.png" height="20px">
 
 `Wealth equality finally`:
 <img src="img/py.png" height="20px">
