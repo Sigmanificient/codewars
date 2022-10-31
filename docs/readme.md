@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*771 solved katas !*
+*775 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
-4kyu : 12
+4kyu : 13
 5kyu : 65
 6kyu : 159
-7kyu : 241
+7kyu : 244
 8kyu : 282
 ```
 
@@ -85,6 +85,9 @@ beta : 7
 	<summary>
 		<i>views solved 4 kyu</i>
 	</summary>
+
+`Adding big numbers`:
+<img src="img/c.png" height="20px">
 
 `Hamming numbers`:
 <img src="img/py.png" height="20px">
@@ -1091,6 +1094,9 @@ beta : 7
 `Heron formula`:
 <img src="img/py.png" height="20px">
 
+`Hexadecimal keys`:
+<img src="img/c.png" height="20px">
+
 `Highest and lowest`:
 <img src="img/py.png" height="20px">
 
@@ -1232,6 +1238,9 @@ beta : 7
 `Odd or even`:
 <img src="img/py.png" height="20px">
 
+`Odder than the rest`:
+<img src="img/c.png" height="20px">
+
 `Ones complement`:
 <img src="img/py.png" height="20px">
 
@@ -1339,6 +1348,9 @@ beta : 7
 
 `Simple remove duplicates`:
 <img src="img/py.png" height="20px">
+
+`Simple string characters`:
+<img src="img/c.png" height="20px">
 
 `Small enough beginner`:
 <img src="img/py.png" height="20px">
