@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*786 solved katas !*
+*795 solved katas !*
 
 ```c
 beta : 7
@@ -19,8 +19,8 @@ beta : 7
 4kyu : 13
 5kyu : 65
 6kyu : 161
-7kyu : 253
-8kyu : 282
+7kyu : 261
+8kyu : 283
 ```
 
 <h2>0Kyu</h2>
@@ -905,6 +905,9 @@ beta : 7
 `Car crash`:
 <img src="img/py.png" height="20px">
 
+`Cat and mouse`:
+<img src="img/py.png" height="20px">
+
 `Categorize member`:
 <img src="img/py.png" height="20px">
 
@@ -946,6 +949,9 @@ beta : 7
 
 `Complete the pattern 1`:
 <img src="img/py.png" height="20px">
+
+`Computer problem series 1 fill the hard disk drive`:
+<img src="img/c.png" height="20px">
 
 `Consecutive items`:
 <img src="img/c.png" height="20px">
@@ -1046,6 +1052,9 @@ beta : 7
 `Filter the number`:
 <img src="img/py.png" height="20px">
 
+`Find screen size`:
+<img src="img/c.png" height="20px">
+
 `Find the annonymous function`:
 <img src="img/py.png" height="20px">
 
@@ -1129,6 +1138,9 @@ beta : 7
 
 `Incrementer`:
 <img src="img/py.png" height="20px">
+
+`Indexed capitalization`:
+<img src="img/c.png" height="20px">
 
 `Is even bitwise series`:
 <img src="img/py.png" height="20px">
@@ -1265,6 +1277,9 @@ beta : 7
 `Parts of a list`:
 <img src="img/py.png" height="20px">
 
+`Plus minus plus minus`:
+<img src="img/c.png" height="20px">
+
 `Power of two`:
 <img src="img/py.png" height="20px">
 
@@ -1350,6 +1365,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Seven ate 9`:
+<img src="img/py.png" height="20px">
+
+`Shorter concat`:
 <img src="img/py.png" height="20px">
 
 `Shorter word`:
@@ -1463,6 +1481,9 @@ beta : 7
 `Sum of the lowest positive integers`:
 <img src="img/py.png" height="20px">
 
+`Sum of triangle numbers`:
+<img src="img/c.png" height="20px">
+
 `Sum or difference`:
 <img src="img/py.png" height="20px">
 
@@ -1513,6 +1534,9 @@ beta : 7
 
 `Unflatten a list`:
 <img src="img/py.png" height="20px">
+
+`Unique string characters`:
+<img src="img/c.png" height="20px">
 
 `Upturn numeral triangle`:
 <img src="img/py.png" height="20px">
@@ -1672,6 +1696,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Classic hello world`:
+<img src="img/py.png" height="20px">
+
+`Classy classes`:
 <img src="img/py.png" height="20px">
 
 `Collatz conjecture`:
