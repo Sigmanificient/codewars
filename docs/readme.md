@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*795 solved katas !*
+*802 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 3
 4kyu : 13
 5kyu : 65
-6kyu : 161
-7kyu : 261
-8kyu : 283
+6kyu : 163
+7kyu : 265
+8kyu : 284
 ```
 
 <h2>0Kyu</h2>
@@ -334,6 +334,9 @@ beta : 7
 		<i>views solved 6 kyu</i>
 	</summary>
 
+`A plus b equals 123`:
+<img src="img/c.png" height="20px">
+
 `Alphaber war airstrike letters massacre`:
 <img src="img/py.png" height="20px">
 
@@ -369,6 +372,9 @@ beta : 7
 
 `Binaries`:
 <img src="img/py.png" height="20px">
+
+`Binary to ascii conversion`:
+<img src="img/c.png" height="20px">
 
 `Binary tree compare`:
 <img src="img/py.png" height="20px">
@@ -863,6 +869,9 @@ beta : 7
 `Anagram detection`:
 <img src="img/py.png" height="20px">
 
+`Any odd`:
+<img src="img/c.png" height="20px">
+
 `Anything`:
 <img src="img/py.png" height="20px">
 
@@ -1079,6 +1088,9 @@ beta : 7
 `First class function factory`:
 <img src="img/py.png" height="20px">
 
+`Five without alphanums`:
+<img src="img/c.png" height="20px">
+
 `Fix string case`:
 <img src="img/py.png" height="20px">
 
@@ -1140,6 +1152,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Indexed capitalization`:
+<img src="img/c.png" height="20px">
+
+`Interlocking binary pairs`:
 <img src="img/c.png" height="20px">
 
 `Is even bitwise series`:
@@ -1444,6 +1459,9 @@ beta : 7
 
 `Strings starts with`:
 <img src="img/py.png" height="20px">
+
+`Substring fun`:
+<img src="img/c.png" height="20px">
 
 `Sum a list but ignore any duplicates`:
 <img src="img/py.png" height="20px">
@@ -2302,6 +2320,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Sum mixed array`:
+<img src="img/py.png" height="20px">
+
+`Sum of differences in array`:
 <img src="img/py.png" height="20px">
 
 `Sum of multiples`:
