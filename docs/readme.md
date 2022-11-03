@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*802 solved katas !*
+*805 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 13
 5kyu : 65
 6kyu : 163
-7kyu : 265
+7kyu : 268
 8kyu : 284
 ```
 
@@ -911,6 +911,9 @@ beta : 7
 `Build a square`:
 <img src="img/py.png" height="20px">
 
+`By 3 or not by 3`:
+<img src="img/c.png" height="20px">
+
 `Car crash`:
 <img src="img/py.png" height="20px">
 
@@ -1289,6 +1292,9 @@ beta : 7
 `Ones complement`:
 <img src="img/py.png" height="20px">
 
+`Padded numbers`:
+<img src="img/c.png" height="20px">
+
 `Parts of a list`:
 <img src="img/py.png" height="20px">
 
@@ -1464,6 +1470,9 @@ beta : 7
 <img src="img/c.png" height="20px">
 
 `Sum a list but ignore any duplicates`:
+<img src="img/py.png" height="20px">
+
+`Sum even numbers`:
 <img src="img/py.png" height="20px">
 
 `Sum of all arguments`:
