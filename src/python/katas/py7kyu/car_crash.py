@@ -1,8 +1,13 @@
 """Kata url: https://www.codewars.com/kata/6359f0158f20011969cf0ebe."""
 import re
 
+
 def car_crash(road):
-    return re.match(r'o.*[xX]', road)
+    return any(
+        re.search(r'o\s*[xX]', line)
+        for line in road.splitlines()
+    )
+
 
 def test_car_crash():
     assert not car_crash("O='`o ")
@@ -12,3 +17,4 @@ def test_car_crash():
     assert car_crash("O='`o              X           ")
     assert car_crash(" X   X  X\nX         O='`o   X\nX   X   X  ")
     assert car_crash("O='`ox")
+
