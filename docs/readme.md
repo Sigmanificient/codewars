@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*806 solved katas !*
+*810 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 13
-5kyu : 65
-6kyu : 163
-7kyu : 269
+5kyu : 66
+6kyu : 165
+7kyu : 270
 8kyu : 284
 ```
 
@@ -291,6 +291,9 @@ beta : 7
 `Sierpinski gasket`:
 <img src="img/py.png" height="20px">
 
+`Simple assembler interpreter`:
+<img src="img/py.png" height="20px">
+
 `Simple pig latin`:
 <img src="img/py.png" height="20px">
 
@@ -498,6 +501,9 @@ beta : 7
 
 `Esolang 1 mini string fuck`:
 <img src="img/py.png" height="20px">
+
+`Esolang interpreters 1 intro to esolangs`:
+<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Extract file name`:
 <img src="img/py.png" height="20px">
@@ -1380,6 +1386,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Row weight`:
+<img src="img/py.png" height="20px">
+
+`Say hello`:
 <img src="img/py.png" height="20px">
 
 `See you next happy year`:
