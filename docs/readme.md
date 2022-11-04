@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*805 solved katas !*
+*806 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 13
 5kyu : 65
 6kyu : 163
-7kyu : 268
+7kyu : 269
 8kyu : 284
 ```
 
@@ -1045,6 +1045,9 @@ beta : 7
 
 `Even numbers in an array`:
 <img src="img/py.png" height="20px">
+
+`Even times last`:
+<img src="img/c.png" height="20px">
 
 `Evens and odds`:
 <img src="img/py.png" height="20px">
