@@ -85,3 +85,50 @@ class Interpreter(InterpreterBase):
 def interpreter(code, tape):
     print(code, tape)
     return Interpreter(code, tape).run()
+
+
+def test_interpreter():
+    assert interpreter("*", "00101100") == "10101100"
+    assert interpreter(">*>*", "00101100") == "01001100"
+    assert interpreter("*>*>*>*>*>*>*>*", "00101100") == "11010011"
+
+    assert interpreter("*>*>>*>>>*>*", "00101100") == "11111111"
+    assert interpreter(">>>>>*<*<<*", "00101100") == "00000000"
+
+    assert interpreter("iwmlis *!BOSS 333 ^v$#@", "00101100") == "10101100"
+    assert interpreter(">*>*;;;.!.,+-++--!!-!!!-", "00101100") == "01001100"
+    assert interpreter(
+        "*,,...,..,\t\n..++-nswe->++++-*>--+>*>+++->>..,+-,*>*",
+        "00101100"
+    ) == "11111111"
+
+    assert interpreter(
+        "*>>>*>*>>*>>>>>>>*>*>*>*>>>**>>**",
+        "0000000000000000"
+    ) == "1001101000000111"
+    assert interpreter(
+        "<<<*>*>*>*>*>>>*>>>>>*>*", "0000000000000000"
+    ) == "0000000000000000"
+
+    assert interpreter(
+        "*>*>*>>>*>>>>>*<<<<<<<<<<<<<<<<<<<<<"
+        "*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*>*>*",
+        "11111111111111111111111111111111"
+    ) == "00011011110111111111111111111111"
+
+    assert interpreter(">>*>*>*<<*<*<<*>*", "1101") == "1110"
+    assert interpreter("*[>*]", "0" * 256) == "1" * 256
+    assert interpreter("[>*]", "0" * 256) == "0" * 256
+
+    assert interpreter(
+        "*>*>>>*>*>>>>>*>[>*]", "0" * 256
+    ) == ("11001100001" + "0" * 245)
+    assert interpreter(
+        "*>*>>>*>*>>>>>*[>*]", "0" * 256
+    ) == ("11001100001" + "1" * 245)
+
+    assert interpreter("*[>[*]]", "0" * 256) == ("1" + "0" * 255)
+    assert interpreter("*[>[*]]", "1" * 256) == ("0" + "1" * 255)
+    assert interpreter('[[]*>*>*>]', '000') == '000'
+    assert interpreter('*>[[]*>]<*', '100') == '100'
+    assert interpreter('[*>[>*>]>]', '11001') == '01100'
