@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*810 solved katas !*
+*822 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 3
 4kyu : 13
-5kyu : 66
-6kyu : 165
-7kyu : 270
-8kyu : 284
+5kyu : 70
+6kyu : 168
+7kyu : 274
+8kyu : 285
 ```
 
 <h2>0Kyu</h2>
@@ -171,6 +171,15 @@ beta : 7
 `Emirps`:
 <img src="img/py.png" height="20px">
 
+`Esolang infini tick`:
+<img src="img/py.png" height="20px">
+
+`Esolang stick`:
+<img src="img/py.png" height="20px">
+
+`Esolang ticker`:
+<img src="img/py.png" height="20px">
+
 `Evaluate a posix expression`:
 <img src="img/py.png" height="20px">
 
@@ -294,6 +303,9 @@ beta : 7
 `Simple assembler interpreter`:
 <img src="img/py.png" height="20px">
 
+`Simple finite state machine compiler`:
+<img src="img/py.png" height="20px">
+
 `Simple pig latin`:
 <img src="img/py.png" height="20px">
 
@@ -409,6 +421,9 @@ beta : 7
 `Catalog`:
 <img src="img/py.png" height="20px">
 
+`Code golf get the square`:
+<img src="img/py.png" height="20px">
+
 `Codewars leaderboard`:
 <img src="img/py.png" height="20px">
 
@@ -499,11 +514,17 @@ beta : 7
 `Error correction 1 hamming code`:
 <img src="img/py.png" height="20px">
 
+`Esoland mini bit move`:
+<img src="img/py.png" height="20px">
+
 `Esolang 1 mini string fuck`:
 <img src="img/py.png" height="20px">
 
 `Esolang interpreters 1 intro to esolangs`:
 <img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+
+`Esolang tick`:
+<img src="img/py.png" height="20px">
 
 `Extract file name`:
 <img src="img/py.png" height="20px">
@@ -884,6 +905,9 @@ beta : 7
 `Are the number in order`:
 <img src="img/py.png" height="20px">
 
+`Are they square`:
+<img src="img/c.png" height="20px">
+
 `Area of the arrow`:
 <img src="img/py.png" height="20px">
 
@@ -1165,6 +1189,9 @@ beta : 7
 
 `Indexed capitalization`:
 <img src="img/c.png" height="20px">
+
+`Inspiring string`:
+<img src="img/py.png" height="20px">
 
 `Interlocking binary pairs`:
 <img src="img/c.png" height="20px">
@@ -1460,6 +1487,9 @@ beta : 7
 `Spacify`:
 <img src="img/py.png" height="20px">
 
+`Speical number 5`:
+<img src="img/c.png" height="20px">
+
 `Split in parts`:
 <img src="img/py.png" height="20px">
 
@@ -1545,6 +1575,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `The fusc function part 1`:
+<img src="img/py.png" height="20px">
+
+`The office 2 boredom score`:
 <img src="img/py.png" height="20px">
 
 `The office 4 find a meeting room`:
@@ -1711,6 +1744,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Calculate bmi`:
+<img src="img/py.png" height="20px">
+
+`Calculate price excluding vat`:
 <img src="img/py.png" height="20px">
 
 `Can we divide it`:
