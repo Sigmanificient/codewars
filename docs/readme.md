@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*822 solved katas !*
+*825 solved katas !*
 
 ```c
 beta : 7
@@ -19,8 +19,8 @@ beta : 7
 4kyu : 13
 5kyu : 70
 6kyu : 168
-7kyu : 274
-8kyu : 285
+7kyu : 275
+8kyu : 287
 ```
 
 <h2>0Kyu</h2>
@@ -1115,6 +1115,9 @@ beta : 7
 `Find the next perfect square`:
 <img src="img/py.png" height="20px">
 
+`Find the nth digit of a number`:
+<img src="img/py.png" height="20px">
+
 `Find the stray number`:
 <img src="img/py.png" height="20px">
 
@@ -1890,6 +1893,9 @@ beta : 7
 `Even or odd`:
 <img src="img/py.png" height="20px">
 
+`Evil or odious`:
+<img src="img/c.png" height="20px">
+
 `Exclamation mark series 1 remove a exclamation mark from the end of string`:
 <img src="img/py.png" height="20px">
 
@@ -2212,6 +2218,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Object oriented piracy`:
+<img src="img/py.png" height="20px">
+
+`Online rpg player too qualifying stage`:
 <img src="img/py.png" height="20px">
 
 `Opposite number`:
