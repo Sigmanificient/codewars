@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*825 solved katas !*
+*835 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 3
 4kyu : 13
 5kyu : 70
-6kyu : 168
-7kyu : 275
-8kyu : 287
+6kyu : 169
+7kyu : 281
+8kyu : 290
 ```
 
 <h2>0Kyu</h2>
@@ -532,6 +532,9 @@ beta : 7
 `Fibonacci tribonacci and friends`:
 <img src="img/py.png" height="20px">
 
+`Find last fib digit hard`:
+<img src="img/py.png" height="20px">
+
 `Find the missing letter`:
 <img src="img/py.png" height="20px">
 
@@ -872,6 +875,9 @@ beta : 7
 `All star code challenge 20`:
 <img src="img/py.png" height="20px">
 
+`All star code challenge 22`:
+<img src="img/py.png" height="20px">
+
 `All unique`:
 <img src="img/py.png" height="20px">
 
@@ -912,6 +918,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Arithmetic progression`:
+<img src="img/py.png" height="20px">
+
+`Array leaders array series 3`:
 <img src="img/py.png" height="20px">
 
 `Array length`:
@@ -1028,6 +1037,9 @@ beta : 7
 `Cryptanalysis word pattern`:
 <img src="img/py.png" height="20px">
 
+`Currying functions multiply all element in array`:
+<img src="img/py.png" height="20px">
+
 `Debug sum of digits of a number`:
 <img src="img/py.png" height="20px">
 
@@ -1095,6 +1107,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Filter the number`:
+<img src="img/py.png" height="20px">
+
+`Find fibonacci last digit`:
 <img src="img/py.png" height="20px">
 
 `Find screen size`:
@@ -1217,6 +1232,9 @@ beta : 7
 `Javascript filter`:
 <img src="img/py.png" height="20px">
 
+`Jumping number special numbers series 4`:
+<img src="img/py.png" height="20px">
+
 `Largest 5 digit number in a series`:
 <img src="img/py.png" height="20px">
 
@@ -1269,6 +1287,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Maximum multiple`:
+<img src="img/py.png" height="20px">
+
+`Maximum product`:
 <img src="img/py.png" height="20px">
 
 `Middle me`:
@@ -1689,6 +1710,9 @@ beta : 7
 `Adults ony sql for beginnners #1`:
 <img src="img/sql.png" height="20px">
 
+`Age range compatibility`:
+<img src="img/py.png" height="20px">
+
 `Alan partride ii apple turnover`:
 <img src="img/py.png" height="20px">
 
@@ -2019,6 +2043,9 @@ beta : 7
 `Grasshopper basic function fixer`:
 <img src="img/py.png" height="20px">
 
+`Grasshopper bug squashing`:
+<img src="img/py.png" height="20px">
+
 `Grasshopper check for factor`:
 <img src="img/py.png" height="20px">
 
@@ -2191,6 +2218,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `My head is at the wrong end`:
+<img src="img/py.png" height="20px">
+
+`Name on billboard`:
 <img src="img/py.png" height="20px">
 
 `Name shuffler`:
