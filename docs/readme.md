@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*835 solved katas !*
+*848 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
-3kyu : 3
+3kyu : 4
 4kyu : 13
 5kyu : 70
-6kyu : 169
-7kyu : 281
+6kyu : 170
+7kyu : 292
 8kyu : 290
 ```
 
@@ -69,6 +69,9 @@ beta : 7
 	<summary>
 		<i>views solved 3 kyu</i>
 	</summary>
+
+`Huffman encoding`:
+<img src="img/py.png" height="20px">
 
 `Spiralize`:
 <img src="img/py.png" height="20px">
@@ -718,6 +721,9 @@ beta : 7
 `Rotate array`:
 <img src="img/py.png" height="20px">
 
+`Run length encoding`:
+<img src="img/c.png" height="20px">
+
 `Score from permutations of combinations of an integer`:
 <img src="img/py.png" height="20px">
 
@@ -926,6 +932,9 @@ beta : 7
 `Array length`:
 <img src="img/h.png" height="20px">
 
+`Automorphic number special numbers series 6`:
+<img src="img/c.png" height="20px">
+
 `Averages of numbers`:
 <img src="img/py.png" height="20px">
 
@@ -967,6 +976,9 @@ beta : 7
 
 `Chain me`:
 <img src="img/py.png" height="20px">
+
+`Changing letters`:
+<img src="img/c.png" height="20px">
 
 `Char code calculation`:
 <img src="img/py.png" height="20px">
@@ -1076,6 +1088,9 @@ beta : 7
 `Elevator distance`:
 <img src="img/py.png" height="20px">
 
+`Eliminate the intruders`:
+<img src="img/c.png" height="20px">
+
 `Esrever`:
 <img src="img/py.png" height="20px">
 
@@ -1124,6 +1139,9 @@ beta : 7
 `Find the divisor`:
 <img src="img/py.png" height="20px">
 
+`Find the lucky numbers`:
+<img src="img/py.png" height="20px">
+
 `Find the middle element`:
 <img src="img/py.png" height="20px">
 
@@ -1163,7 +1181,16 @@ beta : 7
 `Friend or foe`:
 <img src="img/py.png" height="20px">
 
+`Fun with lists length`:
+<img src="img/c.png" height="20px">
+
+`Geometry a2 length of a vector`:
+<img src="img/py.png" height="20px">
+
 `Get the middle character`:
+<img src="img/py.png" height="20px">
+
+`Greet me`:
 <img src="img/py.png" height="20px">
 
 `Growth of a population`:
@@ -1251,6 +1278,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Length and two values`:
+<img src="img/py.png" height="20px">
+
+`Limit string length`:
 <img src="img/py.png" height="20px">
 
 `Linked lists get nth node`:
@@ -1439,6 +1469,9 @@ beta : 7
 `Row weight`:
 <img src="img/py.png" height="20px">
 
+`Running out of space`:
+<img src="img/py.png" height="20px">
+
 `Say hello`:
 <img src="img/py.png" height="20px">
 
@@ -1516,6 +1549,9 @@ beta : 7
 
 `Split in parts`:
 <img src="img/py.png" height="20px">
+
+`Spongebob meme`:
+<img src="img/c.png" height="20px">
 
 `Square every digit`:
 <img src="img/py.png" height="20px">
@@ -1611,6 +1647,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Thinkful string drills repeater`:
+<img src="img/py.png" height="20px">
+
+`Tidy number special number series 9`:
 <img src="img/py.png" height="20px">
 
 `To leet speak`:
