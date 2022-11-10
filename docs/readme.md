@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*855 solved katas !*
+*861 solved katas !*
 
 ```c
 beta : 7
@@ -19,8 +19,8 @@ beta : 7
 4kyu : 13
 5kyu : 70
 6kyu : 173
-7kyu : 294
-8kyu : 292
+7kyu : 298
+8kyu : 294
 ```
 
 <h2>0Kyu</h2>
@@ -938,6 +938,9 @@ beta : 7
 `Arithmetic progression`:
 <img src="img/py.png" height="20px">
 
+`Array element parity`:
+<img src="img/py.png" height="20px">
+
 `Array leaders array series 3`:
 <img src="img/py.png" height="20px">
 
@@ -1205,6 +1208,9 @@ beta : 7
 `Get the middle character`:
 <img src="img/py.png" height="20px">
 
+`Greatest common divisor`:
+<img src="img/py.png" height="20px">
+
 `Greet me`:
 <img src="img/py.png" height="20px">
 
@@ -1289,6 +1295,9 @@ beta : 7
 `Last survivor`:
 <img src="img/py.png" height="20px">
 
+`Leap year`:
+<img src="img/py.png" height="20px">
+
 `Least larger`:
 <img src="img/py.png" height="20px">
 
@@ -1356,6 +1365,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Mumbling`:
+<img src="img/py.png" height="20px">
+
+`My language skill`:
 <img src="img/py.png" height="20px">
 
 `Name that number`:
@@ -2046,6 +2058,9 @@ beta : 7
 `Fix the loop`:
 <img src="img/py.png" height="20px">
 
+`Fix your code before the garden dies`:
+<img src="img/py.png" height="20px">
+
 `Fixme replace all dots`:
 <img src="img/py.png" height="20px">
 
@@ -2470,6 +2485,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Stringy strings`:
+<img src="img/py.png" height="20px">
+
+`Student final grade`:
 <img src="img/py.png" height="20px">
 
 `Sum array`:
