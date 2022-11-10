@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*848 solved katas !*
+*855 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 4
 4kyu : 13
 5kyu : 70
-6kyu : 170
-7kyu : 292
-8kyu : 290
+6kyu : 173
+7kyu : 294
+8kyu : 292
 ```
 
 <h2>0Kyu</h2>
@@ -568,6 +568,9 @@ beta : 7
 `Hanoi record`:
 <img src="img/py.png" height="20px">
 
+`Happy numbers`:
+<img src="img/py.png" height="20px">
+
 `Hello world without string number and booleans`:
 <img src="img/py.png" height="20px">
 
@@ -673,6 +676,9 @@ beta : 7
 `Pair of gloves`:
 <img src="img/py.png" height="20px">
 
+`Pascal triangle 2`:
+<img src="img/py.png" height="20px">
+
 `Pentabonacci`:
 <img src="img/py.png" height="20px">
 
@@ -743,6 +749,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Simple fun 52 pairs of shoes`:
+<img src="img/py.png" height="20px">
+
+`Sort arrays ignoring case`:
 <img src="img/py.png" height="20px">
 
 `Sort the columns of a csv file`:
@@ -877,6 +886,9 @@ beta : 7
 
 `Adding arrays`:
 <img src="img/py.png" height="20px">
+
+`All star challenge 16`:
+<img src="img/c.png" height="20px">
 
 `All star code challenge 20`:
 <img src="img/py.png" height="20px">
@@ -1108,6 +1120,9 @@ beta : 7
 
 `Evens and odds`:
 <img src="img/py.png" height="20px">
+
+`Exclamation mark series 13 question mark time exclamation`:
+<img src="img/c.png" height="20px">
 
 `Exes ohs`:
 <img src="img/py.png" height="20px">
@@ -1842,6 +1857,9 @@ beta : 7
 `Classy classes`:
 <img src="img/py.png" height="20px">
 
+`Closest elevator`:
+<img src="img/py.png" height="20px">
+
 `Collatz conjecture`:
 <img src="img/py.png" height="20px">
 
@@ -2020,6 +2038,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Five without numbers`:
+<img src="img/py.png" height="20px">
+
+`Fix the bugs`:
 <img src="img/py.png" height="20px">
 
 `Fix the loop`:
