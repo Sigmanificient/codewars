@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*861 solved katas !*
+*866 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 4
 4kyu : 13
 5kyu : 70
-6kyu : 173
-7kyu : 298
-8kyu : 294
+6kyu : 175
+7kyu : 300
+8kyu : 295
 ```
 
 <h2>0Kyu</h2>
@@ -631,6 +631,9 @@ beta : 7
 `Make the deadfish swim`:
 <img src="img/py.png" height="20px">
 
+`Matrix addition`:
+<img src="img/py.png" height="20px">
+
 `Matrix transpose`:
 <img src="img/py.png" height="20px">
 
@@ -677,6 +680,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Pascal triangle 2`:
+<img src="img/py.png" height="20px">
+
+`Pell numbers`:
 <img src="img/py.png" height="20px">
 
 `Pentabonacci`:
@@ -1010,6 +1016,9 @@ beta : 7
 `Coding meetup 2 higher order func greet devs`:
 <img src="img/py.png" height="20px">
 
+`Coding meetup 4 higher order function series find the first python developer`:
+<img src="img/py.png" height="20px">
+
 `Collatz conjecture length`:
 <img src="img/py.png" height="20px">
 
@@ -1077,6 +1086,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Difference of squares`:
+<img src="img/py.png" height="20px">
+
+`Digital cypher`:
 <img src="img/py.png" height="20px">
 
 `Digits explosion`:
@@ -2221,6 +2233,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Is it event`:
+<img src="img/py.png" height="20px">
+
+`Is the date today`:
 <img src="img/py.png" height="20px">
 
 `Is the string upper`:
