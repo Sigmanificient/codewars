@@ -1,4 +1,4 @@
-"""Kara url: https://www.codewars.com/kata/526233aefd4764272800036f."""
+"""Kata url: https://www.codewars.com/kata/526233aefd4764272800036f."""
 
 
 def matrix_addition(a, b):

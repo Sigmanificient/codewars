@@ -3,7 +3,11 @@
 
 def is_happy(n):
     cache = set()
+    if n == 1:
+        return True
+
     while True:
+        cache.add(n)
         n = sum(d ** 2 for d in map(int, str(n)))
         if n in cache:
             return False

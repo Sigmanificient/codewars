@@ -8,8 +8,8 @@ def norm_index_test(seq, ind):
 
 def test_nor_index_test():
     seq = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-    assert norm_index_test(seq, 0), 0
-    assert norm_index_test(seq, 1), 1
-    assert norm_index_test(seq, -1), 9
-    assert norm_index_test(seq, 10), 0
-    assert norm_index_test([], 10), None
+    assert norm_index_test(seq, 0) == 0
+    assert norm_index_test(seq, 1) == 1
+    assert norm_index_test(seq, -1) == 9
+    assert norm_index_test(seq, 10) == 0
+    assert norm_index_test([], 10) is None

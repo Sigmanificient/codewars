@@ -1,4 +1,4 @@
-"""Kata: https://www.codewars.com/kata/526c7363236867513f0005ca."""
+"""Kata url: https://www.codewars.com/kata/526c7363236867513f0005ca."""
 
 
 def is_leap_year(year):

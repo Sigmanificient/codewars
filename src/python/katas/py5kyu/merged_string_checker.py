@@ -1,4 +1,4 @@
-"""Kara url: https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa."""
+"""Kata url: https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa."""
 
 
 class Stack:

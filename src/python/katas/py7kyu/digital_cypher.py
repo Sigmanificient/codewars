@@ -1,4 +1,4 @@
-"""Kara url: https://www.codewars.com/kata/592e830e043b99888600002d."""
+"""Kata url: https://www.codewars.com/kata/592e830e043b99888600002d."""
 import itertools
 from string import ascii_lowercase
 

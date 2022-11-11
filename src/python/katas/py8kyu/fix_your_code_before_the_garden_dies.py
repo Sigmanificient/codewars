@@ -1,4 +1,4 @@
-"""kata url: https://www.codewars.com/kata/57158fb92ad763bb180004e7."""
+"""Kata url: https://www.codewars.com/kata/57158fb92ad763bb180004e7."""
 
 
 def rain_amount(mm):
