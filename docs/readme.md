@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*866 solved katas !*
+*870 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
 4kyu : 13
-5kyu : 70
-6kyu : 175
-7kyu : 300
+5kyu : 71
+6kyu : 176
+7kyu : 302
 8kyu : 295
 ```
 
@@ -244,6 +244,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Memoized fibonacci`:
+<img src="img/py.png" height="20px">
+
+`Merged string checker`:
 <img src="img/py.png" height="20px">
 
 `Moving zeros to the end`:
@@ -675,6 +678,9 @@ beta : 7
 
 `Non even substrings`:
 <img src="img/py.png" height="20px">
+
+`Nth fibonacci`:
+<img src="img/c.png" height="20px">
 
 `Pair of gloves`:
 <img src="img/py.png" height="20px">
@@ -1541,6 +1547,9 @@ beta : 7
 `Simple fun 2 circle of numbers`:
 <img src="img/py.png" height="20px">
 
+`Simple fun 74 growing plant`:
+<img src="img/c.png" height="20px">
+
 `Simple remove duplicates`:
 <img src="img/py.png" height="20px">
 
@@ -1590,6 +1599,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Spongebob meme`:
+<img src="img/c.png" height="20px">
+
+`Spoonerize me`:
 <img src="img/c.png" height="20px">
 
 `Square every digit`:
