@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*870 solved katas !*
+*874 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 4
 4kyu : 13
 5kyu : 71
-6kyu : 176
-7kyu : 302
+6kyu : 178
+7kyu : 304
 8kyu : 295
 ```
 
@@ -679,6 +679,9 @@ beta : 7
 `Non even substrings`:
 <img src="img/py.png" height="20px">
 
+`Normalizing out of range array indexes`:
+<img src="img/py.png" height="20px">
+
 `Nth fibonacci`:
 <img src="img/c.png" height="20px">
 
@@ -761,6 +764,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Simple fun 52 pairs of shoes`:
+<img src="img/py.png" height="20px">
+
+`Simple web framework 1 create a basic router`:
 <img src="img/py.png" height="20px">
 
 `Sort arrays ignoring case`:
@@ -1033,6 +1039,9 @@ beta : 7
 
 `Coloured triangles`:
 <img src="img/py.png" height="20px">
+
+`Compare strings by sum of chars`:
+<img src="img/c.png" height="20px">
 
 `Compare with margin`:
 <img src="img/py.png" height="20px">
@@ -1762,6 +1771,9 @@ beta : 7
 
 `Words values`:
 <img src="img/c.png" height="20px">
+
+`Write out expression`:
+<img src="img/py.png" height="20px">
 
 `X marks the spot`:
 <img src="img/c.png" height="20px">
