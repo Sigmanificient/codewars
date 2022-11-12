@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*880 solved katas !*
+*884 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 4
 4kyu : 14
 5kyu : 71
-6kyu : 178
-7kyu : 308
-8kyu : 296
+6kyu : 179
+7kyu : 309
+8kyu : 298
 ```
 
 <h2>0Kyu</h2>
@@ -428,6 +428,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Catalog`:
+<img src="img/py.png" height="20px">
+
+`Character with longest consecutive repetition`:
 <img src="img/py.png" height="20px">
 
 `Code golf get the square`:
@@ -1215,6 +1218,9 @@ beta : 7
 <img src="img/c.png" height="20px">
 
 `Fix string case`:
+<img src="img/py.png" height="20px">
+
+`Fixme get full name`:
 <img src="img/py.png" height="20px">
 
 `Fizz buzz`:
@@ -2319,6 +2325,9 @@ beta : 7
 `Logical calculator`:
 <img src="img/py.png" height="20px">
 
+`Love at first byte`:
+<img src="img/py.png" height="20px">
+
 `Make uppercase`:
 <img src="img/py.png" height="20px">
 
@@ -2623,6 +2632,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Uefa euro 2016`:
+<img src="img/py.png" height="20px">
+
+`Unexpected parsing`:
 <img src="img/py.png" height="20px">
 
 `Unfinished loop bug fixing #1`:
