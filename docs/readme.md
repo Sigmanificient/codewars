@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*884 solved katas !*
+*888 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
 4kyu : 14
-5kyu : 71
-6kyu : 179
-7kyu : 309
+5kyu : 72
+6kyu : 181
+7kyu : 310
 8kyu : 298
 ```
 
@@ -155,6 +155,9 @@ beta : 7
 
 `Convert a hex string to rgb`:
 <img src="img/js.png" height="20px">
+
+`Convert pascal case string into snake case`:
+<img src="img/py.png" height="20px">
 
 `Conway game of life`:
 <img src="img/py.png" height="20px">
@@ -772,6 +775,9 @@ beta : 7
 `Simple fun 52 pairs of shoes`:
 <img src="img/py.png" height="20px">
 
+`Simple simple simple string expansion`:
+<img src="img/py.png" height="20px">
+
 `Simple web framework 1 create a basic router`:
 <img src="img/py.png" height="20px">
 
@@ -803,6 +809,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `String transformer`:
+<img src="img/py.png" height="20px">
+
+`Sum consecutives`:
 <img src="img/py.png" height="20px">
 
 `Sum of digits digital rot`:
@@ -1113,6 +1122,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Digital cypher`:
+<img src="img/py.png" height="20px">
+
+`Digitize`:
 <img src="img/py.png" height="20px">
 
 `Digits explosion`:
