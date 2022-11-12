@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*874 solved katas !*
+*880 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
-4kyu : 13
+4kyu : 14
 5kyu : 71
 6kyu : 178
-7kyu : 304
-8kyu : 295
+7kyu : 308
+8kyu : 296
 ```
 
 <h2>0Kyu</h2>
@@ -91,6 +91,9 @@ beta : 7
 
 `Adding big numbers`:
 <img src="img/c.png" height="20px">
+
+`Codewars style ranking system`:
+<img src="img/py.png" height="20px">
 
 `Hamming numbers`:
 <img src="img/py.png" height="20px">
@@ -905,6 +908,9 @@ beta : 7
 `Adding arrays`:
 <img src="img/py.png" height="20px">
 
+`All inclusive`:
+<img src="img/py.png" height="20px">
+
 `All star challenge 16`:
 <img src="img/c.png" height="20px">
 
@@ -1229,6 +1235,9 @@ beta : 7
 `Fun with lists length`:
 <img src="img/c.png" height="20px">
 
+`Functionnal addition`:
+<img src="img/py.png" height="20px">
+
 `Geometry a2 length of a vector`:
 <img src="img/py.png" height="20px">
 
@@ -1362,6 +1371,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Map function issue`:
+<img src="img/py.png" height="20px">
+
+`Max diff easy`:
 <img src="img/py.png" height="20px">
 
 `Maximum length difference`:
@@ -1695,6 +1707,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `The fusc function part 1`:
+<img src="img/py.png" height="20px">
+
+`The highest profit wins`:
 <img src="img/py.png" height="20px">
 
 `The office 2 boredom score`:
@@ -2080,6 +2095,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Find the position`:
+<img src="img/py.png" height="20px">
+
+`Find the remainder`:
 <img src="img/py.png" height="20px">
 
 `Find the smallest integer in the array`:
