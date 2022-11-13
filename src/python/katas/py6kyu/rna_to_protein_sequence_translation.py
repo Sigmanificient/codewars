@@ -26,7 +26,18 @@ PROTEIN_DICT = {
 
 
 def protein(rna):
-    return ''.join(
-        PROTEIN_DICT[rna[i: i + 3]]
-        for i in range(0, len(rna), 3)
-    )
+    out = ''
+    for i in range(0, len(rna), 3):
+        p = PROTEIN_DICT.get(rna[i: i + 3])
+        if not p or p == 'Stop':
+            return out
+
+        out += p
+    return out
+
+
+def test_protein():
+    assert protein('AUG') == 'M'
+    assert protein('AUGUGA') == 'M'
+    assert protein('AUGGUUAGUUGA') == 'MVS'
+    assert protein('UGCGAUGAAUGGGCUCGCUCC') == 'CDEWARS'
