@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*892 solved katas !*
+*902 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 4
 4kyu : 16
 5kyu : 72
-6kyu : 182
-7kyu : 311
-8kyu : 298
+6kyu : 186
+7kyu : 316
+8kyu : 299
 ```
 
 <h2>0Kyu</h2>
@@ -643,7 +643,13 @@ beta : 7
 `Longest palidrome`:
 <img src="img/py.png" height="20px">
 
+`Longest palindrome`:
+<img src="img/py.png" height="20px">
+
 `Make a window`:
+<img src="img/py.png" height="20px">
+
+`Make everyone happy`:
 <img src="img/py.png" height="20px">
 
 `Make the deadfish swim`:
@@ -699,6 +705,9 @@ beta : 7
 
 `Nth fibonacci`:
 <img src="img/c.png" height="20px">
+
+`Numbers of letters of numbers`:
+<img src="img/py.png" height="20px">
 
 `Pair of gloves`:
 <img src="img/py.png" height="20px">
@@ -800,6 +809,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Sorting by bits`:
+<img src="img/py.png" height="20px">
+
+`Sot the inner content in descending order`:
 <img src="img/py.png" height="20px">
 
 `Split strings`:
@@ -1017,6 +1029,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Build a square`:
+<img src="img/py.png" height="20px">
+
+`Building block`:
 <img src="img/py.png" height="20px">
 
 `By 3 or not by 3`:
@@ -1316,6 +1331,9 @@ beta : 7
 `Incrementer`:
 <img src="img/py.png" height="20px">
 
+`Indentical elements`:
+<img src="img/py.png" height="20px">
+
 `Indexed capitalization`:
 <img src="img/c.png" height="20px">
 
@@ -1449,6 +1467,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Not oddities here`:
+<img src="img/py.png" height="20px">
+
+`Nth smallest element`:
 <img src="img/py.png" height="20px">
 
 `Number of decimal digits`:
@@ -1664,6 +1685,9 @@ beta : 7
 `String ends with`:
 <img src="img/py.png" height="20px">
 
+`String reverse slicing 101`:
+<img src="img/py.png" height="20px">
+
 `String swap vowel case`:
 <img src="img/py.png" height="20px">
 
@@ -1820,6 +1844,9 @@ beta : 7
 `Write out expression`:
 <img src="img/py.png" height="20px">
 
+`Write your own map function`:
+<img src="img/py.png" height="20px">
+
 `X marks the spot`:
 <img src="img/c.png" height="20px">
 
@@ -1883,6 +1910,9 @@ beta : 7
 
 `Aspect ratio cropping part 1`:
 <img src="img/js.png" height="20px">
+
+`Barking mad`:
+<img src="img/py.png" height="20px">
 
 `Basic making six toast`:
 <img src="img/py.png" height="20px">
