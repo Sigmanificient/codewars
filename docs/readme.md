@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*888 solved katas !*
+*892 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
-4kyu : 14
+4kyu : 16
 5kyu : 72
-6kyu : 181
-7kyu : 310
+6kyu : 182
+7kyu : 311
 8kyu : 298
 ```
 
@@ -92,6 +92,9 @@ beta : 7
 `Adding big numbers`:
 <img src="img/c.png" height="20px">
 
+`Calculate k th digit of pi`:
+<img src="img/py.png" height="20px">
+
 `Codewars style ranking system`:
 <img src="img/py.png" height="20px">
 
@@ -111,6 +114,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Range extraction`:
+<img src="img/py.png" height="20px">
+
+`Recover a secret string from random triplet`:
 <img src="img/py.png" height="20px">
 
 `Sort binary tree by level`:
@@ -746,6 +752,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Reverse or rotate`:
+<img src="img/py.png" height="20px">
+
+`Rna to protein sequence translation`:
 <img src="img/py.png" height="20px">
 
 `Rotate array`:
@@ -1470,6 +1479,9 @@ beta : 7
 <img src="img/c.png" height="20px">
 
 `Parts of a list`:
+<img src="img/py.png" height="20px">
+
+`Penultimate`:
 <img src="img/py.png" height="20px">
 
 `Plus minus plus minus`:
