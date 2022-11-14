@@ -10,17 +10,17 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*908 solved katas !*
+*920 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
-4kyu : 16
+4kyu : 17
 5kyu : 72
-6kyu : 187
-7kyu : 319
-8kyu : 301
+6kyu : 189
+7kyu : 325
+8kyu : 304
 ```
 
 <h2>0Kyu</h2>
@@ -135,6 +135,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `The observed pin`:
+<img src="img/py.png" height="20px">
+
+`Who will win`:
 <img src="img/py.png" height="20px">
 </details>
 
@@ -395,6 +398,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Ascii sierpinski carpet`:
+<img src="img/py.png" height="20px">
+
+`Auto complete`:
 <img src="img/py.png" height="20px">
 
 `Backspaces in string`:
@@ -736,6 +742,9 @@ beta : 7
 `Plus one array`:
 <img src="img/py.png" height="20px">
 
+`Prefill an array`:
+<img src="img/py.png" height="20px">
+
 `Prime factors`:
 <img src="img/py.png" height="20px">
 
@@ -1040,6 +1049,9 @@ beta : 7
 `Building block`:
 <img src="img/py.png" height="20px">
 
+`Building strings from a hash`:
+<img src="img/py.png" height="20px">
+
 `By 3 or not by 3`:
 <img src="img/c.png" height="20px">
 
@@ -1065,6 +1077,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Check the exam`:
+<img src="img/py.png" height="20px">
+
+`Check three and two`:
 <img src="img/py.png" height="20px">
 
 `Checks for prime numbers`:
@@ -1223,6 +1238,9 @@ beta : 7
 `Find fibonacci last digit`:
 <img src="img/py.png" height="20px">
 
+`Find min and max`:
+<img src="img/py.png" height="20px">
+
 `Find screen size`:
 <img src="img/c.png" height="20px">
 
@@ -1251,6 +1269,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Find the vowel`:
+<img src="img/py.png" height="20px">
+
+`Finish guess the game`:
 <img src="img/py.png" height="20px">
 
 `First class function factory`:
@@ -1348,6 +1369,9 @@ beta : 7
 
 `Interlocking binary pairs`:
 <img src="img/c.png" height="20px">
+
+`Interview question easy`:
+<img src="img/py.png" height="20px">
 
 `Is even bitwise series`:
 <img src="img/py.png" height="20px">
@@ -1689,6 +1713,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Square sequence`:
+<img src="img/py.png" height="20px">
+
+`Stanton measure`:
 <img src="img/py.png" height="20px">
 
 `String ends with`:
@@ -2178,6 +2205,9 @@ beta : 7
 `Find the remainder`:
 <img src="img/py.png" height="20px">
 
+`Find the slope`:
+<img src="img/py.png" height="20px">
+
 `Find the smallest integer in the array`:
 <img src="img/py.png" height="20px">
 
@@ -2517,6 +2547,9 @@ beta : 7
 `Regexp basics is it a digit`:
 <img src="img/py.png" height="20px">
 
+`Regexp basics is it a vowel`:
+<img src="img/py.png" height="20px">
+
 `Regulaer ball super ball`:
 <img src="img/py.png" height="20px">
 
@@ -2686,6 +2719,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Third angle of a triangle`:
+<img src="img/py.png" height="20px">
+
+`Tip calculator`:
 <img src="img/py.png" height="20px">
 
 `To square or not to square`:
