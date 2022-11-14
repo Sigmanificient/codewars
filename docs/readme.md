@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*902 solved katas !*
+*908 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 4
 4kyu : 16
 5kyu : 72
-6kyu : 186
-7kyu : 316
-8kyu : 299
+6kyu : 187
+7kyu : 319
+8kyu : 301
 ```
 
 <h2>0Kyu</h2>
@@ -895,6 +895,9 @@ beta : 7
 `Valid phone number`:
 <img src="img/py.png" height="20px">
 
+`Version manager`:
+<img src="img/py.png" height="20px">
+
 `Vowel back`:
 <img src="img/py.png" height="20px">
 
@@ -1011,6 +1014,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Balanced number special number series 1`:
+<img src="img/py.png" height="20px">
+
+`Basic calculator`:
 <img src="img/py.png" height="20px">
 
 `Beginner series 3 sum of numbers`:
@@ -1445,6 +1451,9 @@ beta : 7
 `Move 10`:
 <img src="img/py.png" height="20px">
 
+`Moves in squared strings`:
+<img src="img/py.png" height="20px">
+
 `Multples`:
 <img src="img/py.png" height="20px">
 
@@ -1715,6 +1724,9 @@ beta : 7
 `Sum of digits`:
 <img src="img/py.png" height="20px">
 
+`Sum of integers in string`:
+<img src="img/py.png" height="20px">
+
 `Sum of minimums`:
 <img src="img/py.png" height="20px">
 
@@ -1911,6 +1923,9 @@ beta : 7
 `Aspect ratio cropping part 1`:
 <img src="img/js.png" height="20px">
 
+`Average scores`:
+<img src="img/py.png" height="20px">
+
 `Barking mad`:
 <img src="img/py.png" height="20px">
 
@@ -2038,6 +2053,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Couting sheep`:
+<img src="img/py.png" height="20px">
+
+`Crash override`:
 <img src="img/py.png" height="20px">
 
 `Csv representation of array`:
