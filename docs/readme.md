@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*920 solved katas !*
+*921 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 17
 5kyu : 72
 6kyu : 189
-7kyu : 325
+7kyu : 326
 8kyu : 304
 ```
 
@@ -963,6 +963,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `All star code challenge 22`:
+<img src="img/py.png" height="20px">
+
+`All star code challenge 3`:
 <img src="img/py.png" height="20px">
 
 `All unique`:
