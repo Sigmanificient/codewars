@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*921 solved katas !*
+*924 solved katas !*
 
 ```c
 beta : 7
@@ -18,9 +18,9 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 72
-6kyu : 189
-7kyu : 326
-8kyu : 304
+6kyu : 190
+7kyu : 327
+8kyu : 305
 ```
 
 <h2>0Kyu</h2>
@@ -380,6 +380,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Are they the same`:
+<img src="img/py.png" height="20px">
+
+`Array deep count`:
 <img src="img/py.png" height="20px">
 
 `Array diff`:
@@ -1044,6 +1047,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Boiled eggs`:
+<img src="img/py.png" height="20px">
+
+`Broken sequence`:
 <img src="img/py.png" height="20px">
 
 `Build a square`:
@@ -1918,6 +1924,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Add length`:
+<img src="img/py.png" height="20px">
+
+`Add new item`:
 <img src="img/py.png" height="20px">
 
 `Add numbers`:
