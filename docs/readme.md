@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*924 solved katas !*
+*929 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 72
-6kyu : 190
-7kyu : 327
+6kyu : 192
+7kyu : 330
 8kyu : 305
 ```
 
@@ -556,6 +556,9 @@ beta : 7
 `Esolang tick`:
 <img src="img/py.png" height="20px">
 
+`Exclamation marks series #17 put the exclamation marks and question marks on the balance`:
+<img src="img/py.png" height="20px">
+
 `Extract file name`:
 <img src="img/py.png" height="20px">
 
@@ -653,6 +656,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Longest palindrome`:
+<img src="img/py.png" height="20px">
+
+`Loose change`:
 <img src="img/py.png" height="20px">
 
 `Make a window`:
@@ -1241,6 +1247,9 @@ beta : 7
 `Fibonacci`:
 <img src="img/py.png" height="20px">
 
+`Filter long words`:
+<img src="img/py.png" height="20px">
+
 `Filter the number`:
 <img src="img/py.png" height="20px">
 
@@ -1372,6 +1381,9 @@ beta : 7
 
 `Indexed capitalization`:
 <img src="img/c.png" height="20px">
+
+`Initialize my name`:
+<img src="img/py.png" height="20px">
 
 `Inspiring string`:
 <img src="img/py.png" height="20px">
@@ -1878,6 +1890,9 @@ beta : 7
 <img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Which string is worth more`:
+<img src="img/py.png" height="20px">
+
+`Who is online`:
 <img src="img/py.png" height="20px">
 
 `Word values`:
