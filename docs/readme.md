@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*929 solved katas !*
+*932 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 72
-6kyu : 192
-7kyu : 330
+6kyu : 193
+7kyu : 332
 8kyu : 305
 ```
 
@@ -724,6 +724,9 @@ beta : 7
 `Numbers of letters of numbers`:
 <img src="img/py.png" height="20px">
 
+`Padovan numbers`:
+<img src="img/py.png" height="20px">
+
 `Pair of gloves`:
 <img src="img/py.png" height="20px">
 
@@ -1251,6 +1254,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Filter the number`:
+<img src="img/py.png" height="20px">
+
+`Find all pairs`:
 <img src="img/py.png" height="20px">
 
 `Find fibonacci last digit`:
@@ -1869,6 +1875,9 @@ beta : 7
 <img src="img/c.png" height="20px">
 
 `Vaporcode`:
+<img src="img/py.png" height="20px">
+
+`Very even numbers`:
 <img src="img/py.png" height="20px">
 
 `Vowel changer`:
