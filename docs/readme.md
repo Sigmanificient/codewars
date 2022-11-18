@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*942 solved katas !*
+*948 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
 4kyu : 17
-5kyu : 72
-6kyu : 193
-7kyu : 341
+5kyu : 73
+6kyu : 194
+7kyu : 345
 8kyu : 306
 ```
 
@@ -298,6 +298,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Regex password validation`:
+<img src="img/py.png" height="20px">
+
+`Return substring instance count`:
 <img src="img/py.png" height="20px">
 
 `Rgb to hex conversion`:
@@ -650,6 +653,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Linked lists length and count`:
+<img src="img/py.png" height="20px">
+
+`Logistic map`:
 <img src="img/py.png" height="20px">
 
 `Longest palidrome`:
@@ -1115,6 +1121,9 @@ beta : 7
 `Coding meetup 4 higher order function series find the first python developer`:
 <img src="img/py.png" height="20px">
 
+`Coding meetup 6 higher order functions series can they code in the same language`:
+<img src="img/py.png" height="20px">
+
 `Collatz conjecture length`:
 <img src="img/py.png" height="20px">
 
@@ -1296,6 +1305,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Find the vowel`:
+<img src="img/py.png" height="20px">
+
+`Finding remainder without mod operator`:
 <img src="img/py.png" height="20px">
 
 `Finish guess the game`:
@@ -1579,6 +1591,9 @@ beta : 7
 
 `Plus minus plus minus`:
 <img src="img/c.png" height="20px">
+
+`Positive to negative binary numbers`:
+<img src="img/py.png" height="20px">
 
 `Power of two`:
 <img src="img/py.png" height="20px">
@@ -1887,6 +1902,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Two to one`:
+<img src="img/py.png" height="20px">
+
+`Ultimate array reverser`:
 <img src="img/py.png" height="20px">
 
 `Unflatten a list`:
