@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*934 solved katas !*
+*942 solved katas !*
 
 ```c
 beta : 7
@@ -19,8 +19,8 @@ beta : 7
 4kyu : 17
 5kyu : 72
 6kyu : 193
-7kyu : 334
-8kyu : 305
+7kyu : 341
+8kyu : 306
 ```
 
 <h2>0Kyu</h2>
@@ -1109,6 +1109,9 @@ beta : 7
 `Coding meetup 2 higher order func greet devs`:
 <img src="img/py.png" height="20px">
 
+`Coding meetup 3 higher order functions series is ruby coming`:
+<img src="img/py.png" height="20px">
+
 `Coding meetup 4 higher order function series find the first python developer`:
 <img src="img/py.png" height="20px">
 
@@ -1470,6 +1473,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Make a funciton that does arithmetic`:
+<img src="img/py.png" height="20px">
+
+`Make a square box`:
 <img src="img/py.png" height="20px">
 
 `Make acronym`:
@@ -1850,6 +1856,21 @@ beta : 7
 `Thinkful string drills repeater`:
 <img src="img/py.png" height="20px">
 
+`Thinking and testing a and b`:
+<img src="img/py.png" height="20px">
+
+`Thinking and testing incompete string`:
+<img src="img/py.png" height="20px">
+
+`Thinking and testing something capitalized`:
+<img src="img/py.png" height="20px">
+
+`Thinking and testing true or false`:
+<img src="img/py.png" height="20px">
+
+`Thinking and testing uniq or not uniq`:
+<img src="img/py.png" height="20px">
+
 `Tidy number special number series 9`:
 <img src="img/py.png" height="20px">
 
@@ -2161,6 +2182,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Drink about`:
+<img src="img/py.png" height="20px">
+
+`Easy logs`:
 <img src="img/py.png" height="20px">
 
 `Ensure quesion`:
