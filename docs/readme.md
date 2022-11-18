@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*932 solved katas !*
+*934 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 17
 5kyu : 72
 6kyu : 193
-7kyu : 332
+7kyu : 334
 8kyu : 305
 ```
 
@@ -1355,7 +1355,13 @@ beta : 7
 `Heavy metal umlauts`:
 <img src="img/py.png" height="20px">
 
+`Hello world without string`:
+<img src="img/py.png" height="20px">
+
 `Help sukui count his vegetables`:
+<img src="img/py.png" height="20px">
+
+`Help the fruit guy`:
 <img src="img/py.png" height="20px">
 
 `Heron formula`:
