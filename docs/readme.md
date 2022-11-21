@@ -10,16 +10,16 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*949 solved katas !*
+*953 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
 4kyu : 17
-5kyu : 73
+5kyu : 74
 6kyu : 195
-7kyu : 345
+7kyu : 348
 8kyu : 306
 ```
 
@@ -271,6 +271,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Myjinxin katas 001 rotate remove return`:
+<img src="img/py.png" height="20px">
+
+`Mystery function`:
 <img src="img/py.png" height="20px">
 
 `Ninja vs samurai attack block`:
@@ -1112,6 +1115,9 @@ beta : 7
 `Checks for prime numbers`:
 <img src="img/py.png" height="20px">
 
+`Coding 3 min planting trees`:
+<img src="img/py.png" height="20px">
+
 `Coding meetup 1 higher order functions series count the number of javascript developers coming from europe`:
 <img src="img/py.png" height="20px">
 
@@ -1150,6 +1156,9 @@ beta : 7
 
 `Computer problem series 1 fill the hard disk drive`:
 <img src="img/c.png" height="20px">
+
+`Conference traveller`:
+<img src="img/py.png" height="20px">
 
 `Consecutive items`:
 <img src="img/c.png" height="20px">
@@ -1437,6 +1446,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Jaden casing strings`:
+<img src="img/py.png" height="20px">
+
+`Javascript array filter`:
 <img src="img/py.png" height="20px">
 
 `Javascript filter`:
