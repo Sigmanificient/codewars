@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*948 solved katas !*
+*949 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 73
-6kyu : 194
+6kyu : 195
 7kyu : 345
 8kyu : 306
 ```
@@ -644,6 +644,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Is a number prime`:
+<img src="img/py.png" height="20px">
+
+`Jojo bizarre kata`:
 <img src="img/py.png" height="20px">
 
 `Kebabize`:
