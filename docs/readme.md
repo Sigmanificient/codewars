@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*953 solved katas !*
+*956 solved katas !*
 
 ```c
 beta : 7
@@ -19,8 +19,8 @@ beta : 7
 4kyu : 17
 5kyu : 74
 6kyu : 195
-7kyu : 348
-8kyu : 306
+7kyu : 349
+8kyu : 308
 ```
 
 <h2>0Kyu</h2>
@@ -1880,6 +1880,9 @@ beta : 7
 `The office 4 find a meeting room`:
 <img src="img/py.png" height="20px">
 
+`The reject function`:
+<img src="img/py.png" height="20px">
+
 `Thinkful string drills poem formatter`:
 <img src="img/py.png" height="20px">
 
@@ -2058,6 +2061,9 @@ beta : 7
 `Basic mathematical operations`:
 <img src="img/py.png" height="20px">
 
+`Basic subclasses adam and eve`:
+<img src="img/py.png" height="20px">
+
 `Basic traning add item to a array`:
 <img src="img/py.png" height="20px">
 
@@ -2215,6 +2221,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Drink about`:
+<img src="img/py.png" height="20px">
+
+`Duck duck goose`:
 <img src="img/py.png" height="20px">
 
 `Easy logs`:
@@ -2551,7 +2560,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Multiply`:
-<img src="img/sql.png" height="20px"> <img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/sql.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Multiply the number`:
 <img src="img/py.png" height="20px">
