@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*956 solved katas !*
+*958 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 17
 5kyu : 74
 6kyu : 195
-7kyu : 349
+7kyu : 351
 8kyu : 308
 ```
 
@@ -1283,6 +1283,9 @@ beta : 7
 `Find all pairs`:
 <img src="img/py.png" height="20px">
 
+`Find count of most frequent item in array`:
+<img src="img/py.png" height="20px">
+
 `Find fibonacci last digit`:
 <img src="img/py.png" height="20px">
 
@@ -1578,6 +1581,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Number slicer`:
+<img src="img/py.png" height="20px">
+
+`Numbers in strings`:
 <img src="img/py.png" height="20px">
 
 `Numbers to letters`:
