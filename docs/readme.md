@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*958 solved katas !*
+*959 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 74
-6kyu : 195
+6kyu : 196
 7kyu : 351
 8kyu : 308
 ```
@@ -455,6 +455,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Character with longest consecutive repetition`:
+<img src="img/py.png" height="20px">
+
+`Christmas tree`:
 <img src="img/py.png" height="20px">
 
 `Code golf get the square`:
