@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*959 solved katas !*
+*960 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 74
-6kyu : 196
+6kyu : 197
 7kyu : 351
 8kyu : 308
 ```
@@ -879,6 +879,9 @@ beta : 7
 
 `Sum the tree`:
 <img src="img/c.png" height="20px">
+
+`Sum two arrays`:
+<img src="img/py.png" height="20px">
 
 `Take a number and sum its digits raised to the consectuve powers and eureka`:
 <img src="img/py.png" height="20px">
