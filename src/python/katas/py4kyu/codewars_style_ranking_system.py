@@ -1,4 +1,5 @@
-"""Kara url: https://www.codewars.com/kata/51fda2d95d6efda45e00004e."""
+"""Kata url: https://www.codewars.com/kata/51fda2d95d6efda45e00004e."""
+
 
 class User:
 
@@ -44,7 +45,7 @@ class User:
             self.__progress += 3
             return
 
-        z = (self.rank < 0 and rank > 0)
+        z = (self.rank < 0 < rank)
         if rank < self.rank:
             self.__progress += (self.rank - rank + z) < 3
             return

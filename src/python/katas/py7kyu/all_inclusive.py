@@ -1,4 +1,4 @@
-"""Kara url: https://www.codewars.com/kata/5700c9acc1555755be00027e."""
+"""Kata url: https://www.codewars.com/kata/5700c9acc1555755be00027e."""
 
 
 def rot(string, x):
