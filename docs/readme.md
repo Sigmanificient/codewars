@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*961 solved katas !*
+*965 solved katas !*
 
 ```c
 beta : 7
@@ -18,8 +18,8 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 74
-6kyu : 198
-7kyu : 351
+6kyu : 200
+7kyu : 353
 8kyu : 308
 ```
 
@@ -616,6 +616,9 @@ beta : 7
 `Hellphabet can you give the alphabet`:
 <img src="img/py.png" height="20px">
 
+`Help the bookseller`:
+<img src="img/py.png" height="20px">
+
 `High score table`:
 <img src="img/py.png" height="20px">
 
@@ -800,6 +803,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Reverse or rotate`:
+<img src="img/py.png" height="20px">
+
+`Reverse polish notation calculator`:
 <img src="img/py.png" height="20px">
 
 `Rna to protein sequence translation`:
@@ -1271,6 +1277,9 @@ beta : 7
 `Exclamation mark series 13 question mark time exclamation`:
 <img src="img/c.png" height="20px">
 
+`Exclamation marks series 5 remove all exclamation marks from the end of words`:
+<img src="img/py.png" height="20px">
+
 `Exes ohs`:
 <img src="img/py.png" height="20px">
 
@@ -1612,6 +1621,9 @@ beta : 7
 
 `Padded numbers`:
 <img src="img/c.png" height="20px">
+
+`Pairs of integers from m to n`:
+<img src="img/py.png" height="20px">
 
 `Parts of a list`:
 <img src="img/py.png" height="20px">
