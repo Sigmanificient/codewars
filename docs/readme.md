@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*960 solved katas !*
+*961 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 74
-6kyu : 197
+6kyu : 198
 7kyu : 351
 8kyu : 308
 ```
@@ -735,6 +735,9 @@ beta : 7
 
 `Nth fibonacci`:
 <img src="img/c.png" height="20px">
+
+`Number of anagrams in an array of words`:
+<img src="img/py.png" height="20px">
 
 `Numbers of letters of numbers`:
 <img src="img/py.png" height="20px">
