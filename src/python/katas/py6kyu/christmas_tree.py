@@ -2,10 +2,13 @@
 
 
 def christmas_tree(height):
+    if height == 0:
+        return ''
+
     size = 2 * (height - 1) + 1
     return '\n'.join(
         ('*' * (i * 2 + 1)).center(size)
-        for i in range(height - 1)
+        for i in range(height)
     )
 
 
