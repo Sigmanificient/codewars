@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*965 solved katas !*
+*966 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 74
-6kyu : 200
+6kyu : 201
 7kyu : 353
 8kyu : 308
 ```
@@ -596,6 +596,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Framed reflection`:
+<img src="img/py.png" height="20px">
+
+`Function composition`:
 <img src="img/py.png" height="20px">
 
 `Give me a diamond`:
