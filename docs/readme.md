@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*966 solved katas !*
+*967 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 17
 5kyu : 74
 6kyu : 201
-7kyu : 353
+7kyu : 354
 8kyu : 308
 ```
 
@@ -1960,6 +1960,9 @@ beta : 7
 
 `Unique string characters`:
 <img src="img/c.png" height="20px">
+
+`Unscrambled eggs`:
+<img src="img/py.png" height="20px">
 
 `Upturn numeral triangle`:
 <img src="img/py.png" height="20px">
