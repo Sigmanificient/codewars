@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*967 solved katas !*
+*969 solved katas !*
 
 ```c
 beta : 7
@@ -19,7 +19,7 @@ beta : 7
 4kyu : 17
 5kyu : 74
 6kyu : 201
-7kyu : 354
+7kyu : 356
 8kyu : 308
 ```
 
@@ -209,9 +209,6 @@ beta : 7
 
 `First non repeating character`:
 <img src="img/py.png" height="20px">
-
-`Flatten`:
-<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Gap in primes`:
 <img src="img/py.png" height="20px">
@@ -560,7 +557,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Esolang interpreters 1 intro to esolangs`:
-<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Esolang tick`:
 <img src="img/py.png" height="20px">
@@ -1029,7 +1026,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Alternate case`:
-<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Anagram detection`:
 <img src="img/py.png" height="20px">
@@ -1205,6 +1202,9 @@ beta : 7
 `Counting array elements`:
 <img src="img/py.png" height="20px">
 
+`Covfefe`:
+<img src="img/py.png" height="20px">
+
 `Credit card mask`:
 <img src="img/py.png" height="20px"> <img src="img/js.png" height="20px">
 
@@ -1287,7 +1287,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Factorial`:
-<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Factorial 2`:
 <img src="img/py.png" height="20px">
@@ -1364,6 +1364,9 @@ beta : 7
 `Fizz buzz`:
 <img src="img/py.png" height="20px">
 
+`Flatten`:
+<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px">
+
 `Flatten and sort an array`:
 <img src="img/py.png" height="20px">
 
@@ -1407,6 +1410,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Hello world without string`:
+<img src="img/py.png" height="20px">
+
+`Help bob count letters and digits`:
 <img src="img/py.png" height="20px">
 
 `Help sukui count his vegetables`:
@@ -1677,7 +1683,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Remove anchor from url`:
-<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Remove duplicate words`:
 <img src="img/py.png" height="20px">
@@ -1692,7 +1698,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Return string of first char`:
-<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Return the closest multiple of 10`:
 <img src="img/py.png" height="20px">
@@ -1992,7 +1998,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Which section did you scroll to`:
-<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Which string is worth more`:
 <img src="img/py.png" height="20px">
@@ -2146,7 +2152,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Check same case`:
-<img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Chuck norris vii true or false`:
 <img src="img/py.png" height="20px">
@@ -2593,7 +2599,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Multiply`:
-<img src="img/c.png" height="20px"> <img src="img/sql.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/sql.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Multiply the number`:
 <img src="img/py.png" height="20px">
@@ -2719,7 +2725,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Return negative`:
-<img src="img/php.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/js.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/php.png" height="20px"> <img src="img/js.png" height="20px">
 
 `Return the day`:
 <img src="img/py.png" height="20px">
