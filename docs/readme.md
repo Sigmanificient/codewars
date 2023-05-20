@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*969 solved katas !*
+*970 solved katas !*
 
 ```c
 beta : 7
@@ -20,7 +20,7 @@ beta : 7
 5kyu : 74
 6kyu : 201
 7kyu : 356
-8kyu : 308
+8kyu : 309
 ```
 
 <h2>0Kyu</h2>
@@ -1025,9 +1025,6 @@ beta : 7
 `Alternate capitalization`:
 <img src="img/py.png" height="20px">
 
-`Alternate case`:
-<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
-
 `Anagram detection`:
 <img src="img/py.png" height="20px">
 
@@ -1230,7 +1227,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Digitize`:
-<img src="img/py.png" height="20px">
+<img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Digits explosion`:
 <img src="img/py.png" height="20px">
@@ -2069,6 +2066,9 @@ beta : 7
 
 `All star code challenge 18`:
 <img src="img/py.png" height="20px">
+
+`Alternate case`:
+<img src="img/py.png" height="20px"> <img src="img/py.png" height="20px"> <img src="img/c.png" height="20px">
 
 `Are arrow functions odd`:
 <img src="img/py.png" height="20px">
