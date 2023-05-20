@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*970 solved katas !*
+*971 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 4
 4kyu : 17
 5kyu : 74
-6kyu : 201
+6kyu : 202
 7kyu : 356
 8kyu : 309
 ```
@@ -405,6 +405,9 @@ beta : 7
 
 `Ascii sierpinski carpet`:
 <img src="img/py.png" height="20px">
+
+`Assemble string`:
+<img src="img/c.png" height="20px">
 
 `Auto complete`:
 <img src="img/py.png" height="20px">
