@@ -114,5 +114,12 @@ def simplify(poly: str) -> str:
     return format_polynomial(monomials)
 
 
-if __name__ == '__main__':
-    print(simplify("0a+3b-4c"))
+def test_simplify():
+    assert simplify("dc+dcba") == "cd+abcd"
+    assert simplify("-a+5ab+3a-c-2a") == "-c+5ab"
+    assert simplify("-abc+3a+2ac") == "3a+2ac-abc"
+    assert simplify("xyz-xz") == "-xz+xyz"
+    assert simplify("a+ca-ab") == "a-ab+ac"
+    assert simplify("xzy+zby") == "byz+xyz"
+    assert simplify("-y+x") == "x-y"
+    assert simplify("y-x") == "-x+y"
