@@ -10,13 +10,13 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*973 solved katas !*
+*974 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
-4kyu : 17
+4kyu : 18
 5kyu : 74
 6kyu : 204
 7kyu : 356
@@ -117,6 +117,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Recover a secret string from random triplet`:
+<img src="img/py.png" height="20px">
+
+`Simplifying multilinear polynomials`:
 <img src="img/py.png" height="20px">
 
 `Sort binary tree by level`:
@@ -2608,7 +2611,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Multiply`:
-<img src="img/sql.png" height="20px"> <img src="img/c.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/c.png" height="20px"> <img src="img/sql.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Multiply the number`:
 <img src="img/py.png" height="20px">
@@ -2734,7 +2737,7 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Return negative`:
-<img src="img/js.png" height="20px"> <img src="img/php.png" height="20px"> <img src="img/py.png" height="20px">
+<img src="img/php.png" height="20px"> <img src="img/js.png" height="20px"> <img src="img/py.png" height="20px">
 
 `Return the day`:
 <img src="img/py.png" height="20px">
