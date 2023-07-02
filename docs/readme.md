@@ -10,7 +10,7 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*975 solved katas !*
+*976 solved katas !*
 
 ```c
 beta : 7
@@ -18,7 +18,7 @@ beta : 7
 3kyu : 4
 4kyu : 18
 5kyu : 75
-6kyu : 204
+6kyu : 205
 7kyu : 356
 8kyu : 309
 ```
@@ -542,6 +542,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Detect pangram`:
+<img src="img/py.png" height="20px">
+
+`Dictionary merge`:
 <img src="img/py.png" height="20px">
 
 `Does my number look big in this`:
