@@ -49,5 +49,38 @@ def decrypt(encrypted_text: str) -> str:
     )
 
 
-if __name__ == '__main__':
-    print(decrypt(encrypt("Business")))
+def test_encrypt_2i_diff():
+    assert encrypt("") == ""
+
+    assert encrypt("Business") == "&61kujla"
+    assert encrypt("This is a test!") == "5MyQa9p0riYplZc"
+
+    assert encrypt(
+        "Do the kata \"Kobayashi-Maru-Test!\" Endless fun and excitement when"
+        " finding a solution!"
+    ) == (
+        "$-Wy,dM79H'i'o$n0C&I.ZTcMJw5vPlZc Hn!krhlaa:khV mkL;gvtP-S7Rt1Vp2RV:wV"
+        "9VuhO Iz3dqb.U0w"
+    )
+
+    assert (
+        encrypt("This kata is very interesting!")
+        == "5MyQa79H'ijQaw!Ns6jVtpmnlZ.V6p"
+    )
+
+
+def test_decrypt_2i_diff():
+    assert decrypt("") == ""
+    assert decrypt(
+        "$-Wy,dM79H'i'o$n0C&I.ZTcMJw5vPlZc Hn!krhlaa:khV mkL;gvtP-S7Rt1Vp2RV:wV"
+        "9VuhO Iz3dqb.U0w"
+    ) == (
+        "Do the kata \"Kobayashi-Maru-Test!\" Endless fun and excitement when"
+        " finding a solution!"
+    )
+
+    assert decrypt("5MyQa9p0riYplZc") == "This is a test!"
+    assert (
+        decrypt("5MyQa79H'ijQaw!Ns6jVtpmnlZ.V6p")
+        == "This kata is very interesting!"
+    )
