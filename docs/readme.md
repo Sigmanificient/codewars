@@ -10,14 +10,14 @@
 
 ![Codewars](https://www.codewars.com/users/Sigmanificient/badges/large)
 
-*974 solved katas !*
+*975 solved katas !*
 
 ```c
 beta : 7
 2kyu : 2
 3kyu : 4
 4kyu : 18
-5kyu : 74
+5kyu : 75
 6kyu : 204
 7kyu : 356
 8kyu : 309
@@ -331,6 +331,9 @@ beta : 7
 <img src="img/py.png" height="20px">
 
 `Simple assembler interpreter`:
+<img src="img/py.png" height="20px">
+
+`Simple encryption 2 index difference`:
 <img src="img/py.png" height="20px">
 
 `Simple finite state machine compiler`:
