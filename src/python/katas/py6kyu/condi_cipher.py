@@ -1,4 +1,5 @@
-"""Kata url: https://www.codewars.com/kata/59bf6b73bf10a4c8e5000047a."""
+"""Kata url: https://www.codewars.com/kata/59bf6b73bf10a4c8e5000047."""
+
 
 from string import ascii_lowercase
 
