@@ -1,3 +1,6 @@
+"""Kata url: https://www.codewars.com/kata/5ae840b8783bb4ef79000094."""
+
+
 from collections import defaultdict
 from typing import Dict, List
 
