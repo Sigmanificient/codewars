@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/56453a12fcee9a6c4700009c."""
 
 
-def close_compare(a: int, b: int, margin: float = 0):
+def close_compare(a: int | float, b: int | float, margin: float = 0):
     return (a - b - margin > 0) - (b - a - margin > 0)
 
 

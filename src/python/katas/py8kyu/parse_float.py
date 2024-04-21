@@ -22,12 +22,23 @@ def parse_float(string: Union[list, str]) -> Optional[float]:
     return None
 
 
+def _float_eq(
+    left: float | None,
+    right: float | None,
+    threshold = 0.001
+) -> bool:
+    if left is None or right is None:
+        return False
+
+    return abs(left - right) < threshold
+
+
 def test_parse_float():
     assert parse_float([]) is None
     assert parse_float("a") is None
     assert parse_float("1.b") is None
     assert parse_float("1.2.3") is None
 
-    assert parse_float("1.0") == 1.0
-    assert parse_float("234.0234") == 234.0234
-    assert parse_float("1.234") == 1.234
+    assert _float_eq(parse_float("1.0"), 1.0)
+    assert _float_eq(parse_float("234.0234"), 234.0234)
+    assert _float_eq(parse_float("1.234"), 1.234)

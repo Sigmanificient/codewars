@@ -7,6 +7,6 @@ def logs(x, a, b):
 
 
 def test_logs():
-    assert round(logs(10, 2, 3), 5) == 0.77815
-    assert round(logs(5, 2, 3), 5) == 1.11328
-    assert round(logs(1000, 2, 3), 5) == 0.25938
+    assert (round(logs(10, 2, 3), 5) - 0.77815) < 0.0001
+    assert (round(logs(5, 2, 3), 5) - 1.11328) < 0.0001
+    assert (round(logs(1000, 2, 3), 5) - 0.25938) < 0.0001

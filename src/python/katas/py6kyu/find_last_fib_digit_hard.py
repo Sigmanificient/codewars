@@ -6,8 +6,7 @@ def last_fib_digit(n):
         return 0
 
     a, b = 1, 1
-
-    for i in range((n % 60) - 1):
+    for _ in range((n % 60) - 1):
         a, b = b, (a + b) % 10
 
     return a

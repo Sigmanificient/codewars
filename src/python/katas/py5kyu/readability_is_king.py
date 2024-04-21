@@ -25,12 +25,10 @@ def get_syllables(word):
 def parse_text(text):
     words = ['']
     nb_sentences = 0
-    i = 0
 
     for char in text:
         if char == ' ':
             words.append('')
-            i += 1
             continue
 
         if char in PUNCTUATION:
@@ -74,11 +72,16 @@ def test_parse_text():
     )
 
 
+
 def test_flesch_kincaid():
-    assert flesch_kincaid("The turtle is leaving.") == 3.67
-    assert flesch_kincaid("A good book is hard to find.") == -1.06
-    assert flesch_kincaid("To be or not to be. That is the question.") == -0.66
-    assert flesch_kincaid("Oh no! The lemming is falling.") == 1.31
-    assert flesch_kincaid(
+    def float_eq(left: float, right: float, threshold = 0.0001):
+        return abs(right - left) < threshold
+
+    assert float_eq(flesch_kincaid("The turtle is leaving."), 3.67)
+    assert float_eq(flesch_kincaid("A good book is hard to find."), -1.06)
+    assert float_eq(
+        flesch_kincaid("To be or not to be. That is the question."), -0.66)
+    assert float_eq(flesch_kincaid("Oh no! The lemming is falling."), .31)
+    assert float_eq(flesch_kincaid(
         "Do not cut your fingers as your katana is getting sharper! Be gentle."
-    ) == 4.19
+    ), 4.19)

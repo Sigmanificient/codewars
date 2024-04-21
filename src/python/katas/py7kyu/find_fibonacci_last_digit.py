@@ -4,7 +4,7 @@
 def get_last_digit(index):
     a, b = 1, 1
 
-    for i in range(index - 1):
+    for _ in range(index - 1):
         a, b = b, (a + b) % 10
 
     return a

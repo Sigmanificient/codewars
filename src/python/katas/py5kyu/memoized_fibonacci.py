@@ -35,5 +35,5 @@ def test_memoized():
         return k
 
     t = perf_counter()
-    assert [_test(5) for k in range(10)] == [5] * 10
+    assert [_test(5) for _ in range(10)] == [5] * 10
     assert perf_counter() - t < 0.1

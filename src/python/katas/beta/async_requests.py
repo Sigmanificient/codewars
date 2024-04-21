@@ -4,7 +4,6 @@ from copy import copy
 from itertools import cycle
 from random import randint
 from string import ascii_letters
-from time import perf_counter
 
 _cycler = cycle(ascii_letters)
 
@@ -25,5 +24,5 @@ def test_request_manager():
 
     for _ in range(5):
         rand = randint(14, 300)
-        s = "".join(next(_cycler_copy) for i in range(rand))
+        s = "".join(next(_cycler_copy) for _ in range(rand))
         assert run_it(rand) == s

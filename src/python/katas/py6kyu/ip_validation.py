@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/515decfd9dcfc23bb6000006."""
 
 
-def is_valid_IP(string: str) -> bool:
+def is_valid_ip(string: str) -> bool:
     if string.count(".") != 3:
         return False
 
@@ -20,16 +20,16 @@ def is_valid_IP(string: str) -> bool:
 
 
 def test_ips():
-    assert is_valid_IP("12.255.56.1")
-    assert is_valid_IP("127.1.1.0")
-    assert is_valid_IP("0.0.0.0")
-    assert is_valid_IP("0.34.82.53")
-    assert not is_valid_IP("192.168.1.300")
+    assert is_valid_ip("12.255.56.1")
+    assert is_valid_ip("127.1.1.0")
+    assert is_valid_ip("0.0.0.0")
+    assert is_valid_ip("0.34.82.53")
+    assert not is_valid_ip("192.168.1.300")
 
-    assert not is_valid_IP("")
-    assert not is_valid_IP("abc.def.ghi.jkl")
-    assert not is_valid_IP("123.456.789.0")
-    assert not is_valid_IP("12.34.56")
-    assert not is_valid_IP("12.34.56 .1")
-    assert not is_valid_IP("12.34.56.-1")
-    assert not is_valid_IP("123.045.067.089")
+    assert not is_valid_ip("")
+    assert not is_valid_ip("abc.def.ghi.jkl")
+    assert not is_valid_ip("123.456.789.0")
+    assert not is_valid_ip("12.34.56")
+    assert not is_valid_ip("12.34.56 .1")
+    assert not is_valid_ip("12.34.56.-1")
+    assert not is_valid_ip("123.045.067.089")

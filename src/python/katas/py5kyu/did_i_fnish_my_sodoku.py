@@ -2,6 +2,9 @@
 
 R9 = list(range(1, 10))
 
+TEXT_FINISHED = "Finished!"
+TEXT_TRY_AGAIN = "Try again!"
+
 
 def boxify(board):
     boxes = [[] for _ in range(9)]
@@ -18,9 +21,9 @@ def check_r9(element):
 
 def done_or_not(board):
     return (
-        "Finished!"
+        TEXT_FINISHED
         if (check_r9(board) and check_r9(zip(*board)) and check_r9(boxify(board)))
-        else "Try again!"
+        else TEXT_TRY_AGAIN
     )
 
 
@@ -39,7 +42,7 @@ def test_done_or_not():
                 [3, 4, 5, 2, 8, 6, 1, 7, 9],
             ]
         )
-        == "Finished!"
+        == TEXT_FINISHED
     )
 
     assert (
@@ -56,7 +59,7 @@ def test_done_or_not():
                 [3, 0, 0, 4, 8, 1, 1, 7, 9],
             ]
         )
-        == "Try again!"
+        == TEXT_TRY_AGAIN
     )
 
     assert (
@@ -73,7 +76,7 @@ def test_done_or_not():
                 [8, 7, 9, 6, 4, 2, 1, 5, 3],
             ]
         )
-        == "Finished!"
+        == TEXT_TRY_AGAIN
     )
 
     assert (
@@ -90,7 +93,7 @@ def test_done_or_not():
                 [8, 7, 9, 6, 4, 2, 1, 3, 5],
             ]
         )
-        == "Try again!"
+        == TEXT_TRY_AGAIN
     )
 
     assert (
@@ -107,7 +110,7 @@ def test_done_or_not():
                 [8, 7, 0, 6, 4, 2, 1, 3, 5],
             ]
         )
-        == "Try again!"
+        == TEXT_TRY_AGAIN
     )
 
     assert (
@@ -124,5 +127,5 @@ def test_done_or_not():
                 [9, 1, 2, 3, 4, 5, 6, 7, 8],
             ]
         )
-        == "Try again!"
+        == TEXT_TRY_AGAIN
     )

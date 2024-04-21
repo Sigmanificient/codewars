@@ -3,7 +3,7 @@
 from typing import List
 
 
-def is_nice(arr: List[int]) -> List[int]:
+def is_nice(arr: List[int]) -> bool:
     t = sorted(set(arr))
 
     if not t:

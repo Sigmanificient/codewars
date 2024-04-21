@@ -1,9 +1,12 @@
 """Kata url: https://www.codewars.com/kata/56f5594a575d7d3c0e000ea0."""
 
 
+NO_CONF = 'No worthwhile conferences this year!'
+
+
 def conference_picker(cities_visited, cities_offered):
     f = [o for o in cities_offered if o not in cities_visited]
-    return f[0] if f else 'No worthwhile conferences this year!'
+    return f[0] if f else NO_CONF
 
 
 def test_conference_picker():
@@ -21,7 +24,7 @@ def test_conference_picker():
             'London', 'Berlin', 'Mexico City',
             'Melbourne', 'Buenos Aires', 'Hong Kong', 'Madrid', 'Paris'
         ], ['Berlin', 'Melbourne']
-    ) == 'No worthwhile conferences this year!'
+    ) == NO_CONF
     assert conference_picker(
         [
             'Beijing', 'Johannesburg', 'Sydney',
@@ -29,7 +32,7 @@ def test_conference_picker():
             'Chicago', 'Seoul', 'Mexico City', 'Berlin'
         ],
         ['Stockholm', 'Berlin', 'Chicago']
-    ) == 'No worthwhile conferences this year!'
+    ) == NO_CONF
     assert conference_picker(
         [
             'Mexico City', 'Dubai', 'Philadelphia', 'Madrid',
@@ -38,4 +41,4 @@ def test_conference_picker():
             'Tokyo', 'San Francisco', 'Rio De Janeiro'
         ],
         ['Lisbon', 'Mexico City']
-    ) == 'No worthwhile conferences this year!'
+    ) == NO_CONF

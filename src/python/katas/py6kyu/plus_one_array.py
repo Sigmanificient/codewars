@@ -2,13 +2,13 @@
 from typing import List
 
 
-def up_array(arr: List[int]) -> List[int]:
+def up_array(arr: List[int]) -> List[int] | None:
     if not arr:
-        return
+        return None
 
     for item in arr:
         if item < 0 or item > 9:
-            return
+            return None
 
     x = ''.join(map(str, arr))
     return [int(k) for k in str(int(x) + 1)]

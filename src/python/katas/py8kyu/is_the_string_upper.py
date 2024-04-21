@@ -7,7 +7,7 @@ def is_uppercase(inp: str) -> bool:
 
 def test_is_uppercase():
     assert not is_uppercase("c")
-    assert "C"
+    assert is_uppercase("C")
     assert not is_uppercase("hello I AM DONALD")
-    assert "HELLO I AM DONALD"
-    assert "$%&"
+    assert is_uppercase("HELLO I AM DONALD")
+    assert is_uppercase("$%&")

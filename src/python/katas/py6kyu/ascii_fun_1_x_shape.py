@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/5906436806d25f846400009b."""
 
 
-def x(n: int) -> int:
+def x(n: int) -> str:
     m = n - 1
     return '\n'.join(
         ''.join(

@@ -2,13 +2,6 @@
 
 
 def two_sum(numbers, target):
-    """
-    for off, t in enumerate(numbers, start=1):
-        for c, i in enumerate(numbers[off:]):
-            if t + i == target:
-                return [off - 1, off + c]
-    return []
-    """
     return next(
         (
             [off - 1, off + c]

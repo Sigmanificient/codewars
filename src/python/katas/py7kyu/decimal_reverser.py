@@ -6,6 +6,10 @@ def reverse_float_decimal(n: float) -> float:
 
 
 def test_reverse_float_decimal():
-    assert reverse_float_decimal(2.5) == 2.5
-    assert reverse_float_decimal(1.12345) == 1.54321
-    assert reverse_float_decimal(7.0007) == 7.7
+    def float_eq(left, right, thresold = 0.000001) -> bool:
+        return abs(left - right) < thresold
+
+
+    assert float_eq(reverse_float_decimal(2.5), 2.5)
+    assert float_eq(reverse_float_decimal(1.12345), 1.54321)
+    assert float_eq(reverse_float_decimal(7.0007), 7.7)

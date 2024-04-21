@@ -3,7 +3,6 @@ from typing import List
 
 
 def peak_height(mountain: List[str]) -> int:
-    # TODO: optimize this in O(n²)
     old = []
     out = [[-1 for _i in range(len(mountain[0]))] for _j in range(len(mountain))]
 

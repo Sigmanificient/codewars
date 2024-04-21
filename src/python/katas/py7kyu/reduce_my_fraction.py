@@ -1,10 +1,10 @@
 """Kata url: https://www.codewars.com/kata/576400f2f716ca816d001614."""
 
 from math import gcd
-from typing import List, Tuple
+from typing import Tuple
 
 
-def reduce_fraction(fraction: List[int]) -> Tuple[int, int]:
+def reduce_fraction(fraction: Tuple[int, int]) -> Tuple[int, int]:
     n, d = fraction
 
     while (g := gcd(n, d)) > 1:

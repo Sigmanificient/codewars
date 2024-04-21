@@ -10,11 +10,11 @@ name = "Jane"
 class Func:
     def __init__(self, func, ins):
         self.ins = ins
-        self.func = func
+        self.function = func
         self.func_outs = []
 
     def __call__(self, *args, **kwargs):
-        r = self.func(*args, **kwargs)
+        r = self.function(*args, **kwargs)
 
         self.func_outs.append(r)
         return r

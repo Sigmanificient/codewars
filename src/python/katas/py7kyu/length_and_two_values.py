@@ -1,9 +1,12 @@
 """Kata url: https://www.codewars.com/kata/62a611067274990047f431a8."""
 
-from typing import List, Any
+from typing import List, TypeVar
+
+T1 = TypeVar('T1')
+T2 = TypeVar('T2')
 
 
-def alternate(n: int, a: List[Any], b: List[Any]) -> List[Any]:
+def alternate(n: int, a: T1, b: T2) -> List[T1 | T2]:
     return [b if c % 2 else a for c in range(n)]
 
 

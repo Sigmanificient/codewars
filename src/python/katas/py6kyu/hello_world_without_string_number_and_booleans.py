@@ -2,14 +2,16 @@
 
 
 def hi_all():
-    def Hello():
+    def hello():
+        """ dummy function for the name. """
         pass
 
-    def World():
+    def world():
+        """ dummy function for the name. """
         pass
 
     space = chr(len(str(ConnectionRefusedError)))
-    return space.join((Hello.__name__, World.__name__))
+    return space.join((hello.__name__, world.__name__)).capitalize()
 
 
 def test_hi_all():

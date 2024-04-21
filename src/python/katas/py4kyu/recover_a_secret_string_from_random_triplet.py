@@ -5,7 +5,7 @@ from collections import defaultdict
 def recover_secret(triplets) -> str:
     data = defaultdict(int)
 
-    for i in range(len(triplets)):
+    for _ in range(len(triplets)):
         for a, b, c in triplets:
 
             if data[a] >= data[b]:

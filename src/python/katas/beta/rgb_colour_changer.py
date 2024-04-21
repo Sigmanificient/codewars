@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/62e27045c0d7a04c846874d2."""
 
 
-def colour_changer(rgb: str, percent: int = 10) -> str:
+def colour_changer(rgb: str, percent: int | float = 10) -> str:
     out = [
         round((c := int(rgb[i + 1 : i + 3], 16)) - (c * (percent / 100)))
         for i in range(0, len(rgb) - 1, 2)

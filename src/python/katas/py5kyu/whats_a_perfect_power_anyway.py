@@ -1,10 +1,10 @@
 """Kata url: https://www.codewars.com/kata/54d4c8b08776e4ad92000835."""
 from math import floor, log
-from random import random, randrange
+from random import random
 from typing import Optional, List
 
 
-def isPP(n: int) -> Optional[List[int]]:
+def is_perfect_power(n: int) -> Optional[List[int]]:
     possibles = [i for i in range(2, min(n - 1, 1001)) if (n / i).is_integer()]
 
     if not possibles:
@@ -57,16 +57,16 @@ def test_isPP():
     ]
 
     for item in pp:
-        assert isPP(item) is not None
+        assert is_perfect_power(item) is not None
 
     for _ in range(100):
         m = 2 + floor(random() * 255)
         k = 2 + floor(random() * log(268435455) / log(m))
         l = m**k
-        r = isPP(l)
+        r = is_perfect_power(l)
 
         assert r is not None
         assert r[0] ** r[1] == l
 
-    assert isPP(1) is None
-    assert isPP(20) is None
+    assert is_perfect_power(1) is None
+    assert is_perfect_power(20) is None

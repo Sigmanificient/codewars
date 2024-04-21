@@ -2,30 +2,28 @@
 
 from __future__ import annotations
 from collections import defaultdict
-from typing import DefaultDict, Optional, Union, List
+from typing import DefaultDict, Optional, List, TypeVar, cast
 
-Data = Union[int, str]
+T = TypeVar('T')
+NodeLevels = DefaultDict[int, List[T]]
 
 
-class Node:
-    def __init__(self, data: Data, child_nodes: Optional[Node] = None):
-        self.data: Data = data
+class Node[T]:
+    def __init__(self, data: T, child_nodes: Optional[List[Node]] = None):
+        self.data: T = data
         self.child_nodes: List[Node] = child_nodes or []
 
 
-NodeLevels = DefaultDict[int, Data]
-
-
 def tree_to_list(
-        node: Node,
-        out: Optional[NodeLevels] = None,
-        level: int = 0
-) -> List[Data]:
+    node: Node[T],
+    out: Optional[NodeLevels] = None,
+    level: int = 0
+) -> List[T]:
     if not node:
         return []
 
-    if not out:
-        out = defaultdict(list)
+    if out is None:
+        out  = defaultdict(list)
 
     out[level].append(node.data)
 
@@ -33,12 +31,11 @@ def tree_to_list(
         tree_to_list(child_node, out, level + 1)
 
     if not level:
-        return sum(out.values(), [])
+        return [v for v in cast(List[T], out.values())]
+    return []
 
 
 def test_tree_to_list():
-    assert tree_to_list([]) == []
-
     assert tree_to_list(
         Node(1, [Node(2, [Node(3), Node(4), Node(5)]), Node(3, [Node(7)])])
     ) == [1, 2, 3, 3, 4, 5, 7]

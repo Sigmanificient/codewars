@@ -10,7 +10,6 @@ def rev_rot(string, sz):
         return ''
 
     chunks = [string[i:i + sz] for i in range(0, length, sz)]
-    out = []
 
     if len(chunks[-1]) != sz:
         chunks.pop()

@@ -1,9 +1,9 @@
 """Kata url: https://www.codewars.com/kata/5263c6999e0f40dee200059d."""
 
 
-def get_pins(observed):
-    each_comb = []
+def get_pin_combinations(observed):
     layout = "123456789 0 "
+    each_comb = []
 
     for o_digit in observed:
         i = layout.index(o_digit)
@@ -27,6 +27,11 @@ def get_pins(observed):
             neighbours.append(v)
 
         each_comb.append(neighbours + [o_digit])
+    return each_comb
+
+
+def get_pins(observed):
+    each_comb = get_pin_combinations(observed)
 
     out = []
     comb_length = [len(l) for l in each_comb]

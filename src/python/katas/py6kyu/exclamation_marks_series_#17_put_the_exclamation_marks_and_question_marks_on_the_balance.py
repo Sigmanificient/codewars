@@ -16,5 +16,4 @@ def test_balance():
     assert balance("", "") == "Balance"
     assert balance("!!", "??") == "Right"
     assert balance("!??", "?!!") == "Left"
-    # assert balance("!?!!", "?!?") == "Left"
     assert balance("!!???!????", "??!!?!!!!!!!") == "Balance"

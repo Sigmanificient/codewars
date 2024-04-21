@@ -31,7 +31,7 @@ def calc(expr: str):
 def test_calc():
     assert calc("") == 0
     assert calc("3") == 3
-    assert calc("3.5") == 3.5
+    assert abs(calc("3.5") - 3.5) < 0.00001
     assert calc("1 3 +") == 4
     assert calc("1 3 *") == 3
     assert calc("1 3 -") == -2

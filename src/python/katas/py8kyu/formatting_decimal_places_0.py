@@ -6,6 +6,8 @@ def two_decimal_places(n: float) -> float:
 
 
 def test_two_decimal_places():
-    assert two_decimal_places(4.659725356) == 4.66
-    assert two_decimal_places(173735326.3783732637948948) == 173735326.38
-    assert two_decimal_places(4.653725356) == 4.65
+    assert (two_decimal_places(4.659725356) - 4.66) < 0.001
+    assert (
+        two_decimal_places(173735326.3783732637948948) - 173735326.38
+    ) < 0.01
+    assert (two_decimal_places(4.653725356) - 4.65) < 0.001

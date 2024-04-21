@@ -5,7 +5,7 @@ def pascal(p):
     line = [1]
     out = [line]
 
-    for i in range(p - 1):
+    for _ in range(p - 1):
         tmp = [0] + line + [0]
         line = [x + y for x, y in zip(tmp, tmp[1::])]
         out.append(line)

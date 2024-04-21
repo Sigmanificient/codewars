@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/5effa412233ac3002a9e471d."""
 
 
-def add(num1: int, num2: int) -> str:
+def add(num1: int, num2: int) -> int:
     ml = len(str(max(num1, num2)))
 
     def get_digits(k):

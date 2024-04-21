@@ -1,7 +1,9 @@
 """Kata url: https://www.codewars.com/kata/5626b561280a42ecc50000d1."""
 
+from typing import List
 
-def sum_dig_pow(a: int, b: int) -> int:
+
+def sum_dig_pow(a: int, b: int) -> List[int]:
     return [
         x
         for x in range(a, b + 1)

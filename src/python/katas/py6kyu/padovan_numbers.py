@@ -4,7 +4,7 @@
 def padovan(n):
     a = b = c = 1
 
-    for i in range(n):
+    for _ in range(n):
         a, b, c = b, c, a + b
 
     return a

@@ -38,7 +38,7 @@ class Vector:
     def dot(self, other: Vector) -> int:
         return sum(x * y for x, y in zip(self, other))
 
-    def norm(self) -> int:
+    def norm(self) -> float:
         return sqrt(sum(x**2 for x in self))
 
     def equals(self, other: Vector):

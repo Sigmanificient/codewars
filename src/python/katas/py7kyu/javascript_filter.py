@@ -6,17 +6,18 @@ def search_names(logins):
 
 
 def test_search_names():
-    a = [["foo", "foo@foo.com"], ["bar_", "bar@bar.com"]]
-    b = [["bar_", "bar@bar.com"]]
+    foo_addr = "foo@foo.com"
+    bar_addr = "bar@bar.com"
+
+    a = [["foo", foo_addr], ["bar_", bar_addr]]
+    b = [["bar_", bar_addr]]
     assert search_names(a) == b
 
-    a = [["foobar_", "foo@foo.com"], ["bar_", "bar@bar.com"]]
-    b = [["foobar_", "foo@foo.com"], ["bar_", "bar@bar.com"]]
+    a = [["foobar_", foo_addr], ["bar_", bar_addr]]
     assert search_names(a) == b
 
-    a = [["foo", "foo@foo.com"], ["bar", "bar@bar.com"]]
-    b = []
-    assert search_names(a) == b
+    a = [["foo", foo_addr], ["bar", bar_addr]]
+    assert search_names(a) == []
 
     import inspect
 

@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/5296455e4fe0cdf2e000059f."""
 
 
-def calculate(a, op, b):
+def calculate(a, op, b) -> int | float:
     return {
         '+': lambda x, y: x + y,
         '-': lambda x, y: x - y,
@@ -11,10 +11,10 @@ def calculate(a, op, b):
 
 
 def test_calculate():
-    assert calculate(3.2, "+", 8) == 11.2
-    assert calculate(3.2, "-", 8) == -4.8
-    assert calculate(3.2, "/", 8) == 0.4
-    assert calculate(3.2, "*", 8) == 25.6
+    assert (calculate(3.2, "+", 8) - 11.2) < 0.001
+    assert (calculate(3.2, "-", 8) - -4.8) < 0.001
+    assert (calculate(3.2, "/", 8) - 0.4) < 0.001
+    assert (calculate(3.2, "*", 8) - 25.6) < 0.001
     assert calculate(-3, "+", 0) == -3
     assert calculate(-3, "-", 0) == -3
     assert calculate(-2, "/", -2) == 1

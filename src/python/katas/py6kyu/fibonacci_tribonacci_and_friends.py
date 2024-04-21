@@ -7,7 +7,6 @@ def xbonacci(signature: List[int], n: int) -> List[int]:
 
     mem = signature
     out = mem[:]
-    c = 1
 
     if n < len(mem):
         return mem[:n]

@@ -2,11 +2,11 @@
 from typing import List, Union
 
 
-def cube_odd(arr: List[Union[int, bool, str]]) -> int:
+def cube_odd(arr: List[Union[int, bool, str]]) -> int | None:
     total = 0
     for i in arr:
-        if type(i) != int:
-            return
+        if not isinstance(i, int):
+            return None
 
         if i % 2:
             total += i**3

@@ -8,7 +8,6 @@ roll_dice, move, combat, *more = funcs
 get_coins, buy_health, print_status = more
 
 # ------------------------------------------------------------------------------
-# from preloaded import *
 
 health = 100
 position = 0

@@ -37,7 +37,7 @@ def test_cipher_text():
 
     assert cipher_text(
         "Dolores wouldn't have eaten the meal if she had known what it actuall" "y was."
-    ) == ("dovhsoty oueehwaw llemenca odaehwts rntaahu  eteldaa  shniktl  watfnil" " ")
+    ) == "dovhsoty oueehwaw llemenca odaehwts rntaahu  eteldaa  shniktl  watfnil "
 
     assert (
         cipher_text("She says she has the ability to hear the soundtrack of your life.")

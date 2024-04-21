@@ -11,7 +11,7 @@ class Stack:
     @property
     def top(self):
         if self.i >= self.__len:
-            raise None
+            raise IndexError("Stack is empty")
         return self.__stack[self.i]
 
     def get_rem(self, skip=0):

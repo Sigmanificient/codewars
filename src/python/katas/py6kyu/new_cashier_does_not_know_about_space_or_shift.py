@@ -20,9 +20,9 @@ def get_order(order: str) -> str:
     for char in order:
         word += ord(char)
 
-        order: str = MENU.get(word)
+        single_order: str = MENU.get(word, "")
         if order:
-            orders[order] += 1
+            orders[single_order] += 1
             word = 0
 
     out: List[str] = []
@@ -35,7 +35,7 @@ def get_order(order: str) -> str:
 def test_get_order():
     assert get_order(
         "milkshakepizzachickenfriescokeburgerpizzasandwichmilkshakepizza"
-    ) == ("Burger Fries Chicken Pizza Pizza " "Pizza Sandwich Milkshake Milkshake Coke")
+    ) == "Burger Fries Chicken Pizza Pizza Pizza Sandwich Milkshake Milkshake Coke"
 
     assert (
         get_order("pizzachickenfriesburgercokemilkshakefriessandwich")

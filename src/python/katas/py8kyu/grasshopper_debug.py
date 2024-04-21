@@ -19,7 +19,11 @@ def test_convert_to_celsius():
     assert convert_to_celsius(32) == 0
     assert convert_to_celsius(68) == 20
 
-    assert round(convert_to_celsius(100), 3) == 37.778
-    assert round(convert_to_celsius(0), 3) == -17.778
-    assert round(convert_to_celsius(20), 3) == -6.667
-    assert round(convert_to_celsius(30), 3) == -1.111
+    def float_eq(left, right) -> bool:
+        return abs(left - right) < 0.001
+
+
+    assert float_eq(round(convert_to_celsius(100), 3), 37.778)
+    assert float_eq(round(convert_to_celsius(0), 3), -17.778)
+    assert float_eq(round(convert_to_celsius(20), 3), -6.667)
+    assert float_eq(round(convert_to_celsius(30), 3), -1.111)

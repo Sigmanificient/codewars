@@ -1,7 +1,9 @@
 """Kata url: https://www.codewars.com/kata/54f0d5447872e8ce9f00013d."""
 
+from typing import Optional
 
-def factorial(n: int) -> int:
+
+def factorial(n: int) -> Optional[int]:
     if n < 0:
         return None
 

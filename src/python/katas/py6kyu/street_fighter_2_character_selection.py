@@ -3,7 +3,7 @@ from typing import List, Tuple
 
 
 def street_fighter_selection(
-    fighters: List[str], initial_position: Tuple[int, int], moves: List[str]
+    fighters: List[List[str]], initial_position: Tuple[int, int], moves: List[str]
 ) -> List[str]:
     if not moves:
         return []
@@ -69,9 +69,10 @@ def test_street_fighter_selection():
         "Ken",
     ]
 
+    x = ["Ken", "Chun Li", "E.Honda", "Ryu"]
     assert street_fighter_selection(
         fighters, (0, 0), ["down", "right", "up", "left"] * 2
-    ) == ["Ken", "Chun Li", "E.Honda", "Ryu", "Ken", "Chun Li", "E.Honda", "Ryu"]
+    ) == (x + x)
 
     assert street_fighter_selection(
         fighters, (0, 0), ["up", "left", "down", "right"] * 2

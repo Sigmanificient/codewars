@@ -25,6 +25,14 @@ def subt(a: int, b: int) -> int:
     return a - b
 
 
+def _float_eq(
+    left: float | int,
+    right: float | int,
+    threshold = 0.001
+) -> bool:
+    return abs(left - right) < threshold
+
+
 def test_add():
     assert add(1, 2) == 3
     assert add(1, -2) == -1
@@ -40,8 +48,8 @@ def test_multiply():
 
 
 def test_divide():
-    assert divide(1, 2) == 0.5
-    assert divide(1, -2) == -0.5
+    assert _float_eq(divide(1, 2), 0.5)
+    assert _float_eq(divide(1, -2), -0.5)
     assert divide(3, 3) == 1
     assert divide(3, -3) == -1
 
@@ -57,7 +65,7 @@ def test_exponent():
     assert exponent(1, 2) == 1
     assert exponent(1, -2) == 1
     assert exponent(3, 3) == 27
-    assert round(exponent(3, -3), 3) == 0.037
+    assert _float_eq(round(exponent(3, -3), 3), 0.037)
 
 
 def test_subt():

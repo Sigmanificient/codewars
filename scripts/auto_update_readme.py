@@ -25,7 +25,7 @@ buttons = "\n".join(f"![{k}]({v})" for k, v in buttons_urls.items())
 
 
 challenges: Dict[str, List[str]] = {}
-difficulties: Dict[int, List[int]] = {i: [] for i in range(9)}
+difficulties: Dict[int, List[str]] = {i: [] for i in range(9)}
 counts: Dict[int, int] = {}
 total: int = 0
 
@@ -87,8 +87,7 @@ with open("docs/readme.md", "w") as f:
                 for ext in challenges[filename]
             )
 
-            f.write(
-                f"\n" f"`{filename.replace('_', ' ').capitalize()}`:\n" f"{icons}\n"
-            )
+            clean_filename = filename.replace('_', ' ').capitalize()
+            f.write(f"\n" f"`{clean_filename}`:\n"{icons}\n")
 
         f.write("</details>\n")

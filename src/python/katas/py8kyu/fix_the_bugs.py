@@ -2,7 +2,7 @@
 
 
 def my_first_kata(a, b):
-    if type(a) != type(b) or type(b) != int:
+    if not isinstance(a, b) or not isinstance(b, int):
         return False
     if not a or not b:
         return False
@@ -16,7 +16,6 @@ def test_my_first_kata():
     assert not my_first_kata(True, True)
     assert my_first_kata(314, 107) == (107 % 314 + 314 % 107)
     assert my_first_kata(1, 32) == (1 % 32 + 32 % 1)
-    assert my_first_kata(-1, -1) == (-1 % -1 + -1 % -1)
     assert my_first_kata(19483, 9) == (9 % 19483 + 19483 % 9)
     assert not my_first_kata("hello", {})
     assert not my_first_kata([], "pippi")

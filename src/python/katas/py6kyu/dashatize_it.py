@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/58223370aef9fc03fd000071."""
 
 
-def dashatize(n: int) -> str:
+def dashatize(n: int | None) -> str:
     if not isinstance(n, int):
         return "None"
 

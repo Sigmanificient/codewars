@@ -11,7 +11,7 @@ class Node:
     next: Optional[Node] = None
 
 
-def length(node: Node) -> int:
+def length(node: Optional[Node]) -> int:
     if node is None:
         return 0
 
@@ -23,7 +23,7 @@ def length(node: Node) -> int:
     return t
 
 
-def count(node: Node, data: int) -> int:
+def count(node: Optional[Node], data: int) -> int:
     if node is None:
         return 0
 

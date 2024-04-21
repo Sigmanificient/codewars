@@ -4,7 +4,7 @@
 def sierpinski_carpet_string(n):
     base = ['██']
 
-    for i in range(n):
+    for _ in range(n):
         top_bot = [line * 3 for line in base]
         mid = [
             line + (' ' * len(line)) + line

@@ -1,17 +1,20 @@
 """Kata url: https://www.codewars.com/kata/59de9f8ff703c4891900005c"""
 import pytest
 
+X_LABELS = 'ABCDEFGHJKLMNOPQRSTUVWXYZ'
+Y_LABELS = list(map(str, range(1, 26)))
+
+EMPTY = '.'
+PLAYER_SYMBOLS = 'xo'
+HANDICAP_STONES = {
+    9: [(6, 2), (2, 6), (6, 6), (2, 2), (4, 4)],
+    13: [(9, 3), (3, 9), (9, 9), (3, 3), (6, 6), (3, 6), (9, 6), (6, 3), (6, 9)],
+    19: [(15, 3), (3, 15), (15, 15), (3, 3), (9, 9), (3, 9), (15, 9), (9, 3), (9, 15)]
+}
+
 
 class Go:
-    EMPTY = '.'
-    X_LABELS = 'ABCDEFGHJKLMNOPQRSTUVWXYZ'
-    Y_LABELS = list(map(str, range(1, 26)))
-    PLAYER_SYMBOLS = 'xo'
-    HANDICAP_STONES = {
-        9: [(6, 2), (2, 6), (6, 6), (2, 2), (4, 4)],
-        13: [(9, 3), (3, 9), (9, 9), (3, 3), (6, 6), (3, 6), (9, 6), (6, 3), (6, 9)],
-        19: [(15, 3), (3, 15), (15, 15), (3, 3), (9, 9), (3, 9), (15, 9), (9, 3), (9, 15)]
-    }
+
 
     def __init__(self, height, width=0):
         if not width:
@@ -26,12 +29,12 @@ class Go:
         self.width = width
         self.height = height
 
-        self.board = [[self.EMPTY for _ in range(width)] for _ in range(height)]
+        self.board = [[EMPTY for _ in range(width)] for _ in range(height)]
         self.history = []
         self.__save_state()
 
-        self.y_labels = self.Y_LABELS[:height][::-1]
-        self.x_labels = self.X_LABELS[:width]
+        self.y_labels = Y_LABELS[:height][::-1]
+        self.x_labels = X_LABELS[:width]
         self.handicap = False
         self.__turn = 0
 
@@ -49,7 +52,7 @@ class Go:
 
     def __handle_capture(self, y, x, is_self=False):
         stone = self.board[y][x]
-        if stone == self.EMPTY:
+        if stone == EMPTY:
             return
 
         if stone == self.current and not is_self:
@@ -58,7 +61,7 @@ class Go:
         if self.__get_liberties_count(y, x):
             return
 
-        self.board[y][x] = self.EMPTY
+        self.board[y][x] = EMPTY
 
         if is_self:
             raise ValueError('Self capturing is illegal')
@@ -68,18 +71,18 @@ class Go:
     def __remove_group(self, y, x):
         for nx, ny in self.__get_neighbors(y, x):
             neighbor = self.board[ny][nx]
-            if neighbor == self.EMPTY:
+            if neighbor == EMPTY:
                 continue
 
             if neighbor == self.current:
                 continue
 
-            self.board[ny][nx] = self.EMPTY
+            self.board[ny][nx] = EMPTY
             self.__remove_group(ny, nx)
 
     def __get_liberties_count(self, y, x, group=None):
         stone = self.board[y][x]
-        if stone == self.EMPTY:
+        if stone == EMPTY:
             return 0
 
         if group is None:
@@ -89,7 +92,7 @@ class Go:
         for nx, ny in self.__get_neighbors(y, x, group):
             neighbor = self.board[ny][nx]
 
-            if neighbor == self.EMPTY:
+            if neighbor == EMPTY:
                 liberties += 1
 
             if neighbor == stone:
@@ -129,7 +132,7 @@ class Go:
             if self.board[y][x] != '.' and (y != 5 and x != 2):
                 raise ValueError('Invalid move, already assigned')
 
-            self.board[y][x] = self.PLAYER_SYMBOLS[self.__turn]
+            self.board[y][x] = PLAYER_SYMBOLS[self.__turn]
 
             for nx, ny in self.__get_neighbors(y, x):
                 self.__handle_capture(ny, nx)
@@ -153,7 +156,7 @@ class Go:
         if len(self.history) > 1:
             raise ValueError('Handicap cannot be set after the first move')
 
-        placements = self.HANDICAP_STONES.get(self.width)
+        placements = HANDICAP_STONES.get(self.width)
         if not placements:
             raise ValueError('Cannot put handicap stone')
 
@@ -195,7 +198,7 @@ class Go:
 
     @property
     def current(self):
-        return self.PLAYER_SYMBOLS[self.__turn]
+        return PLAYER_SYMBOLS[self.__turn]
 
 
 

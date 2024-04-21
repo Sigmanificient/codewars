@@ -1,7 +1,7 @@
 """Kata url: https://www.codewars.com/kata/51fc12de24a9d8cb0e000001."""
 
 
-def valid_ISBN10(isbn: str) -> bool:
+def valid_isbn10(isbn: str) -> bool:
     if len(isbn) != 10:
         return False
 
@@ -17,14 +17,14 @@ def valid_ISBN10(isbn: str) -> bool:
 
 
 def test_valid_isbn():
-    assert valid_ISBN10("1112223339")
-    assert valid_ISBN10("048665088X")
-    assert valid_ISBN10("1293000000")
-    assert valid_ISBN10("1234554321")
+    assert valid_isbn10("1112223339")
+    assert valid_isbn10("048665088X")
+    assert valid_isbn10("1293000000")
+    assert valid_isbn10("1234554321")
 
-    assert not valid_ISBN10("1293")
-    assert not valid_ISBN10("1234512345")
-    assert not valid_ISBN10("X123456788")
-    assert not valid_ISBN10("ABCDEFGHIJ")
-    assert not valid_ISBN10("XXXXXXXXXX")
-    assert not valid_ISBN10("123456789T")
+    assert not valid_isbn10("1293")
+    assert not valid_isbn10("1234512345")
+    assert not valid_isbn10("X123456788")
+    assert not valid_isbn10("ABCDEFGHIJ")
+    assert not valid_isbn10("XXXXXXXXXX")
+    assert not valid_isbn10("123456789T")

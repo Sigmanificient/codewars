@@ -96,27 +96,28 @@ class Lexer:
         return digits
 
     def get_next_token(self):
-        while self.current_char is not None:
-            self.skip_whitespace()
-            if (
-                    self.current_char == '-'
-                    and self.previous_char in '+-*/('
-            ):
-                self.advance()
-                return Token(TokenType.MINUS, self.previous_char)
+        if self.current_char is None:
+            return Token(TokenType.END_OF_FILE)
 
-            if self.current_char.isdigit():
-                return Token(TokenType.INTEGER, self.integer())
-
-            token = self.char_tokens.get(self.current_char)
-
-            if token is None:
-                raise InvalidCharacter(self.current_char)
-
+        self.skip_whitespace()
+        if (
+            self.current_char == '-'
+            and self.previous_char is not None
+            and self.previous_char in '+-*/('
+        ):
             self.advance()
-            return Token(token, self.previous_char)
+            return Token(TokenType.MINUS, self.previous_char)
 
-        return Token(TokenType.END_OF_FILE)
+        if self.current_char.isdigit():
+            return Token(TokenType.INTEGER, self.integer())
+
+        token = self.char_tokens.get(self.current_char)
+        if token is None:
+            raise InvalidCharacter(self.current_char)
+
+        self.advance()
+        return Token(token, self.previous_char)
+
 
 
 class AST:
@@ -262,12 +263,12 @@ class Interpreter:
             self.visit(node.right)
         )
 
-    def interpret(self) -> int:
+    def interpret(self) -> int | float:
         tree = self.parser.parse()
         return self.visit(tree)
 
 
-def calc(expression):
+def calc(expression) -> int | float:
     lexer = Lexer(expression)
     parser = Parser(lexer)
     interpreter = Interpreter(parser)
@@ -277,7 +278,7 @@ def calc(expression):
 
 def test_calc():
     assert calc('1 + 1') == 2
-    assert calc('8/16') == 0.5
+    assert (calc('8/16') - 0.5) < 0.0001
     assert calc('3 -(-1)') == 4
     assert calc('2 + -2') == 0
     assert calc('10- 2- -5') == 13

@@ -5,7 +5,7 @@ from typing import List
 def men_from_boys(arr: List[int]) -> List[int]:
     return sorted(
         set(arr),
-        key=lambda k: (odd := k % 2, -k if odd else k)
+        key=lambda k: (k % 2, -k if k % 2 else k)
     )
 
 

@@ -21,34 +21,37 @@ def replace_nth(text: str, n: int, old_value: str, new_value: str) -> str:
 
 
 def test_replace_nth():
+    original = "Vader said: No, I am your father!"
+
+
     assert (
-        replace_nth("Vader said: No, I am your father!", 2, "a", "o")
+        replace_nth(original, 2, "a", "o")
         == "Vader soid: No, I am your fother!"
     )
 
     assert (
-        replace_nth("Vader said: No, I am your father!", 4, "a", "o")
+        replace_nth(original, 4, "a", "o")
         == "Vader said: No, I am your fother!"
     )
 
     assert (
-        replace_nth("Vader said: No, I am your father!", 6, "a", "o")
-        == "Vader said: No, I am your father!"
+        replace_nth(original, 6, "a", "o")
+        == original
     )
 
     assert (
-        replace_nth("Vader said: No, I am your father!", 0, "a", "o")
-        == "Vader said: No, I am your father!"
+        replace_nth(original, 0, "a", "o")
+        == original
     )
 
     assert (
-        replace_nth("Vader said: No, I am your father!", -2, "a", "o")
-        == "Vader said: No, I am your father!"
+        replace_nth(original, -2, "a", "o")
+        == original
     )
 
     assert (
-        replace_nth("Vader said: No, I am your father!", 1, "i", "y")
-        == "Vader sayd: No, I am your father!"
+        replace_nth(original, 1, "i", "y")
+        == original
     )
 
     assert (

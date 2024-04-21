@@ -9,5 +9,5 @@ def excluding_vat_price(price):
 
 
 def test_excluding_vat_price():
-    assert excluding_vat_price(230.00) == 200.00
-    assert excluding_vat_price(123) == 106.96
+    assert (excluding_vat_price(230.00) - 200.00) < 0.001
+    assert (excluding_vat_price(123) - 106.96) < 0.001

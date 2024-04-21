@@ -6,7 +6,7 @@ class Pell:
     def get(self, n):
         a, b = 1, 0
 
-        for i in range(n - 1):
+        for _ in range(n - 1):
             a, b = b + a * 2, a
 
         return a
